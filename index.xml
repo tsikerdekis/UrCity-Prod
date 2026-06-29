@@ -29,36 +29,587 @@
 &lt;h3 id="third-party-cookies"&gt;Third-Party Cookies&lt;/h3&gt;
 &lt;p&gt;We do not currently allow third parties to set cookies on our site. If this changes in the future, we will update this policy and obtain your consent where required by law.&lt;/p&gt;</description></item><item><title>Cost of Living Calculator</title><link>https://urcity.com/tools/cost-of-living-calculator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://urcity.com/tools/cost-of-living-calculator/</guid><description>&lt;h2 id="cost-of-living-calculator"&gt;Cost of Living Calculator&lt;/h2&gt;
 &lt;p&gt;Compare the cost of living between two cities to see how much you&amp;rsquo;ll save or spend.&lt;/p&gt;
+
 &lt;div class="calculator-widget" id="col-calc"&gt;
  &lt;h3&gt;Cost of Living Comparison&lt;/h3&gt;
  &lt;div class="calc-row"&gt;
  &lt;label&gt;City A&lt;/label&gt;
  &lt;select id="col-city-a"&gt;
- &lt;option value="nyc"&gt;New York City&lt;/option&gt;
- &lt;option value="sf"&gt;San Francisco&lt;/option&gt;
- &lt;option value="la"&gt;Los Angeles&lt;/option&gt;
- &lt;option value="chicago"&gt;Chicago&lt;/option&gt;
- &lt;option value="austin-tx" selected&gt;Austin&lt;/option&gt;
- &lt;option value="denver-co"&gt;Denver&lt;/option&gt;
- &lt;option value="phoenix-az"&gt;Phoenix&lt;/option&gt;
- &lt;option value="miami-fl"&gt;Miami&lt;/option&gt;
- &lt;option value="seattle-wa"&gt;Seattle&lt;/option&gt;
- &lt;option value="atlanta-ga"&gt;Atlanta&lt;/option&gt;
+ 
+ &lt;option value="akron-oh" data-col="88.5" data-housing="68.5" data-name="Akron"&gt;Akron, OH&lt;/option&gt;
+ 
+ &lt;option value="albuquerque-nm" data-col="94.5" data-housing="88.2" data-name="Albuquerque"&gt;Albuquerque, NM&lt;/option&gt;
+ 
+ &lt;option value="anaheim-ca" data-col="148.5" data-housing="212.4" data-name="Anaheim"&gt;Anaheim, CA&lt;/option&gt;
+ 
+ &lt;option value="anchorage-ak" data-col="118.5" data-housing="128.4" data-name="Anchorage"&gt;Anchorage, AK&lt;/option&gt;
+ 
+ &lt;option value="ann-arbor-mi" data-col="108.5" data-housing="118.2" data-name="Ann Arbor"&gt;Ann Arbor, MI&lt;/option&gt;
+ 
+ &lt;option value="asheville-nc" data-col="102.5" data-housing="108.5" data-name="Asheville"&gt;Asheville, NC&lt;/option&gt;
+ 
+ &lt;option value="atlanta-ga" data-col="104.7" data-housing="118.3" data-name="Atlanta"&gt;Atlanta, GA&lt;/option&gt;
+ 
+ &lt;option value="augusta-ga" data-col="90.5" data-housing="78.5" data-name="Augusta"&gt;Augusta, GA&lt;/option&gt;
+ 
+ &lt;option value="aurora-co" data-col="108.5" data-housing="118.2" data-name="Aurora"&gt;Aurora, CO&lt;/option&gt;
+ 
+ &lt;option value="austin-tx" data-col="119.3" data-housing="159.2" data-name="Austin"&gt;Austin, TX&lt;/option&gt;
+ 
+ &lt;option value="bakersfield-ca" data-col="102.5" data-housing="98.4" data-name="Bakersfield"&gt;Bakersfield, CA&lt;/option&gt;
+ 
+ &lt;option value="baltimore-md" data-col="108.4" data-housing="112.5" data-name="Baltimore"&gt;Baltimore, MD&lt;/option&gt;
+ 
+ &lt;option value="baton-rouge-la" data-col="94.5" data-housing="88.5" data-name="Baton Rouge"&gt;Baton Rouge, LA&lt;/option&gt;
+ 
+ &lt;option value="bend-or" data-col="118.5" data-housing="142.5" data-name="Bend"&gt;Bend, OR&lt;/option&gt;
+ 
+ &lt;option value="billings-mt" data-col="96.5" data-housing="92.5" data-name="Billings"&gt;Billings, MT&lt;/option&gt;
+ 
+ &lt;option value="birmingham-al" data-col="90.5" data-housing="78.5" data-name="Birmingham"&gt;Birmingham, AL&lt;/option&gt;
+ 
+ &lt;option value="boise-id" data-col="102.5" data-housing="112.5" data-name="Boise"&gt;Boise, ID&lt;/option&gt;
+ 
+ &lt;option value="boston-ma" data-col="153.2" data-housing="231.5" data-name="Boston"&gt;Boston, MA&lt;/option&gt;
+ 
+ &lt;option value="boulder-co" data-col="148.5" data-housing="228.4" data-name="Boulder"&gt;Boulder, CO&lt;/option&gt;
+ 
+ &lt;option value="bridgeport-ct" data-col="118.5" data-housing="128.4" data-name="Bridgeport"&gt;Bridgeport, CT&lt;/option&gt;
+ 
+ &lt;option value="buffalo-ny" data-col="92.5" data-housing="72.5" data-name="Buffalo"&gt;Buffalo, NY&lt;/option&gt;
+ 
+ &lt;option value="burlington-vt" data-col="112.5" data-housing="128.4" data-name="Burlington"&gt;Burlington, VT&lt;/option&gt;
+ 
+ &lt;option value="chandler-az" data-col="108.5" data-housing="118.2" data-name="Chandler"&gt;Chandler, AZ&lt;/option&gt;
+ 
+ &lt;option value="charleston-sc" data-col="108.5" data-housing="118.2" data-name="Charleston"&gt;Charleston, SC&lt;/option&gt;
+ 
+ &lt;option value="charlotte-nc" data-col="98.2" data-housing="96.8" data-name="Charlotte"&gt;Charlotte, NC&lt;/option&gt;
+ 
+ &lt;option value="chattanooga-tn" data-col="92.5" data-housing="82.5" data-name="Chattanooga"&gt;Chattanooga, TN&lt;/option&gt;
+ 
+ &lt;option value="chesapeake-va" data-col="102.5" data-housing="105.2" data-name="Chesapeake"&gt;Chesapeake, VA&lt;/option&gt;
+ 
+ &lt;option value="cheyenne-wy" data-col="96.5" data-housing="92.5" data-name="Cheyenne"&gt;Cheyenne, WY&lt;/option&gt;
+ 
+ &lt;option value="chicago-il" data-col="110.8" data-housing="132.5" data-name="Chicago"&gt;Chicago, IL&lt;/option&gt;
+ 
+ &lt;option value="chula-vista-ca" data-col="138.5" data-housing="188.4" data-name="Chula Vista"&gt;Chula Vista, CA&lt;/option&gt;
+ 
+ &lt;option value="cincinnati-oh" data-col="92.8" data-housing="82.5" data-name="Cincinnati"&gt;Cincinnati, OH&lt;/option&gt;
+ 
+ &lt;option value="cleveland-oh" data-col="90.2" data-housing="72.5" data-name="Cleveland"&gt;Cleveland, OH&lt;/option&gt;
+ 
+ &lt;option value="colorado-springs-co" data-col="105.2" data-housing="118.5" data-name="Colorado Springs"&gt;Colorado Springs, CO&lt;/option&gt;
+ 
+ &lt;option value="columbia-sc" data-col="94.5" data-housing="88.5" data-name="Columbia"&gt;Columbia, SC&lt;/option&gt;
+ 
+ &lt;option value="columbus-oh" data-col="92.1" data-housing="84.5" data-name="Columbus"&gt;Columbus, OH&lt;/option&gt;
+ 
+ &lt;option value="corpus-christi-tx" data-col="92.5" data-housing="88.4" data-name="Corpus Christi"&gt;Corpus Christi, TX&lt;/option&gt;
+ 
+ &lt;option value="dallas-tx" data-col="101.3" data-housing="108.5" data-name="Dallas"&gt;Dallas, TX&lt;/option&gt;
+ 
+ &lt;option value="denver-co" data-col="128.5" data-housing="168.3" data-name="Denver"&gt;Denver, CO&lt;/option&gt;
+ 
+ &lt;option value="des-moines-ia" data-col="90.5" data-housing="82.5" data-name="Des Moines"&gt;Des Moines, IA&lt;/option&gt;
+ 
+ &lt;option value="detroit-mi" data-col="92.8" data-housing="68.4" data-name="Detroit"&gt;Detroit, MI&lt;/option&gt;
+ 
+ &lt;option value="durham-nc" data-col="98.5" data-housing="95.2" data-name="Durham"&gt;Durham, NC&lt;/option&gt;
+ 
+ &lt;option value="el-paso-tx" data-col="88.5" data-housing="76.8" data-name="El Paso"&gt;El Paso, TX&lt;/option&gt;
+ 
+ &lt;option value="elk-grove-ca" data-col="128.5" data-housing="158.4" data-name="Elk Grove"&gt;Elk Grove, CA&lt;/option&gt;
+ 
+ &lt;option value="eugene-or" data-col="104.2" data-housing="108.5" data-name="Eugene"&gt;Eugene, OR&lt;/option&gt;
+ 
+ &lt;option value="fargo-nd" data-col="90.5" data-housing="82.5" data-name="Fargo"&gt;Fargo, ND&lt;/option&gt;
+ 
+ &lt;option value="fayetteville-nc" data-col="90.5" data-housing="78.5" data-name="Fayetteville"&gt;Fayetteville, NC&lt;/option&gt;
+ 
+ &lt;option value="fort-wayne-in" data-col="86.5" data-housing="72.5" data-name="Fort Wayne"&gt;Fort Wayne, IN&lt;/option&gt;
+ 
+ &lt;option value="fort-worth-tx" data-col="98.5" data-housing="95.2" data-name="Fort Worth"&gt;Fort Worth, TX&lt;/option&gt;
+ 
+ &lt;option value="fremont-ca" data-col="178.5" data-housing="268.4" data-name="Fremont"&gt;Fremont, CA&lt;/option&gt;
+ 
+ &lt;option value="fresno-ca" data-col="102.5" data-housing="98.5" data-name="Fresno"&gt;Fresno, CA&lt;/option&gt;
+ 
+ &lt;option value="garland-tx" data-col="96.5" data-housing="92.4" data-name="Garland"&gt;Garland, TX&lt;/option&gt;
+ 
+ &lt;option value="glendale-az" data-col="98.5" data-housing="95.2" data-name="Glendale"&gt;Glendale, AZ&lt;/option&gt;
+ 
+ &lt;option value="grand-rapids-mi" data-col="94.5" data-housing="88.5" data-name="Grand Rapids"&gt;Grand Rapids, MI&lt;/option&gt;
+ 
+ &lt;option value="greensboro-nc" data-col="92.4" data-housing="82.5" data-name="Greensboro"&gt;Greensboro, NC&lt;/option&gt;
+ 
+ &lt;option value="greenville-sc" data-col="96.5" data-housing="92.5" data-name="Greenville"&gt;Greenville, SC&lt;/option&gt;
+ 
+ &lt;option value="henderson-nv" data-col="108.5" data-housing="118.2" data-name="Henderson"&gt;Henderson, NV&lt;/option&gt;
+ 
+ &lt;option value="hialeah-fl" data-col="108.5" data-housing="112.5" data-name="Hialeah"&gt;Hialeah, FL&lt;/option&gt;
+ 
+ &lt;option value="honolulu-hi" data-col="185.2" data-housing="284.5" data-name="Honolulu"&gt;Honolulu, HI&lt;/option&gt;
+ 
+ &lt;option value="houston-tx" data-col="95.8" data-housing="91.2" data-name="Houston"&gt;Houston, TX&lt;/option&gt;
+ 
+ &lt;option value="huntsville-al" data-col="94.5" data-housing="88.5" data-name="Huntsville"&gt;Huntsville, AL&lt;/option&gt;
+ 
+ &lt;option value="indianapolis-in" data-col="91.5" data-housing="82.4" data-name="Indianapolis"&gt;Indianapolis, IN&lt;/option&gt;
+ 
+ &lt;option value="irvine-ca" data-col="158.5" data-housing="228.4" data-name="Irvine"&gt;Irvine, CA&lt;/option&gt;
+ 
+ &lt;option value="irving-tx" data-col="100.5" data-housing="102.4" data-name="Irving"&gt;Irving, TX&lt;/option&gt;
+ 
+ &lt;option value="jackson-ms" data-col="88.5" data-housing="72.5" data-name="Jackson"&gt;Jackson, MS&lt;/option&gt;
+ 
+ &lt;option value="jacksonville-fl" data-col="96.8" data-housing="92.4" data-name="Jacksonville"&gt;Jacksonville, FL&lt;/option&gt;
+ 
+ &lt;option value="jersey-city-nj" data-col="142.5" data-housing="188.4" data-name="Jersey City"&gt;Jersey City, NJ&lt;/option&gt;
+ 
+ &lt;option value="kansas-city-ks" data-col="90.5" data-housing="78.5" data-name="Kansas City"&gt;Kansas City, KS&lt;/option&gt;
+ 
+ &lt;option value="kansas-city-mo" data-col="92.8" data-housing="85.4" data-name="Kansas City"&gt;Kansas City, MO&lt;/option&gt;
+ 
+ &lt;option value="key-west-fl" data-col="158.5" data-housing="228.4" data-name="Key West"&gt;Key West, FL&lt;/option&gt;
+ 
+ &lt;option value="knoxville-tn" data-col="92.5" data-housing="82.5" data-name="Knoxville"&gt;Knoxville, TN&lt;/option&gt;
+ 
+ &lt;option value="laredo-tx" data-col="88.5" data-housing="78.4" data-name="Laredo"&gt;Laredo, TX&lt;/option&gt;
+ 
+ &lt;option value="las-vegas-nv" data-col="102.4" data-housing="108.2" data-name="Las Vegas"&gt;Las Vegas, NV&lt;/option&gt;
+ 
+ &lt;option value="lexington-ky" data-col="94.2" data-housing="88.5" data-name="Lexington"&gt;Lexington, KY&lt;/option&gt;
+ 
+ &lt;option value="lincoln-ne" data-col="92.5" data-housing="85.2" data-name="Lincoln"&gt;Lincoln, NE&lt;/option&gt;
+ 
+ &lt;option value="little-rock-ar" data-col="88.5" data-housing="78.5" data-name="Little Rock"&gt;Little Rock, AR&lt;/option&gt;
+ 
+ &lt;option value="long-beach-ca" data-col="142.5" data-housing="198.5" data-name="Long Beach"&gt;Long Beach, CA&lt;/option&gt;
+ 
+ &lt;option value="los-angeles-ca" data-col="173.3" data-housing="261.4" data-name="Los Angeles"&gt;Los Angeles, CA&lt;/option&gt;
+ 
+ &lt;option value="louisville-ky" data-col="91.2" data-housing="82.1" data-name="Louisville"&gt;Louisville, KY&lt;/option&gt;
+ 
+ &lt;option value="lubbock-tx" data-col="88.5" data-housing="76.8" data-name="Lubbock"&gt;Lubbock, TX&lt;/option&gt;
+ 
+ &lt;option value="madison-wi" data-col="104.2" data-housing="112.5" data-name="Madison"&gt;Madison, WI&lt;/option&gt;
+ 
+ &lt;option value="manchester-nh" data-col="108.5" data-housing="118.2" data-name="Manchester"&gt;Manchester, NH&lt;/option&gt;
+ 
+ &lt;option value="memphis-tn" data-col="88.5" data-housing="74.2" data-name="Memphis"&gt;Memphis, TN&lt;/option&gt;
+ 
+ &lt;option value="mesa-az" data-col="102.5" data-housing="108.4" data-name="Mesa"&gt;Mesa, AZ&lt;/option&gt;
+ 
+ &lt;option value="miami-fl" data-col="145.6" data-housing="198.3" data-name="Miami"&gt;Miami, FL&lt;/option&gt;
+ 
+ &lt;option value="milwaukee-wi" data-col="95.2" data-housing="86.4" data-name="Milwaukee"&gt;Milwaukee, WI&lt;/option&gt;
+ 
+ &lt;option value="minneapolis-mn" data-col="106.5" data-housing="118.2" data-name="Minneapolis"&gt;Minneapolis, MN&lt;/option&gt;
+ 
+ &lt;option value="mobile-al" data-col="90.5" data-housing="78.5" data-name="Mobile"&gt;Mobile, AL&lt;/option&gt;
+ 
+ &lt;option value="modesto-ca" data-col="108.5" data-housing="102.4" data-name="Modesto"&gt;Modesto, CA&lt;/option&gt;
+ 
+ &lt;option value="montgomery-al" data-col="90.5" data-housing="78.5" data-name="Montgomery"&gt;Montgomery, AL&lt;/option&gt;
+ 
+ &lt;option value="myrtle-beach-sc" data-col="96.5" data-housing="88.5" data-name="Myrtle Beach"&gt;Myrtle Beach, SC&lt;/option&gt;
+ 
+ &lt;option value="nashville-tn" data-col="100.5" data-housing="105.2" data-name="Nashville"&gt;Nashville, TN&lt;/option&gt;
+ 
+ &lt;option value="new-orleans-la" data-col="98.5" data-housing="95.2" data-name="New Orleans"&gt;New Orleans, LA&lt;/option&gt;
+ 
+ &lt;option value="nyc" data-col="187.2" data-housing="294.7" data-name="New York City"&gt;New York City, NY&lt;/option&gt;
+ 
+ &lt;option value="newark-nj" data-col="118.5" data-housing="128.4" data-name="Newark"&gt;Newark, NJ&lt;/option&gt;
+ 
+ &lt;option value="norfolk-va" data-col="98.5" data-housing="92.4" data-name="Norfolk"&gt;Norfolk, VA&lt;/option&gt;
+ 
+ &lt;option value="oakland-ca" data-col="158.4" data-housing="218.5" data-name="Oakland"&gt;Oakland, CA&lt;/option&gt;
+ 
+ &lt;option value="oklahoma-city-ok" data-col="88.2" data-housing="78.5" data-name="Oklahoma City"&gt;Oklahoma City, OK&lt;/option&gt;
+ 
+ &lt;option value="omaha-ne" data-col="91.5" data-housing="82.8" data-name="Omaha"&gt;Omaha, NE&lt;/option&gt;
+ 
+ &lt;option value="orlando-fl" data-col="98.5" data-housing="95.2" data-name="Orlando"&gt;Orlando, FL&lt;/option&gt;
+ 
+ &lt;option value="oxnard-ca" data-col="138.5" data-housing="188.4" data-name="Oxnard"&gt;Oxnard, CA&lt;/option&gt;
+ 
+ &lt;option value="philadelphia-pa" data-col="108.5" data-housing="118.3" data-name="Philadelphia"&gt;Philadelphia, PA&lt;/option&gt;
+ 
+ &lt;option value="phoenix-az" data-col="108.2" data-housing="124.6" data-name="Phoenix"&gt;Phoenix, AZ&lt;/option&gt;
+ 
+ &lt;option value="pittsburgh-pa" data-col="94.5" data-housing="78.5" data-name="Pittsburgh"&gt;Pittsburgh, PA&lt;/option&gt;
+ 
+ &lt;option value="plano-tx" data-col="108.5" data-housing="118.2" data-name="Plano"&gt;Plano, TX&lt;/option&gt;
+ 
+ &lt;option value="portland-me" data-col="112.5" data-housing="128.4" data-name="Portland"&gt;Portland, ME&lt;/option&gt;
+ 
+ &lt;option value="portland-or" data-col="118.2" data-housing="142.5" data-name="Portland"&gt;Portland, OR&lt;/option&gt;
+ 
+ &lt;option value="providence-ri" data-col="118.5" data-housing="128.4" data-name="Providence"&gt;Providence, RI&lt;/option&gt;
+ 
+ &lt;option value="raleigh-nc" data-col="102.4" data-housing="108.5" data-name="Raleigh"&gt;Raleigh, NC&lt;/option&gt;
+ 
+ &lt;option value="reno-nv" data-col="108.5" data-housing="118.2" data-name="Reno"&gt;Reno, NV&lt;/option&gt;
+ 
+ &lt;option value="richmond-va" data-col="98.5" data-housing="92.4" data-name="Richmond"&gt;Richmond, VA&lt;/option&gt;
+ 
+ &lt;option value="riverside-ca" data-col="118.5" data-housing="142.5" data-name="Riverside"&gt;Riverside, CA&lt;/option&gt;
+ 
+ &lt;option value="rochester-ny" data-col="92.5" data-housing="72.5" data-name="Rochester"&gt;Rochester, NY&lt;/option&gt;
+ 
+ &lt;option value="sacramento-ca" data-col="118.5" data-housing="138.5" data-name="Sacramento"&gt;Sacramento, CA&lt;/option&gt;
+ 
+ &lt;option value="saint-paul-mn" data-col="104.2" data-housing="108.5" data-name="Saint Paul"&gt;Saint Paul, MN&lt;/option&gt;
+ 
+ &lt;option value="salem-or" data-col="102.5" data-housing="98.5" data-name="Salem"&gt;Salem, OR&lt;/option&gt;
+ 
+ &lt;option value="salt-lake-city-ut" data-col="108.5" data-housing="118.2" data-name="Salt Lake City"&gt;Salt Lake City, UT&lt;/option&gt;
+ 
+ &lt;option value="san-antonio-tx" data-col="92.4" data-housing="85.3" data-name="San Antonio"&gt;San Antonio, TX&lt;/option&gt;
+ 
+ &lt;option value="san-bernardino-ca" data-col="108.5" data-housing="102.4" data-name="San Bernardino"&gt;San Bernardino, CA&lt;/option&gt;
+ 
+ &lt;option value="san-diego-ca" data-col="154.2" data-housing="234.5" data-name="San Diego"&gt;San Diego, CA&lt;/option&gt;
+ 
+ &lt;option value="san-francisco-ca" data-col="269.3" data-housing="432.1" data-name="San Francisco"&gt;San Francisco, CA&lt;/option&gt;
+ 
+ &lt;option value="san-jose-ca" data-col="214.5" data-housing="342.1" data-name="San Jose"&gt;San Jose, CA&lt;/option&gt;
+ 
+ &lt;option value="santa-ana-ca" data-col="142.8" data-housing="198.5" data-name="Santa Ana"&gt;Santa Ana, CA&lt;/option&gt;
+ 
+ &lt;option value="santa-fe-nm" data-col="112.5" data-housing="128.4" data-name="Santa Fe"&gt;Santa Fe, NM&lt;/option&gt;
+ 
+ &lt;option value="savannah-ga" data-col="96.5" data-housing="92.5" data-name="Savannah"&gt;Savannah, GA&lt;/option&gt;
+ 
+ &lt;option value="scottsdale-az" data-col="118.5" data-housing="142.5" data-name="Scottsdale"&gt;Scottsdale, AZ&lt;/option&gt;
+ 
+ &lt;option value="seattle-wa" data-col="172.1" data-housing="245.8" data-name="Seattle"&gt;Seattle, WA&lt;/option&gt;
+ 
+ &lt;option value="sioux-falls-sd" data-col="90.5" data-housing="82.5" data-name="Sioux Falls"&gt;Sioux Falls, SD&lt;/option&gt;
+ 
+ &lt;option value="spokane-wa" data-col="98.5" data-housing="92.4" data-name="Spokane"&gt;Spokane, WA&lt;/option&gt;
+ 
+ &lt;option value="st-petersburg-fl" data-col="102.5" data-housing="108.4" data-name="St. Petersburg"&gt;St. Petersburg, FL&lt;/option&gt;
+ 
+ &lt;option value="stockton-ca" data-col="112.5" data-housing="128.4" data-name="Stockton"&gt;Stockton, CA&lt;/option&gt;
+ 
+ &lt;option value="tacoma-wa" data-col="112.5" data-housing="128.4" data-name="Tacoma"&gt;Tacoma, WA&lt;/option&gt;
+ 
+ &lt;option value="tallahassee-fl" data-col="96.5" data-housing="88.5" data-name="Tallahassee"&gt;Tallahassee, FL&lt;/option&gt;
+ 
+ &lt;option value="tampa-fl" data-col="102.8" data-housing="108.5" data-name="Tampa"&gt;Tampa, FL&lt;/option&gt;
+ 
+ &lt;option value="toledo-oh" data-col="88.5" data-housing="68.4" data-name="Toledo"&gt;Toledo, OH&lt;/option&gt;
+ 
+ &lt;option value="tucson-az" data-col="95.8" data-housing="88.5" data-name="Tucson"&gt;Tucson, AZ&lt;/option&gt;
+ 
+ &lt;option value="tulsa-ok" data-col="88.5" data-housing="78.2" data-name="Tulsa"&gt;Tulsa, OK&lt;/option&gt;
+ 
+ &lt;option value="virginia-beach-va" data-col="104.2" data-housing="112.5" data-name="Virginia Beach"&gt;Virginia Beach, VA&lt;/option&gt;
+ 
+ &lt;option value="washington-dc" data-col="152.1" data-housing="228.4" data-name="Washington DC"&gt;Washington DC, DC&lt;/option&gt;
+ 
+ &lt;option value="wichita-ks" data-col="86.8" data-housing="74.5" data-name="Wichita"&gt;Wichita, KS&lt;/option&gt;
+ 
+ &lt;option value="wilmington-nc" data-col="98.5" data-housing="95.2" data-name="Wilmington"&gt;Wilmington, NC&lt;/option&gt;
+ 
+ &lt;option value="winston-salem-nc" data-col="92.5" data-housing="82.5" data-name="Winston-Salem"&gt;Winston-Salem, NC&lt;/option&gt;
+ 
+ &lt;option value="worcester-ma" data-col="118.5" data-housing="128.4" data-name="Worcester"&gt;Worcester, MA&lt;/option&gt;
+ 
  &lt;/select&gt;
  &lt;/div&gt;
  &lt;div class="calc-row"&gt;
  &lt;label&gt;City B&lt;/label&gt;
  &lt;select id="col-city-b"&gt;
- &lt;option value="nyc" selected&gt;New York City&lt;/option&gt;
- &lt;option value="sf"&gt;San Francisco&lt;/option&gt;
- &lt;option value="la"&gt;Los Angeles&lt;/option&gt;
- &lt;option value="chicago"&gt;Chicago&lt;/option&gt;
- &lt;option value="austin-tx"&gt;Austin&lt;/option&gt;
- &lt;option value="denver-co"&gt;Denver&lt;/option&gt;
- &lt;option value="phoenix-az"&gt;Phoenix&lt;/option&gt;
- &lt;option value="miami-fl"&gt;Miami&lt;/option&gt;
- &lt;option value="seattle-wa"&gt;Seattle&lt;/option&gt;
- &lt;option value="atlanta-ga"&gt;Atlanta&lt;/option&gt;
+ 
+ &lt;option value="akron-oh" data-col="88.5" data-housing="68.5" data-name="Akron"&gt;Akron, OH&lt;/option&gt;
+ 
+ &lt;option value="albuquerque-nm" data-col="94.5" data-housing="88.2" data-name="Albuquerque"&gt;Albuquerque, NM&lt;/option&gt;
+ 
+ &lt;option value="anaheim-ca" data-col="148.5" data-housing="212.4" data-name="Anaheim"&gt;Anaheim, CA&lt;/option&gt;
+ 
+ &lt;option value="anchorage-ak" data-col="118.5" data-housing="128.4" data-name="Anchorage"&gt;Anchorage, AK&lt;/option&gt;
+ 
+ &lt;option value="ann-arbor-mi" data-col="108.5" data-housing="118.2" data-name="Ann Arbor"&gt;Ann Arbor, MI&lt;/option&gt;
+ 
+ &lt;option value="asheville-nc" data-col="102.5" data-housing="108.5" data-name="Asheville"&gt;Asheville, NC&lt;/option&gt;
+ 
+ &lt;option value="atlanta-ga" data-col="104.7" data-housing="118.3" data-name="Atlanta"&gt;Atlanta, GA&lt;/option&gt;
+ 
+ &lt;option value="augusta-ga" data-col="90.5" data-housing="78.5" data-name="Augusta"&gt;Augusta, GA&lt;/option&gt;
+ 
+ &lt;option value="aurora-co" data-col="108.5" data-housing="118.2" data-name="Aurora"&gt;Aurora, CO&lt;/option&gt;
+ 
+ &lt;option value="austin-tx" data-col="119.3" data-housing="159.2" data-name="Austin"&gt;Austin, TX&lt;/option&gt;
+ 
+ &lt;option value="bakersfield-ca" data-col="102.5" data-housing="98.4" data-name="Bakersfield"&gt;Bakersfield, CA&lt;/option&gt;
+ 
+ &lt;option value="baltimore-md" data-col="108.4" data-housing="112.5" data-name="Baltimore"&gt;Baltimore, MD&lt;/option&gt;
+ 
+ &lt;option value="baton-rouge-la" data-col="94.5" data-housing="88.5" data-name="Baton Rouge"&gt;Baton Rouge, LA&lt;/option&gt;
+ 
+ &lt;option value="bend-or" data-col="118.5" data-housing="142.5" data-name="Bend"&gt;Bend, OR&lt;/option&gt;
+ 
+ &lt;option value="billings-mt" data-col="96.5" data-housing="92.5" data-name="Billings"&gt;Billings, MT&lt;/option&gt;
+ 
+ &lt;option value="birmingham-al" data-col="90.5" data-housing="78.5" data-name="Birmingham"&gt;Birmingham, AL&lt;/option&gt;
+ 
+ &lt;option value="boise-id" data-col="102.5" data-housing="112.5" data-name="Boise"&gt;Boise, ID&lt;/option&gt;
+ 
+ &lt;option value="boston-ma" data-col="153.2" data-housing="231.5" data-name="Boston"&gt;Boston, MA&lt;/option&gt;
+ 
+ &lt;option value="boulder-co" data-col="148.5" data-housing="228.4" data-name="Boulder"&gt;Boulder, CO&lt;/option&gt;
+ 
+ &lt;option value="bridgeport-ct" data-col="118.5" data-housing="128.4" data-name="Bridgeport"&gt;Bridgeport, CT&lt;/option&gt;
+ 
+ &lt;option value="buffalo-ny" data-col="92.5" data-housing="72.5" data-name="Buffalo"&gt;Buffalo, NY&lt;/option&gt;
+ 
+ &lt;option value="burlington-vt" data-col="112.5" data-housing="128.4" data-name="Burlington"&gt;Burlington, VT&lt;/option&gt;
+ 
+ &lt;option value="chandler-az" data-col="108.5" data-housing="118.2" data-name="Chandler"&gt;Chandler, AZ&lt;/option&gt;
+ 
+ &lt;option value="charleston-sc" data-col="108.5" data-housing="118.2" data-name="Charleston"&gt;Charleston, SC&lt;/option&gt;
+ 
+ &lt;option value="charlotte-nc" data-col="98.2" data-housing="96.8" data-name="Charlotte"&gt;Charlotte, NC&lt;/option&gt;
+ 
+ &lt;option value="chattanooga-tn" data-col="92.5" data-housing="82.5" data-name="Chattanooga"&gt;Chattanooga, TN&lt;/option&gt;
+ 
+ &lt;option value="chesapeake-va" data-col="102.5" data-housing="105.2" data-name="Chesapeake"&gt;Chesapeake, VA&lt;/option&gt;
+ 
+ &lt;option value="cheyenne-wy" data-col="96.5" data-housing="92.5" data-name="Cheyenne"&gt;Cheyenne, WY&lt;/option&gt;
+ 
+ &lt;option value="chicago-il" data-col="110.8" data-housing="132.5" data-name="Chicago"&gt;Chicago, IL&lt;/option&gt;
+ 
+ &lt;option value="chula-vista-ca" data-col="138.5" data-housing="188.4" data-name="Chula Vista"&gt;Chula Vista, CA&lt;/option&gt;
+ 
+ &lt;option value="cincinnati-oh" data-col="92.8" data-housing="82.5" data-name="Cincinnati"&gt;Cincinnati, OH&lt;/option&gt;
+ 
+ &lt;option value="cleveland-oh" data-col="90.2" data-housing="72.5" data-name="Cleveland"&gt;Cleveland, OH&lt;/option&gt;
+ 
+ &lt;option value="colorado-springs-co" data-col="105.2" data-housing="118.5" data-name="Colorado Springs"&gt;Colorado Springs, CO&lt;/option&gt;
+ 
+ &lt;option value="columbia-sc" data-col="94.5" data-housing="88.5" data-name="Columbia"&gt;Columbia, SC&lt;/option&gt;
+ 
+ &lt;option value="columbus-oh" data-col="92.1" data-housing="84.5" data-name="Columbus"&gt;Columbus, OH&lt;/option&gt;
+ 
+ &lt;option value="corpus-christi-tx" data-col="92.5" data-housing="88.4" data-name="Corpus Christi"&gt;Corpus Christi, TX&lt;/option&gt;
+ 
+ &lt;option value="dallas-tx" data-col="101.3" data-housing="108.5" data-name="Dallas"&gt;Dallas, TX&lt;/option&gt;
+ 
+ &lt;option value="denver-co" data-col="128.5" data-housing="168.3" data-name="Denver"&gt;Denver, CO&lt;/option&gt;
+ 
+ &lt;option value="des-moines-ia" data-col="90.5" data-housing="82.5" data-name="Des Moines"&gt;Des Moines, IA&lt;/option&gt;
+ 
+ &lt;option value="detroit-mi" data-col="92.8" data-housing="68.4" data-name="Detroit"&gt;Detroit, MI&lt;/option&gt;
+ 
+ &lt;option value="durham-nc" data-col="98.5" data-housing="95.2" data-name="Durham"&gt;Durham, NC&lt;/option&gt;
+ 
+ &lt;option value="el-paso-tx" data-col="88.5" data-housing="76.8" data-name="El Paso"&gt;El Paso, TX&lt;/option&gt;
+ 
+ &lt;option value="elk-grove-ca" data-col="128.5" data-housing="158.4" data-name="Elk Grove"&gt;Elk Grove, CA&lt;/option&gt;
+ 
+ &lt;option value="eugene-or" data-col="104.2" data-housing="108.5" data-name="Eugene"&gt;Eugene, OR&lt;/option&gt;
+ 
+ &lt;option value="fargo-nd" data-col="90.5" data-housing="82.5" data-name="Fargo"&gt;Fargo, ND&lt;/option&gt;
+ 
+ &lt;option value="fayetteville-nc" data-col="90.5" data-housing="78.5" data-name="Fayetteville"&gt;Fayetteville, NC&lt;/option&gt;
+ 
+ &lt;option value="fort-wayne-in" data-col="86.5" data-housing="72.5" data-name="Fort Wayne"&gt;Fort Wayne, IN&lt;/option&gt;
+ 
+ &lt;option value="fort-worth-tx" data-col="98.5" data-housing="95.2" data-name="Fort Worth"&gt;Fort Worth, TX&lt;/option&gt;
+ 
+ &lt;option value="fremont-ca" data-col="178.5" data-housing="268.4" data-name="Fremont"&gt;Fremont, CA&lt;/option&gt;
+ 
+ &lt;option value="fresno-ca" data-col="102.5" data-housing="98.5" data-name="Fresno"&gt;Fresno, CA&lt;/option&gt;
+ 
+ &lt;option value="garland-tx" data-col="96.5" data-housing="92.4" data-name="Garland"&gt;Garland, TX&lt;/option&gt;
+ 
+ &lt;option value="glendale-az" data-col="98.5" data-housing="95.2" data-name="Glendale"&gt;Glendale, AZ&lt;/option&gt;
+ 
+ &lt;option value="grand-rapids-mi" data-col="94.5" data-housing="88.5" data-name="Grand Rapids"&gt;Grand Rapids, MI&lt;/option&gt;
+ 
+ &lt;option value="greensboro-nc" data-col="92.4" data-housing="82.5" data-name="Greensboro"&gt;Greensboro, NC&lt;/option&gt;
+ 
+ &lt;option value="greenville-sc" data-col="96.5" data-housing="92.5" data-name="Greenville"&gt;Greenville, SC&lt;/option&gt;
+ 
+ &lt;option value="henderson-nv" data-col="108.5" data-housing="118.2" data-name="Henderson"&gt;Henderson, NV&lt;/option&gt;
+ 
+ &lt;option value="hialeah-fl" data-col="108.5" data-housing="112.5" data-name="Hialeah"&gt;Hialeah, FL&lt;/option&gt;
+ 
+ &lt;option value="honolulu-hi" data-col="185.2" data-housing="284.5" data-name="Honolulu"&gt;Honolulu, HI&lt;/option&gt;
+ 
+ &lt;option value="houston-tx" data-col="95.8" data-housing="91.2" data-name="Houston"&gt;Houston, TX&lt;/option&gt;
+ 
+ &lt;option value="huntsville-al" data-col="94.5" data-housing="88.5" data-name="Huntsville"&gt;Huntsville, AL&lt;/option&gt;
+ 
+ &lt;option value="indianapolis-in" data-col="91.5" data-housing="82.4" data-name="Indianapolis"&gt;Indianapolis, IN&lt;/option&gt;
+ 
+ &lt;option value="irvine-ca" data-col="158.5" data-housing="228.4" data-name="Irvine"&gt;Irvine, CA&lt;/option&gt;
+ 
+ &lt;option value="irving-tx" data-col="100.5" data-housing="102.4" data-name="Irving"&gt;Irving, TX&lt;/option&gt;
+ 
+ &lt;option value="jackson-ms" data-col="88.5" data-housing="72.5" data-name="Jackson"&gt;Jackson, MS&lt;/option&gt;
+ 
+ &lt;option value="jacksonville-fl" data-col="96.8" data-housing="92.4" data-name="Jacksonville"&gt;Jacksonville, FL&lt;/option&gt;
+ 
+ &lt;option value="jersey-city-nj" data-col="142.5" data-housing="188.4" data-name="Jersey City"&gt;Jersey City, NJ&lt;/option&gt;
+ 
+ &lt;option value="kansas-city-ks" data-col="90.5" data-housing="78.5" data-name="Kansas City"&gt;Kansas City, KS&lt;/option&gt;
+ 
+ &lt;option value="kansas-city-mo" data-col="92.8" data-housing="85.4" data-name="Kansas City"&gt;Kansas City, MO&lt;/option&gt;
+ 
+ &lt;option value="key-west-fl" data-col="158.5" data-housing="228.4" data-name="Key West"&gt;Key West, FL&lt;/option&gt;
+ 
+ &lt;option value="knoxville-tn" data-col="92.5" data-housing="82.5" data-name="Knoxville"&gt;Knoxville, TN&lt;/option&gt;
+ 
+ &lt;option value="laredo-tx" data-col="88.5" data-housing="78.4" data-name="Laredo"&gt;Laredo, TX&lt;/option&gt;
+ 
+ &lt;option value="las-vegas-nv" data-col="102.4" data-housing="108.2" data-name="Las Vegas"&gt;Las Vegas, NV&lt;/option&gt;
+ 
+ &lt;option value="lexington-ky" data-col="94.2" data-housing="88.5" data-name="Lexington"&gt;Lexington, KY&lt;/option&gt;
+ 
+ &lt;option value="lincoln-ne" data-col="92.5" data-housing="85.2" data-name="Lincoln"&gt;Lincoln, NE&lt;/option&gt;
+ 
+ &lt;option value="little-rock-ar" data-col="88.5" data-housing="78.5" data-name="Little Rock"&gt;Little Rock, AR&lt;/option&gt;
+ 
+ &lt;option value="long-beach-ca" data-col="142.5" data-housing="198.5" data-name="Long Beach"&gt;Long Beach, CA&lt;/option&gt;
+ 
+ &lt;option value="los-angeles-ca" data-col="173.3" data-housing="261.4" data-name="Los Angeles"&gt;Los Angeles, CA&lt;/option&gt;
+ 
+ &lt;option value="louisville-ky" data-col="91.2" data-housing="82.1" data-name="Louisville"&gt;Louisville, KY&lt;/option&gt;
+ 
+ &lt;option value="lubbock-tx" data-col="88.5" data-housing="76.8" data-name="Lubbock"&gt;Lubbock, TX&lt;/option&gt;
+ 
+ &lt;option value="madison-wi" data-col="104.2" data-housing="112.5" data-name="Madison"&gt;Madison, WI&lt;/option&gt;
+ 
+ &lt;option value="manchester-nh" data-col="108.5" data-housing="118.2" data-name="Manchester"&gt;Manchester, NH&lt;/option&gt;
+ 
+ &lt;option value="memphis-tn" data-col="88.5" data-housing="74.2" data-name="Memphis"&gt;Memphis, TN&lt;/option&gt;
+ 
+ &lt;option value="mesa-az" data-col="102.5" data-housing="108.4" data-name="Mesa"&gt;Mesa, AZ&lt;/option&gt;
+ 
+ &lt;option value="miami-fl" data-col="145.6" data-housing="198.3" data-name="Miami"&gt;Miami, FL&lt;/option&gt;
+ 
+ &lt;option value="milwaukee-wi" data-col="95.2" data-housing="86.4" data-name="Milwaukee"&gt;Milwaukee, WI&lt;/option&gt;
+ 
+ &lt;option value="minneapolis-mn" data-col="106.5" data-housing="118.2" data-name="Minneapolis"&gt;Minneapolis, MN&lt;/option&gt;
+ 
+ &lt;option value="mobile-al" data-col="90.5" data-housing="78.5" data-name="Mobile"&gt;Mobile, AL&lt;/option&gt;
+ 
+ &lt;option value="modesto-ca" data-col="108.5" data-housing="102.4" data-name="Modesto"&gt;Modesto, CA&lt;/option&gt;
+ 
+ &lt;option value="montgomery-al" data-col="90.5" data-housing="78.5" data-name="Montgomery"&gt;Montgomery, AL&lt;/option&gt;
+ 
+ &lt;option value="myrtle-beach-sc" data-col="96.5" data-housing="88.5" data-name="Myrtle Beach"&gt;Myrtle Beach, SC&lt;/option&gt;
+ 
+ &lt;option value="nashville-tn" data-col="100.5" data-housing="105.2" data-name="Nashville"&gt;Nashville, TN&lt;/option&gt;
+ 
+ &lt;option value="new-orleans-la" data-col="98.5" data-housing="95.2" data-name="New Orleans"&gt;New Orleans, LA&lt;/option&gt;
+ 
+ &lt;option value="nyc" data-col="187.2" data-housing="294.7" data-name="New York City"&gt;New York City, NY&lt;/option&gt;
+ 
+ &lt;option value="newark-nj" data-col="118.5" data-housing="128.4" data-name="Newark"&gt;Newark, NJ&lt;/option&gt;
+ 
+ &lt;option value="norfolk-va" data-col="98.5" data-housing="92.4" data-name="Norfolk"&gt;Norfolk, VA&lt;/option&gt;
+ 
+ &lt;option value="oakland-ca" data-col="158.4" data-housing="218.5" data-name="Oakland"&gt;Oakland, CA&lt;/option&gt;
+ 
+ &lt;option value="oklahoma-city-ok" data-col="88.2" data-housing="78.5" data-name="Oklahoma City"&gt;Oklahoma City, OK&lt;/option&gt;
+ 
+ &lt;option value="omaha-ne" data-col="91.5" data-housing="82.8" data-name="Omaha"&gt;Omaha, NE&lt;/option&gt;
+ 
+ &lt;option value="orlando-fl" data-col="98.5" data-housing="95.2" data-name="Orlando"&gt;Orlando, FL&lt;/option&gt;
+ 
+ &lt;option value="oxnard-ca" data-col="138.5" data-housing="188.4" data-name="Oxnard"&gt;Oxnard, CA&lt;/option&gt;
+ 
+ &lt;option value="philadelphia-pa" data-col="108.5" data-housing="118.3" data-name="Philadelphia"&gt;Philadelphia, PA&lt;/option&gt;
+ 
+ &lt;option value="phoenix-az" data-col="108.2" data-housing="124.6" data-name="Phoenix"&gt;Phoenix, AZ&lt;/option&gt;
+ 
+ &lt;option value="pittsburgh-pa" data-col="94.5" data-housing="78.5" data-name="Pittsburgh"&gt;Pittsburgh, PA&lt;/option&gt;
+ 
+ &lt;option value="plano-tx" data-col="108.5" data-housing="118.2" data-name="Plano"&gt;Plano, TX&lt;/option&gt;
+ 
+ &lt;option value="portland-me" data-col="112.5" data-housing="128.4" data-name="Portland"&gt;Portland, ME&lt;/option&gt;
+ 
+ &lt;option value="portland-or" data-col="118.2" data-housing="142.5" data-name="Portland"&gt;Portland, OR&lt;/option&gt;
+ 
+ &lt;option value="providence-ri" data-col="118.5" data-housing="128.4" data-name="Providence"&gt;Providence, RI&lt;/option&gt;
+ 
+ &lt;option value="raleigh-nc" data-col="102.4" data-housing="108.5" data-name="Raleigh"&gt;Raleigh, NC&lt;/option&gt;
+ 
+ &lt;option value="reno-nv" data-col="108.5" data-housing="118.2" data-name="Reno"&gt;Reno, NV&lt;/option&gt;
+ 
+ &lt;option value="richmond-va" data-col="98.5" data-housing="92.4" data-name="Richmond"&gt;Richmond, VA&lt;/option&gt;
+ 
+ &lt;option value="riverside-ca" data-col="118.5" data-housing="142.5" data-name="Riverside"&gt;Riverside, CA&lt;/option&gt;
+ 
+ &lt;option value="rochester-ny" data-col="92.5" data-housing="72.5" data-name="Rochester"&gt;Rochester, NY&lt;/option&gt;
+ 
+ &lt;option value="sacramento-ca" data-col="118.5" data-housing="138.5" data-name="Sacramento"&gt;Sacramento, CA&lt;/option&gt;
+ 
+ &lt;option value="saint-paul-mn" data-col="104.2" data-housing="108.5" data-name="Saint Paul"&gt;Saint Paul, MN&lt;/option&gt;
+ 
+ &lt;option value="salem-or" data-col="102.5" data-housing="98.5" data-name="Salem"&gt;Salem, OR&lt;/option&gt;
+ 
+ &lt;option value="salt-lake-city-ut" data-col="108.5" data-housing="118.2" data-name="Salt Lake City"&gt;Salt Lake City, UT&lt;/option&gt;
+ 
+ &lt;option value="san-antonio-tx" data-col="92.4" data-housing="85.3" data-name="San Antonio"&gt;San Antonio, TX&lt;/option&gt;
+ 
+ &lt;option value="san-bernardino-ca" data-col="108.5" data-housing="102.4" data-name="San Bernardino"&gt;San Bernardino, CA&lt;/option&gt;
+ 
+ &lt;option value="san-diego-ca" data-col="154.2" data-housing="234.5" data-name="San Diego"&gt;San Diego, CA&lt;/option&gt;
+ 
+ &lt;option value="san-francisco-ca" data-col="269.3" data-housing="432.1" data-name="San Francisco"&gt;San Francisco, CA&lt;/option&gt;
+ 
+ &lt;option value="san-jose-ca" data-col="214.5" data-housing="342.1" data-name="San Jose"&gt;San Jose, CA&lt;/option&gt;
+ 
+ &lt;option value="santa-ana-ca" data-col="142.8" data-housing="198.5" data-name="Santa Ana"&gt;Santa Ana, CA&lt;/option&gt;
+ 
+ &lt;option value="santa-fe-nm" data-col="112.5" data-housing="128.4" data-name="Santa Fe"&gt;Santa Fe, NM&lt;/option&gt;
+ 
+ &lt;option value="savannah-ga" data-col="96.5" data-housing="92.5" data-name="Savannah"&gt;Savannah, GA&lt;/option&gt;
+ 
+ &lt;option value="scottsdale-az" data-col="118.5" data-housing="142.5" data-name="Scottsdale"&gt;Scottsdale, AZ&lt;/option&gt;
+ 
+ &lt;option value="seattle-wa" data-col="172.1" data-housing="245.8" data-name="Seattle"&gt;Seattle, WA&lt;/option&gt;
+ 
+ &lt;option value="sioux-falls-sd" data-col="90.5" data-housing="82.5" data-name="Sioux Falls"&gt;Sioux Falls, SD&lt;/option&gt;
+ 
+ &lt;option value="spokane-wa" data-col="98.5" data-housing="92.4" data-name="Spokane"&gt;Spokane, WA&lt;/option&gt;
+ 
+ &lt;option value="st-petersburg-fl" data-col="102.5" data-housing="108.4" data-name="St. Petersburg"&gt;St. Petersburg, FL&lt;/option&gt;
+ 
+ &lt;option value="stockton-ca" data-col="112.5" data-housing="128.4" data-name="Stockton"&gt;Stockton, CA&lt;/option&gt;
+ 
+ &lt;option value="tacoma-wa" data-col="112.5" data-housing="128.4" data-name="Tacoma"&gt;Tacoma, WA&lt;/option&gt;
+ 
+ &lt;option value="tallahassee-fl" data-col="96.5" data-housing="88.5" data-name="Tallahassee"&gt;Tallahassee, FL&lt;/option&gt;
+ 
+ &lt;option value="tampa-fl" data-col="102.8" data-housing="108.5" data-name="Tampa"&gt;Tampa, FL&lt;/option&gt;
+ 
+ &lt;option value="toledo-oh" data-col="88.5" data-housing="68.4" data-name="Toledo"&gt;Toledo, OH&lt;/option&gt;
+ 
+ &lt;option value="tucson-az" data-col="95.8" data-housing="88.5" data-name="Tucson"&gt;Tucson, AZ&lt;/option&gt;
+ 
+ &lt;option value="tulsa-ok" data-col="88.5" data-housing="78.2" data-name="Tulsa"&gt;Tulsa, OK&lt;/option&gt;
+ 
+ &lt;option value="virginia-beach-va" data-col="104.2" data-housing="112.5" data-name="Virginia Beach"&gt;Virginia Beach, VA&lt;/option&gt;
+ 
+ &lt;option value="washington-dc" data-col="152.1" data-housing="228.4" data-name="Washington DC"&gt;Washington DC, DC&lt;/option&gt;
+ 
+ &lt;option value="wichita-ks" data-col="86.8" data-housing="74.5" data-name="Wichita"&gt;Wichita, KS&lt;/option&gt;
+ 
+ &lt;option value="wilmington-nc" data-col="98.5" data-housing="95.2" data-name="Wilmington"&gt;Wilmington, NC&lt;/option&gt;
+ 
+ &lt;option value="winston-salem-nc" data-col="92.5" data-housing="82.5" data-name="Winston-Salem"&gt;Winston-Salem, NC&lt;/option&gt;
+ 
+ &lt;option value="worcester-ma" data-col="118.5" data-housing="128.4" data-name="Worcester"&gt;Worcester, MA&lt;/option&gt;
+ 
  &lt;/select&gt;
  &lt;/div&gt;
  &lt;button class="btn btn-primary" onclick="compareCOL()"&gt;Compare&lt;/button&gt;
@@ -66,70 +617,11 @@
  &lt;h4&gt;Cost of Living Comparison&lt;/h4&gt;
  &lt;table&gt;
  &lt;thead&gt;
- &lt;tr&gt;&lt;th&gt;Category&lt;/th&gt;&lt;th id="col-a-name"&gt;City A&lt;/th&gt;&lt;th id="col-b-name"&gt;City B&lt;/th&gt;&lt;th&gt;Difference&lt;/th&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;th&gt;Metric&lt;/th&gt;&lt;th id="col-a-name"&gt;City A&lt;/th&gt;&lt;th id="col-b-name"&gt;City B&lt;/th&gt;&lt;th&gt;Difference&lt;/th&gt;&lt;/tr&gt;
  &lt;/thead&gt;
  &lt;tbody id="col-table-body"&gt;&lt;/tbody&gt;
  &lt;/table&gt;
- &lt;p id="col-summary"&gt;&lt;/p&gt;
- &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-function compareCOL() {
- const cityA = document.getElementById('col-city-a').value;
- const cityB = document.getElementById('col-city-b').value;
- 
- const data = {
- 'nyc': { name: 'New York City', overall: 187.2, housing: 294.7, groceries: 156.3, utilities: 108.4, transport: 142.1, healthcare: 118.5 },
- 'sf': { name: 'San Francisco', overall: 269.3, housing: 432.1, groceries: 148.9, utilities: 112.3, transport: 138.7, healthcare: 124.2 },
- 'la': { name: 'Los Angeles', overall: 173.3, housing: 261.4, groceries: 142.7, utilities: 98.6, transport: 135.2, healthcare: 115.8 },
- 'chicago': { name: 'Chicago', overall: 110.8, housing: 132.5, groceries: 104.3, utilities: 96.8, transport: 118.4, healthcare: 102.1 },
- 'austin-tx': { name: 'Austin', overall: 119.3, housing: 159.2, groceries: 96.7, utilities: 99.2, transport: 109.4, healthcare: 101.5 },
- 'denver-co': { name: 'Denver', overall: 128.5, housing: 168.3, groceries: 101.4, utilities: 94.7, transport: 112.6, healthcare: 103.8 },
- 'phoenix-az': { name: 'Phoenix', overall: 108.2, housing: 124.6, groceries: 98.3, utilities: 102.1, transport: 106.8, healthcare: 98.7 },
- 'miami-fl': { name: 'Miami', overall: 145.6, housing: 198.3, groceries: 112.4, utilities: 95.3, transport: 128.9, healthcare: 108.2 },
- 'seattle-wa': { name: 'Seattle', overall: 172.1, housing: 245.8, groceries: 138.2, utilities: 91.4, transport: 132.5, healthcare: 114.6 },
- 'atlanta-ga': { name: 'Atlanta', overall: 104.7, housing: 118.3, groceries: 97.1, utilities: 98.5, transport: 103.2, healthcare: 99.4 }
- };
- 
- const a = data[cityA];
- const b = data[cityB];
- 
- document.getElementById('col-a-name').textContent = a.name;
- document.getElementById('col-b-name').textContent = b.name;
- 
- const categories = [
- { key: 'overall', label: 'Overall' },
- { key: 'housing', label: 'Housing' },
- { key: 'groceries', label: 'Groceries' },
- { key: 'utilities', label: 'Utilities' },
- { key: 'transport', label: 'Transportation' },
- { key: 'healthcare', label: 'Healthcare' }
- ];
- 
- let tbody = '';
- categories.forEach(cat =&gt; {
- const diff = b[cat.key] - a[cat.key];
- const pct = Math.round((diff / a[cat.key]) * 100);
- const sign = diff &gt; 0 ? '+' : '';
- tbody += `&lt;tr&gt;&lt;td&gt;${cat.label}&lt;/td&gt;&lt;td&gt;${a[cat.key]}&lt;/td&gt;&lt;td&gt;${b[cat.key]}&lt;/td&gt;&lt;td class="${diff &gt; 0 ? 'negative' : 'positive'}"&gt;${sign}${pct}%&lt;/td&gt;&lt;/tr&gt;`;
- });
- 
- document.getElementById('col-table-body').innerHTML = tbody;
- 
- const overallDiff = Math.round(((b.overall - a.overall) / a.overall) * 100);
- const cheaper = a.overall &lt; b.overall ? a.name : b.name;
- const moreExpensive = a.overall &lt; b.overall ? b.name : a.name;
- const savings = Math.abs(overallDiff);
- 
- document.getElementById('col-summary').innerHTML = `&lt;strong&gt;${cheaper}&lt;/strong&gt; is ${savings}% cheaper than ${moreExpensive}.`;
- 
- document.getElementById('col-result').style.display = 'block';
-}
-&lt;/script&gt;
-
-&lt;h2 id="how-it-works"&gt;How It Works&lt;/h2&gt;
-&lt;p&gt;Our calculator uses official data from the Council for Community and Economic Research (C2ER) to compare costs across categories:&lt;/p&gt;</description></item><item><title>DMCA Policy</title><link>https://urcity.com/dmca-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://urcity.com/dmca-policy/</guid><description>&lt;h2 id="dmca-policy"&gt;DMCA Policy&lt;/h2&gt;
+ &lt;p id="col-summary"&gt;&lt;/p&gt;</description></item><item><title>DMCA Policy</title><link>https://urcity.com/dmca-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://urcity.com/dmca-policy/</guid><description>&lt;h2 id="dmca-policy"&gt;DMCA Policy&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Last updated:&lt;/strong&gt; June 28, 2026&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Publisher:&lt;/strong&gt; Northshore Press (&lt;a href="https://northshorepress.co"&gt;https://northshorepress.co&lt;/a&gt;)&lt;/p&gt;
 &lt;h3 id="copyright-policy"&gt;Copyright Policy&lt;/h3&gt;
@@ -275,6 +767,9 @@ function calculateHome() {
 &lt;h3 id="cookies-and-tracking"&gt;Cookies and Tracking&lt;/h3&gt;
 &lt;p&gt;We use cookies and similar technologies to:&lt;/p&gt;</description></item><item><title>Salary Equivalence Calculator</title><link>https://urcity.com/tools/salary-equivalence-calculator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://urcity.com/tools/salary-equivalence-calculator/</guid><description>&lt;h2 id="salary-equivalence-calculator"&gt;Salary Equivalence Calculator&lt;/h2&gt;
 &lt;p&gt;Moving to a new city? Find out what salary you need to maintain your lifestyle.&lt;/p&gt;
+
+
+
 &lt;div class="calculator-widget" id="salary-calc"&gt;
  &lt;h3&gt;Salary Comparison Calculator&lt;/h3&gt;
  &lt;div class="calc-row"&gt;
@@ -284,75 +779,586 @@ function calculateHome() {
  &lt;div class="calc-row"&gt;
  &lt;label&gt;From City&lt;/label&gt;
  &lt;select id="from-city"&gt;
- &lt;option value="nyc" selected&gt;New York City&lt;/option&gt;
- &lt;option value="sf" &gt;San Francisco&lt;/option&gt;
- &lt;option value="la" &gt;Los Angeles&lt;/option&gt;
- &lt;option value="chicago" &gt;Chicago&lt;/option&gt;
- &lt;option value="austin-tx" &gt;Austin&lt;/option&gt;
+ 
+ &lt;option value="akron-oh" data-col="88.5" data-name="Akron" &gt;Akron, OH&lt;/option&gt;
+ 
+ &lt;option value="albuquerque-nm" data-col="94.5" data-name="Albuquerque" &gt;Albuquerque, NM&lt;/option&gt;
+ 
+ &lt;option value="anaheim-ca" data-col="148.5" data-name="Anaheim" &gt;Anaheim, CA&lt;/option&gt;
+ 
+ &lt;option value="anchorage-ak" data-col="118.5" data-name="Anchorage" &gt;Anchorage, AK&lt;/option&gt;
+ 
+ &lt;option value="ann-arbor-mi" data-col="108.5" data-name="Ann Arbor" &gt;Ann Arbor, MI&lt;/option&gt;
+ 
+ &lt;option value="asheville-nc" data-col="102.5" data-name="Asheville" &gt;Asheville, NC&lt;/option&gt;
+ 
+ &lt;option value="atlanta-ga" data-col="104.7" data-name="Atlanta" &gt;Atlanta, GA&lt;/option&gt;
+ 
+ &lt;option value="augusta-ga" data-col="90.5" data-name="Augusta" &gt;Augusta, GA&lt;/option&gt;
+ 
+ &lt;option value="aurora-co" data-col="108.5" data-name="Aurora" &gt;Aurora, CO&lt;/option&gt;
+ 
+ &lt;option value="austin-tx" data-col="119.3" data-name="Austin" &gt;Austin, TX&lt;/option&gt;
+ 
+ &lt;option value="bakersfield-ca" data-col="102.5" data-name="Bakersfield" &gt;Bakersfield, CA&lt;/option&gt;
+ 
+ &lt;option value="baltimore-md" data-col="108.4" data-name="Baltimore" &gt;Baltimore, MD&lt;/option&gt;
+ 
+ &lt;option value="baton-rouge-la" data-col="94.5" data-name="Baton Rouge" &gt;Baton Rouge, LA&lt;/option&gt;
+ 
+ &lt;option value="bend-or" data-col="118.5" data-name="Bend" &gt;Bend, OR&lt;/option&gt;
+ 
+ &lt;option value="billings-mt" data-col="96.5" data-name="Billings" &gt;Billings, MT&lt;/option&gt;
+ 
+ &lt;option value="birmingham-al" data-col="90.5" data-name="Birmingham" &gt;Birmingham, AL&lt;/option&gt;
+ 
+ &lt;option value="boise-id" data-col="102.5" data-name="Boise" &gt;Boise, ID&lt;/option&gt;
+ 
+ &lt;option value="boston-ma" data-col="153.2" data-name="Boston" &gt;Boston, MA&lt;/option&gt;
+ 
+ &lt;option value="boulder-co" data-col="148.5" data-name="Boulder" &gt;Boulder, CO&lt;/option&gt;
+ 
+ &lt;option value="bridgeport-ct" data-col="118.5" data-name="Bridgeport" &gt;Bridgeport, CT&lt;/option&gt;
+ 
+ &lt;option value="buffalo-ny" data-col="92.5" data-name="Buffalo" &gt;Buffalo, NY&lt;/option&gt;
+ 
+ &lt;option value="burlington-vt" data-col="112.5" data-name="Burlington" &gt;Burlington, VT&lt;/option&gt;
+ 
+ &lt;option value="chandler-az" data-col="108.5" data-name="Chandler" &gt;Chandler, AZ&lt;/option&gt;
+ 
+ &lt;option value="charleston-sc" data-col="108.5" data-name="Charleston" &gt;Charleston, SC&lt;/option&gt;
+ 
+ &lt;option value="charlotte-nc" data-col="98.2" data-name="Charlotte" &gt;Charlotte, NC&lt;/option&gt;
+ 
+ &lt;option value="chattanooga-tn" data-col="92.5" data-name="Chattanooga" &gt;Chattanooga, TN&lt;/option&gt;
+ 
+ &lt;option value="chesapeake-va" data-col="102.5" data-name="Chesapeake" &gt;Chesapeake, VA&lt;/option&gt;
+ 
+ &lt;option value="cheyenne-wy" data-col="96.5" data-name="Cheyenne" &gt;Cheyenne, WY&lt;/option&gt;
+ 
+ &lt;option value="chicago-il" data-col="110.8" data-name="Chicago" &gt;Chicago, IL&lt;/option&gt;
+ 
+ &lt;option value="chula-vista-ca" data-col="138.5" data-name="Chula Vista" &gt;Chula Vista, CA&lt;/option&gt;
+ 
+ &lt;option value="cincinnati-oh" data-col="92.8" data-name="Cincinnati" &gt;Cincinnati, OH&lt;/option&gt;
+ 
+ &lt;option value="cleveland-oh" data-col="90.2" data-name="Cleveland" &gt;Cleveland, OH&lt;/option&gt;
+ 
+ &lt;option value="colorado-springs-co" data-col="105.2" data-name="Colorado Springs" &gt;Colorado Springs, CO&lt;/option&gt;
+ 
+ &lt;option value="columbia-sc" data-col="94.5" data-name="Columbia" &gt;Columbia, SC&lt;/option&gt;
+ 
+ &lt;option value="columbus-oh" data-col="92.1" data-name="Columbus" &gt;Columbus, OH&lt;/option&gt;
+ 
+ &lt;option value="corpus-christi-tx" data-col="92.5" data-name="Corpus Christi" &gt;Corpus Christi, TX&lt;/option&gt;
+ 
+ &lt;option value="dallas-tx" data-col="101.3" data-name="Dallas" &gt;Dallas, TX&lt;/option&gt;
+ 
+ &lt;option value="denver-co" data-col="128.5" data-name="Denver" &gt;Denver, CO&lt;/option&gt;
+ 
+ &lt;option value="des-moines-ia" data-col="90.5" data-name="Des Moines" &gt;Des Moines, IA&lt;/option&gt;
+ 
+ &lt;option value="detroit-mi" data-col="92.8" data-name="Detroit" &gt;Detroit, MI&lt;/option&gt;
+ 
+ &lt;option value="durham-nc" data-col="98.5" data-name="Durham" &gt;Durham, NC&lt;/option&gt;
+ 
+ &lt;option value="el-paso-tx" data-col="88.5" data-name="El Paso" &gt;El Paso, TX&lt;/option&gt;
+ 
+ &lt;option value="elk-grove-ca" data-col="128.5" data-name="Elk Grove" &gt;Elk Grove, CA&lt;/option&gt;
+ 
+ &lt;option value="eugene-or" data-col="104.2" data-name="Eugene" &gt;Eugene, OR&lt;/option&gt;
+ 
+ &lt;option value="fargo-nd" data-col="90.5" data-name="Fargo" &gt;Fargo, ND&lt;/option&gt;
+ 
+ &lt;option value="fayetteville-nc" data-col="90.5" data-name="Fayetteville" &gt;Fayetteville, NC&lt;/option&gt;
+ 
+ &lt;option value="fort-wayne-in" data-col="86.5" data-name="Fort Wayne" &gt;Fort Wayne, IN&lt;/option&gt;
+ 
+ &lt;option value="fort-worth-tx" data-col="98.5" data-name="Fort Worth" &gt;Fort Worth, TX&lt;/option&gt;
+ 
+ &lt;option value="fremont-ca" data-col="178.5" data-name="Fremont" &gt;Fremont, CA&lt;/option&gt;
+ 
+ &lt;option value="fresno-ca" data-col="102.5" data-name="Fresno" &gt;Fresno, CA&lt;/option&gt;
+ 
+ &lt;option value="garland-tx" data-col="96.5" data-name="Garland" &gt;Garland, TX&lt;/option&gt;
+ 
+ &lt;option value="glendale-az" data-col="98.5" data-name="Glendale" &gt;Glendale, AZ&lt;/option&gt;
+ 
+ &lt;option value="grand-rapids-mi" data-col="94.5" data-name="Grand Rapids" &gt;Grand Rapids, MI&lt;/option&gt;
+ 
+ &lt;option value="greensboro-nc" data-col="92.4" data-name="Greensboro" &gt;Greensboro, NC&lt;/option&gt;
+ 
+ &lt;option value="greenville-sc" data-col="96.5" data-name="Greenville" &gt;Greenville, SC&lt;/option&gt;
+ 
+ &lt;option value="henderson-nv" data-col="108.5" data-name="Henderson" &gt;Henderson, NV&lt;/option&gt;
+ 
+ &lt;option value="hialeah-fl" data-col="108.5" data-name="Hialeah" &gt;Hialeah, FL&lt;/option&gt;
+ 
+ &lt;option value="honolulu-hi" data-col="185.2" data-name="Honolulu" &gt;Honolulu, HI&lt;/option&gt;
+ 
+ &lt;option value="houston-tx" data-col="95.8" data-name="Houston" &gt;Houston, TX&lt;/option&gt;
+ 
+ &lt;option value="huntsville-al" data-col="94.5" data-name="Huntsville" &gt;Huntsville, AL&lt;/option&gt;
+ 
+ &lt;option value="indianapolis-in" data-col="91.5" data-name="Indianapolis" &gt;Indianapolis, IN&lt;/option&gt;
+ 
+ &lt;option value="irvine-ca" data-col="158.5" data-name="Irvine" &gt;Irvine, CA&lt;/option&gt;
+ 
+ &lt;option value="irving-tx" data-col="100.5" data-name="Irving" &gt;Irving, TX&lt;/option&gt;
+ 
+ &lt;option value="jackson-ms" data-col="88.5" data-name="Jackson" &gt;Jackson, MS&lt;/option&gt;
+ 
+ &lt;option value="jacksonville-fl" data-col="96.8" data-name="Jacksonville" &gt;Jacksonville, FL&lt;/option&gt;
+ 
+ &lt;option value="jersey-city-nj" data-col="142.5" data-name="Jersey City" &gt;Jersey City, NJ&lt;/option&gt;
+ 
+ &lt;option value="kansas-city-ks" data-col="90.5" data-name="Kansas City" &gt;Kansas City, KS&lt;/option&gt;
+ 
+ &lt;option value="kansas-city-mo" data-col="92.8" data-name="Kansas City" &gt;Kansas City, MO&lt;/option&gt;
+ 
+ &lt;option value="key-west-fl" data-col="158.5" data-name="Key West" &gt;Key West, FL&lt;/option&gt;
+ 
+ &lt;option value="knoxville-tn" data-col="92.5" data-name="Knoxville" &gt;Knoxville, TN&lt;/option&gt;
+ 
+ &lt;option value="laredo-tx" data-col="88.5" data-name="Laredo" &gt;Laredo, TX&lt;/option&gt;
+ 
+ &lt;option value="las-vegas-nv" data-col="102.4" data-name="Las Vegas" &gt;Las Vegas, NV&lt;/option&gt;
+ 
+ &lt;option value="lexington-ky" data-col="94.2" data-name="Lexington" &gt;Lexington, KY&lt;/option&gt;
+ 
+ &lt;option value="lincoln-ne" data-col="92.5" data-name="Lincoln" &gt;Lincoln, NE&lt;/option&gt;
+ 
+ &lt;option value="little-rock-ar" data-col="88.5" data-name="Little Rock" &gt;Little Rock, AR&lt;/option&gt;
+ 
+ &lt;option value="long-beach-ca" data-col="142.5" data-name="Long Beach" &gt;Long Beach, CA&lt;/option&gt;
+ 
+ &lt;option value="los-angeles-ca" data-col="173.3" data-name="Los Angeles" &gt;Los Angeles, CA&lt;/option&gt;
+ 
+ &lt;option value="louisville-ky" data-col="91.2" data-name="Louisville" &gt;Louisville, KY&lt;/option&gt;
+ 
+ &lt;option value="lubbock-tx" data-col="88.5" data-name="Lubbock" &gt;Lubbock, TX&lt;/option&gt;
+ 
+ &lt;option value="madison-wi" data-col="104.2" data-name="Madison" &gt;Madison, WI&lt;/option&gt;
+ 
+ &lt;option value="manchester-nh" data-col="108.5" data-name="Manchester" &gt;Manchester, NH&lt;/option&gt;
+ 
+ &lt;option value="memphis-tn" data-col="88.5" data-name="Memphis" &gt;Memphis, TN&lt;/option&gt;
+ 
+ &lt;option value="mesa-az" data-col="102.5" data-name="Mesa" &gt;Mesa, AZ&lt;/option&gt;
+ 
+ &lt;option value="miami-fl" data-col="145.6" data-name="Miami" &gt;Miami, FL&lt;/option&gt;
+ 
+ &lt;option value="milwaukee-wi" data-col="95.2" data-name="Milwaukee" &gt;Milwaukee, WI&lt;/option&gt;
+ 
+ &lt;option value="minneapolis-mn" data-col="106.5" data-name="Minneapolis" &gt;Minneapolis, MN&lt;/option&gt;
+ 
+ &lt;option value="mobile-al" data-col="90.5" data-name="Mobile" &gt;Mobile, AL&lt;/option&gt;
+ 
+ &lt;option value="modesto-ca" data-col="108.5" data-name="Modesto" &gt;Modesto, CA&lt;/option&gt;
+ 
+ &lt;option value="montgomery-al" data-col="90.5" data-name="Montgomery" &gt;Montgomery, AL&lt;/option&gt;
+ 
+ &lt;option value="myrtle-beach-sc" data-col="96.5" data-name="Myrtle Beach" &gt;Myrtle Beach, SC&lt;/option&gt;
+ 
+ &lt;option value="nashville-tn" data-col="100.5" data-name="Nashville" &gt;Nashville, TN&lt;/option&gt;
+ 
+ &lt;option value="new-orleans-la" data-col="98.5" data-name="New Orleans" &gt;New Orleans, LA&lt;/option&gt;
+ 
+ &lt;option value="nyc" data-col="187.2" data-name="New York City" selected&gt;New York City, NY&lt;/option&gt;
+ 
+ &lt;option value="newark-nj" data-col="118.5" data-name="Newark" &gt;Newark, NJ&lt;/option&gt;
+ 
+ &lt;option value="norfolk-va" data-col="98.5" data-name="Norfolk" &gt;Norfolk, VA&lt;/option&gt;
+ 
+ &lt;option value="oakland-ca" data-col="158.4" data-name="Oakland" &gt;Oakland, CA&lt;/option&gt;
+ 
+ &lt;option value="oklahoma-city-ok" data-col="88.2" data-name="Oklahoma City" &gt;Oklahoma City, OK&lt;/option&gt;
+ 
+ &lt;option value="omaha-ne" data-col="91.5" data-name="Omaha" &gt;Omaha, NE&lt;/option&gt;
+ 
+ &lt;option value="orlando-fl" data-col="98.5" data-name="Orlando" &gt;Orlando, FL&lt;/option&gt;
+ 
+ &lt;option value="oxnard-ca" data-col="138.5" data-name="Oxnard" &gt;Oxnard, CA&lt;/option&gt;
+ 
+ &lt;option value="philadelphia-pa" data-col="108.5" data-name="Philadelphia" &gt;Philadelphia, PA&lt;/option&gt;
+ 
+ &lt;option value="phoenix-az" data-col="108.2" data-name="Phoenix" &gt;Phoenix, AZ&lt;/option&gt;
+ 
+ &lt;option value="pittsburgh-pa" data-col="94.5" data-name="Pittsburgh" &gt;Pittsburgh, PA&lt;/option&gt;
+ 
+ &lt;option value="plano-tx" data-col="108.5" data-name="Plano" &gt;Plano, TX&lt;/option&gt;
+ 
+ &lt;option value="portland-me" data-col="112.5" data-name="Portland" &gt;Portland, ME&lt;/option&gt;
+ 
+ &lt;option value="portland-or" data-col="118.2" data-name="Portland" &gt;Portland, OR&lt;/option&gt;
+ 
+ &lt;option value="providence-ri" data-col="118.5" data-name="Providence" &gt;Providence, RI&lt;/option&gt;
+ 
+ &lt;option value="raleigh-nc" data-col="102.4" data-name="Raleigh" &gt;Raleigh, NC&lt;/option&gt;
+ 
+ &lt;option value="reno-nv" data-col="108.5" data-name="Reno" &gt;Reno, NV&lt;/option&gt;
+ 
+ &lt;option value="richmond-va" data-col="98.5" data-name="Richmond" &gt;Richmond, VA&lt;/option&gt;
+ 
+ &lt;option value="riverside-ca" data-col="118.5" data-name="Riverside" &gt;Riverside, CA&lt;/option&gt;
+ 
+ &lt;option value="rochester-ny" data-col="92.5" data-name="Rochester" &gt;Rochester, NY&lt;/option&gt;
+ 
+ &lt;option value="sacramento-ca" data-col="118.5" data-name="Sacramento" &gt;Sacramento, CA&lt;/option&gt;
+ 
+ &lt;option value="saint-paul-mn" data-col="104.2" data-name="Saint Paul" &gt;Saint Paul, MN&lt;/option&gt;
+ 
+ &lt;option value="salem-or" data-col="102.5" data-name="Salem" &gt;Salem, OR&lt;/option&gt;
+ 
+ &lt;option value="salt-lake-city-ut" data-col="108.5" data-name="Salt Lake City" &gt;Salt Lake City, UT&lt;/option&gt;
+ 
+ &lt;option value="san-antonio-tx" data-col="92.4" data-name="San Antonio" &gt;San Antonio, TX&lt;/option&gt;
+ 
+ &lt;option value="san-bernardino-ca" data-col="108.5" data-name="San Bernardino" &gt;San Bernardino, CA&lt;/option&gt;
+ 
+ &lt;option value="san-diego-ca" data-col="154.2" data-name="San Diego" &gt;San Diego, CA&lt;/option&gt;
+ 
+ &lt;option value="san-francisco-ca" data-col="269.3" data-name="San Francisco" &gt;San Francisco, CA&lt;/option&gt;
+ 
+ &lt;option value="san-jose-ca" data-col="214.5" data-name="San Jose" &gt;San Jose, CA&lt;/option&gt;
+ 
+ &lt;option value="santa-ana-ca" data-col="142.8" data-name="Santa Ana" &gt;Santa Ana, CA&lt;/option&gt;
+ 
+ &lt;option value="santa-fe-nm" data-col="112.5" data-name="Santa Fe" &gt;Santa Fe, NM&lt;/option&gt;
+ 
+ &lt;option value="savannah-ga" data-col="96.5" data-name="Savannah" &gt;Savannah, GA&lt;/option&gt;
+ 
+ &lt;option value="scottsdale-az" data-col="118.5" data-name="Scottsdale" &gt;Scottsdale, AZ&lt;/option&gt;
+ 
+ &lt;option value="seattle-wa" data-col="172.1" data-name="Seattle" &gt;Seattle, WA&lt;/option&gt;
+ 
+ &lt;option value="sioux-falls-sd" data-col="90.5" data-name="Sioux Falls" &gt;Sioux Falls, SD&lt;/option&gt;
+ 
+ &lt;option value="spokane-wa" data-col="98.5" data-name="Spokane" &gt;Spokane, WA&lt;/option&gt;
+ 
+ &lt;option value="st-petersburg-fl" data-col="102.5" data-name="St. Petersburg" &gt;St. Petersburg, FL&lt;/option&gt;
+ 
+ &lt;option value="stockton-ca" data-col="112.5" data-name="Stockton" &gt;Stockton, CA&lt;/option&gt;
+ 
+ &lt;option value="tacoma-wa" data-col="112.5" data-name="Tacoma" &gt;Tacoma, WA&lt;/option&gt;
+ 
+ &lt;option value="tallahassee-fl" data-col="96.5" data-name="Tallahassee" &gt;Tallahassee, FL&lt;/option&gt;
+ 
+ &lt;option value="tampa-fl" data-col="102.8" data-name="Tampa" &gt;Tampa, FL&lt;/option&gt;
+ 
+ &lt;option value="toledo-oh" data-col="88.5" data-name="Toledo" &gt;Toledo, OH&lt;/option&gt;
+ 
+ &lt;option value="tucson-az" data-col="95.8" data-name="Tucson" &gt;Tucson, AZ&lt;/option&gt;
+ 
+ &lt;option value="tulsa-ok" data-col="88.5" data-name="Tulsa" &gt;Tulsa, OK&lt;/option&gt;
+ 
+ &lt;option value="virginia-beach-va" data-col="104.2" data-name="Virginia Beach" &gt;Virginia Beach, VA&lt;/option&gt;
+ 
+ &lt;option value="washington-dc" data-col="152.1" data-name="Washington DC" &gt;Washington DC, DC&lt;/option&gt;
+ 
+ &lt;option value="wichita-ks" data-col="86.8" data-name="Wichita" &gt;Wichita, KS&lt;/option&gt;
+ 
+ &lt;option value="wilmington-nc" data-col="98.5" data-name="Wilmington" &gt;Wilmington, NC&lt;/option&gt;
+ 
+ &lt;option value="winston-salem-nc" data-col="92.5" data-name="Winston-Salem" &gt;Winston-Salem, NC&lt;/option&gt;
+ 
+ &lt;option value="worcester-ma" data-col="118.5" data-name="Worcester" &gt;Worcester, MA&lt;/option&gt;
+ 
  &lt;/select&gt;
  &lt;/div&gt;
  &lt;div class="calc-row"&gt;
  &lt;label&gt;To City&lt;/label&gt;
  &lt;select id="to-city"&gt;
- &lt;option value="austin-tx" selected&gt;Austin&lt;/option&gt;
- &lt;option value="nyc" &gt;New York City&lt;/option&gt;
- &lt;option value="sf" &gt;San Francisco&lt;/option&gt;
- &lt;option value="la" &gt;Los Angeles&lt;/option&gt;
- &lt;option value="chicago" &gt;Chicago&lt;/option&gt;
+ 
+ &lt;option value="akron-oh" data-col="88.5" data-name="Akron" &gt;Akron, OH&lt;/option&gt;
+ 
+ &lt;option value="albuquerque-nm" data-col="94.5" data-name="Albuquerque" &gt;Albuquerque, NM&lt;/option&gt;
+ 
+ &lt;option value="anaheim-ca" data-col="148.5" data-name="Anaheim" &gt;Anaheim, CA&lt;/option&gt;
+ 
+ &lt;option value="anchorage-ak" data-col="118.5" data-name="Anchorage" &gt;Anchorage, AK&lt;/option&gt;
+ 
+ &lt;option value="ann-arbor-mi" data-col="108.5" data-name="Ann Arbor" &gt;Ann Arbor, MI&lt;/option&gt;
+ 
+ &lt;option value="asheville-nc" data-col="102.5" data-name="Asheville" &gt;Asheville, NC&lt;/option&gt;
+ 
+ &lt;option value="atlanta-ga" data-col="104.7" data-name="Atlanta" &gt;Atlanta, GA&lt;/option&gt;
+ 
+ &lt;option value="augusta-ga" data-col="90.5" data-name="Augusta" &gt;Augusta, GA&lt;/option&gt;
+ 
+ &lt;option value="aurora-co" data-col="108.5" data-name="Aurora" &gt;Aurora, CO&lt;/option&gt;
+ 
+ &lt;option value="austin-tx" data-col="119.3" data-name="Austin" selected&gt;Austin, TX&lt;/option&gt;
+ 
+ &lt;option value="bakersfield-ca" data-col="102.5" data-name="Bakersfield" &gt;Bakersfield, CA&lt;/option&gt;
+ 
+ &lt;option value="baltimore-md" data-col="108.4" data-name="Baltimore" &gt;Baltimore, MD&lt;/option&gt;
+ 
+ &lt;option value="baton-rouge-la" data-col="94.5" data-name="Baton Rouge" &gt;Baton Rouge, LA&lt;/option&gt;
+ 
+ &lt;option value="bend-or" data-col="118.5" data-name="Bend" &gt;Bend, OR&lt;/option&gt;
+ 
+ &lt;option value="billings-mt" data-col="96.5" data-name="Billings" &gt;Billings, MT&lt;/option&gt;
+ 
+ &lt;option value="birmingham-al" data-col="90.5" data-name="Birmingham" &gt;Birmingham, AL&lt;/option&gt;
+ 
+ &lt;option value="boise-id" data-col="102.5" data-name="Boise" &gt;Boise, ID&lt;/option&gt;
+ 
+ &lt;option value="boston-ma" data-col="153.2" data-name="Boston" &gt;Boston, MA&lt;/option&gt;
+ 
+ &lt;option value="boulder-co" data-col="148.5" data-name="Boulder" &gt;Boulder, CO&lt;/option&gt;
+ 
+ &lt;option value="bridgeport-ct" data-col="118.5" data-name="Bridgeport" &gt;Bridgeport, CT&lt;/option&gt;
+ 
+ &lt;option value="buffalo-ny" data-col="92.5" data-name="Buffalo" &gt;Buffalo, NY&lt;/option&gt;
+ 
+ &lt;option value="burlington-vt" data-col="112.5" data-name="Burlington" &gt;Burlington, VT&lt;/option&gt;
+ 
+ &lt;option value="chandler-az" data-col="108.5" data-name="Chandler" &gt;Chandler, AZ&lt;/option&gt;
+ 
+ &lt;option value="charleston-sc" data-col="108.5" data-name="Charleston" &gt;Charleston, SC&lt;/option&gt;
+ 
+ &lt;option value="charlotte-nc" data-col="98.2" data-name="Charlotte" &gt;Charlotte, NC&lt;/option&gt;
+ 
+ &lt;option value="chattanooga-tn" data-col="92.5" data-name="Chattanooga" &gt;Chattanooga, TN&lt;/option&gt;
+ 
+ &lt;option value="chesapeake-va" data-col="102.5" data-name="Chesapeake" &gt;Chesapeake, VA&lt;/option&gt;
+ 
+ &lt;option value="cheyenne-wy" data-col="96.5" data-name="Cheyenne" &gt;Cheyenne, WY&lt;/option&gt;
+ 
+ &lt;option value="chicago-il" data-col="110.8" data-name="Chicago" &gt;Chicago, IL&lt;/option&gt;
+ 
+ &lt;option value="chula-vista-ca" data-col="138.5" data-name="Chula Vista" &gt;Chula Vista, CA&lt;/option&gt;
+ 
+ &lt;option value="cincinnati-oh" data-col="92.8" data-name="Cincinnati" &gt;Cincinnati, OH&lt;/option&gt;
+ 
+ &lt;option value="cleveland-oh" data-col="90.2" data-name="Cleveland" &gt;Cleveland, OH&lt;/option&gt;
+ 
+ &lt;option value="colorado-springs-co" data-col="105.2" data-name="Colorado Springs" &gt;Colorado Springs, CO&lt;/option&gt;
+ 
+ &lt;option value="columbia-sc" data-col="94.5" data-name="Columbia" &gt;Columbia, SC&lt;/option&gt;
+ 
+ &lt;option value="columbus-oh" data-col="92.1" data-name="Columbus" &gt;Columbus, OH&lt;/option&gt;
+ 
+ &lt;option value="corpus-christi-tx" data-col="92.5" data-name="Corpus Christi" &gt;Corpus Christi, TX&lt;/option&gt;
+ 
+ &lt;option value="dallas-tx" data-col="101.3" data-name="Dallas" &gt;Dallas, TX&lt;/option&gt;
+ 
+ &lt;option value="denver-co" data-col="128.5" data-name="Denver" &gt;Denver, CO&lt;/option&gt;
+ 
+ &lt;option value="des-moines-ia" data-col="90.5" data-name="Des Moines" &gt;Des Moines, IA&lt;/option&gt;
+ 
+ &lt;option value="detroit-mi" data-col="92.8" data-name="Detroit" &gt;Detroit, MI&lt;/option&gt;
+ 
+ &lt;option value="durham-nc" data-col="98.5" data-name="Durham" &gt;Durham, NC&lt;/option&gt;
+ 
+ &lt;option value="el-paso-tx" data-col="88.5" data-name="El Paso" &gt;El Paso, TX&lt;/option&gt;
+ 
+ &lt;option value="elk-grove-ca" data-col="128.5" data-name="Elk Grove" &gt;Elk Grove, CA&lt;/option&gt;
+ 
+ &lt;option value="eugene-or" data-col="104.2" data-name="Eugene" &gt;Eugene, OR&lt;/option&gt;
+ 
+ &lt;option value="fargo-nd" data-col="90.5" data-name="Fargo" &gt;Fargo, ND&lt;/option&gt;
+ 
+ &lt;option value="fayetteville-nc" data-col="90.5" data-name="Fayetteville" &gt;Fayetteville, NC&lt;/option&gt;
+ 
+ &lt;option value="fort-wayne-in" data-col="86.5" data-name="Fort Wayne" &gt;Fort Wayne, IN&lt;/option&gt;
+ 
+ &lt;option value="fort-worth-tx" data-col="98.5" data-name="Fort Worth" &gt;Fort Worth, TX&lt;/option&gt;
+ 
+ &lt;option value="fremont-ca" data-col="178.5" data-name="Fremont" &gt;Fremont, CA&lt;/option&gt;
+ 
+ &lt;option value="fresno-ca" data-col="102.5" data-name="Fresno" &gt;Fresno, CA&lt;/option&gt;
+ 
+ &lt;option value="garland-tx" data-col="96.5" data-name="Garland" &gt;Garland, TX&lt;/option&gt;
+ 
+ &lt;option value="glendale-az" data-col="98.5" data-name="Glendale" &gt;Glendale, AZ&lt;/option&gt;
+ 
+ &lt;option value="grand-rapids-mi" data-col="94.5" data-name="Grand Rapids" &gt;Grand Rapids, MI&lt;/option&gt;
+ 
+ &lt;option value="greensboro-nc" data-col="92.4" data-name="Greensboro" &gt;Greensboro, NC&lt;/option&gt;
+ 
+ &lt;option value="greenville-sc" data-col="96.5" data-name="Greenville" &gt;Greenville, SC&lt;/option&gt;
+ 
+ &lt;option value="henderson-nv" data-col="108.5" data-name="Henderson" &gt;Henderson, NV&lt;/option&gt;
+ 
+ &lt;option value="hialeah-fl" data-col="108.5" data-name="Hialeah" &gt;Hialeah, FL&lt;/option&gt;
+ 
+ &lt;option value="honolulu-hi" data-col="185.2" data-name="Honolulu" &gt;Honolulu, HI&lt;/option&gt;
+ 
+ &lt;option value="houston-tx" data-col="95.8" data-name="Houston" &gt;Houston, TX&lt;/option&gt;
+ 
+ &lt;option value="huntsville-al" data-col="94.5" data-name="Huntsville" &gt;Huntsville, AL&lt;/option&gt;
+ 
+ &lt;option value="indianapolis-in" data-col="91.5" data-name="Indianapolis" &gt;Indianapolis, IN&lt;/option&gt;
+ 
+ &lt;option value="irvine-ca" data-col="158.5" data-name="Irvine" &gt;Irvine, CA&lt;/option&gt;
+ 
+ &lt;option value="irving-tx" data-col="100.5" data-name="Irving" &gt;Irving, TX&lt;/option&gt;
+ 
+ &lt;option value="jackson-ms" data-col="88.5" data-name="Jackson" &gt;Jackson, MS&lt;/option&gt;
+ 
+ &lt;option value="jacksonville-fl" data-col="96.8" data-name="Jacksonville" &gt;Jacksonville, FL&lt;/option&gt;
+ 
+ &lt;option value="jersey-city-nj" data-col="142.5" data-name="Jersey City" &gt;Jersey City, NJ&lt;/option&gt;
+ 
+ &lt;option value="kansas-city-ks" data-col="90.5" data-name="Kansas City" &gt;Kansas City, KS&lt;/option&gt;
+ 
+ &lt;option value="kansas-city-mo" data-col="92.8" data-name="Kansas City" &gt;Kansas City, MO&lt;/option&gt;
+ 
+ &lt;option value="key-west-fl" data-col="158.5" data-name="Key West" &gt;Key West, FL&lt;/option&gt;
+ 
+ &lt;option value="knoxville-tn" data-col="92.5" data-name="Knoxville" &gt;Knoxville, TN&lt;/option&gt;
+ 
+ &lt;option value="laredo-tx" data-col="88.5" data-name="Laredo" &gt;Laredo, TX&lt;/option&gt;
+ 
+ &lt;option value="las-vegas-nv" data-col="102.4" data-name="Las Vegas" &gt;Las Vegas, NV&lt;/option&gt;
+ 
+ &lt;option value="lexington-ky" data-col="94.2" data-name="Lexington" &gt;Lexington, KY&lt;/option&gt;
+ 
+ &lt;option value="lincoln-ne" data-col="92.5" data-name="Lincoln" &gt;Lincoln, NE&lt;/option&gt;
+ 
+ &lt;option value="little-rock-ar" data-col="88.5" data-name="Little Rock" &gt;Little Rock, AR&lt;/option&gt;
+ 
+ &lt;option value="long-beach-ca" data-col="142.5" data-name="Long Beach" &gt;Long Beach, CA&lt;/option&gt;
+ 
+ &lt;option value="los-angeles-ca" data-col="173.3" data-name="Los Angeles" &gt;Los Angeles, CA&lt;/option&gt;
+ 
+ &lt;option value="louisville-ky" data-col="91.2" data-name="Louisville" &gt;Louisville, KY&lt;/option&gt;
+ 
+ &lt;option value="lubbock-tx" data-col="88.5" data-name="Lubbock" &gt;Lubbock, TX&lt;/option&gt;
+ 
+ &lt;option value="madison-wi" data-col="104.2" data-name="Madison" &gt;Madison, WI&lt;/option&gt;
+ 
+ &lt;option value="manchester-nh" data-col="108.5" data-name="Manchester" &gt;Manchester, NH&lt;/option&gt;
+ 
+ &lt;option value="memphis-tn" data-col="88.5" data-name="Memphis" &gt;Memphis, TN&lt;/option&gt;
+ 
+ &lt;option value="mesa-az" data-col="102.5" data-name="Mesa" &gt;Mesa, AZ&lt;/option&gt;
+ 
+ &lt;option value="miami-fl" data-col="145.6" data-name="Miami" &gt;Miami, FL&lt;/option&gt;
+ 
+ &lt;option value="milwaukee-wi" data-col="95.2" data-name="Milwaukee" &gt;Milwaukee, WI&lt;/option&gt;
+ 
+ &lt;option value="minneapolis-mn" data-col="106.5" data-name="Minneapolis" &gt;Minneapolis, MN&lt;/option&gt;
+ 
+ &lt;option value="mobile-al" data-col="90.5" data-name="Mobile" &gt;Mobile, AL&lt;/option&gt;
+ 
+ &lt;option value="modesto-ca" data-col="108.5" data-name="Modesto" &gt;Modesto, CA&lt;/option&gt;
+ 
+ &lt;option value="montgomery-al" data-col="90.5" data-name="Montgomery" &gt;Montgomery, AL&lt;/option&gt;
+ 
+ &lt;option value="myrtle-beach-sc" data-col="96.5" data-name="Myrtle Beach" &gt;Myrtle Beach, SC&lt;/option&gt;
+ 
+ &lt;option value="nashville-tn" data-col="100.5" data-name="Nashville" &gt;Nashville, TN&lt;/option&gt;
+ 
+ &lt;option value="new-orleans-la" data-col="98.5" data-name="New Orleans" &gt;New Orleans, LA&lt;/option&gt;
+ 
+ &lt;option value="nyc" data-col="187.2" data-name="New York City" &gt;New York City, NY&lt;/option&gt;
+ 
+ &lt;option value="newark-nj" data-col="118.5" data-name="Newark" &gt;Newark, NJ&lt;/option&gt;
+ 
+ &lt;option value="norfolk-va" data-col="98.5" data-name="Norfolk" &gt;Norfolk, VA&lt;/option&gt;
+ 
+ &lt;option value="oakland-ca" data-col="158.4" data-name="Oakland" &gt;Oakland, CA&lt;/option&gt;
+ 
+ &lt;option value="oklahoma-city-ok" data-col="88.2" data-name="Oklahoma City" &gt;Oklahoma City, OK&lt;/option&gt;
+ 
+ &lt;option value="omaha-ne" data-col="91.5" data-name="Omaha" &gt;Omaha, NE&lt;/option&gt;
+ 
+ &lt;option value="orlando-fl" data-col="98.5" data-name="Orlando" &gt;Orlando, FL&lt;/option&gt;
+ 
+ &lt;option value="oxnard-ca" data-col="138.5" data-name="Oxnard" &gt;Oxnard, CA&lt;/option&gt;
+ 
+ &lt;option value="philadelphia-pa" data-col="108.5" data-name="Philadelphia" &gt;Philadelphia, PA&lt;/option&gt;
+ 
+ &lt;option value="phoenix-az" data-col="108.2" data-name="Phoenix" &gt;Phoenix, AZ&lt;/option&gt;
+ 
+ &lt;option value="pittsburgh-pa" data-col="94.5" data-name="Pittsburgh" &gt;Pittsburgh, PA&lt;/option&gt;
+ 
+ &lt;option value="plano-tx" data-col="108.5" data-name="Plano" &gt;Plano, TX&lt;/option&gt;
+ 
+ &lt;option value="portland-me" data-col="112.5" data-name="Portland" &gt;Portland, ME&lt;/option&gt;
+ 
+ &lt;option value="portland-or" data-col="118.2" data-name="Portland" &gt;Portland, OR&lt;/option&gt;
+ 
+ &lt;option value="providence-ri" data-col="118.5" data-name="Providence" &gt;Providence, RI&lt;/option&gt;
+ 
+ &lt;option value="raleigh-nc" data-col="102.4" data-name="Raleigh" &gt;Raleigh, NC&lt;/option&gt;
+ 
+ &lt;option value="reno-nv" data-col="108.5" data-name="Reno" &gt;Reno, NV&lt;/option&gt;
+ 
+ &lt;option value="richmond-va" data-col="98.5" data-name="Richmond" &gt;Richmond, VA&lt;/option&gt;
+ 
+ &lt;option value="riverside-ca" data-col="118.5" data-name="Riverside" &gt;Riverside, CA&lt;/option&gt;
+ 
+ &lt;option value="rochester-ny" data-col="92.5" data-name="Rochester" &gt;Rochester, NY&lt;/option&gt;
+ 
+ &lt;option value="sacramento-ca" data-col="118.5" data-name="Sacramento" &gt;Sacramento, CA&lt;/option&gt;
+ 
+ &lt;option value="saint-paul-mn" data-col="104.2" data-name="Saint Paul" &gt;Saint Paul, MN&lt;/option&gt;
+ 
+ &lt;option value="salem-or" data-col="102.5" data-name="Salem" &gt;Salem, OR&lt;/option&gt;
+ 
+ &lt;option value="salt-lake-city-ut" data-col="108.5" data-name="Salt Lake City" &gt;Salt Lake City, UT&lt;/option&gt;
+ 
+ &lt;option value="san-antonio-tx" data-col="92.4" data-name="San Antonio" &gt;San Antonio, TX&lt;/option&gt;
+ 
+ &lt;option value="san-bernardino-ca" data-col="108.5" data-name="San Bernardino" &gt;San Bernardino, CA&lt;/option&gt;
+ 
+ &lt;option value="san-diego-ca" data-col="154.2" data-name="San Diego" &gt;San Diego, CA&lt;/option&gt;
+ 
+ &lt;option value="san-francisco-ca" data-col="269.3" data-name="San Francisco" &gt;San Francisco, CA&lt;/option&gt;
+ 
+ &lt;option value="san-jose-ca" data-col="214.5" data-name="San Jose" &gt;San Jose, CA&lt;/option&gt;
+ 
+ &lt;option value="santa-ana-ca" data-col="142.8" data-name="Santa Ana" &gt;Santa Ana, CA&lt;/option&gt;
+ 
+ &lt;option value="santa-fe-nm" data-col="112.5" data-name="Santa Fe" &gt;Santa Fe, NM&lt;/option&gt;
+ 
+ &lt;option value="savannah-ga" data-col="96.5" data-name="Savannah" &gt;Savannah, GA&lt;/option&gt;
+ 
+ &lt;option value="scottsdale-az" data-col="118.5" data-name="Scottsdale" &gt;Scottsdale, AZ&lt;/option&gt;
+ 
+ &lt;option value="seattle-wa" data-col="172.1" data-name="Seattle" &gt;Seattle, WA&lt;/option&gt;
+ 
+ &lt;option value="sioux-falls-sd" data-col="90.5" data-name="Sioux Falls" &gt;Sioux Falls, SD&lt;/option&gt;
+ 
+ &lt;option value="spokane-wa" data-col="98.5" data-name="Spokane" &gt;Spokane, WA&lt;/option&gt;
+ 
+ &lt;option value="st-petersburg-fl" data-col="102.5" data-name="St. Petersburg" &gt;St. Petersburg, FL&lt;/option&gt;
+ 
+ &lt;option value="stockton-ca" data-col="112.5" data-name="Stockton" &gt;Stockton, CA&lt;/option&gt;
+ 
+ &lt;option value="tacoma-wa" data-col="112.5" data-name="Tacoma" &gt;Tacoma, WA&lt;/option&gt;
+ 
+ &lt;option value="tallahassee-fl" data-col="96.5" data-name="Tallahassee" &gt;Tallahassee, FL&lt;/option&gt;
+ 
+ &lt;option value="tampa-fl" data-col="102.8" data-name="Tampa" &gt;Tampa, FL&lt;/option&gt;
+ 
+ &lt;option value="toledo-oh" data-col="88.5" data-name="Toledo" &gt;Toledo, OH&lt;/option&gt;
+ 
+ &lt;option value="tucson-az" data-col="95.8" data-name="Tucson" &gt;Tucson, AZ&lt;/option&gt;
+ 
+ &lt;option value="tulsa-ok" data-col="88.5" data-name="Tulsa" &gt;Tulsa, OK&lt;/option&gt;
+ 
+ &lt;option value="virginia-beach-va" data-col="104.2" data-name="Virginia Beach" &gt;Virginia Beach, VA&lt;/option&gt;
+ 
+ &lt;option value="washington-dc" data-col="152.1" data-name="Washington DC" &gt;Washington DC, DC&lt;/option&gt;
+ 
+ &lt;option value="wichita-ks" data-col="86.8" data-name="Wichita" &gt;Wichita, KS&lt;/option&gt;
+ 
+ &lt;option value="wilmington-nc" data-col="98.5" data-name="Wilmington" &gt;Wilmington, NC&lt;/option&gt;
+ 
+ &lt;option value="winston-salem-nc" data-col="92.5" data-name="Winston-Salem" &gt;Winston-Salem, NC&lt;/option&gt;
+ 
+ &lt;option value="worcester-ma" data-col="118.5" data-name="Worcester" &gt;Worcester, MA&lt;/option&gt;
+ 
  &lt;/select&gt;
  &lt;/div&gt;
  &lt;button class="btn btn-primary" onclick="calculateSalary()"&gt;Calculate&lt;/button&gt;
  &lt;div class="calc-result" id="salary-result" style="display:none;"&gt;
- &lt;p&gt;You need &lt;strong id="needed-salary"&gt;&lt;/strong&gt; in &lt;span id="target-city-name"&gt;&lt;/span&gt; to maintain the same standard of living.&lt;/p&gt;
- &lt;p id="salary-difference"&gt;&lt;/p&gt;
- &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-function calculateSalary() {
- const salary = parseFloat(document.getElementById('current-salary').value);
- const fromCity = document.getElementById('from-city').value;
- const toCity = document.getElementById('to-city').value;
- 
- const colIndex = {
- 'nyc': 187.2,
- 'sf': 269.3,
- 'la': 173.3,
- 'chicago': 110.8,
- 'austin-tx': 119.3
- };
- 
- const cityNames = {
- 'nyc': 'New York City',
- 'sf': 'San Francisco',
- 'la': 'Los Angeles',
- 'chicago': 'Chicago',
- 'austin-tx': 'Austin'
- };
- 
- const neededSalary = Math.round(salary * (colIndex[toCity] / colIndex[fromCity]));
- const diff = salary - neededSalary;
- 
- document.getElementById('needed-salary').textContent = '$' + neededSalary.toLocaleString();
- document.getElementById('target-city-name').textContent = cityNames[toCity];
- 
- const diffEl = document.getElementById('salary-difference');
- if (diff &gt; 0) {
- diffEl.innerHTML = 'You would save &lt;strong&gt;$' + diff.toLocaleString() + '/year&lt;/strong&gt; by moving.';
- diffEl.className = 'savings-positive';
- } else if (diff &lt; 0) {
- diffEl.innerHTML = 'You would need &lt;strong&gt;$' + Math.abs(diff).toLocaleString() + '/year more&lt;/strong&gt; to maintain your lifestyle.';
- diffEl.className = 'savings-negative';
- } else {
- diffEl.textContent = 'Cost of living is roughly the same.';
- }
- 
- document.getElementById('salary-result').style.display = 'block';
-}
-&lt;/script&gt;
-
-&lt;h2 id="how-it-works"&gt;How It Works&lt;/h2&gt;
-&lt;p&gt;Enter your current salary and city, plus your destination city. We calculate the equivalent salary using cost of living indices from official sources.&lt;/p&gt;</description></item><item><title>Terms of Service</title><link>https://urcity.com/terms-of-service/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://urcity.com/terms-of-service/</guid><description>&lt;h2 id="terms-of-service"&gt;Terms of Service&lt;/h2&gt;
+ &lt;p&gt;You need &lt;strong id="needed-salary"&gt;&lt;/strong&gt; in &lt;span id="target-city-name"&gt;&lt;/span&gt; to maintain the same standard of living.&lt;/p&gt;</description></item><item><title>Terms of Service</title><link>https://urcity.com/terms-of-service/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://urcity.com/terms-of-service/</guid><description>&lt;h2 id="terms-of-service"&gt;Terms of Service&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Last updated:&lt;/strong&gt; June 28, 2026&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Publisher:&lt;/strong&gt; Northshore Press (&lt;a href="https://northshorepress.co"&gt;https://northshorepress.co&lt;/a&gt;)&lt;/p&gt;
 &lt;h3 id="acceptance-of-terms"&gt;Acceptance of Terms&lt;/h3&gt;
