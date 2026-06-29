@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Free Relocation Tools on URCity — Find Your City. Know the True Cost.</title><link>https://urcity.com/tools/</link><description>Recent content in Free Relocation Tools on URCity — Find Your City. Know the True Cost.</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://urcity.com/tools/index.xml" rel="self" type="application/rss+xml"/><item><title>Cost of Living Calculator</title><link>https://urcity.com/tools/cost-of-living-calculator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://urcity.com/tools/cost-of-living-calculator/</guid><description>&lt;h2 id="cost-of-living-calculator"&gt;Cost of Living Calculator&lt;/h2&gt;
+&lt;p&gt;Compare the cost of living between two cities to see how much you&amp;rsquo;ll save or spend.&lt;/p&gt;
+&lt;div class="calculator-widget" id="col-calc"&gt;
+ &lt;h3&gt;Cost of Living Comparison&lt;/h3&gt;
+ &lt;div class="calc-row"&gt;
+ &lt;label&gt;City A&lt;/label&gt;
+ &lt;select id="col-city-a"&gt;
+ &lt;option value="nyc"&gt;New York City&lt;/option&gt;
+ &lt;option value="sf"&gt;San Francisco&lt;/option&gt;
+ &lt;option value="la"&gt;Los Angeles&lt;/option&gt;
+ &lt;option value="chicago"&gt;Chicago&lt;/option&gt;
+ &lt;option value="austin-tx" selected&gt;Austin&lt;/option&gt;
+ &lt;option value="denver-co"&gt;Denver&lt;/option&gt;
+ &lt;option value="phoenix-az"&gt;Phoenix&lt;/option&gt;
+ &lt;option value="miami-fl"&gt;Miami&lt;/option&gt;
+ &lt;option value="seattle-wa"&gt;Seattle&lt;/option&gt;
+ &lt;option value="atlanta-ga"&gt;Atlanta&lt;/option&gt;
+ &lt;/select&gt;
+ &lt;/div&gt;
+ &lt;div class="calc-row"&gt;
+ &lt;label&gt;City B&lt;/label&gt;
+ &lt;select id="col-city-b"&gt;
+ &lt;option value="nyc" selected&gt;New York City&lt;/option&gt;
+ &lt;option value="sf"&gt;San Francisco&lt;/option&gt;
+ &lt;option value="la"&gt;Los Angeles&lt;/option&gt;
+ &lt;option value="chicago"&gt;Chicago&lt;/option&gt;
+ &lt;option value="austin-tx"&gt;Austin&lt;/option&gt;
+ &lt;option value="denver-co"&gt;Denver&lt;/option&gt;
+ &lt;option value="phoenix-az"&gt;Phoenix&lt;/option&gt;
+ &lt;option value="miami-fl"&gt;Miami&lt;/option&gt;
+ &lt;option value="seattle-wa"&gt;Seattle&lt;/option&gt;
+ &lt;option value="atlanta-ga"&gt;Atlanta&lt;/option&gt;
+ &lt;/select&gt;
+ &lt;/div&gt;
+ &lt;button class="btn btn-primary" onclick="compareCOL()"&gt;Compare&lt;/button&gt;
+ &lt;div class="calc-result" id="col-result" style="display:none;"&gt;
+ &lt;h4&gt;Cost of Living Comparison&lt;/h4&gt;
+ &lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;&lt;th&gt;Category&lt;/th&gt;&lt;th id="col-a-name"&gt;City A&lt;/th&gt;&lt;th id="col-b-name"&gt;City B&lt;/th&gt;&lt;th&gt;Difference&lt;/th&gt;&lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody id="col-table-body"&gt;&lt;/tbody&gt;
+ &lt;/table&gt;
+ &lt;p id="col-summary"&gt;&lt;/p&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+function compareCOL() {
+ const cityA = document.getElementById('col-city-a').value;
+ const cityB = document.getElementById('col-city-b').value;
+ 
+ const data = {
+ 'nyc': { name: 'New York City', overall: 187.2, housing: 294.7, groceries: 156.3, utilities: 108.4, transport: 142.1, healthcare: 118.5 },
+ 'sf': { name: 'San Francisco', overall: 269.3, housing: 432.1, groceries: 148.9, utilities: 112.3, transport: 138.7, healthcare: 124.2 },
+ 'la': { name: 'Los Angeles', overall: 173.3, housing: 261.4, groceries: 142.7, utilities: 98.6, transport: 135.2, healthcare: 115.8 },
+ 'chicago': { name: 'Chicago', overall: 110.8, housing: 132.5, groceries: 104.3, utilities: 96.8, transport: 118.4, healthcare: 102.1 },
+ 'austin-tx': { name: 'Austin', overall: 119.3, housing: 159.2, groceries: 96.7, utilities: 99.2, transport: 109.4, healthcare: 101.5 },
+ 'denver-co': { name: 'Denver', overall: 128.5, housing: 168.3, groceries: 101.4, utilities: 94.7, transport: 112.6, healthcare: 103.8 },
+ 'phoenix-az': { name: 'Phoenix', overall: 108.2, housing: 124.6, groceries: 98.3, utilities: 102.1, transport: 106.8, healthcare: 98.7 },
+ 'miami-fl': { name: 'Miami', overall: 145.6, housing: 198.3, groceries: 112.4, utilities: 95.3, transport: 128.9, healthcare: 108.2 },
+ 'seattle-wa': { name: 'Seattle', overall: 172.1, housing: 245.8, groceries: 138.2, utilities: 91.4, transport: 132.5, healthcare: 114.6 },
+ 'atlanta-ga': { name: 'Atlanta', overall: 104.7, housing: 118.3, groceries: 97.1, utilities: 98.5, transport: 103.2, healthcare: 99.4 }
+ };
+ 
+ const a = data[cityA];
+ const b = data[cityB];
+ 
+ document.getElementById('col-a-name').textContent = a.name;
+ document.getElementById('col-b-name').textContent = b.name;
+ 
+ const categories = [
+ { key: 'overall', label: 'Overall' },
+ { key: 'housing', label: 'Housing' },
+ { key: 'groceries', label: 'Groceries' },
+ { key: 'utilities', label: 'Utilities' },
+ { key: 'transport', label: 'Transportation' },
+ { key: 'healthcare', label: 'Healthcare' }
+ ];
+ 
+ let tbody = '';
+ categories.forEach(cat =&gt; {
+ const diff = b[cat.key] - a[cat.key];
+ const pct = Math.round((diff / a[cat.key]) * 100);
+ const sign = diff &gt; 0 ? '+' : '';
+ tbody += `&lt;tr&gt;&lt;td&gt;${cat.label}&lt;/td&gt;&lt;td&gt;${a[cat.key]}&lt;/td&gt;&lt;td&gt;${b[cat.key]}&lt;/td&gt;&lt;td class="${diff &gt; 0 ? 'negative' : 'positive'}"&gt;${sign}${pct}%&lt;/td&gt;&lt;/tr&gt;`;
+ });
+ 
+ document.getElementById('col-table-body').innerHTML = tbody;
+ 
+ const overallDiff = Math.round(((b.overall - a.overall) / a.overall) * 100);
+ const cheaper = a.overall &lt; b.overall ? a.name : b.name;
+ const moreExpensive = a.overall &lt; b.overall ? b.name : a.name;
+ const savings = Math.abs(overallDiff);
+ 
+ document.getElementById('col-summary').innerHTML = `&lt;strong&gt;${cheaper}&lt;/strong&gt; is ${savings}% cheaper than ${moreExpensive}.`;
+ 
+ document.getElementById('col-result').style.display = 'block';
+}
+&lt;/script&gt;
+
+&lt;h2 id="how-it-works"&gt;How It Works&lt;/h2&gt;
+&lt;p&gt;Our calculator uses official data from the Council for Community and Economic Research (C2ER) to compare costs across categories:&lt;/p&gt;</description></item><item><title>Home Ownership Calculator</title><link>https://urcity.com/tools/home-ownership-calculator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://urcity.com/tools/home-ownership-calculator/</guid><description>&lt;h2 id="home-ownership-calculator"&gt;Home Ownership Calculator&lt;/h2&gt;
+&lt;p&gt;Buying a home is more than just a mortgage payment. See the full picture with our True Cost of Home Ownership calculator.&lt;/p&gt;
+&lt;div class="calculator-widget" id="home-calc"&gt;
+ &lt;h3&gt;True Cost of Home Ownership&lt;/h3&gt;
+ &lt;div class="calc-row"&gt;
+ &lt;label&gt;Home Price ($)&lt;/label&gt;
+ &lt;input type="number" id="home-price" value="450000" min="0" step="10000"&gt;
+ &lt;/div&gt;
+ &lt;div class="calc-row"&gt;
+ &lt;label&gt;Down Payment (%)&lt;/label&gt;
+ &lt;input type="number" id="down-payment" value="20" min="0" max="100" step="5"&gt;
+ &lt;/div&gt;
+ &lt;div class="calc-row"&gt;
+ &lt;label&gt;Interest Rate (%)&lt;/label&gt;
+ &lt;input type="number" id="interest-rate" value="6.5" min="0" max="20" step="0.1"&gt;
+ &lt;/div&gt;
+ &lt;div class="calc-row"&gt;
+ &lt;label&gt;Property Tax Rate (%)&lt;/label&gt;
+ &lt;input type="number" id="tax-rate" value="1.8" min="0" max="5" step="0.1"&gt;
+ &lt;/div&gt;
+ &lt;div class="calc-row"&gt;
+ &lt;label&gt;HOA/Month ($)&lt;/label&gt;
+ &lt;input type="number" id="hoa" value="0" min="0" step="50"&gt;
+ &lt;/div&gt;
+ &lt;button class="btn btn-primary" onclick="calculateHome()"&gt;Calculate&lt;/button&gt;
+ &lt;div class="calc-result" id="home-result" style="display:none;"&gt;
+ &lt;h4&gt;Monthly Costs&lt;/h4&gt;
+ &lt;ul&gt;
+ &lt;li&gt;Mortgage: &lt;strong id="mortgage-payment"&gt;&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;Property Tax: &lt;strong id="tax-payment"&gt;&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;Insurance: &lt;strong id="insurance-payment"&gt;&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;HOA: &lt;strong id="hoa-payment"&gt;&lt;/strong&gt;&lt;/li&gt;
+ &lt;li class="total"&gt;Total Monthly: &lt;strong id="total-monthly"&gt;&lt;/strong&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;h4&gt;Total Cost Over 30 Years&lt;/h4&gt;
+ &lt;p id="total-cost"&gt;&lt;/p&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+function calculateHome() {
+ const price = parseFloat(document.getElementById('home-price').value);
+ const downPercent = parseFloat(document.getElementById('down-payment').value);
+ const rate = parseFloat(document.getElementById('interest-rate').value);
+ const taxRate = parseFloat(document.getElementById('tax-rate').value);
+ const hoa = parseFloat(document.getElementById('hoa').value);
+ 
+ const downPayment = price * (downPercent / 100);
+ const loanAmount = price - downPayment;
+ const monthlyRate = rate / 100 / 12;
+ const numPayments = 30 * 12;
+ 
+ const mortgage = loanAmount * (monthlyRate * Math.pow(1 + monthlyRate, numPayments)) / (Math.pow(1 + monthlyRate, numPayments) - 1);
+ const tax = (price * (taxRate / 100)) / 12;
+ const insurance = (price * 0.0035) / 12;
+ const total = mortgage + tax + insurance + hoa;
+ 
+ const totalCost = (total * numPayments) + downPayment;
+ 
+ document.getElementById('mortgage-payment').textContent = '$' + Math.round(mortgage).toLocaleString();
+ document.getElementById('tax-payment').textContent = '$' + Math.round(tax).toLocaleString();
+ document.getElementById('insurance-payment').textContent = '$' + Math.round(insurance).toLocaleString();
+ document.getElementById('hoa-payment').textContent = '$' + Math.round(hoa).toLocaleString();
+ document.getElementById('total-monthly').textContent = '$' + Math.round(total).toLocaleString();
+ document.getElementById('total-cost').textContent = 'You will pay $' + Math.round(totalCost).toLocaleString() + ' over 30 years ($' + price.toLocaleString() + ' home price + $' + Math.round(totalCost - price).toLocaleString() + ' in interest, taxes, and fees).';
+ 
+ document.getElementById('home-result').style.display = 'block';
+}
+&lt;/script&gt;
+
+&lt;h2 id="whats-included"&gt;What&amp;rsquo;s Included&lt;/h2&gt;
+&lt;p&gt;Our calculator accounts for:&lt;/p&gt;</description></item><item><title>Salary Equivalence Calculator</title><link>https://urcity.com/tools/salary-equivalence-calculator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://urcity.com/tools/salary-equivalence-calculator/</guid><description>&lt;h2 id="salary-equivalence-calculator"&gt;Salary Equivalence Calculator&lt;/h2&gt;
+&lt;p&gt;Moving to a new city? Find out what salary you need to maintain your lifestyle.&lt;/p&gt;
+&lt;div class="calculator-widget" id="salary-calc"&gt;
+ &lt;h3&gt;Salary Comparison Calculator&lt;/h3&gt;
+ &lt;div class="calc-row"&gt;
+ &lt;label&gt;Current Salary ($)&lt;/label&gt;
+ &lt;input type="number" id="current-salary" value="100000" min="0" step="1000"&gt;
+ &lt;/div&gt;
+ &lt;div class="calc-row"&gt;
+ &lt;label&gt;From City&lt;/label&gt;
+ &lt;select id="from-city"&gt;
+ &lt;option value="nyc" selected&gt;New York City&lt;/option&gt;
+ &lt;option value="sf" &gt;San Francisco&lt;/option&gt;
+ &lt;option value="la" &gt;Los Angeles&lt;/option&gt;
+ &lt;option value="chicago" &gt;Chicago&lt;/option&gt;
+ &lt;option value="austin-tx" &gt;Austin&lt;/option&gt;
+ &lt;/select&gt;
+ &lt;/div&gt;
+ &lt;div class="calc-row"&gt;
+ &lt;label&gt;To City&lt;/label&gt;
+ &lt;select id="to-city"&gt;
+ &lt;option value="austin-tx" selected&gt;Austin&lt;/option&gt;
+ &lt;option value="nyc" &gt;New York City&lt;/option&gt;
+ &lt;option value="sf" &gt;San Francisco&lt;/option&gt;
+ &lt;option value="la" &gt;Los Angeles&lt;/option&gt;
+ &lt;option value="chicago" &gt;Chicago&lt;/option&gt;
+ &lt;/select&gt;
+ &lt;/div&gt;
+ &lt;button class="btn btn-primary" onclick="calculateSalary()"&gt;Calculate&lt;/button&gt;
+ &lt;div class="calc-result" id="salary-result" style="display:none;"&gt;
+ &lt;p&gt;You need &lt;strong id="needed-salary"&gt;&lt;/strong&gt; in &lt;span id="target-city-name"&gt;&lt;/span&gt; to maintain the same standard of living.&lt;/p&gt;
+ &lt;p id="salary-difference"&gt;&lt;/p&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+function calculateSalary() {
+ const salary = parseFloat(document.getElementById('current-salary').value);
+ const fromCity = document.getElementById('from-city').value;
+ const toCity = document.getElementById('to-city').value;
+ 
+ const colIndex = {
+ 'nyc': 187.2,
+ 'sf': 269.3,
+ 'la': 173.3,
+ 'chicago': 110.8,
+ 'austin-tx': 119.3
+ };
+ 
+ const cityNames = {
+ 'nyc': 'New York City',
+ 'sf': 'San Francisco',
+ 'la': 'Los Angeles',
+ 'chicago': 'Chicago',
+ 'austin-tx': 'Austin'
+ };
+ 
+ const neededSalary = Math.round(salary * (colIndex[toCity] / colIndex[fromCity]));
+ const diff = salary - neededSalary;
+ 
+ document.getElementById('needed-salary').textContent = '$' + neededSalary.toLocaleString();
+ document.getElementById('target-city-name').textContent = cityNames[toCity];
+ 
+ const diffEl = document.getElementById('salary-difference');
+ if (diff &gt; 0) {
+ diffEl.innerHTML = 'You would save &lt;strong&gt;$' + diff.toLocaleString() + '/year&lt;/strong&gt; by moving.';
+ diffEl.className = 'savings-positive';
+ } else if (diff &lt; 0) {
+ diffEl.innerHTML = 'You would need &lt;strong&gt;$' + Math.abs(diff).toLocaleString() + '/year more&lt;/strong&gt; to maintain your lifestyle.';
+ diffEl.className = 'savings-negative';
+ } else {
+ diffEl.textContent = 'Cost of living is roughly the same.';
+ }
+ 
+ document.getElementById('salary-result').style.display = 'block';
+}
+&lt;/script&gt;
+
+&lt;h2 id="how-it-works"&gt;How It Works&lt;/h2&gt;
+&lt;p&gt;Enter your current salary and city, plus your destination city. We calculate the equivalent salary using cost of living indices from official sources.&lt;/p&gt;</description></item></channel></rss>
