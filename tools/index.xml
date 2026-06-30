@@ -781,6 +781,17 @@ function compareCOL() {
  &lt;/div&gt;
  &lt;/div&gt;
 
+
+
+
+
+ 
+
+
+
+ 
+
+
  &lt;div class="calc-inputs-row three-col"&gt;
  &lt;div class="calc-field"&gt;
  &lt;label for="home-price"&gt;
@@ -934,6 +945,7 @@ function updateDownHint() {
 }
 homePriceInput.addEventListener('input', updateDownHint);
 downPaymentInput.addEventListener('input', updateDownHint);
+updateDownHint();
 
 function calculateHome() {
  const price = parseFloat(document.getElementById('home-price').value);
