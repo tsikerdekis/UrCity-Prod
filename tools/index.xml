@@ -49,11 +49,15 @@
  
  &lt;option value="baton-rouge-la" data-col="94.5" data-housing="88.5" data-name="Baton Rouge"&gt;Baton Rouge, LA&lt;/option&gt;
  
+ &lt;option value="belfast-gb" data-col="84.1" data-housing="80.5" data-name="Belfast"&gt;Belfast, NIR&lt;/option&gt;
+ 
  &lt;option value="bend-or" data-col="118.5" data-housing="142.5" data-name="Bend"&gt;Bend, OR&lt;/option&gt;
  
  &lt;option value="billings-mt" data-col="96.5" data-housing="92.5" data-name="Billings"&gt;Billings, MT&lt;/option&gt;
  
  &lt;option value="birmingham-al" data-col="90.5" data-housing="78.5" data-name="Birmingham"&gt;Birmingham, AL&lt;/option&gt;
+ 
+ &lt;option value="birmingham-gb" data-col="92.3" data-housing="94.7" data-name="Birmingham"&gt;Birmingham, ENG&lt;/option&gt;
  
  &lt;option value="boise-id" data-col="102.5" data-housing="112.5" data-name="Boise"&gt;Boise, ID&lt;/option&gt;
  
@@ -63,9 +67,15 @@
  
  &lt;option value="bridgeport-ct" data-col="118.5" data-housing="128.4" data-name="Bridgeport"&gt;Bridgeport, CT&lt;/option&gt;
  
+ &lt;option value="bristol-gb" data-col="102.1" data-housing="108.5" data-name="Bristol"&gt;Bristol, ENG&lt;/option&gt;
+ 
  &lt;option value="buffalo-ny" data-col="92.5" data-housing="72.5" data-name="Buffalo"&gt;Buffalo, NY&lt;/option&gt;
  
  &lt;option value="burlington-vt" data-col="112.5" data-housing="128.4" data-name="Burlington"&gt;Burlington, VT&lt;/option&gt;
+ 
+ &lt;option value="calgary-ca" data-col="105.7" data-housing="108.2" data-name="Calgary"&gt;Calgary, AB&lt;/option&gt;
+ 
+ &lt;option value="cardiff-gb" data-col="89.2" data-housing="88.7" data-name="Cardiff"&gt;Cardiff, WLS&lt;/option&gt;
  
  &lt;option value="chandler-az" data-col="108.5" data-housing="118.2" data-name="Chandler"&gt;Chandler, AZ&lt;/option&gt;
  
@@ -105,6 +115,10 @@
  
  &lt;option value="durham-nc" data-col="98.5" data-housing="95.2" data-name="Durham"&gt;Durham, NC&lt;/option&gt;
  
+ &lt;option value="edinburgh-gb" data-col="105.8" data-housing="112.6" data-name="Edinburgh"&gt;Edinburgh, SCT&lt;/option&gt;
+ 
+ &lt;option value="edmonton-ca" data-col="97.4" data-housing="96.8" data-name="Edmonton"&gt;Edmonton, AB&lt;/option&gt;
+ 
  &lt;option value="el-paso-tx" data-col="88.5" data-housing="76.8" data-name="El Paso"&gt;El Paso, TX&lt;/option&gt;
  
  &lt;option value="elk-grove-ca" data-col="128.5" data-housing="158.4" data-name="Elk Grove"&gt;Elk Grove, CA&lt;/option&gt;
@@ -125,6 +139,8 @@
  
  &lt;option value="garland-tx" data-col="96.5" data-housing="92.4" data-name="Garland"&gt;Garland, TX&lt;/option&gt;
  
+ &lt;option value="glasgow-gb" data-col="88.4" data-housing="86.2" data-name="Glasgow"&gt;Glasgow, SCT&lt;/option&gt;
+ 
  &lt;option value="glendale-az" data-col="98.5" data-housing="95.2" data-name="Glendale"&gt;Glendale, AZ&lt;/option&gt;
  
  &lt;option value="grand-rapids-mi" data-col="94.5" data-housing="88.5" data-name="Grand Rapids"&gt;Grand Rapids, MI&lt;/option&gt;
@@ -132,6 +148,8 @@
  &lt;option value="greensboro-nc" data-col="92.4" data-housing="82.5" data-name="Greensboro"&gt;Greensboro, NC&lt;/option&gt;
  
  &lt;option value="greenville-sc" data-col="96.5" data-housing="92.5" data-name="Greenville"&gt;Greenville, SC&lt;/option&gt;
+ 
+ &lt;option value="halifax-ca" data-col="93.5" data-housing="91.3" data-name="Halifax"&gt;Halifax, NS&lt;/option&gt;
  
  &lt;option value="henderson-nv" data-col="108.5" data-housing="118.2" data-name="Henderson"&gt;Henderson, NV&lt;/option&gt;
  
@@ -167,11 +185,17 @@
  
  &lt;option value="las-vegas-nv" data-col="102.4" data-housing="108.2" data-name="Las Vegas"&gt;Las Vegas, NV&lt;/option&gt;
  
+ &lt;option value="leeds-gb" data-col="91.7" data-housing="93.1" data-name="Leeds"&gt;Leeds, ENG&lt;/option&gt;
+ 
  &lt;option value="lexington-ky" data-col="94.2" data-housing="88.5" data-name="Lexington"&gt;Lexington, KY&lt;/option&gt;
  
  &lt;option value="lincoln-ne" data-col="92.5" data-housing="85.2" data-name="Lincoln"&gt;Lincoln, NE&lt;/option&gt;
  
  &lt;option value="little-rock-ar" data-col="88.5" data-housing="78.5" data-name="Little Rock"&gt;Little Rock, AR&lt;/option&gt;
+ 
+ &lt;option value="liverpool-gb" data-col="86.5" data-housing="84.3" data-name="Liverpool"&gt;Liverpool, ENG&lt;/option&gt;
+ 
+ &lt;option value="london-gb" data-col="135.2" data-housing="168.4" data-name="London"&gt;London, ENG&lt;/option&gt;
  
  &lt;option value="long-beach-ca" data-col="142.5" data-housing="198.5" data-name="Long Beach"&gt;Long Beach, CA&lt;/option&gt;
  
@@ -182,6 +206,8 @@
  &lt;option value="lubbock-tx" data-col="88.5" data-housing="76.8" data-name="Lubbock"&gt;Lubbock, TX&lt;/option&gt;
  
  &lt;option value="madison-wi" data-col="104.2" data-housing="112.5" data-name="Madison"&gt;Madison, WI&lt;/option&gt;
+ 
+ &lt;option value="manchester-gb" data-col="98.5" data-housing="102.3" data-name="Manchester"&gt;Manchester, ENG&lt;/option&gt;
  
  &lt;option value="manchester-nh" data-col="108.5" data-housing="118.2" data-name="Manchester"&gt;Manchester, NH&lt;/option&gt;
  
@@ -200,6 +226,8 @@
  &lt;option value="modesto-ca" data-col="108.5" data-housing="102.4" data-name="Modesto"&gt;Modesto, CA&lt;/option&gt;
  
  &lt;option value="montgomery-al" data-col="90.5" data-housing="78.5" data-name="Montgomery"&gt;Montgomery, AL&lt;/option&gt;
+ 
+ &lt;option value="montreal-ca" data-col="98.3" data-housing="101.5" data-name="Montreal"&gt;Montreal, QC&lt;/option&gt;
  
  &lt;option value="myrtle-beach-sc" data-col="96.5" data-housing="88.5" data-name="Myrtle Beach"&gt;Myrtle Beach, SC&lt;/option&gt;
  
@@ -221,6 +249,8 @@
  
  &lt;option value="orlando-fl" data-col="98.5" data-housing="95.2" data-name="Orlando"&gt;Orlando, FL&lt;/option&gt;
  
+ &lt;option value="ottawa-ca" data-col="101.2" data-housing="104.8" data-name="Ottawa"&gt;Ottawa, ON&lt;/option&gt;
+ 
  &lt;option value="oxnard-ca" data-col="138.5" data-housing="188.4" data-name="Oxnard"&gt;Oxnard, CA&lt;/option&gt;
  
  &lt;option value="philadelphia-pa" data-col="108.5" data-housing="118.3" data-name="Philadelphia"&gt;Philadelphia, PA&lt;/option&gt;
@@ -236,6 +266,8 @@
  &lt;option value="portland-or" data-col="118.2" data-housing="142.5" data-name="Portland"&gt;Portland, OR&lt;/option&gt;
  
  &lt;option value="providence-ri" data-col="118.5" data-housing="128.4" data-name="Providence"&gt;Providence, RI&lt;/option&gt;
+ 
+ &lt;option value="quebec-city-ca" data-col="87.2" data-housing="79.6" data-name="Quebec City"&gt;Quebec City, QC&lt;/option&gt;
  
  &lt;option value="raleigh-nc" data-col="102.4" data-housing="108.5" data-name="Raleigh"&gt;Raleigh, NC&lt;/option&gt;
  
@@ -291,9 +323,15 @@
  
  &lt;option value="toledo-oh" data-col="88.5" data-housing="68.4" data-name="Toledo"&gt;Toledo, OH&lt;/option&gt;
  
+ &lt;option value="toronto-ca" data-col="128.4" data-housing="152.7" data-name="Toronto"&gt;Toronto, ON&lt;/option&gt;
+ 
  &lt;option value="tucson-az" data-col="95.8" data-housing="88.5" data-name="Tucson"&gt;Tucson, AZ&lt;/option&gt;
  
  &lt;option value="tulsa-ok" data-col="88.5" data-housing="78.2" data-name="Tulsa"&gt;Tulsa, OK&lt;/option&gt;
+ 
+ &lt;option value="vancouver-ca" data-col="142.6" data-housing="178.3" data-name="Vancouver"&gt;Vancouver, BC&lt;/option&gt;
+ 
+ &lt;option value="victoria-ca" data-col="112.4" data-housing="118.6" data-name="Victoria"&gt;Victoria, BC&lt;/option&gt;
  
  &lt;option value="virginia-beach-va" data-col="104.2" data-housing="112.5" data-name="Virginia Beach"&gt;Virginia Beach, VA&lt;/option&gt;
  
@@ -302,6 +340,8 @@
  &lt;option value="wichita-ks" data-col="86.8" data-housing="74.5" data-name="Wichita"&gt;Wichita, KS&lt;/option&gt;
  
  &lt;option value="wilmington-nc" data-col="98.5" data-housing="95.2" data-name="Wilmington"&gt;Wilmington, NC&lt;/option&gt;
+ 
+ &lt;option value="winnipeg-ca" data-col="88.6" data-housing="82.4" data-name="Winnipeg"&gt;Winnipeg, MB&lt;/option&gt;
  
  &lt;option value="winston-salem-nc" data-col="92.5" data-housing="82.5" data-name="Winston-Salem"&gt;Winston-Salem, NC&lt;/option&gt;
  
@@ -352,11 +392,15 @@
  
  &lt;option value="baton-rouge-la" data-col="94.5" data-housing="88.5" data-name="Baton Rouge"&gt;Baton Rouge, LA&lt;/option&gt;
  
+ &lt;option value="belfast-gb" data-col="84.1" data-housing="80.5" data-name="Belfast"&gt;Belfast, NIR&lt;/option&gt;
+ 
  &lt;option value="bend-or" data-col="118.5" data-housing="142.5" data-name="Bend"&gt;Bend, OR&lt;/option&gt;
  
  &lt;option value="billings-mt" data-col="96.5" data-housing="92.5" data-name="Billings"&gt;Billings, MT&lt;/option&gt;
  
  &lt;option value="birmingham-al" data-col="90.5" data-housing="78.5" data-name="Birmingham"&gt;Birmingham, AL&lt;/option&gt;
+ 
+ &lt;option value="birmingham-gb" data-col="92.3" data-housing="94.7" data-name="Birmingham"&gt;Birmingham, ENG&lt;/option&gt;
  
  &lt;option value="boise-id" data-col="102.5" data-housing="112.5" data-name="Boise"&gt;Boise, ID&lt;/option&gt;
  
@@ -366,9 +410,15 @@
  
  &lt;option value="bridgeport-ct" data-col="118.5" data-housing="128.4" data-name="Bridgeport"&gt;Bridgeport, CT&lt;/option&gt;
  
+ &lt;option value="bristol-gb" data-col="102.1" data-housing="108.5" data-name="Bristol"&gt;Bristol, ENG&lt;/option&gt;
+ 
  &lt;option value="buffalo-ny" data-col="92.5" data-housing="72.5" data-name="Buffalo"&gt;Buffalo, NY&lt;/option&gt;
  
  &lt;option value="burlington-vt" data-col="112.5" data-housing="128.4" data-name="Burlington"&gt;Burlington, VT&lt;/option&gt;
+ 
+ &lt;option value="calgary-ca" data-col="105.7" data-housing="108.2" data-name="Calgary"&gt;Calgary, AB&lt;/option&gt;
+ 
+ &lt;option value="cardiff-gb" data-col="89.2" data-housing="88.7" data-name="Cardiff"&gt;Cardiff, WLS&lt;/option&gt;
  
  &lt;option value="chandler-az" data-col="108.5" data-housing="118.2" data-name="Chandler"&gt;Chandler, AZ&lt;/option&gt;
  
@@ -408,6 +458,10 @@
  
  &lt;option value="durham-nc" data-col="98.5" data-housing="95.2" data-name="Durham"&gt;Durham, NC&lt;/option&gt;
  
+ &lt;option value="edinburgh-gb" data-col="105.8" data-housing="112.6" data-name="Edinburgh"&gt;Edinburgh, SCT&lt;/option&gt;
+ 
+ &lt;option value="edmonton-ca" data-col="97.4" data-housing="96.8" data-name="Edmonton"&gt;Edmonton, AB&lt;/option&gt;
+ 
  &lt;option value="el-paso-tx" data-col="88.5" data-housing="76.8" data-name="El Paso"&gt;El Paso, TX&lt;/option&gt;
  
  &lt;option value="elk-grove-ca" data-col="128.5" data-housing="158.4" data-name="Elk Grove"&gt;Elk Grove, CA&lt;/option&gt;
@@ -428,6 +482,8 @@
  
  &lt;option value="garland-tx" data-col="96.5" data-housing="92.4" data-name="Garland"&gt;Garland, TX&lt;/option&gt;
  
+ &lt;option value="glasgow-gb" data-col="88.4" data-housing="86.2" data-name="Glasgow"&gt;Glasgow, SCT&lt;/option&gt;
+ 
  &lt;option value="glendale-az" data-col="98.5" data-housing="95.2" data-name="Glendale"&gt;Glendale, AZ&lt;/option&gt;
  
  &lt;option value="grand-rapids-mi" data-col="94.5" data-housing="88.5" data-name="Grand Rapids"&gt;Grand Rapids, MI&lt;/option&gt;
@@ -435,6 +491,8 @@
  &lt;option value="greensboro-nc" data-col="92.4" data-housing="82.5" data-name="Greensboro"&gt;Greensboro, NC&lt;/option&gt;
  
  &lt;option value="greenville-sc" data-col="96.5" data-housing="92.5" data-name="Greenville"&gt;Greenville, SC&lt;/option&gt;
+ 
+ &lt;option value="halifax-ca" data-col="93.5" data-housing="91.3" data-name="Halifax"&gt;Halifax, NS&lt;/option&gt;
  
  &lt;option value="henderson-nv" data-col="108.5" data-housing="118.2" data-name="Henderson"&gt;Henderson, NV&lt;/option&gt;
  
@@ -470,11 +528,17 @@
  
  &lt;option value="las-vegas-nv" data-col="102.4" data-housing="108.2" data-name="Las Vegas"&gt;Las Vegas, NV&lt;/option&gt;
  
+ &lt;option value="leeds-gb" data-col="91.7" data-housing="93.1" data-name="Leeds"&gt;Leeds, ENG&lt;/option&gt;
+ 
  &lt;option value="lexington-ky" data-col="94.2" data-housing="88.5" data-name="Lexington"&gt;Lexington, KY&lt;/option&gt;
  
  &lt;option value="lincoln-ne" data-col="92.5" data-housing="85.2" data-name="Lincoln"&gt;Lincoln, NE&lt;/option&gt;
  
  &lt;option value="little-rock-ar" data-col="88.5" data-housing="78.5" data-name="Little Rock"&gt;Little Rock, AR&lt;/option&gt;
+ 
+ &lt;option value="liverpool-gb" data-col="86.5" data-housing="84.3" data-name="Liverpool"&gt;Liverpool, ENG&lt;/option&gt;
+ 
+ &lt;option value="london-gb" data-col="135.2" data-housing="168.4" data-name="London"&gt;London, ENG&lt;/option&gt;
  
  &lt;option value="long-beach-ca" data-col="142.5" data-housing="198.5" data-name="Long Beach"&gt;Long Beach, CA&lt;/option&gt;
  
@@ -485,6 +549,8 @@
  &lt;option value="lubbock-tx" data-col="88.5" data-housing="76.8" data-name="Lubbock"&gt;Lubbock, TX&lt;/option&gt;
  
  &lt;option value="madison-wi" data-col="104.2" data-housing="112.5" data-name="Madison"&gt;Madison, WI&lt;/option&gt;
+ 
+ &lt;option value="manchester-gb" data-col="98.5" data-housing="102.3" data-name="Manchester"&gt;Manchester, ENG&lt;/option&gt;
  
  &lt;option value="manchester-nh" data-col="108.5" data-housing="118.2" data-name="Manchester"&gt;Manchester, NH&lt;/option&gt;
  
@@ -503,6 +569,8 @@
  &lt;option value="modesto-ca" data-col="108.5" data-housing="102.4" data-name="Modesto"&gt;Modesto, CA&lt;/option&gt;
  
  &lt;option value="montgomery-al" data-col="90.5" data-housing="78.5" data-name="Montgomery"&gt;Montgomery, AL&lt;/option&gt;
+ 
+ &lt;option value="montreal-ca" data-col="98.3" data-housing="101.5" data-name="Montreal"&gt;Montreal, QC&lt;/option&gt;
  
  &lt;option value="myrtle-beach-sc" data-col="96.5" data-housing="88.5" data-name="Myrtle Beach"&gt;Myrtle Beach, SC&lt;/option&gt;
  
@@ -524,6 +592,8 @@
  
  &lt;option value="orlando-fl" data-col="98.5" data-housing="95.2" data-name="Orlando"&gt;Orlando, FL&lt;/option&gt;
  
+ &lt;option value="ottawa-ca" data-col="101.2" data-housing="104.8" data-name="Ottawa"&gt;Ottawa, ON&lt;/option&gt;
+ 
  &lt;option value="oxnard-ca" data-col="138.5" data-housing="188.4" data-name="Oxnard"&gt;Oxnard, CA&lt;/option&gt;
  
  &lt;option value="philadelphia-pa" data-col="108.5" data-housing="118.3" data-name="Philadelphia"&gt;Philadelphia, PA&lt;/option&gt;
@@ -539,6 +609,8 @@
  &lt;option value="portland-or" data-col="118.2" data-housing="142.5" data-name="Portland"&gt;Portland, OR&lt;/option&gt;
  
  &lt;option value="providence-ri" data-col="118.5" data-housing="128.4" data-name="Providence"&gt;Providence, RI&lt;/option&gt;
+ 
+ &lt;option value="quebec-city-ca" data-col="87.2" data-housing="79.6" data-name="Quebec City"&gt;Quebec City, QC&lt;/option&gt;
  
  &lt;option value="raleigh-nc" data-col="102.4" data-housing="108.5" data-name="Raleigh"&gt;Raleigh, NC&lt;/option&gt;
  
@@ -594,9 +666,15 @@
  
  &lt;option value="toledo-oh" data-col="88.5" data-housing="68.4" data-name="Toledo"&gt;Toledo, OH&lt;/option&gt;
  
+ &lt;option value="toronto-ca" data-col="128.4" data-housing="152.7" data-name="Toronto"&gt;Toronto, ON&lt;/option&gt;
+ 
  &lt;option value="tucson-az" data-col="95.8" data-housing="88.5" data-name="Tucson"&gt;Tucson, AZ&lt;/option&gt;
  
  &lt;option value="tulsa-ok" data-col="88.5" data-housing="78.2" data-name="Tulsa"&gt;Tulsa, OK&lt;/option&gt;
+ 
+ &lt;option value="vancouver-ca" data-col="142.6" data-housing="178.3" data-name="Vancouver"&gt;Vancouver, BC&lt;/option&gt;
+ 
+ &lt;option value="victoria-ca" data-col="112.4" data-housing="118.6" data-name="Victoria"&gt;Victoria, BC&lt;/option&gt;
  
  &lt;option value="virginia-beach-va" data-col="104.2" data-housing="112.5" data-name="Virginia Beach"&gt;Virginia Beach, VA&lt;/option&gt;
  
@@ -605,6 +683,8 @@
  &lt;option value="wichita-ks" data-col="86.8" data-housing="74.5" data-name="Wichita"&gt;Wichita, KS&lt;/option&gt;
  
  &lt;option value="wilmington-nc" data-col="98.5" data-housing="95.2" data-name="Wilmington"&gt;Wilmington, NC&lt;/option&gt;
+ 
+ &lt;option value="winnipeg-ca" data-col="88.6" data-housing="82.4" data-name="Winnipeg"&gt;Winnipeg, MB&lt;/option&gt;
  
  &lt;option value="winston-salem-nc" data-col="92.5" data-housing="82.5" data-name="Winston-Salem"&gt;Winston-Salem, NC&lt;/option&gt;
  
@@ -785,6 +865,10 @@ function compareCOL() {
 
 
 
+
+
+
+
  
 
 
@@ -867,6 +951,8 @@ function compareCOL() {
  &lt;input type="hidden" id="util-water" value="75"&gt;
  &lt;input type="hidden" id="util-net" value="55"&gt;
  &lt;input type="hidden" id="util-trash" value="30"&gt;
+ &lt;input type="hidden" id="util-currency" value="USD"&gt;
+ &lt;input type="hidden" id="calc-currency" value="USD"&gt;
 
  &lt;button class="btn btn-primary btn-large" onclick="calculateHome()"&gt;
  &lt;svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"&gt;&lt;polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/&gt;&lt;/svg&gt;
@@ -1077,11 +1163,22 @@ function updateDownHint() {
  const price = parseFloat(homePriceInput.value) || 0;
  const pct = parseFloat(downPaymentInput.value) || 0;
  const amount = Math.round(price * (pct / 100));
- document.getElementById('down-payment-hint').textContent = '$' + amount.toLocaleString() + ' down';
+ const settings = window.URCitySettings;
+ const sym = settings ? settings.getCurrencySymbol(settings.getState().currency) : '$';
+ document.getElementById('down-payment-hint').textContent = sym + amount.toLocaleString() + ' down';
 }
 homePriceInput.addEventListener('input', updateDownHint);
 downPaymentInput.addEventListener('input', updateDownHint);
 updateDownHint();
+
+document.addEventListener('urcity-settings-change', function() {
+ const settings = window.URCitySettings;
+ if (!settings || !settings.getState) return;
+ const sym = settings.getCurrencySymbol(settings.getState().currency);
+ document.querySelectorAll('#home-calc .input-prefix .prefix').forEach(function(el) {
+ el.textContent = sym;
+ });
+});
 
 function switchTab(tabId) {
  
@@ -1099,12 +1196,27 @@ function calculateHome() {
  const taxRate = parseFloat(document.getElementById('tax-rate').value);
  const hoa = parseFloat(document.getElementById('hoa').value);
 
+ const settings = window.URCitySettings;
+ const sym = settings ? settings.getCurrencySymbol(settings.getState().currency) : '$';
+
  
  const utilElec = parseFloat(document.getElementById('util-elec').value) || 0;
  const utilWater = parseFloat(document.getElementById('util-water').value) || 0;
  const utilNet = parseFloat(document.getElementById('util-net').value) || 0;
  const utilTrash = parseFloat(document.getElementById('util-trash').value) || 0;
  const totalUtilities = utilElec + utilWater + utilNet + utilTrash;
+
+ 
+ const utilCurrency = document.getElementById('util-currency') ? document.getElementById('util-currency').value : 'USD';
+ const nativeSym = settings ? settings.getCurrencySymbol(utilCurrency) : '$';
+
+ function fmtUtil(val) {
+ const converted = settings ? settings.convertAmount(val, utilCurrency, settings.getState().currency) : val;
+ const convertedSym = settings ? settings.getCurrencySymbol(settings.getState().currency) : '$';
+ const formatted = Math.round(converted).toLocaleString();
+ 
+ return convertedSym + formatted + ' &lt;span class="currency-native"&gt;(' + nativeSym + val.toLocaleString() + ')&lt;/span&gt;';
+ }
 
  const downPayment = price * (downPercent / 100);
  const loanAmount = price - downPayment;
@@ -1123,14 +1235,14 @@ function calculateHome() {
  const totalCost = totalMortgage + totalTax + totalInsurance + totalHoa + downPayment;
 
  
- document.getElementById('total-monthly').textContent = '$' + Math.round(totalMonthly).toLocaleString();
- document.getElementById('total-cost').textContent = '$' + Math.round(totalCost).toLocaleString();
+ document.getElementById('total-monthly').textContent = sym + Math.round(totalMonthly).toLocaleString();
+ document.getElementById('total-cost').textContent = sym + Math.round(totalCost).toLocaleString();
 
- document.getElementById('val-mortgage').textContent = '$' + Math.round(totalMortgage).toLocaleString();
- document.getElementById('val-tax').textContent = '$' + Math.round(totalTax).toLocaleString();
- document.getElementById('val-insurance').textContent = '$' + Math.round(totalInsurance).toLocaleString();
- document.getElementById('val-hoa').textContent = '$' + Math.round(totalHoa).toLocaleString();
- document.getElementById('val-down').textContent = '$' + Math.round(downPayment).toLocaleString();
+ document.getElementById('val-mortgage').textContent = sym + Math.round(totalMortgage).toLocaleString();
+ document.getElementById('val-tax').textContent = sym + Math.round(totalTax).toLocaleString();
+ document.getElementById('val-insurance').textContent = sym + Math.round(totalInsurance).toLocaleString();
+ document.getElementById('val-hoa').textContent = sym + Math.round(totalHoa).toLocaleString();
+ document.getElementById('val-down').textContent = sym + Math.round(downPayment).toLocaleString();
 
  const maxVal = Math.max(totalMortgage, totalTax, totalInsurance, totalHoa, downPayment);
  document.getElementById('bar-mortgage').style.width = (totalMortgage / maxVal * 100) + '%';
@@ -1142,7 +1254,7 @@ function calculateHome() {
  const extra = totalCost - price;
  const extraPct = Math.round((extra / price) * 100);
 
- document.getElementById('home-insight').innerHTML = '&lt;div class="summary-icon"&gt;🏠&lt;/div&gt;&lt;p&gt;A &lt;strong&gt;$' + price.toLocaleString() + '&lt;/strong&gt; home actually costs &lt;strong&gt;$' + Math.round(totalCost).toLocaleString() + '&lt;/strong&gt; over 30 years. That is &lt;strong&gt;' + extraPct + '% more&lt;/strong&gt; than the sticker price once you factor in interest, taxes, insurance, and fees.&lt;/p&gt;</description></item><item><title>Salary Equivalence Calculator</title><link>https://urcity.com/tools/salary-equivalence-calculator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://urcity.com/tools/salary-equivalence-calculator/</guid><description>&lt;h2 id="salary-equivalence-calculator"&gt;Salary Equivalence Calculator&lt;/h2&gt;
+ document.getElementById('home-insight').innerHTML = '&lt;div class="summary-icon"&gt;🏠&lt;/div&gt;&lt;p&gt;A &lt;strong&gt;' + sym + price.toLocaleString() + '&lt;/strong&gt; home actually costs &lt;strong&gt;' + sym + Math.round(totalCost).toLocaleString() + '&lt;/strong&gt; over 30 years. That is &lt;strong&gt;' + extraPct + '% more&lt;/strong&gt; than the sticker price once you factor in interest, taxes, insurance, and fees.&lt;/p&gt;</description></item><item><title>Salary Equivalence Calculator</title><link>https://urcity.com/tools/salary-equivalence-calculator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://urcity.com/tools/salary-equivalence-calculator/</guid><description>&lt;h2 id="salary-equivalence-calculator"&gt;Salary Equivalence Calculator&lt;/h2&gt;
 &lt;p&gt;Moving to a new city? Find out what salary you need to maintain your lifestyle.&lt;/p&gt;
 
 
@@ -1168,7 +1280,7 @@ function calculateHome() {
  Current Salary
  &lt;/label&gt;
  &lt;div class="input-prefix"&gt;
- &lt;span class="prefix"&gt;$&lt;/span&gt;
+ &lt;span class="prefix" id="salary-prefix"&gt;$&lt;/span&gt;
  &lt;input type="number" id="current-salary" value="100000" min="0" step="1000"&gt;
  &lt;/div&gt;
  &lt;/div&gt;
@@ -1206,11 +1318,15 @@ function calculateHome() {
  
  &lt;option value="baton-rouge-la" data-col="94.5" data-name="Baton Rouge" &gt;Baton Rouge, LA&lt;/option&gt;
  
+ &lt;option value="belfast-gb" data-col="84.1" data-name="Belfast" &gt;Belfast, NIR&lt;/option&gt;
+ 
  &lt;option value="bend-or" data-col="118.5" data-name="Bend" &gt;Bend, OR&lt;/option&gt;
  
  &lt;option value="billings-mt" data-col="96.5" data-name="Billings" &gt;Billings, MT&lt;/option&gt;
  
  &lt;option value="birmingham-al" data-col="90.5" data-name="Birmingham" &gt;Birmingham, AL&lt;/option&gt;
+ 
+ &lt;option value="birmingham-gb" data-col="92.3" data-name="Birmingham" &gt;Birmingham, ENG&lt;/option&gt;
  
  &lt;option value="boise-id" data-col="102.5" data-name="Boise" &gt;Boise, ID&lt;/option&gt;
  
@@ -1220,9 +1336,15 @@ function calculateHome() {
  
  &lt;option value="bridgeport-ct" data-col="118.5" data-name="Bridgeport" &gt;Bridgeport, CT&lt;/option&gt;
  
+ &lt;option value="bristol-gb" data-col="102.1" data-name="Bristol" &gt;Bristol, ENG&lt;/option&gt;
+ 
  &lt;option value="buffalo-ny" data-col="92.5" data-name="Buffalo" &gt;Buffalo, NY&lt;/option&gt;
  
  &lt;option value="burlington-vt" data-col="112.5" data-name="Burlington" &gt;Burlington, VT&lt;/option&gt;
+ 
+ &lt;option value="calgary-ca" data-col="105.7" data-name="Calgary" &gt;Calgary, AB&lt;/option&gt;
+ 
+ &lt;option value="cardiff-gb" data-col="89.2" data-name="Cardiff" &gt;Cardiff, WLS&lt;/option&gt;
  
  &lt;option value="chandler-az" data-col="108.5" data-name="Chandler" &gt;Chandler, AZ&lt;/option&gt;
  
@@ -1262,6 +1384,10 @@ function calculateHome() {
  
  &lt;option value="durham-nc" data-col="98.5" data-name="Durham" &gt;Durham, NC&lt;/option&gt;
  
+ &lt;option value="edinburgh-gb" data-col="105.8" data-name="Edinburgh" &gt;Edinburgh, SCT&lt;/option&gt;
+ 
+ &lt;option value="edmonton-ca" data-col="97.4" data-name="Edmonton" &gt;Edmonton, AB&lt;/option&gt;
+ 
  &lt;option value="el-paso-tx" data-col="88.5" data-name="El Paso" &gt;El Paso, TX&lt;/option&gt;
  
  &lt;option value="elk-grove-ca" data-col="128.5" data-name="Elk Grove" &gt;Elk Grove, CA&lt;/option&gt;
@@ -1282,6 +1408,8 @@ function calculateHome() {
  
  &lt;option value="garland-tx" data-col="96.5" data-name="Garland" &gt;Garland, TX&lt;/option&gt;
  
+ &lt;option value="glasgow-gb" data-col="88.4" data-name="Glasgow" &gt;Glasgow, SCT&lt;/option&gt;
+ 
  &lt;option value="glendale-az" data-col="98.5" data-name="Glendale" &gt;Glendale, AZ&lt;/option&gt;
  
  &lt;option value="grand-rapids-mi" data-col="94.5" data-name="Grand Rapids" &gt;Grand Rapids, MI&lt;/option&gt;
@@ -1289,6 +1417,8 @@ function calculateHome() {
  &lt;option value="greensboro-nc" data-col="92.4" data-name="Greensboro" &gt;Greensboro, NC&lt;/option&gt;
  
  &lt;option value="greenville-sc" data-col="96.5" data-name="Greenville" &gt;Greenville, SC&lt;/option&gt;
+ 
+ &lt;option value="halifax-ca" data-col="93.5" data-name="Halifax" &gt;Halifax, NS&lt;/option&gt;
  
  &lt;option value="henderson-nv" data-col="108.5" data-name="Henderson" &gt;Henderson, NV&lt;/option&gt;
  
@@ -1324,11 +1454,17 @@ function calculateHome() {
  
  &lt;option value="las-vegas-nv" data-col="102.4" data-name="Las Vegas" &gt;Las Vegas, NV&lt;/option&gt;
  
+ &lt;option value="leeds-gb" data-col="91.7" data-name="Leeds" &gt;Leeds, ENG&lt;/option&gt;
+ 
  &lt;option value="lexington-ky" data-col="94.2" data-name="Lexington" &gt;Lexington, KY&lt;/option&gt;
  
  &lt;option value="lincoln-ne" data-col="92.5" data-name="Lincoln" &gt;Lincoln, NE&lt;/option&gt;
  
  &lt;option value="little-rock-ar" data-col="88.5" data-name="Little Rock" &gt;Little Rock, AR&lt;/option&gt;
+ 
+ &lt;option value="liverpool-gb" data-col="86.5" data-name="Liverpool" &gt;Liverpool, ENG&lt;/option&gt;
+ 
+ &lt;option value="london-gb" data-col="135.2" data-name="London" &gt;London, ENG&lt;/option&gt;
  
  &lt;option value="long-beach-ca" data-col="142.5" data-name="Long Beach" &gt;Long Beach, CA&lt;/option&gt;
  
@@ -1339,6 +1475,8 @@ function calculateHome() {
  &lt;option value="lubbock-tx" data-col="88.5" data-name="Lubbock" &gt;Lubbock, TX&lt;/option&gt;
  
  &lt;option value="madison-wi" data-col="104.2" data-name="Madison" &gt;Madison, WI&lt;/option&gt;
+ 
+ &lt;option value="manchester-gb" data-col="98.5" data-name="Manchester" &gt;Manchester, ENG&lt;/option&gt;
  
  &lt;option value="manchester-nh" data-col="108.5" data-name="Manchester" &gt;Manchester, NH&lt;/option&gt;
  
@@ -1357,6 +1495,8 @@ function calculateHome() {
  &lt;option value="modesto-ca" data-col="108.5" data-name="Modesto" &gt;Modesto, CA&lt;/option&gt;
  
  &lt;option value="montgomery-al" data-col="90.5" data-name="Montgomery" &gt;Montgomery, AL&lt;/option&gt;
+ 
+ &lt;option value="montreal-ca" data-col="98.3" data-name="Montreal" &gt;Montreal, QC&lt;/option&gt;
  
  &lt;option value="myrtle-beach-sc" data-col="96.5" data-name="Myrtle Beach" &gt;Myrtle Beach, SC&lt;/option&gt;
  
@@ -1378,6 +1518,8 @@ function calculateHome() {
  
  &lt;option value="orlando-fl" data-col="98.5" data-name="Orlando" &gt;Orlando, FL&lt;/option&gt;
  
+ &lt;option value="ottawa-ca" data-col="101.2" data-name="Ottawa" &gt;Ottawa, ON&lt;/option&gt;
+ 
  &lt;option value="oxnard-ca" data-col="138.5" data-name="Oxnard" &gt;Oxnard, CA&lt;/option&gt;
  
  &lt;option value="philadelphia-pa" data-col="108.5" data-name="Philadelphia" &gt;Philadelphia, PA&lt;/option&gt;
@@ -1393,6 +1535,8 @@ function calculateHome() {
  &lt;option value="portland-or" data-col="118.2" data-name="Portland" &gt;Portland, OR&lt;/option&gt;
  
  &lt;option value="providence-ri" data-col="118.5" data-name="Providence" &gt;Providence, RI&lt;/option&gt;
+ 
+ &lt;option value="quebec-city-ca" data-col="87.2" data-name="Quebec City" &gt;Quebec City, QC&lt;/option&gt;
  
  &lt;option value="raleigh-nc" data-col="102.4" data-name="Raleigh" &gt;Raleigh, NC&lt;/option&gt;
  
@@ -1448,9 +1592,15 @@ function calculateHome() {
  
  &lt;option value="toledo-oh" data-col="88.5" data-name="Toledo" &gt;Toledo, OH&lt;/option&gt;
  
+ &lt;option value="toronto-ca" data-col="128.4" data-name="Toronto" &gt;Toronto, ON&lt;/option&gt;
+ 
  &lt;option value="tucson-az" data-col="95.8" data-name="Tucson" &gt;Tucson, AZ&lt;/option&gt;
  
  &lt;option value="tulsa-ok" data-col="88.5" data-name="Tulsa" &gt;Tulsa, OK&lt;/option&gt;
+ 
+ &lt;option value="vancouver-ca" data-col="142.6" data-name="Vancouver" &gt;Vancouver, BC&lt;/option&gt;
+ 
+ &lt;option value="victoria-ca" data-col="112.4" data-name="Victoria" &gt;Victoria, BC&lt;/option&gt;
  
  &lt;option value="virginia-beach-va" data-col="104.2" data-name="Virginia Beach" &gt;Virginia Beach, VA&lt;/option&gt;
  
@@ -1459,6 +1609,8 @@ function calculateHome() {
  &lt;option value="wichita-ks" data-col="86.8" data-name="Wichita" &gt;Wichita, KS&lt;/option&gt;
  
  &lt;option value="wilmington-nc" data-col="98.5" data-name="Wilmington" &gt;Wilmington, NC&lt;/option&gt;
+ 
+ &lt;option value="winnipeg-ca" data-col="88.6" data-name="Winnipeg" &gt;Winnipeg, MB&lt;/option&gt;
  
  &lt;option value="winston-salem-nc" data-col="92.5" data-name="Winston-Salem" &gt;Winston-Salem, NC&lt;/option&gt;
  
@@ -1500,11 +1652,15 @@ function calculateHome() {
  
  &lt;option value="baton-rouge-la" data-col="94.5" data-name="Baton Rouge" &gt;Baton Rouge, LA&lt;/option&gt;
  
+ &lt;option value="belfast-gb" data-col="84.1" data-name="Belfast" &gt;Belfast, NIR&lt;/option&gt;
+ 
  &lt;option value="bend-or" data-col="118.5" data-name="Bend" &gt;Bend, OR&lt;/option&gt;
  
  &lt;option value="billings-mt" data-col="96.5" data-name="Billings" &gt;Billings, MT&lt;/option&gt;
  
  &lt;option value="birmingham-al" data-col="90.5" data-name="Birmingham" &gt;Birmingham, AL&lt;/option&gt;
+ 
+ &lt;option value="birmingham-gb" data-col="92.3" data-name="Birmingham" &gt;Birmingham, ENG&lt;/option&gt;
  
  &lt;option value="boise-id" data-col="102.5" data-name="Boise" &gt;Boise, ID&lt;/option&gt;
  
@@ -1514,9 +1670,15 @@ function calculateHome() {
  
  &lt;option value="bridgeport-ct" data-col="118.5" data-name="Bridgeport" &gt;Bridgeport, CT&lt;/option&gt;
  
+ &lt;option value="bristol-gb" data-col="102.1" data-name="Bristol" &gt;Bristol, ENG&lt;/option&gt;
+ 
  &lt;option value="buffalo-ny" data-col="92.5" data-name="Buffalo" &gt;Buffalo, NY&lt;/option&gt;
  
  &lt;option value="burlington-vt" data-col="112.5" data-name="Burlington" &gt;Burlington, VT&lt;/option&gt;
+ 
+ &lt;option value="calgary-ca" data-col="105.7" data-name="Calgary" &gt;Calgary, AB&lt;/option&gt;
+ 
+ &lt;option value="cardiff-gb" data-col="89.2" data-name="Cardiff" &gt;Cardiff, WLS&lt;/option&gt;
  
  &lt;option value="chandler-az" data-col="108.5" data-name="Chandler" &gt;Chandler, AZ&lt;/option&gt;
  
@@ -1556,6 +1718,10 @@ function calculateHome() {
  
  &lt;option value="durham-nc" data-col="98.5" data-name="Durham" &gt;Durham, NC&lt;/option&gt;
  
+ &lt;option value="edinburgh-gb" data-col="105.8" data-name="Edinburgh" &gt;Edinburgh, SCT&lt;/option&gt;
+ 
+ &lt;option value="edmonton-ca" data-col="97.4" data-name="Edmonton" &gt;Edmonton, AB&lt;/option&gt;
+ 
  &lt;option value="el-paso-tx" data-col="88.5" data-name="El Paso" &gt;El Paso, TX&lt;/option&gt;
  
  &lt;option value="elk-grove-ca" data-col="128.5" data-name="Elk Grove" &gt;Elk Grove, CA&lt;/option&gt;
@@ -1576,6 +1742,8 @@ function calculateHome() {
  
  &lt;option value="garland-tx" data-col="96.5" data-name="Garland" &gt;Garland, TX&lt;/option&gt;
  
+ &lt;option value="glasgow-gb" data-col="88.4" data-name="Glasgow" &gt;Glasgow, SCT&lt;/option&gt;
+ 
  &lt;option value="glendale-az" data-col="98.5" data-name="Glendale" &gt;Glendale, AZ&lt;/option&gt;
  
  &lt;option value="grand-rapids-mi" data-col="94.5" data-name="Grand Rapids" &gt;Grand Rapids, MI&lt;/option&gt;
@@ -1583,6 +1751,8 @@ function calculateHome() {
  &lt;option value="greensboro-nc" data-col="92.4" data-name="Greensboro" &gt;Greensboro, NC&lt;/option&gt;
  
  &lt;option value="greenville-sc" data-col="96.5" data-name="Greenville" &gt;Greenville, SC&lt;/option&gt;
+ 
+ &lt;option value="halifax-ca" data-col="93.5" data-name="Halifax" &gt;Halifax, NS&lt;/option&gt;
  
  &lt;option value="henderson-nv" data-col="108.5" data-name="Henderson" &gt;Henderson, NV&lt;/option&gt;
  
@@ -1618,11 +1788,17 @@ function calculateHome() {
  
  &lt;option value="las-vegas-nv" data-col="102.4" data-name="Las Vegas" &gt;Las Vegas, NV&lt;/option&gt;
  
+ &lt;option value="leeds-gb" data-col="91.7" data-name="Leeds" &gt;Leeds, ENG&lt;/option&gt;
+ 
  &lt;option value="lexington-ky" data-col="94.2" data-name="Lexington" &gt;Lexington, KY&lt;/option&gt;
  
  &lt;option value="lincoln-ne" data-col="92.5" data-name="Lincoln" &gt;Lincoln, NE&lt;/option&gt;
  
  &lt;option value="little-rock-ar" data-col="88.5" data-name="Little Rock" &gt;Little Rock, AR&lt;/option&gt;
+ 
+ &lt;option value="liverpool-gb" data-col="86.5" data-name="Liverpool" &gt;Liverpool, ENG&lt;/option&gt;
+ 
+ &lt;option value="london-gb" data-col="135.2" data-name="London" &gt;London, ENG&lt;/option&gt;
  
  &lt;option value="long-beach-ca" data-col="142.5" data-name="Long Beach" &gt;Long Beach, CA&lt;/option&gt;
  
@@ -1633,6 +1809,8 @@ function calculateHome() {
  &lt;option value="lubbock-tx" data-col="88.5" data-name="Lubbock" &gt;Lubbock, TX&lt;/option&gt;
  
  &lt;option value="madison-wi" data-col="104.2" data-name="Madison" &gt;Madison, WI&lt;/option&gt;
+ 
+ &lt;option value="manchester-gb" data-col="98.5" data-name="Manchester" &gt;Manchester, ENG&lt;/option&gt;
  
  &lt;option value="manchester-nh" data-col="108.5" data-name="Manchester" &gt;Manchester, NH&lt;/option&gt;
  
@@ -1651,6 +1829,8 @@ function calculateHome() {
  &lt;option value="modesto-ca" data-col="108.5" data-name="Modesto" &gt;Modesto, CA&lt;/option&gt;
  
  &lt;option value="montgomery-al" data-col="90.5" data-name="Montgomery" &gt;Montgomery, AL&lt;/option&gt;
+ 
+ &lt;option value="montreal-ca" data-col="98.3" data-name="Montreal" &gt;Montreal, QC&lt;/option&gt;
  
  &lt;option value="myrtle-beach-sc" data-col="96.5" data-name="Myrtle Beach" &gt;Myrtle Beach, SC&lt;/option&gt;
  
@@ -1672,6 +1852,8 @@ function calculateHome() {
  
  &lt;option value="orlando-fl" data-col="98.5" data-name="Orlando" &gt;Orlando, FL&lt;/option&gt;
  
+ &lt;option value="ottawa-ca" data-col="101.2" data-name="Ottawa" &gt;Ottawa, ON&lt;/option&gt;
+ 
  &lt;option value="oxnard-ca" data-col="138.5" data-name="Oxnard" &gt;Oxnard, CA&lt;/option&gt;
  
  &lt;option value="philadelphia-pa" data-col="108.5" data-name="Philadelphia" &gt;Philadelphia, PA&lt;/option&gt;
@@ -1687,6 +1869,8 @@ function calculateHome() {
  &lt;option value="portland-or" data-col="118.2" data-name="Portland" &gt;Portland, OR&lt;/option&gt;
  
  &lt;option value="providence-ri" data-col="118.5" data-name="Providence" &gt;Providence, RI&lt;/option&gt;
+ 
+ &lt;option value="quebec-city-ca" data-col="87.2" data-name="Quebec City" &gt;Quebec City, QC&lt;/option&gt;
  
  &lt;option value="raleigh-nc" data-col="102.4" data-name="Raleigh" &gt;Raleigh, NC&lt;/option&gt;
  
@@ -1742,9 +1926,15 @@ function calculateHome() {
  
  &lt;option value="toledo-oh" data-col="88.5" data-name="Toledo" &gt;Toledo, OH&lt;/option&gt;
  
+ &lt;option value="toronto-ca" data-col="128.4" data-name="Toronto" &gt;Toronto, ON&lt;/option&gt;
+ 
  &lt;option value="tucson-az" data-col="95.8" data-name="Tucson" &gt;Tucson, AZ&lt;/option&gt;
  
  &lt;option value="tulsa-ok" data-col="88.5" data-name="Tulsa" &gt;Tulsa, OK&lt;/option&gt;
+ 
+ &lt;option value="vancouver-ca" data-col="142.6" data-name="Vancouver" &gt;Vancouver, BC&lt;/option&gt;
+ 
+ &lt;option value="victoria-ca" data-col="112.4" data-name="Victoria" &gt;Victoria, BC&lt;/option&gt;
  
  &lt;option value="virginia-beach-va" data-col="104.2" data-name="Virginia Beach" &gt;Virginia Beach, VA&lt;/option&gt;
  
@@ -1753,6 +1943,8 @@ function calculateHome() {
  &lt;option value="wichita-ks" data-col="86.8" data-name="Wichita" &gt;Wichita, KS&lt;/option&gt;
  
  &lt;option value="wilmington-nc" data-col="98.5" data-name="Wilmington" &gt;Wilmington, NC&lt;/option&gt;
+ 
+ &lt;option value="winnipeg-ca" data-col="88.6" data-name="Winnipeg" &gt;Winnipeg, MB&lt;/option&gt;
  
  &lt;option value="winston-salem-nc" data-col="92.5" data-name="Winston-Salem" &gt;Winston-Salem, NC&lt;/option&gt;
  
@@ -1814,10 +2006,17 @@ function calculateSalary() {
  const diff = salary - neededSalary;
  const pct = Math.round(((neededSalary - salary) / salary) * 100);
 
+ const settings = window.URCitySettings;
+ const currencySymbol = settings ? settings.getCurrencySymbol(settings.getState().currency) : '$';
+
  document.getElementById('from-city-display').textContent = nameFrom;
  document.getElementById('to-city-display').textContent = nameTo;
- document.getElementById('from-salary-display').textContent = '$' + salary.toLocaleString();
- document.getElementById('needed-salary').textContent = '$' + neededSalary.toLocaleString();
+ document.getElementById('from-salary-display').textContent = currencySymbol + salary.toLocaleString();
+ document.getElementById('needed-salary').textContent = currencySymbol + neededSalary.toLocaleString();
+
+ 
+ const prefixEl = document.getElementById('salary-prefix');
+ if (prefixEl) prefixEl.textContent = currencySymbol;
 
  const arrowLabel = document.getElementById('salary-change-pct');
  const badge = document.getElementById('salary-badge');
@@ -1840,5 +2039,6 @@ function calculateSalary() {
  }
 
  const diffEl = document.getElementById('salary-difference');
+ const sym = currencySymbol;
  if (diff &gt; 0) {
- diffEl.innerHTML = '&lt;div class="summary-icon"&gt;🎉&lt;/div&gt;&lt;p&gt;You would save &lt;strong&gt;$' + diff.toLocaleString() + '/year&lt;/strong&gt; by moving to ' + nameTo + '. Your current salary goes further there.&lt;/p&gt;</description></item></channel></rss>
+ diffEl.innerHTML = '&lt;div class="summary-icon"&gt;🎉&lt;/div&gt;&lt;p&gt;You would save &lt;strong&gt;' + sym + diff.toLocaleString() + '/year&lt;/strong&gt; by moving to ' + nameTo + '. Your current salary goes further there.&lt;/p&gt;</description></item></channel></rss>
