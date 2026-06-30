@@ -640,21 +640,43 @@
  &lt;/div&gt;
 
  &lt;div class="comparison-bars"&gt;
+ &lt;div class="comp-bar-section"&gt;
+ &lt;div class="comp-bar-section-title"&gt;Overall Cost of Living&lt;/div&gt;
  &lt;div class="comp-bar-row"&gt;
- &lt;span class="comp-bar-label"&gt;Overall COL&lt;/span&gt;
+ &lt;span class="comp-bar-city" id="bar-label-a-col"&gt;City A&lt;/span&gt;
  &lt;div class="comp-bar-track"&gt;
- &lt;div class="comp-bar-fill bar-a" id="bar-a-col"&gt;&lt;/div&gt;
- &lt;div class="comp-bar-fill bar-b" id="bar-b-col"&gt;&lt;/div&gt;
+ &lt;div class="comp-bar-fill" id="bar-a-col"&gt;&lt;/div&gt;
+ &lt;div class="comp-bar-baseline" style="left:50%"&gt;&lt;/div&gt;
  &lt;/div&gt;
- &lt;span class="comp-bar-diff" id="diff-col"&gt;&lt;/span&gt;
+ &lt;span class="comp-bar-value" id="bar-val-a-col"&gt;100&lt;/span&gt;
  &lt;/div&gt;
  &lt;div class="comp-bar-row"&gt;
- &lt;span class="comp-bar-label"&gt;Housing&lt;/span&gt;
+ &lt;span class="comp-bar-city" id="bar-label-b-col"&gt;City B&lt;/span&gt;
  &lt;div class="comp-bar-track"&gt;
- &lt;div class="comp-bar-fill bar-a" id="bar-a-housing"&gt;&lt;/div&gt;
- &lt;div class="comp-bar-fill bar-b" id="bar-b-housing"&gt;&lt;/div&gt;
+ &lt;div class="comp-bar-fill" id="bar-b-col"&gt;&lt;/div&gt;
+ &lt;div class="comp-bar-baseline" style="left:50%"&gt;&lt;/div&gt;
  &lt;/div&gt;
- &lt;span class="comp-bar-diff" id="diff-housing"&gt;&lt;/span&gt;
+ &lt;span class="comp-bar-value" id="bar-val-b-col"&gt;100&lt;/span&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="comp-bar-section"&gt;
+ &lt;div class="comp-bar-section-title"&gt;Housing Index&lt;/div&gt;
+ &lt;div class="comp-bar-row"&gt;
+ &lt;span class="comp-bar-city" id="bar-label-a-housing"&gt;City A&lt;/span&gt;
+ &lt;div class="comp-bar-track"&gt;
+ &lt;div class="comp-bar-fill" id="bar-a-housing"&gt;&lt;/div&gt;
+ &lt;div class="comp-bar-baseline" style="left:50%"&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;span class="comp-bar-value" id="bar-val-a-housing"&gt;100&lt;/span&gt;
+ &lt;/div&gt;
+ &lt;div class="comp-bar-row"&gt;
+ &lt;span class="comp-bar-city" id="bar-label-b-housing"&gt;City B&lt;/span&gt;
+ &lt;div class="comp-bar-track"&gt;
+ &lt;div class="comp-bar-fill" id="bar-b-housing"&gt;&lt;/div&gt;
+ &lt;div class="comp-bar-baseline" style="left:50%"&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;span class="comp-bar-value" id="bar-val-b-housing"&gt;100&lt;/span&gt;
+ &lt;/div&gt;
  &lt;/div&gt;
  &lt;/div&gt;
 
@@ -671,6 +693,12 @@ function swapCities() {
  b.selectedIndex = temp;
 }
 
+function getBarColor(value) {
+ if (value &lt;= 100) return 'var(--color-success)';
+ if (value &lt;= 120) return 'var(--color-accent)';
+ return 'var(--color-danger)';
+}
+
 function compareCOL() {
  const optA = document.getElementById('col-city-a').selectedOptions[0];
  const optB = document.getElementById('col-city-b').selectedOptions[0];
@@ -682,25 +710,47 @@ function compareCOL() {
  const housingA = parseFloat(optA.dataset.housing) || 100;
  const housingB = parseFloat(optB.dataset.housing) || 100;
 
- const maxCol = Math.max(colA, colB, 120);
- const maxHousing = Math.max(housingA, housingB, 120);
+ 
+ const maxScale = 200;
 
  document.getElementById('col-a-name').textContent = nameA;
  document.getElementById('col-b-name').textContent = nameB;
  document.getElementById('col-a-value').textContent = colA;
  document.getElementById('col-b-value').textContent = colB;
 
- document.getElementById('bar-a-col').style.width = (colA / maxCol * 100) + '%';
- document.getElementById('bar-b-col').style.width = (colB / maxCol * 100) + '%';
- document.getElementById('bar-a-housing').style.width = (housingA / maxHousing * 100) + '%';
- document.getElementById('bar-b-housing').style.width = (housingB / maxHousing * 100) + '%';
+ 
+ document.getElementById('bar-label-a-col').textContent = nameA;
+ document.getElementById('bar-label-b-col').textContent = nameB;
+ document.getElementById('bar-label-a-housing').textContent = nameA;
+ document.getElementById('bar-label-b-housing').textContent = nameB;
+
+ 
+ document.getElementById('bar-val-a-col').textContent = colA;
+ document.getElementById('bar-val-b-col').textContent = colB;
+ document.getElementById('bar-val-a-housing').textContent = housingA;
+ document.getElementById('bar-val-b-housing').textContent = housingB;
+
+ 
+ const colAPct = Math.min(colA / maxScale * 100, 100);
+ const colBPct = Math.min(colB / maxScale * 100, 100);
+ const housingAPct = Math.min(housingA / maxScale * 100, 100);
+ const housingBPct = Math.min(housingB / maxScale * 100, 100);
+
+ const barACol = document.getElementById('bar-a-col');
+ const barBCol = document.getElementById('bar-b-col');
+ const barAHousing = document.getElementById('bar-a-housing');
+ const barBHousing = document.getElementById('bar-b-housing');
+
+ barACol.style.width = colAPct + '%';
+ barACol.style.backgroundColor = getBarColor(colA);
+ barBCol.style.width = colBPct + '%';
+ barBCol.style.backgroundColor = getBarColor(colB);
+ barAHousing.style.width = housingAPct + '%';
+ barAHousing.style.backgroundColor = getBarColor(housingA);
+ barBHousing.style.width = housingBPct + '%';
+ barBHousing.style.backgroundColor = getBarColor(housingB);
 
  const colDiff = Math.round(((colB - colA) / colA) * 100);
- const housingDiff = Math.round(((housingB - housingA) / housingA) * 100);
-
- document.getElementById('diff-col').textContent = (colDiff &gt; 0 ? '+' : '') + colDiff + '%';
- document.getElementById('diff-housing').textContent = (housingDiff &gt; 0 ? '+' : '') + housingDiff + '%';
-
  const cheaper = colA &lt; colB ? nameA : nameB;
  const moreExpensive = colA &lt; colB ? nameB : nameA;
  const savings = Math.abs(colDiff);
