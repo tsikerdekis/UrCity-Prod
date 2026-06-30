@@ -792,6 +792,16 @@ function compareCOL() {
  
 
 
+
+
+
+
+ 
+ 
+ 
+ 
+
+
  &lt;div class="calc-inputs-row three-col"&gt;
  &lt;div class="calc-field"&gt;
  &lt;label for="home-price"&gt;
@@ -852,12 +862,27 @@ function compareCOL() {
  &lt;/div&gt;
  &lt;/div&gt;
 
+ 
+ &lt;input type="hidden" id="util-elec" value="135"&gt;
+ &lt;input type="hidden" id="util-water" value="75"&gt;
+ &lt;input type="hidden" id="util-net" value="55"&gt;
+ &lt;input type="hidden" id="util-trash" value="30"&gt;
+
  &lt;button class="btn btn-primary btn-large" onclick="calculateHome()"&gt;
  &lt;svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"&gt;&lt;polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/&gt;&lt;/svg&gt;
  Calculate Total Cost
  &lt;/button&gt;
 
  &lt;div class="calc-result" id="home-result" style="display:none;"&gt;
+
+ 
+ &lt;div class="calc-tabs"&gt;
+ &lt;button class="calc-tab active" onclick="switchTab('tab-home')" id="tab-btn-home"&gt;Home Costs&lt;/button&gt;
+ &lt;button class="calc-tab" onclick="switchTab('tab-monthly')" id="tab-btn-monthly"&gt;Monthly + Utilities&lt;/button&gt;
+ &lt;/div&gt;
+
+ 
+ &lt;div class="calc-tab-panel active" id="tab-home"&gt;
  &lt;div class="result-header"&gt;
  &lt;h4&gt;Cost Breakdown&lt;/h4&gt;
  &lt;span class="result-badge badge-neutral"&gt;30-Year Estimate&lt;/span&gt;
@@ -932,6 +957,117 @@ function compareCOL() {
 
  &lt;div class="result-summary" id="home-insight"&gt;&lt;/div&gt;
  &lt;/div&gt;
+
+ 
+ &lt;div class="calc-tab-panel" id="tab-monthly"&gt;
+ &lt;div class="result-header"&gt;
+ &lt;h4&gt;Monthly Cost Breakdown&lt;/h4&gt;
+ &lt;span class="result-badge badge-neutral"&gt;Per Month&lt;/span&gt;
+ &lt;/div&gt;
+
+ &lt;div class="cost-summary-cards"&gt;
+ &lt;div class="cost-summary-card"&gt;
+ &lt;div class="cost-summary-label"&gt;Home Ownership&lt;/div&gt;
+ &lt;div class="cost-summary-amount" id="monthly-home"&gt;$0&lt;/div&gt;
+ &lt;div class="cost-summary-sub"&gt;Mortgage + taxes + insurance + HOA&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="cost-summary-card highlight"&gt;
+ &lt;div class="cost-summary-label"&gt;Total Monthly&lt;/div&gt;
+ &lt;div class="cost-summary-amount" id="monthly-total"&gt;$0&lt;/div&gt;
+ &lt;div class="cost-summary-sub"&gt;Home ownership + utilities&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="cost-breakdown"&gt;
+ &lt;h5&gt;Home Ownership&lt;/h5&gt;
+ &lt;div class="breakdown-row"&gt;
+ &lt;div class="breakdown-label"&gt;
+ &lt;span class="breakdown-dot" style="background:#2563eb"&gt;&lt;/span&gt;
+ Mortgage (P+I)
+ &lt;/div&gt;
+ &lt;div class="breakdown-bar-track"&gt;
+ &lt;div class="breakdown-bar" id="bar-mo-mortgage" style="background:#2563eb"&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="breakdown-value" id="val-mo-mortgage"&gt;$0&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="breakdown-row"&gt;
+ &lt;div class="breakdown-label"&gt;
+ &lt;span class="breakdown-dot" style="background:#f59e0b"&gt;&lt;/span&gt;
+ Property Tax
+ &lt;/div&gt;
+ &lt;div class="breakdown-bar-track"&gt;
+ &lt;div class="breakdown-bar" id="bar-mo-tax" style="background:#f59e0b"&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="breakdown-value" id="val-mo-tax"&gt;$0&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="breakdown-row"&gt;
+ &lt;div class="breakdown-label"&gt;
+ &lt;span class="breakdown-dot" style="background:#10b981"&gt;&lt;/span&gt;
+ Home Insurance
+ &lt;/div&gt;
+ &lt;div class="breakdown-bar-track"&gt;
+ &lt;div class="breakdown-bar" id="bar-mo-insurance" style="background:#10b981"&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="breakdown-value" id="val-mo-insurance"&gt;$0&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="breakdown-row"&gt;
+ &lt;div class="breakdown-label"&gt;
+ &lt;span class="breakdown-dot" style="background:#8b5cf6"&gt;&lt;/span&gt;
+ HOA Fees
+ &lt;/div&gt;
+ &lt;div class="breakdown-bar-track"&gt;
+ &lt;div class="breakdown-bar" id="bar-mo-hoa" style="background:#8b5cf6"&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="breakdown-value" id="val-mo-hoa"&gt;$0&lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;h5 style="margin-top:1.5rem"&gt;Utilities&lt;/h5&gt;
+ &lt;div class="breakdown-row"&gt;
+ &lt;div class="breakdown-label"&gt;
+ &lt;span class="breakdown-dot" style="background:#f97316"&gt;&lt;/span&gt;
+ Electricity
+ &lt;/div&gt;
+ &lt;div class="breakdown-bar-track"&gt;
+ &lt;div class="breakdown-bar" id="bar-mo-elec" style="background:#f97316"&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="breakdown-value" id="val-mo-elec"&gt;$0&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="breakdown-row"&gt;
+ &lt;div class="breakdown-label"&gt;
+ &lt;span class="breakdown-dot" style="background:#06b6d4"&gt;&lt;/span&gt;
+ Water
+ &lt;/div&gt;
+ &lt;div class="breakdown-bar-track"&gt;
+ &lt;div class="breakdown-bar" id="bar-mo-water" style="background:#06b6d4"&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="breakdown-value" id="val-mo-water"&gt;$0&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="breakdown-row"&gt;
+ &lt;div class="breakdown-label"&gt;
+ &lt;span class="breakdown-dot" style="background:#84cc16"&gt;&lt;/span&gt;
+ Internet
+ &lt;/div&gt;
+ &lt;div class="breakdown-bar-track"&gt;
+ &lt;div class="breakdown-bar" id="bar-mo-net" style="background:#84cc16"&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="breakdown-value" id="val-mo-net"&gt;$0&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="breakdown-row"&gt;
+ &lt;div class="breakdown-label"&gt;
+ &lt;span class="breakdown-dot" style="background:#a855f7"&gt;&lt;/span&gt;
+ Garbage / Trash
+ &lt;/div&gt;
+ &lt;div class="breakdown-bar-track"&gt;
+ &lt;div class="breakdown-bar" id="bar-mo-trash" style="background:#a855f7"&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="breakdown-value" id="val-mo-trash"&gt;$0&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="result-summary" id="monthly-insight"&gt;&lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;script&gt;
@@ -947,12 +1083,28 @@ homePriceInput.addEventListener('input', updateDownHint);
 downPaymentInput.addEventListener('input', updateDownHint);
 updateDownHint();
 
+function switchTab(tabId) {
+ 
+ document.querySelectorAll('.calc-tab').forEach(btn =&gt; btn.classList.remove('active'));
+ document.getElementById('tab-btn-' + tabId.replace('tab-', '')).classList.add('active');
+ 
+ document.querySelectorAll('.calc-tab-panel').forEach(panel =&gt; panel.classList.remove('active'));
+ document.getElementById(tabId).classList.add('active');
+}
+
 function calculateHome() {
  const price = parseFloat(document.getElementById('home-price').value);
  const downPercent = parseFloat(document.getElementById('down-payment').value);
  const rate = parseFloat(document.getElementById('interest-rate').value);
  const taxRate = parseFloat(document.getElementById('tax-rate').value);
  const hoa = parseFloat(document.getElementById('hoa').value);
+
+ 
+ const utilElec = parseFloat(document.getElementById('util-elec').value) || 0;
+ const utilWater = parseFloat(document.getElementById('util-water').value) || 0;
+ const utilNet = parseFloat(document.getElementById('util-net').value) || 0;
+ const utilTrash = parseFloat(document.getElementById('util-trash').value) || 0;
+ const totalUtilities = utilElec + utilWater + utilNet + utilTrash;
 
  const downPayment = price * (downPercent / 100);
  const loanAmount = price - downPayment;
@@ -970,6 +1122,7 @@ function calculateHome() {
  const totalHoa = hoa * numPayments;
  const totalCost = totalMortgage + totalTax + totalInsurance + totalHoa + downPayment;
 
+ 
  document.getElementById('total-monthly').textContent = '$' + Math.round(totalMonthly).toLocaleString();
  document.getElementById('total-cost').textContent = '$' + Math.round(totalCost).toLocaleString();
 
