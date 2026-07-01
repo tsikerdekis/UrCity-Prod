@@ -27,6 +27,8 @@
  
  &lt;option value="albuquerque-nm" data-col="94.5" data-housing="88.2" data-name="Albuquerque"&gt;Albuquerque, NM&lt;/option&gt;
  
+ &lt;option value="amsterdam-nl" data-col="82.1" data-housing="135" data-name="Amsterdam"&gt;Amsterdam, NH&lt;/option&gt;
+ 
  &lt;option value="anaheim-ca" data-col="148.5" data-housing="212.4" data-name="Anaheim"&gt;Anaheim, CA&lt;/option&gt;
  
  &lt;option value="anchorage-ak" data-col="118.5" data-housing="128.4" data-name="Anchorage"&gt;Anchorage, AK&lt;/option&gt;
@@ -109,6 +111,8 @@
  
  &lt;option value="dallas-tx" data-col="101.3" data-housing="108.5" data-name="Dallas"&gt;Dallas, TX&lt;/option&gt;
  
+ &lt;option value="delft-nl" data-col="75" data-housing="105" data-name="Delft"&gt;Delft, ZH&lt;/option&gt;
+ 
  &lt;option value="denver-co" data-col="128.5" data-housing="168.3" data-name="Denver"&gt;Denver, CO&lt;/option&gt;
  
  &lt;option value="des-moines-ia" data-col="90.5" data-housing="82.5" data-name="Des Moines"&gt;Des Moines, IA&lt;/option&gt;
@@ -120,6 +124,8 @@
  &lt;option value="edinburgh-gb" data-col="105.8" data-housing="112.6" data-name="Edinburgh"&gt;Edinburgh, SCT&lt;/option&gt;
  
  &lt;option value="edmonton-ca" data-col="97.4" data-housing="96.8" data-name="Edmonton"&gt;Edmonton, AB&lt;/option&gt;
+ 
+ &lt;option value="eindhoven-nl" data-col="74.5" data-housing="98" data-name="Eindhoven"&gt;Eindhoven, NB&lt;/option&gt;
  
  &lt;option value="el-paso-tx" data-col="88.5" data-housing="76.8" data-name="El Paso"&gt;El Paso, TX&lt;/option&gt;
  
@@ -150,6 +156,8 @@
  &lt;option value="greensboro-nc" data-col="92.4" data-housing="82.5" data-name="Greensboro"&gt;Greensboro, NC&lt;/option&gt;
  
  &lt;option value="greenville-sc" data-col="96.5" data-housing="92.5" data-name="Greenville"&gt;Greenville, SC&lt;/option&gt;
+ 
+ &lt;option value="groningen-nl" data-col="71" data-housing="85" data-name="Groningen"&gt;Groningen, GR&lt;/option&gt;
  
  &lt;option value="halifax-ca" data-col="93.5" data-housing="91.3" data-name="Halifax"&gt;Halifax, NS&lt;/option&gt;
  
@@ -189,6 +197,8 @@
  
  &lt;option value="leeds-gb" data-col="91.7" data-housing="93.1" data-name="Leeds"&gt;Leeds, ENG&lt;/option&gt;
  
+ &lt;option value="leiden-nl" data-col="76" data-housing="110" data-name="Leiden"&gt;Leiden, ZH&lt;/option&gt;
+ 
  &lt;option value="lexington-ky" data-col="94.2" data-housing="88.5" data-name="Lexington"&gt;Lexington, KY&lt;/option&gt;
  
  &lt;option value="lincoln-ne" data-col="92.5" data-housing="85.2" data-name="Lincoln"&gt;Lincoln, NE&lt;/option&gt;
@@ -206,6 +216,8 @@
  &lt;option value="louisville-ky" data-col="91.2" data-housing="82.1" data-name="Louisville"&gt;Louisville, KY&lt;/option&gt;
  
  &lt;option value="lubbock-tx" data-col="88.5" data-housing="76.8" data-name="Lubbock"&gt;Lubbock, TX&lt;/option&gt;
+ 
+ &lt;option value="maastricht-nl" data-col="74" data-housing="92" data-name="Maastricht"&gt;Maastricht, LI&lt;/option&gt;
  
  &lt;option value="madison-wi" data-col="104.2" data-housing="112.5" data-name="Madison"&gt;Madison, WI&lt;/option&gt;
  
@@ -281,6 +293,8 @@
  
  &lt;option value="rochester-ny" data-col="92.5" data-housing="72.5" data-name="Rochester"&gt;Rochester, NY&lt;/option&gt;
  
+ &lt;option value="rotterdam-nl" data-col="78.9" data-housing="115" data-name="Rotterdam"&gt;Rotterdam, ZH&lt;/option&gt;
+ 
  &lt;option value="sacramento-ca" data-col="118.5" data-housing="138.5" data-name="Sacramento"&gt;Sacramento, CA&lt;/option&gt;
  
  &lt;option value="saint-paul-mn" data-col="104.2" data-housing="108.5" data-name="Saint Paul"&gt;Saint Paul, MN&lt;/option&gt;
@@ -323,6 +337,10 @@
  
  &lt;option value="tampa-fl" data-col="102.8" data-housing="108.5" data-name="Tampa"&gt;Tampa, FL&lt;/option&gt;
  
+ &lt;option value="the-hague-nl" data-col="75.6" data-housing="118" data-name="The Hague"&gt;The Hague, ZH&lt;/option&gt;
+ 
+ &lt;option value="tilburg-nl" data-col="73" data-housing="88" data-name="Tilburg"&gt;Tilburg, NB&lt;/option&gt;
+ 
  &lt;option value="toledo-oh" data-col="88.5" data-housing="68.4" data-name="Toledo"&gt;Toledo, OH&lt;/option&gt;
  
  &lt;option value="toronto-ca" data-col="128.4" data-housing="152.7" data-name="Toronto"&gt;Toronto, ON&lt;/option&gt;
@@ -330,6 +348,8 @@
  &lt;option value="tucson-az" data-col="95.8" data-housing="88.5" data-name="Tucson"&gt;Tucson, AZ&lt;/option&gt;
  
  &lt;option value="tulsa-ok" data-col="88.5" data-housing="78.2" data-name="Tulsa"&gt;Tulsa, OK&lt;/option&gt;
+ 
+ &lt;option value="utrecht-nl" data-col="76.5" data-housing="122" data-name="Utrecht"&gt;Utrecht, UT&lt;/option&gt;
  
  &lt;option value="vancouver-ca" data-col="142.6" data-housing="178.3" data-name="Vancouver"&gt;Vancouver, BC&lt;/option&gt;
  
@@ -372,6 +392,8 @@
  
  &lt;option value="albuquerque-nm" data-col="94.5" data-housing="88.2" data-name="Albuquerque"&gt;Albuquerque, NM&lt;/option&gt;
  
+ &lt;option value="amsterdam-nl" data-col="82.1" data-housing="135" data-name="Amsterdam"&gt;Amsterdam, NH&lt;/option&gt;
+ 
  &lt;option value="anaheim-ca" data-col="148.5" data-housing="212.4" data-name="Anaheim"&gt;Anaheim, CA&lt;/option&gt;
  
  &lt;option value="anchorage-ak" data-col="118.5" data-housing="128.4" data-name="Anchorage"&gt;Anchorage, AK&lt;/option&gt;
@@ -454,6 +476,8 @@
  
  &lt;option value="dallas-tx" data-col="101.3" data-housing="108.5" data-name="Dallas"&gt;Dallas, TX&lt;/option&gt;
  
+ &lt;option value="delft-nl" data-col="75" data-housing="105" data-name="Delft"&gt;Delft, ZH&lt;/option&gt;
+ 
  &lt;option value="denver-co" data-col="128.5" data-housing="168.3" data-name="Denver"&gt;Denver, CO&lt;/option&gt;
  
  &lt;option value="des-moines-ia" data-col="90.5" data-housing="82.5" data-name="Des Moines"&gt;Des Moines, IA&lt;/option&gt;
@@ -465,6 +489,8 @@
  &lt;option value="edinburgh-gb" data-col="105.8" data-housing="112.6" data-name="Edinburgh"&gt;Edinburgh, SCT&lt;/option&gt;
  
  &lt;option value="edmonton-ca" data-col="97.4" data-housing="96.8" data-name="Edmonton"&gt;Edmonton, AB&lt;/option&gt;
+ 
+ &lt;option value="eindhoven-nl" data-col="74.5" data-housing="98" data-name="Eindhoven"&gt;Eindhoven, NB&lt;/option&gt;
  
  &lt;option value="el-paso-tx" data-col="88.5" data-housing="76.8" data-name="El Paso"&gt;El Paso, TX&lt;/option&gt;
  
@@ -495,6 +521,8 @@
  &lt;option value="greensboro-nc" data-col="92.4" data-housing="82.5" data-name="Greensboro"&gt;Greensboro, NC&lt;/option&gt;
  
  &lt;option value="greenville-sc" data-col="96.5" data-housing="92.5" data-name="Greenville"&gt;Greenville, SC&lt;/option&gt;
+ 
+ &lt;option value="groningen-nl" data-col="71" data-housing="85" data-name="Groningen"&gt;Groningen, GR&lt;/option&gt;
  
  &lt;option value="halifax-ca" data-col="93.5" data-housing="91.3" data-name="Halifax"&gt;Halifax, NS&lt;/option&gt;
  
@@ -534,6 +562,8 @@
  
  &lt;option value="leeds-gb" data-col="91.7" data-housing="93.1" data-name="Leeds"&gt;Leeds, ENG&lt;/option&gt;
  
+ &lt;option value="leiden-nl" data-col="76" data-housing="110" data-name="Leiden"&gt;Leiden, ZH&lt;/option&gt;
+ 
  &lt;option value="lexington-ky" data-col="94.2" data-housing="88.5" data-name="Lexington"&gt;Lexington, KY&lt;/option&gt;
  
  &lt;option value="lincoln-ne" data-col="92.5" data-housing="85.2" data-name="Lincoln"&gt;Lincoln, NE&lt;/option&gt;
@@ -551,6 +581,8 @@
  &lt;option value="louisville-ky" data-col="91.2" data-housing="82.1" data-name="Louisville"&gt;Louisville, KY&lt;/option&gt;
  
  &lt;option value="lubbock-tx" data-col="88.5" data-housing="76.8" data-name="Lubbock"&gt;Lubbock, TX&lt;/option&gt;
+ 
+ &lt;option value="maastricht-nl" data-col="74" data-housing="92" data-name="Maastricht"&gt;Maastricht, LI&lt;/option&gt;
  
  &lt;option value="madison-wi" data-col="104.2" data-housing="112.5" data-name="Madison"&gt;Madison, WI&lt;/option&gt;
  
@@ -626,6 +658,8 @@
  
  &lt;option value="rochester-ny" data-col="92.5" data-housing="72.5" data-name="Rochester"&gt;Rochester, NY&lt;/option&gt;
  
+ &lt;option value="rotterdam-nl" data-col="78.9" data-housing="115" data-name="Rotterdam"&gt;Rotterdam, ZH&lt;/option&gt;
+ 
  &lt;option value="sacramento-ca" data-col="118.5" data-housing="138.5" data-name="Sacramento"&gt;Sacramento, CA&lt;/option&gt;
  
  &lt;option value="saint-paul-mn" data-col="104.2" data-housing="108.5" data-name="Saint Paul"&gt;Saint Paul, MN&lt;/option&gt;
@@ -668,6 +702,10 @@
  
  &lt;option value="tampa-fl" data-col="102.8" data-housing="108.5" data-name="Tampa"&gt;Tampa, FL&lt;/option&gt;
  
+ &lt;option value="the-hague-nl" data-col="75.6" data-housing="118" data-name="The Hague"&gt;The Hague, ZH&lt;/option&gt;
+ 
+ &lt;option value="tilburg-nl" data-col="73" data-housing="88" data-name="Tilburg"&gt;Tilburg, NB&lt;/option&gt;
+ 
  &lt;option value="toledo-oh" data-col="88.5" data-housing="68.4" data-name="Toledo"&gt;Toledo, OH&lt;/option&gt;
  
  &lt;option value="toronto-ca" data-col="128.4" data-housing="152.7" data-name="Toronto"&gt;Toronto, ON&lt;/option&gt;
@@ -675,6 +713,8 @@
  &lt;option value="tucson-az" data-col="95.8" data-housing="88.5" data-name="Tucson"&gt;Tucson, AZ&lt;/option&gt;
  
  &lt;option value="tulsa-ok" data-col="88.5" data-housing="78.2" data-name="Tulsa"&gt;Tulsa, OK&lt;/option&gt;
+ 
+ &lt;option value="utrecht-nl" data-col="76.5" data-housing="122" data-name="Utrecht"&gt;Utrecht, UT&lt;/option&gt;
  
  &lt;option value="vancouver-ca" data-col="142.6" data-housing="178.3" data-name="Vancouver"&gt;Vancouver, BC&lt;/option&gt;
  
@@ -1314,6 +1354,8 @@ function calculateHome() {
  
  &lt;option value="albuquerque-nm" data-col="94.5" data-name="Albuquerque" &gt;Albuquerque, NM&lt;/option&gt;
  
+ &lt;option value="amsterdam-nl" data-col="82.1" data-name="Amsterdam" &gt;Amsterdam, NH&lt;/option&gt;
+ 
  &lt;option value="anaheim-ca" data-col="148.5" data-name="Anaheim" &gt;Anaheim, CA&lt;/option&gt;
  
  &lt;option value="anchorage-ak" data-col="118.5" data-name="Anchorage" &gt;Anchorage, AK&lt;/option&gt;
@@ -1396,6 +1438,8 @@ function calculateHome() {
  
  &lt;option value="dallas-tx" data-col="101.3" data-name="Dallas" &gt;Dallas, TX&lt;/option&gt;
  
+ &lt;option value="delft-nl" data-col="75" data-name="Delft" &gt;Delft, ZH&lt;/option&gt;
+ 
  &lt;option value="denver-co" data-col="128.5" data-name="Denver" &gt;Denver, CO&lt;/option&gt;
  
  &lt;option value="des-moines-ia" data-col="90.5" data-name="Des Moines" &gt;Des Moines, IA&lt;/option&gt;
@@ -1407,6 +1451,8 @@ function calculateHome() {
  &lt;option value="edinburgh-gb" data-col="105.8" data-name="Edinburgh" &gt;Edinburgh, SCT&lt;/option&gt;
  
  &lt;option value="edmonton-ca" data-col="97.4" data-name="Edmonton" &gt;Edmonton, AB&lt;/option&gt;
+ 
+ &lt;option value="eindhoven-nl" data-col="74.5" data-name="Eindhoven" &gt;Eindhoven, NB&lt;/option&gt;
  
  &lt;option value="el-paso-tx" data-col="88.5" data-name="El Paso" &gt;El Paso, TX&lt;/option&gt;
  
@@ -1437,6 +1483,8 @@ function calculateHome() {
  &lt;option value="greensboro-nc" data-col="92.4" data-name="Greensboro" &gt;Greensboro, NC&lt;/option&gt;
  
  &lt;option value="greenville-sc" data-col="96.5" data-name="Greenville" &gt;Greenville, SC&lt;/option&gt;
+ 
+ &lt;option value="groningen-nl" data-col="71" data-name="Groningen" &gt;Groningen, GR&lt;/option&gt;
  
  &lt;option value="halifax-ca" data-col="93.5" data-name="Halifax" &gt;Halifax, NS&lt;/option&gt;
  
@@ -1476,6 +1524,8 @@ function calculateHome() {
  
  &lt;option value="leeds-gb" data-col="91.7" data-name="Leeds" &gt;Leeds, ENG&lt;/option&gt;
  
+ &lt;option value="leiden-nl" data-col="76" data-name="Leiden" &gt;Leiden, ZH&lt;/option&gt;
+ 
  &lt;option value="lexington-ky" data-col="94.2" data-name="Lexington" &gt;Lexington, KY&lt;/option&gt;
  
  &lt;option value="lincoln-ne" data-col="92.5" data-name="Lincoln" &gt;Lincoln, NE&lt;/option&gt;
@@ -1493,6 +1543,8 @@ function calculateHome() {
  &lt;option value="louisville-ky" data-col="91.2" data-name="Louisville" &gt;Louisville, KY&lt;/option&gt;
  
  &lt;option value="lubbock-tx" data-col="88.5" data-name="Lubbock" &gt;Lubbock, TX&lt;/option&gt;
+ 
+ &lt;option value="maastricht-nl" data-col="74" data-name="Maastricht" &gt;Maastricht, LI&lt;/option&gt;
  
  &lt;option value="madison-wi" data-col="104.2" data-name="Madison" &gt;Madison, WI&lt;/option&gt;
  
@@ -1568,6 +1620,8 @@ function calculateHome() {
  
  &lt;option value="rochester-ny" data-col="92.5" data-name="Rochester" &gt;Rochester, NY&lt;/option&gt;
  
+ &lt;option value="rotterdam-nl" data-col="78.9" data-name="Rotterdam" &gt;Rotterdam, ZH&lt;/option&gt;
+ 
  &lt;option value="sacramento-ca" data-col="118.5" data-name="Sacramento" &gt;Sacramento, CA&lt;/option&gt;
  
  &lt;option value="saint-paul-mn" data-col="104.2" data-name="Saint Paul" &gt;Saint Paul, MN&lt;/option&gt;
@@ -1610,6 +1664,10 @@ function calculateHome() {
  
  &lt;option value="tampa-fl" data-col="102.8" data-name="Tampa" &gt;Tampa, FL&lt;/option&gt;
  
+ &lt;option value="the-hague-nl" data-col="75.6" data-name="The Hague" &gt;The Hague, ZH&lt;/option&gt;
+ 
+ &lt;option value="tilburg-nl" data-col="73" data-name="Tilburg" &gt;Tilburg, NB&lt;/option&gt;
+ 
  &lt;option value="toledo-oh" data-col="88.5" data-name="Toledo" &gt;Toledo, OH&lt;/option&gt;
  
  &lt;option value="toronto-ca" data-col="128.4" data-name="Toronto" &gt;Toronto, ON&lt;/option&gt;
@@ -1617,6 +1675,8 @@ function calculateHome() {
  &lt;option value="tucson-az" data-col="95.8" data-name="Tucson" &gt;Tucson, AZ&lt;/option&gt;
  
  &lt;option value="tulsa-ok" data-col="88.5" data-name="Tulsa" &gt;Tulsa, OK&lt;/option&gt;
+ 
+ &lt;option value="utrecht-nl" data-col="76.5" data-name="Utrecht" &gt;Utrecht, UT&lt;/option&gt;
  
  &lt;option value="vancouver-ca" data-col="142.6" data-name="Vancouver" &gt;Vancouver, BC&lt;/option&gt;
  
@@ -1649,6 +1709,8 @@ function calculateHome() {
  &lt;option value="akron-oh" data-col="88.5" data-name="Akron" &gt;Akron, OH&lt;/option&gt;
  
  &lt;option value="albuquerque-nm" data-col="94.5" data-name="Albuquerque" &gt;Albuquerque, NM&lt;/option&gt;
+ 
+ &lt;option value="amsterdam-nl" data-col="82.1" data-name="Amsterdam" &gt;Amsterdam, NH&lt;/option&gt;
  
  &lt;option value="anaheim-ca" data-col="148.5" data-name="Anaheim" &gt;Anaheim, CA&lt;/option&gt;
  
@@ -1732,6 +1794,8 @@ function calculateHome() {
  
  &lt;option value="dallas-tx" data-col="101.3" data-name="Dallas" &gt;Dallas, TX&lt;/option&gt;
  
+ &lt;option value="delft-nl" data-col="75" data-name="Delft" &gt;Delft, ZH&lt;/option&gt;
+ 
  &lt;option value="denver-co" data-col="128.5" data-name="Denver" &gt;Denver, CO&lt;/option&gt;
  
  &lt;option value="des-moines-ia" data-col="90.5" data-name="Des Moines" &gt;Des Moines, IA&lt;/option&gt;
@@ -1743,6 +1807,8 @@ function calculateHome() {
  &lt;option value="edinburgh-gb" data-col="105.8" data-name="Edinburgh" &gt;Edinburgh, SCT&lt;/option&gt;
  
  &lt;option value="edmonton-ca" data-col="97.4" data-name="Edmonton" &gt;Edmonton, AB&lt;/option&gt;
+ 
+ &lt;option value="eindhoven-nl" data-col="74.5" data-name="Eindhoven" &gt;Eindhoven, NB&lt;/option&gt;
  
  &lt;option value="el-paso-tx" data-col="88.5" data-name="El Paso" &gt;El Paso, TX&lt;/option&gt;
  
@@ -1773,6 +1839,8 @@ function calculateHome() {
  &lt;option value="greensboro-nc" data-col="92.4" data-name="Greensboro" &gt;Greensboro, NC&lt;/option&gt;
  
  &lt;option value="greenville-sc" data-col="96.5" data-name="Greenville" &gt;Greenville, SC&lt;/option&gt;
+ 
+ &lt;option value="groningen-nl" data-col="71" data-name="Groningen" &gt;Groningen, GR&lt;/option&gt;
  
  &lt;option value="halifax-ca" data-col="93.5" data-name="Halifax" &gt;Halifax, NS&lt;/option&gt;
  
@@ -1812,6 +1880,8 @@ function calculateHome() {
  
  &lt;option value="leeds-gb" data-col="91.7" data-name="Leeds" &gt;Leeds, ENG&lt;/option&gt;
  
+ &lt;option value="leiden-nl" data-col="76" data-name="Leiden" &gt;Leiden, ZH&lt;/option&gt;
+ 
  &lt;option value="lexington-ky" data-col="94.2" data-name="Lexington" &gt;Lexington, KY&lt;/option&gt;
  
  &lt;option value="lincoln-ne" data-col="92.5" data-name="Lincoln" &gt;Lincoln, NE&lt;/option&gt;
@@ -1829,6 +1899,8 @@ function calculateHome() {
  &lt;option value="louisville-ky" data-col="91.2" data-name="Louisville" &gt;Louisville, KY&lt;/option&gt;
  
  &lt;option value="lubbock-tx" data-col="88.5" data-name="Lubbock" &gt;Lubbock, TX&lt;/option&gt;
+ 
+ &lt;option value="maastricht-nl" data-col="74" data-name="Maastricht" &gt;Maastricht, LI&lt;/option&gt;
  
  &lt;option value="madison-wi" data-col="104.2" data-name="Madison" &gt;Madison, WI&lt;/option&gt;
  
@@ -1904,6 +1976,8 @@ function calculateHome() {
  
  &lt;option value="rochester-ny" data-col="92.5" data-name="Rochester" &gt;Rochester, NY&lt;/option&gt;
  
+ &lt;option value="rotterdam-nl" data-col="78.9" data-name="Rotterdam" &gt;Rotterdam, ZH&lt;/option&gt;
+ 
  &lt;option value="sacramento-ca" data-col="118.5" data-name="Sacramento" &gt;Sacramento, CA&lt;/option&gt;
  
  &lt;option value="saint-paul-mn" data-col="104.2" data-name="Saint Paul" &gt;Saint Paul, MN&lt;/option&gt;
@@ -1946,6 +2020,10 @@ function calculateHome() {
  
  &lt;option value="tampa-fl" data-col="102.8" data-name="Tampa" &gt;Tampa, FL&lt;/option&gt;
  
+ &lt;option value="the-hague-nl" data-col="75.6" data-name="The Hague" &gt;The Hague, ZH&lt;/option&gt;
+ 
+ &lt;option value="tilburg-nl" data-col="73" data-name="Tilburg" &gt;Tilburg, NB&lt;/option&gt;
+ 
  &lt;option value="toledo-oh" data-col="88.5" data-name="Toledo" &gt;Toledo, OH&lt;/option&gt;
  
  &lt;option value="toronto-ca" data-col="128.4" data-name="Toronto" &gt;Toronto, ON&lt;/option&gt;
@@ -1953,6 +2031,8 @@ function calculateHome() {
  &lt;option value="tucson-az" data-col="95.8" data-name="Tucson" &gt;Tucson, AZ&lt;/option&gt;
  
  &lt;option value="tulsa-ok" data-col="88.5" data-name="Tulsa" &gt;Tulsa, OK&lt;/option&gt;
+ 
+ &lt;option value="utrecht-nl" data-col="76.5" data-name="Utrecht" &gt;Utrecht, UT&lt;/option&gt;
  
  &lt;option value="vancouver-ca" data-col="142.6" data-name="Vancouver" &gt;Vancouver, BC&lt;/option&gt;
  
