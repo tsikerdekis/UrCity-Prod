@@ -51,6 +51,8 @@
  
  &lt;option value="belfast-gb" data-col="84.1" data-housing="80.5" data-name="Belfast"&gt;Belfast, NIR&lt;/option&gt;
  
+ &lt;option value="bellingham-wa" data-col="115.2" data-housing="132.5" data-name="Bellingham"&gt;Bellingham, WA&lt;/option&gt;
+ 
  &lt;option value="bend-or" data-col="118.5" data-housing="142.5" data-name="Bend"&gt;Bend, OR&lt;/option&gt;
  
  &lt;option value="billings-mt" data-col="96.5" data-housing="92.5" data-name="Billings"&gt;Billings, MT&lt;/option&gt;
@@ -393,6 +395,8 @@
  &lt;option value="baton-rouge-la" data-col="94.5" data-housing="88.5" data-name="Baton Rouge"&gt;Baton Rouge, LA&lt;/option&gt;
  
  &lt;option value="belfast-gb" data-col="84.1" data-housing="80.5" data-name="Belfast"&gt;Belfast, NIR&lt;/option&gt;
+ 
+ &lt;option value="bellingham-wa" data-col="115.2" data-housing="132.5" data-name="Bellingham"&gt;Bellingham, WA&lt;/option&gt;
  
  &lt;option value="bend-or" data-col="118.5" data-housing="142.5" data-name="Bend"&gt;Bend, OR&lt;/option&gt;
  
@@ -880,6 +884,8 @@ function compareCOL() {
 
 
 
+
+ 
  
  
  
@@ -951,6 +957,7 @@ function compareCOL() {
  &lt;input type="hidden" id="util-water" value="75"&gt;
  &lt;input type="hidden" id="util-net" value="55"&gt;
  &lt;input type="hidden" id="util-trash" value="30"&gt;
+ &lt;input type="hidden" id="util-heating" value="122"&gt;
  &lt;input type="hidden" id="util-currency" value="USD"&gt;
  &lt;input type="hidden" id="calc-currency" value="USD"&gt;
 
@@ -1148,6 +1155,16 @@ function compareCOL() {
  &lt;/div&gt;
  &lt;div class="breakdown-value" id="val-mo-trash"&gt;$0&lt;/div&gt;
  &lt;/div&gt;
+ &lt;div class="breakdown-row"&gt;
+ &lt;div class="breakdown-label"&gt;
+ &lt;span class="breakdown-dot" style="background:#ef4444"&gt;&lt;/span&gt;
+ Heating (Gas/Oil)
+ &lt;/div&gt;
+ &lt;div class="breakdown-bar-track"&gt;
+ &lt;div class="breakdown-bar" id="bar-mo-heating" style="background:#ef4444"&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="breakdown-value" id="val-mo-heating"&gt;$0&lt;/div&gt;
+ &lt;/div&gt;
  &lt;/div&gt;
 
  &lt;div class="result-summary" id="monthly-insight"&gt;&lt;/div&gt;
@@ -1204,7 +1221,8 @@ function calculateHome() {
  const utilWater = parseFloat(document.getElementById('util-water').value) || 0;
  const utilNet = parseFloat(document.getElementById('util-net').value) || 0;
  const utilTrash = parseFloat(document.getElementById('util-trash').value) || 0;
- const totalUtilities = utilElec + utilWater + utilNet + utilTrash;
+ const utilHeating = parseFloat(document.getElementById('util-heating').value) || 0;
+ const totalUtilities = utilElec + utilWater + utilNet + utilTrash + utilHeating;
 
  
  const utilCurrency = document.getElementById('util-currency') ? document.getElementById('util-currency').value : 'USD';
@@ -1319,6 +1337,8 @@ function calculateHome() {
  &lt;option value="baton-rouge-la" data-col="94.5" data-name="Baton Rouge" &gt;Baton Rouge, LA&lt;/option&gt;
  
  &lt;option value="belfast-gb" data-col="84.1" data-name="Belfast" &gt;Belfast, NIR&lt;/option&gt;
+ 
+ &lt;option value="bellingham-wa" data-col="115.2" data-name="Bellingham" &gt;Bellingham, WA&lt;/option&gt;
  
  &lt;option value="bend-or" data-col="118.5" data-name="Bend" &gt;Bend, OR&lt;/option&gt;
  
@@ -1653,6 +1673,8 @@ function calculateHome() {
  &lt;option value="baton-rouge-la" data-col="94.5" data-name="Baton Rouge" &gt;Baton Rouge, LA&lt;/option&gt;
  
  &lt;option value="belfast-gb" data-col="84.1" data-name="Belfast" &gt;Belfast, NIR&lt;/option&gt;
+ 
+ &lt;option value="bellingham-wa" data-col="115.2" data-name="Bellingham" &gt;Bellingham, WA&lt;/option&gt;
  
  &lt;option value="bend-or" data-col="118.5" data-name="Bend" &gt;Bend, OR&lt;/option&gt;
  

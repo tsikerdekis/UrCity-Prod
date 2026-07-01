@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About URCity on URCity — Find Your City. Know the True Cost.</title><link>https://urcity.com/about/</link><description>Recent content in About URCity on URCity — Find Your City. Know the True Cost.</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://urcity.com/about/index.xml" rel="self" type="application/rss+xml"/><item><title>Methodology</title><link>https://urcity.com/about/methodology/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://urcity.com/about/methodology/</guid><description>&lt;h2 id="our-methodology"&gt;Our Methodology&lt;/h2&gt;
-&lt;p&gt;URCity combines data from official government sources with proprietary calculations to give you the most accurate picture of life in any city across the US, UK, and Canada.&lt;/p&gt;
+&lt;p&gt;URCity combines data from official government sources with proprietary calculations to give you the most accurate picture of life in any city across the US, UK, and Canada. We currently cover &lt;strong&gt;164 cities across 3 countries&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2 id="data-sources"&gt;Data Sources&lt;/h2&gt;
 &lt;p&gt;We use only official, verified data sources:&lt;/p&gt;
 &lt;h3 id="united-states"&gt;United States&lt;/h3&gt;
@@ -16,6 +16,7 @@
 &lt;li&gt;&lt;strong&gt;FCC Broadband Data&lt;/strong&gt; — Internet availability and speeds&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;EPA Smart Location Database&lt;/strong&gt; — Walkability and transit access&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;FBI Uniform Crime Reporting&lt;/strong&gt; — Crime statistics&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;U.S. Energy Information Administration (EIA)&lt;/strong&gt; — State-level natural gas prices and electricity costs&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="united-kingdom"&gt;United Kingdom&lt;/h3&gt;
 &lt;ul&gt;
@@ -25,6 +26,8 @@
 &lt;li&gt;&lt;strong&gt;HM Revenue &amp;amp; Customs (HMRC)&lt;/strong&gt; — Tax rates&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Met Office&lt;/strong&gt; — Climate data&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Ofcom&lt;/strong&gt; — Broadband availability&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ofgem&lt;/strong&gt; — Gas and electricity price caps&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Water UK&lt;/strong&gt; — Water utility costs&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="canada"&gt;Canada&lt;/h3&gt;
 &lt;ul&gt;
@@ -34,6 +37,7 @@
 &lt;li&gt;&lt;strong&gt;Environment and Climate Change Canada&lt;/strong&gt; — Climate data&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Canada Revenue Agency&lt;/strong&gt; — Tax rates&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;ISED (Innovation, Science and Economic Development)&lt;/strong&gt; — Broadband data&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Canada Energy Regulator&lt;/strong&gt; — Natural gas and electricity prices&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="calculation-methods"&gt;Calculation Methods&lt;/h2&gt;
 &lt;h3 id="cost-of-living-index"&gt;Cost of Living Index&lt;/h3&gt;
