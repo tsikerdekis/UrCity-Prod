@@ -23,6 +23,10 @@
  &lt;/label&gt;
  &lt;select id="col-city-a"&gt;
  
+ &lt;option value="acapulco-gro" data-col="70.5" data-housing="68" data-name="Acapulco"&gt;Acapulco, GRO&lt;/option&gt;
+ 
+ &lt;option value="aguascalientes-agu" data-col="67.5" data-housing="64" data-name="Aguascalientes"&gt;Aguascalientes, AGU&lt;/option&gt;
+ 
  &lt;option value="akron-oh" data-col="88.5" data-housing="68.5" data-name="Akron"&gt;Akron, OH&lt;/option&gt;
  
  &lt;option value="albuquerque-nm" data-col="94.5" data-housing="88.2" data-name="Albuquerque"&gt;Albuquerque, NM&lt;/option&gt;
@@ -79,7 +83,11 @@
  
  &lt;option value="calgary-ca" data-col="105.7" data-housing="108.2" data-name="Calgary"&gt;Calgary, AB&lt;/option&gt;
  
+ &lt;option value="cancun-roo" data-col="88.5" data-housing="95" data-name="Cancún"&gt;Cancún, ROO&lt;/option&gt;
+ 
  &lt;option value="cardiff-gb" data-col="89.2" data-housing="88.7" data-name="Cardiff"&gt;Cardiff, WLS&lt;/option&gt;
+ 
+ &lt;option value="celaya-gua" data-col="65.5" data-housing="62" data-name="Celaya"&gt;Celaya, GUA&lt;/option&gt;
  
  &lt;option value="chandler-az" data-col="108.5" data-housing="118.2" data-name="Chandler"&gt;Chandler, AZ&lt;/option&gt;
  
@@ -95,11 +103,17 @@
  
  &lt;option value="chicago-il" data-col="110.8" data-housing="132.5" data-name="Chicago"&gt;Chicago, IL&lt;/option&gt;
  
+ &lt;option value="chihuahua-chh" data-col="66.5" data-housing="63" data-name="Chihuahua"&gt;Chihuahua, CHH&lt;/option&gt;
+ 
  &lt;option value="chula-vista-ca" data-col="138.5" data-housing="188.4" data-name="Chula Vista"&gt;Chula Vista, CA&lt;/option&gt;
  
  &lt;option value="cincinnati-oh" data-col="92.8" data-housing="82.5" data-name="Cincinnati"&gt;Cincinnati, OH&lt;/option&gt;
  
+ &lt;option value="ciudad-juarez-chh" data-col="63" data-housing="60" data-name="Ciudad Juárez"&gt;Ciudad Juárez, CHH&lt;/option&gt;
+ 
  &lt;option value="cleveland-oh" data-col="90.2" data-housing="72.5" data-name="Cleveland"&gt;Cleveland, OH&lt;/option&gt;
+ 
+ &lt;option value="coatzacoalcos-ver" data-col="64" data-housing="61" data-name="Coatzacoalcos"&gt;Coatzacoalcos, VER&lt;/option&gt;
  
  &lt;option value="colorado-springs-co" data-col="105.2" data-housing="118.5" data-name="Colorado Springs"&gt;Colorado Springs, CO&lt;/option&gt;
  
@@ -108,6 +122,10 @@
  &lt;option value="columbus-oh" data-col="92.1" data-housing="84.5" data-name="Columbus"&gt;Columbus, OH&lt;/option&gt;
  
  &lt;option value="corpus-christi-tx" data-col="92.5" data-housing="88.4" data-name="Corpus Christi"&gt;Corpus Christi, TX&lt;/option&gt;
+ 
+ &lt;option value="cuernavaca-mor" data-col="73.2" data-housing="72" data-name="Cuernavaca"&gt;Cuernavaca, MOR&lt;/option&gt;
+ 
+ &lt;option value="culiacan-sin" data-col="66" data-housing="63" data-name="Culiacán"&gt;Culiacán, SIN&lt;/option&gt;
  
  &lt;option value="dallas-tx" data-col="101.3" data-housing="108.5" data-name="Dallas"&gt;Dallas, TX&lt;/option&gt;
  
@@ -118,6 +136,8 @@
  &lt;option value="des-moines-ia" data-col="90.5" data-housing="82.5" data-name="Des Moines"&gt;Des Moines, IA&lt;/option&gt;
  
  &lt;option value="detroit-mi" data-col="92.8" data-housing="68.4" data-name="Detroit"&gt;Detroit, MI&lt;/option&gt;
+ 
+ &lt;option value="durango-dur" data-col="64.5" data-housing="61" data-name="Durango"&gt;Durango, DUR&lt;/option&gt;
  
  &lt;option value="durham-nc" data-col="98.5" data-housing="95.2" data-name="Durham"&gt;Durham, NC&lt;/option&gt;
  
@@ -159,9 +179,13 @@
  
  &lt;option value="groningen-nl" data-col="71" data-housing="85" data-name="Groningen"&gt;Groningen, GR&lt;/option&gt;
  
+ &lt;option value="guadalajara-jal" data-col="78.2" data-housing="82" data-name="Guadalajara"&gt;Guadalajara, JAL&lt;/option&gt;
+ 
  &lt;option value="halifax-ca" data-col="93.5" data-housing="91.3" data-name="Halifax"&gt;Halifax, NS&lt;/option&gt;
  
  &lt;option value="henderson-nv" data-col="108.5" data-housing="118.2" data-name="Henderson"&gt;Henderson, NV&lt;/option&gt;
+ 
+ &lt;option value="hermosillo-son" data-col="68.8" data-housing="66" data-name="Hermosillo"&gt;Hermosillo, SON&lt;/option&gt;
  
  &lt;option value="hialeah-fl" data-col="108.5" data-housing="112.5" data-name="Hialeah"&gt;Hialeah, FL&lt;/option&gt;
  
@@ -199,6 +223,8 @@
  
  &lt;option value="leiden-nl" data-col="76" data-housing="110" data-name="Leiden"&gt;Leiden, ZH&lt;/option&gt;
  
+ &lt;option value="leon-gua" data-col="70.8" data-housing="68" data-name="León"&gt;León, GUA&lt;/option&gt;
+ 
  &lt;option value="lexington-ky" data-col="94.2" data-housing="88.5" data-name="Lexington"&gt;Lexington, KY&lt;/option&gt;
  
  &lt;option value="lincoln-ne" data-col="92.5" data-housing="85.2" data-name="Lincoln"&gt;Lincoln, NE&lt;/option&gt;
@@ -227,7 +253,11 @@
  
  &lt;option value="memphis-tn" data-col="88.5" data-housing="74.2" data-name="Memphis"&gt;Memphis, TN&lt;/option&gt;
  
+ &lt;option value="merida-yuc" data-col="74" data-housing="72" data-name="Mérida"&gt;Mérida, YUC&lt;/option&gt;
+ 
  &lt;option value="mesa-az" data-col="102.5" data-housing="108.4" data-name="Mesa"&gt;Mesa, AZ&lt;/option&gt;
+ 
+ &lt;option value="mexico-city-cmx" data-col="85.3" data-housing="90.5" data-name="Mexico City"&gt;Mexico City, CMX&lt;/option&gt;
  
  &lt;option value="miami-fl" data-col="145.6" data-housing="198.3" data-name="Miami"&gt;Miami, FL&lt;/option&gt;
  
@@ -239,9 +269,13 @@
  
  &lt;option value="modesto-ca" data-col="108.5" data-housing="102.4" data-name="Modesto"&gt;Modesto, CA&lt;/option&gt;
  
+ &lt;option value="monterrey-nle" data-col="92.4" data-housing="105" data-name="Monterrey"&gt;Monterrey, NLE&lt;/option&gt;
+ 
  &lt;option value="montgomery-al" data-col="90.5" data-housing="78.5" data-name="Montgomery"&gt;Montgomery, AL&lt;/option&gt;
  
  &lt;option value="montreal-ca" data-col="98.3" data-housing="101.5" data-name="Montreal"&gt;Montreal, QC&lt;/option&gt;
+ 
+ &lt;option value="morelia-mic" data-col="69" data-housing="66" data-name="Morelia"&gt;Morelia, MIC&lt;/option&gt;
  
  &lt;option value="myrtle-beach-sc" data-col="96.5" data-housing="88.5" data-name="Myrtle Beach"&gt;Myrtle Beach, SC&lt;/option&gt;
  
@@ -256,6 +290,8 @@
  &lt;option value="norfolk-va" data-col="98.5" data-housing="92.4" data-name="Norfolk"&gt;Norfolk, VA&lt;/option&gt;
  
  &lt;option value="oakland-ca" data-col="158.4" data-housing="218.5" data-name="Oakland"&gt;Oakland, CA&lt;/option&gt;
+ 
+ &lt;option value="oaxaca-oax" data-col="65" data-housing="62" data-name="Oaxaca"&gt;Oaxaca, OAX&lt;/option&gt;
  
  &lt;option value="oklahoma-city-ok" data-col="88.2" data-housing="78.5" data-name="Oklahoma City"&gt;Oklahoma City, OK&lt;/option&gt;
  
@@ -281,7 +317,11 @@
  
  &lt;option value="providence-ri" data-col="118.5" data-housing="128.4" data-name="Providence"&gt;Providence, RI&lt;/option&gt;
  
+ &lt;option value="puebla-pue" data-col="72.1" data-housing="70" data-name="Puebla"&gt;Puebla, PUE&lt;/option&gt;
+ 
  &lt;option value="quebec-city-ca" data-col="87.2" data-housing="79.6" data-name="Quebec City"&gt;Quebec City, QC&lt;/option&gt;
+ 
+ &lt;option value="queretaro-que" data-col="76.8" data-housing="78" data-name="Querétaro"&gt;Querétaro, QUE&lt;/option&gt;
  
  &lt;option value="raleigh-nc" data-col="102.4" data-housing="108.5" data-name="Raleigh"&gt;Raleigh, NC&lt;/option&gt;
  
@@ -303,6 +343,8 @@
  
  &lt;option value="salt-lake-city-ut" data-col="108.5" data-housing="118.2" data-name="Salt Lake City"&gt;Salt Lake City, UT&lt;/option&gt;
  
+ &lt;option value="saltillo-coa" data-col="69.8" data-housing="67" data-name="Saltillo"&gt;Saltillo, COA&lt;/option&gt;
+ 
  &lt;option value="san-antonio-tx" data-col="92.4" data-housing="85.3" data-name="San Antonio"&gt;San Antonio, TX&lt;/option&gt;
  
  &lt;option value="san-bernardino-ca" data-col="108.5" data-housing="102.4" data-name="San Bernardino"&gt;San Bernardino, CA&lt;/option&gt;
@@ -312,6 +354,10 @@
  &lt;option value="san-francisco-ca" data-col="269.3" data-housing="432.1" data-name="San Francisco"&gt;San Francisco, CA&lt;/option&gt;
  
  &lt;option value="san-jose-ca" data-col="214.5" data-housing="342.1" data-name="San Jose"&gt;San Jose, CA&lt;/option&gt;
+ 
+ &lt;option value="san-luis-potosi-slp" data-col="68.2" data-housing="65" data-name="San Luis Potosí"&gt;San Luis Potosí, SLP&lt;/option&gt;
+ 
+ &lt;option value="san-miguel-de-allende-gua" data-col="82" data-housing="88" data-name="San Miguel de Allende"&gt;San Miguel de Allende, GUA&lt;/option&gt;
  
  &lt;option value="santa-ana-ca" data-col="142.8" data-housing="198.5" data-name="Santa Ana"&gt;Santa Ana, CA&lt;/option&gt;
  
@@ -337,13 +383,21 @@
  
  &lt;option value="tampa-fl" data-col="102.8" data-housing="108.5" data-name="Tampa"&gt;Tampa, FL&lt;/option&gt;
  
+ &lt;option value="tepic-nay" data-col="63.5" data-housing="60" data-name="Tepic"&gt;Tepic, NAY&lt;/option&gt;
+ 
  &lt;option value="the-hague-nl" data-col="75.6" data-housing="118" data-name="The Hague"&gt;The Hague, ZH&lt;/option&gt;
+ 
+ &lt;option value="tijuana-bcn" data-col="80.5" data-housing="85" data-name="Tijuana"&gt;Tijuana, BCN&lt;/option&gt;
  
  &lt;option value="tilburg-nl" data-col="73" data-housing="88" data-name="Tilburg"&gt;Tilburg, NB&lt;/option&gt;
  
  &lt;option value="toledo-oh" data-col="88.5" data-housing="68.4" data-name="Toledo"&gt;Toledo, OH&lt;/option&gt;
  
+ &lt;option value="toluca-mex" data-col="71.5" data-housing="69" data-name="Toluca"&gt;Toluca, MEX&lt;/option&gt;
+ 
  &lt;option value="toronto-ca" data-col="128.4" data-housing="152.7" data-name="Toronto"&gt;Toronto, ON&lt;/option&gt;
+ 
+ &lt;option value="torreon-coa" data-col="67.8" data-housing="65" data-name="Torreón"&gt;Torreón, COA&lt;/option&gt;
  
  &lt;option value="tucson-az" data-col="95.8" data-housing="88.5" data-name="Tucson"&gt;Tucson, AZ&lt;/option&gt;
  
@@ -353,7 +407,11 @@
  
  &lt;option value="vancouver-ca" data-col="142.6" data-housing="178.3" data-name="Vancouver"&gt;Vancouver, BC&lt;/option&gt;
  
+ &lt;option value="veracruz-ver" data-col="68.5" data-housing="65" data-name="Veracruz"&gt;Veracruz, VER&lt;/option&gt;
+ 
  &lt;option value="victoria-ca" data-col="112.4" data-housing="118.6" data-name="Victoria"&gt;Victoria, BC&lt;/option&gt;
+ 
+ &lt;option value="villahermosa-tab" data-col="67" data-housing="64" data-name="Villahermosa"&gt;Villahermosa, TAB&lt;/option&gt;
  
  &lt;option value="virginia-beach-va" data-col="104.2" data-housing="112.5" data-name="Virginia Beach"&gt;Virginia Beach, VA&lt;/option&gt;
  
@@ -368,6 +426,8 @@
  &lt;option value="winston-salem-nc" data-col="92.5" data-housing="82.5" data-name="Winston-Salem"&gt;Winston-Salem, NC&lt;/option&gt;
  
  &lt;option value="worcester-ma" data-col="118.5" data-housing="128.4" data-name="Worcester"&gt;Worcester, MA&lt;/option&gt;
+ 
+ &lt;option value="zacatecas-zac" data-col="62.5" data-housing="59" data-name="Zacatecas"&gt;Zacatecas, ZAC&lt;/option&gt;
  
  &lt;/select&gt;
  &lt;/div&gt;
@@ -388,6 +448,10 @@
  &lt;/label&gt;
  &lt;select id="col-city-b"&gt;
  
+ &lt;option value="acapulco-gro" data-col="70.5" data-housing="68" data-name="Acapulco"&gt;Acapulco, GRO&lt;/option&gt;
+ 
+ &lt;option value="aguascalientes-agu" data-col="67.5" data-housing="64" data-name="Aguascalientes"&gt;Aguascalientes, AGU&lt;/option&gt;
+ 
  &lt;option value="akron-oh" data-col="88.5" data-housing="68.5" data-name="Akron"&gt;Akron, OH&lt;/option&gt;
  
  &lt;option value="albuquerque-nm" data-col="94.5" data-housing="88.2" data-name="Albuquerque"&gt;Albuquerque, NM&lt;/option&gt;
@@ -444,7 +508,11 @@
  
  &lt;option value="calgary-ca" data-col="105.7" data-housing="108.2" data-name="Calgary"&gt;Calgary, AB&lt;/option&gt;
  
+ &lt;option value="cancun-roo" data-col="88.5" data-housing="95" data-name="Cancún"&gt;Cancún, ROO&lt;/option&gt;
+ 
  &lt;option value="cardiff-gb" data-col="89.2" data-housing="88.7" data-name="Cardiff"&gt;Cardiff, WLS&lt;/option&gt;
+ 
+ &lt;option value="celaya-gua" data-col="65.5" data-housing="62" data-name="Celaya"&gt;Celaya, GUA&lt;/option&gt;
  
  &lt;option value="chandler-az" data-col="108.5" data-housing="118.2" data-name="Chandler"&gt;Chandler, AZ&lt;/option&gt;
  
@@ -460,11 +528,17 @@
  
  &lt;option value="chicago-il" data-col="110.8" data-housing="132.5" data-name="Chicago"&gt;Chicago, IL&lt;/option&gt;
  
+ &lt;option value="chihuahua-chh" data-col="66.5" data-housing="63" data-name="Chihuahua"&gt;Chihuahua, CHH&lt;/option&gt;
+ 
  &lt;option value="chula-vista-ca" data-col="138.5" data-housing="188.4" data-name="Chula Vista"&gt;Chula Vista, CA&lt;/option&gt;
  
  &lt;option value="cincinnati-oh" data-col="92.8" data-housing="82.5" data-name="Cincinnati"&gt;Cincinnati, OH&lt;/option&gt;
  
+ &lt;option value="ciudad-juarez-chh" data-col="63" data-housing="60" data-name="Ciudad Juárez"&gt;Ciudad Juárez, CHH&lt;/option&gt;
+ 
  &lt;option value="cleveland-oh" data-col="90.2" data-housing="72.5" data-name="Cleveland"&gt;Cleveland, OH&lt;/option&gt;
+ 
+ &lt;option value="coatzacoalcos-ver" data-col="64" data-housing="61" data-name="Coatzacoalcos"&gt;Coatzacoalcos, VER&lt;/option&gt;
  
  &lt;option value="colorado-springs-co" data-col="105.2" data-housing="118.5" data-name="Colorado Springs"&gt;Colorado Springs, CO&lt;/option&gt;
  
@@ -473,6 +547,10 @@
  &lt;option value="columbus-oh" data-col="92.1" data-housing="84.5" data-name="Columbus"&gt;Columbus, OH&lt;/option&gt;
  
  &lt;option value="corpus-christi-tx" data-col="92.5" data-housing="88.4" data-name="Corpus Christi"&gt;Corpus Christi, TX&lt;/option&gt;
+ 
+ &lt;option value="cuernavaca-mor" data-col="73.2" data-housing="72" data-name="Cuernavaca"&gt;Cuernavaca, MOR&lt;/option&gt;
+ 
+ &lt;option value="culiacan-sin" data-col="66" data-housing="63" data-name="Culiacán"&gt;Culiacán, SIN&lt;/option&gt;
  
  &lt;option value="dallas-tx" data-col="101.3" data-housing="108.5" data-name="Dallas"&gt;Dallas, TX&lt;/option&gt;
  
@@ -483,6 +561,8 @@
  &lt;option value="des-moines-ia" data-col="90.5" data-housing="82.5" data-name="Des Moines"&gt;Des Moines, IA&lt;/option&gt;
  
  &lt;option value="detroit-mi" data-col="92.8" data-housing="68.4" data-name="Detroit"&gt;Detroit, MI&lt;/option&gt;
+ 
+ &lt;option value="durango-dur" data-col="64.5" data-housing="61" data-name="Durango"&gt;Durango, DUR&lt;/option&gt;
  
  &lt;option value="durham-nc" data-col="98.5" data-housing="95.2" data-name="Durham"&gt;Durham, NC&lt;/option&gt;
  
@@ -524,9 +604,13 @@
  
  &lt;option value="groningen-nl" data-col="71" data-housing="85" data-name="Groningen"&gt;Groningen, GR&lt;/option&gt;
  
+ &lt;option value="guadalajara-jal" data-col="78.2" data-housing="82" data-name="Guadalajara"&gt;Guadalajara, JAL&lt;/option&gt;
+ 
  &lt;option value="halifax-ca" data-col="93.5" data-housing="91.3" data-name="Halifax"&gt;Halifax, NS&lt;/option&gt;
  
  &lt;option value="henderson-nv" data-col="108.5" data-housing="118.2" data-name="Henderson"&gt;Henderson, NV&lt;/option&gt;
+ 
+ &lt;option value="hermosillo-son" data-col="68.8" data-housing="66" data-name="Hermosillo"&gt;Hermosillo, SON&lt;/option&gt;
  
  &lt;option value="hialeah-fl" data-col="108.5" data-housing="112.5" data-name="Hialeah"&gt;Hialeah, FL&lt;/option&gt;
  
@@ -564,6 +648,8 @@
  
  &lt;option value="leiden-nl" data-col="76" data-housing="110" data-name="Leiden"&gt;Leiden, ZH&lt;/option&gt;
  
+ &lt;option value="leon-gua" data-col="70.8" data-housing="68" data-name="León"&gt;León, GUA&lt;/option&gt;
+ 
  &lt;option value="lexington-ky" data-col="94.2" data-housing="88.5" data-name="Lexington"&gt;Lexington, KY&lt;/option&gt;
  
  &lt;option value="lincoln-ne" data-col="92.5" data-housing="85.2" data-name="Lincoln"&gt;Lincoln, NE&lt;/option&gt;
@@ -592,7 +678,11 @@
  
  &lt;option value="memphis-tn" data-col="88.5" data-housing="74.2" data-name="Memphis"&gt;Memphis, TN&lt;/option&gt;
  
+ &lt;option value="merida-yuc" data-col="74" data-housing="72" data-name="Mérida"&gt;Mérida, YUC&lt;/option&gt;
+ 
  &lt;option value="mesa-az" data-col="102.5" data-housing="108.4" data-name="Mesa"&gt;Mesa, AZ&lt;/option&gt;
+ 
+ &lt;option value="mexico-city-cmx" data-col="85.3" data-housing="90.5" data-name="Mexico City"&gt;Mexico City, CMX&lt;/option&gt;
  
  &lt;option value="miami-fl" data-col="145.6" data-housing="198.3" data-name="Miami"&gt;Miami, FL&lt;/option&gt;
  
@@ -604,9 +694,13 @@
  
  &lt;option value="modesto-ca" data-col="108.5" data-housing="102.4" data-name="Modesto"&gt;Modesto, CA&lt;/option&gt;
  
+ &lt;option value="monterrey-nle" data-col="92.4" data-housing="105" data-name="Monterrey"&gt;Monterrey, NLE&lt;/option&gt;
+ 
  &lt;option value="montgomery-al" data-col="90.5" data-housing="78.5" data-name="Montgomery"&gt;Montgomery, AL&lt;/option&gt;
  
  &lt;option value="montreal-ca" data-col="98.3" data-housing="101.5" data-name="Montreal"&gt;Montreal, QC&lt;/option&gt;
+ 
+ &lt;option value="morelia-mic" data-col="69" data-housing="66" data-name="Morelia"&gt;Morelia, MIC&lt;/option&gt;
  
  &lt;option value="myrtle-beach-sc" data-col="96.5" data-housing="88.5" data-name="Myrtle Beach"&gt;Myrtle Beach, SC&lt;/option&gt;
  
@@ -621,6 +715,8 @@
  &lt;option value="norfolk-va" data-col="98.5" data-housing="92.4" data-name="Norfolk"&gt;Norfolk, VA&lt;/option&gt;
  
  &lt;option value="oakland-ca" data-col="158.4" data-housing="218.5" data-name="Oakland"&gt;Oakland, CA&lt;/option&gt;
+ 
+ &lt;option value="oaxaca-oax" data-col="65" data-housing="62" data-name="Oaxaca"&gt;Oaxaca, OAX&lt;/option&gt;
  
  &lt;option value="oklahoma-city-ok" data-col="88.2" data-housing="78.5" data-name="Oklahoma City"&gt;Oklahoma City, OK&lt;/option&gt;
  
@@ -646,7 +742,11 @@
  
  &lt;option value="providence-ri" data-col="118.5" data-housing="128.4" data-name="Providence"&gt;Providence, RI&lt;/option&gt;
  
+ &lt;option value="puebla-pue" data-col="72.1" data-housing="70" data-name="Puebla"&gt;Puebla, PUE&lt;/option&gt;
+ 
  &lt;option value="quebec-city-ca" data-col="87.2" data-housing="79.6" data-name="Quebec City"&gt;Quebec City, QC&lt;/option&gt;
+ 
+ &lt;option value="queretaro-que" data-col="76.8" data-housing="78" data-name="Querétaro"&gt;Querétaro, QUE&lt;/option&gt;
  
  &lt;option value="raleigh-nc" data-col="102.4" data-housing="108.5" data-name="Raleigh"&gt;Raleigh, NC&lt;/option&gt;
  
@@ -668,6 +768,8 @@
  
  &lt;option value="salt-lake-city-ut" data-col="108.5" data-housing="118.2" data-name="Salt Lake City"&gt;Salt Lake City, UT&lt;/option&gt;
  
+ &lt;option value="saltillo-coa" data-col="69.8" data-housing="67" data-name="Saltillo"&gt;Saltillo, COA&lt;/option&gt;
+ 
  &lt;option value="san-antonio-tx" data-col="92.4" data-housing="85.3" data-name="San Antonio"&gt;San Antonio, TX&lt;/option&gt;
  
  &lt;option value="san-bernardino-ca" data-col="108.5" data-housing="102.4" data-name="San Bernardino"&gt;San Bernardino, CA&lt;/option&gt;
@@ -677,6 +779,10 @@
  &lt;option value="san-francisco-ca" data-col="269.3" data-housing="432.1" data-name="San Francisco"&gt;San Francisco, CA&lt;/option&gt;
  
  &lt;option value="san-jose-ca" data-col="214.5" data-housing="342.1" data-name="San Jose"&gt;San Jose, CA&lt;/option&gt;
+ 
+ &lt;option value="san-luis-potosi-slp" data-col="68.2" data-housing="65" data-name="San Luis Potosí"&gt;San Luis Potosí, SLP&lt;/option&gt;
+ 
+ &lt;option value="san-miguel-de-allende-gua" data-col="82" data-housing="88" data-name="San Miguel de Allende"&gt;San Miguel de Allende, GUA&lt;/option&gt;
  
  &lt;option value="santa-ana-ca" data-col="142.8" data-housing="198.5" data-name="Santa Ana"&gt;Santa Ana, CA&lt;/option&gt;
  
@@ -702,13 +808,21 @@
  
  &lt;option value="tampa-fl" data-col="102.8" data-housing="108.5" data-name="Tampa"&gt;Tampa, FL&lt;/option&gt;
  
+ &lt;option value="tepic-nay" data-col="63.5" data-housing="60" data-name="Tepic"&gt;Tepic, NAY&lt;/option&gt;
+ 
  &lt;option value="the-hague-nl" data-col="75.6" data-housing="118" data-name="The Hague"&gt;The Hague, ZH&lt;/option&gt;
+ 
+ &lt;option value="tijuana-bcn" data-col="80.5" data-housing="85" data-name="Tijuana"&gt;Tijuana, BCN&lt;/option&gt;
  
  &lt;option value="tilburg-nl" data-col="73" data-housing="88" data-name="Tilburg"&gt;Tilburg, NB&lt;/option&gt;
  
  &lt;option value="toledo-oh" data-col="88.5" data-housing="68.4" data-name="Toledo"&gt;Toledo, OH&lt;/option&gt;
  
+ &lt;option value="toluca-mex" data-col="71.5" data-housing="69" data-name="Toluca"&gt;Toluca, MEX&lt;/option&gt;
+ 
  &lt;option value="toronto-ca" data-col="128.4" data-housing="152.7" data-name="Toronto"&gt;Toronto, ON&lt;/option&gt;
+ 
+ &lt;option value="torreon-coa" data-col="67.8" data-housing="65" data-name="Torreón"&gt;Torreón, COA&lt;/option&gt;
  
  &lt;option value="tucson-az" data-col="95.8" data-housing="88.5" data-name="Tucson"&gt;Tucson, AZ&lt;/option&gt;
  
@@ -718,7 +832,11 @@
  
  &lt;option value="vancouver-ca" data-col="142.6" data-housing="178.3" data-name="Vancouver"&gt;Vancouver, BC&lt;/option&gt;
  
+ &lt;option value="veracruz-ver" data-col="68.5" data-housing="65" data-name="Veracruz"&gt;Veracruz, VER&lt;/option&gt;
+ 
  &lt;option value="victoria-ca" data-col="112.4" data-housing="118.6" data-name="Victoria"&gt;Victoria, BC&lt;/option&gt;
+ 
+ &lt;option value="villahermosa-tab" data-col="67" data-housing="64" data-name="Villahermosa"&gt;Villahermosa, TAB&lt;/option&gt;
  
  &lt;option value="virginia-beach-va" data-col="104.2" data-housing="112.5" data-name="Virginia Beach"&gt;Virginia Beach, VA&lt;/option&gt;
  
@@ -733,6 +851,8 @@
  &lt;option value="winston-salem-nc" data-col="92.5" data-housing="82.5" data-name="Winston-Salem"&gt;Winston-Salem, NC&lt;/option&gt;
  
  &lt;option value="worcester-ma" data-col="118.5" data-housing="128.4" data-name="Worcester"&gt;Worcester, MA&lt;/option&gt;
+ 
+ &lt;option value="zacatecas-zac" data-col="62.5" data-housing="59" data-name="Zacatecas"&gt;Zacatecas, ZAC&lt;/option&gt;
  
  &lt;/select&gt;
  &lt;/div&gt;
@@ -958,6 +1078,10 @@ function compareCOL() {
  &lt;/label&gt;
  &lt;select id="from-city"&gt;
  
+ &lt;option value="acapulco-gro" data-col="70.5" data-name="Acapulco" &gt;Acapulco, GRO&lt;/option&gt;
+ 
+ &lt;option value="aguascalientes-agu" data-col="67.5" data-name="Aguascalientes" &gt;Aguascalientes, AGU&lt;/option&gt;
+ 
  &lt;option value="akron-oh" data-col="88.5" data-name="Akron" &gt;Akron, OH&lt;/option&gt;
  
  &lt;option value="albuquerque-nm" data-col="94.5" data-name="Albuquerque" &gt;Albuquerque, NM&lt;/option&gt;
@@ -1014,7 +1138,11 @@ function compareCOL() {
  
  &lt;option value="calgary-ca" data-col="105.7" data-name="Calgary" &gt;Calgary, AB&lt;/option&gt;
  
+ &lt;option value="cancun-roo" data-col="88.5" data-name="Cancún" &gt;Cancún, ROO&lt;/option&gt;
+ 
  &lt;option value="cardiff-gb" data-col="89.2" data-name="Cardiff" &gt;Cardiff, WLS&lt;/option&gt;
+ 
+ &lt;option value="celaya-gua" data-col="65.5" data-name="Celaya" &gt;Celaya, GUA&lt;/option&gt;
  
  &lt;option value="chandler-az" data-col="108.5" data-name="Chandler" &gt;Chandler, AZ&lt;/option&gt;
  
@@ -1030,11 +1158,17 @@ function compareCOL() {
  
  &lt;option value="chicago-il" data-col="110.8" data-name="Chicago" &gt;Chicago, IL&lt;/option&gt;
  
+ &lt;option value="chihuahua-chh" data-col="66.5" data-name="Chihuahua" &gt;Chihuahua, CHH&lt;/option&gt;
+ 
  &lt;option value="chula-vista-ca" data-col="138.5" data-name="Chula Vista" &gt;Chula Vista, CA&lt;/option&gt;
  
  &lt;option value="cincinnati-oh" data-col="92.8" data-name="Cincinnati" &gt;Cincinnati, OH&lt;/option&gt;
  
+ &lt;option value="ciudad-juarez-chh" data-col="63" data-name="Ciudad Juárez" &gt;Ciudad Juárez, CHH&lt;/option&gt;
+ 
  &lt;option value="cleveland-oh" data-col="90.2" data-name="Cleveland" &gt;Cleveland, OH&lt;/option&gt;
+ 
+ &lt;option value="coatzacoalcos-ver" data-col="64" data-name="Coatzacoalcos" &gt;Coatzacoalcos, VER&lt;/option&gt;
  
  &lt;option value="colorado-springs-co" data-col="105.2" data-name="Colorado Springs" &gt;Colorado Springs, CO&lt;/option&gt;
  
@@ -1043,6 +1177,10 @@ function compareCOL() {
  &lt;option value="columbus-oh" data-col="92.1" data-name="Columbus" &gt;Columbus, OH&lt;/option&gt;
  
  &lt;option value="corpus-christi-tx" data-col="92.5" data-name="Corpus Christi" &gt;Corpus Christi, TX&lt;/option&gt;
+ 
+ &lt;option value="cuernavaca-mor" data-col="73.2" data-name="Cuernavaca" &gt;Cuernavaca, MOR&lt;/option&gt;
+ 
+ &lt;option value="culiacan-sin" data-col="66" data-name="Culiacán" &gt;Culiacán, SIN&lt;/option&gt;
  
  &lt;option value="dallas-tx" data-col="101.3" data-name="Dallas" &gt;Dallas, TX&lt;/option&gt;
  
@@ -1053,6 +1191,8 @@ function compareCOL() {
  &lt;option value="des-moines-ia" data-col="90.5" data-name="Des Moines" &gt;Des Moines, IA&lt;/option&gt;
  
  &lt;option value="detroit-mi" data-col="92.8" data-name="Detroit" &gt;Detroit, MI&lt;/option&gt;
+ 
+ &lt;option value="durango-dur" data-col="64.5" data-name="Durango" &gt;Durango, DUR&lt;/option&gt;
  
  &lt;option value="durham-nc" data-col="98.5" data-name="Durham" &gt;Durham, NC&lt;/option&gt;
  
@@ -1094,9 +1234,13 @@ function compareCOL() {
  
  &lt;option value="groningen-nl" data-col="71" data-name="Groningen" &gt;Groningen, GR&lt;/option&gt;
  
+ &lt;option value="guadalajara-jal" data-col="78.2" data-name="Guadalajara" &gt;Guadalajara, JAL&lt;/option&gt;
+ 
  &lt;option value="halifax-ca" data-col="93.5" data-name="Halifax" &gt;Halifax, NS&lt;/option&gt;
  
  &lt;option value="henderson-nv" data-col="108.5" data-name="Henderson" &gt;Henderson, NV&lt;/option&gt;
+ 
+ &lt;option value="hermosillo-son" data-col="68.8" data-name="Hermosillo" &gt;Hermosillo, SON&lt;/option&gt;
  
  &lt;option value="hialeah-fl" data-col="108.5" data-name="Hialeah" &gt;Hialeah, FL&lt;/option&gt;
  
@@ -1134,6 +1278,8 @@ function compareCOL() {
  
  &lt;option value="leiden-nl" data-col="76" data-name="Leiden" &gt;Leiden, ZH&lt;/option&gt;
  
+ &lt;option value="leon-gua" data-col="70.8" data-name="León" &gt;León, GUA&lt;/option&gt;
+ 
  &lt;option value="lexington-ky" data-col="94.2" data-name="Lexington" &gt;Lexington, KY&lt;/option&gt;
  
  &lt;option value="lincoln-ne" data-col="92.5" data-name="Lincoln" &gt;Lincoln, NE&lt;/option&gt;
@@ -1162,7 +1308,11 @@ function compareCOL() {
  
  &lt;option value="memphis-tn" data-col="88.5" data-name="Memphis" &gt;Memphis, TN&lt;/option&gt;
  
+ &lt;option value="merida-yuc" data-col="74" data-name="Mérida" &gt;Mérida, YUC&lt;/option&gt;
+ 
  &lt;option value="mesa-az" data-col="102.5" data-name="Mesa" &gt;Mesa, AZ&lt;/option&gt;
+ 
+ &lt;option value="mexico-city-cmx" data-col="85.3" data-name="Mexico City" &gt;Mexico City, CMX&lt;/option&gt;
  
  &lt;option value="miami-fl" data-col="145.6" data-name="Miami" &gt;Miami, FL&lt;/option&gt;
  
@@ -1174,9 +1324,13 @@ function compareCOL() {
  
  &lt;option value="modesto-ca" data-col="108.5" data-name="Modesto" &gt;Modesto, CA&lt;/option&gt;
  
+ &lt;option value="monterrey-nle" data-col="92.4" data-name="Monterrey" &gt;Monterrey, NLE&lt;/option&gt;
+ 
  &lt;option value="montgomery-al" data-col="90.5" data-name="Montgomery" &gt;Montgomery, AL&lt;/option&gt;
  
  &lt;option value="montreal-ca" data-col="98.3" data-name="Montreal" &gt;Montreal, QC&lt;/option&gt;
+ 
+ &lt;option value="morelia-mic" data-col="69" data-name="Morelia" &gt;Morelia, MIC&lt;/option&gt;
  
  &lt;option value="myrtle-beach-sc" data-col="96.5" data-name="Myrtle Beach" &gt;Myrtle Beach, SC&lt;/option&gt;
  
@@ -1191,6 +1345,8 @@ function compareCOL() {
  &lt;option value="norfolk-va" data-col="98.5" data-name="Norfolk" &gt;Norfolk, VA&lt;/option&gt;
  
  &lt;option value="oakland-ca" data-col="158.4" data-name="Oakland" &gt;Oakland, CA&lt;/option&gt;
+ 
+ &lt;option value="oaxaca-oax" data-col="65" data-name="Oaxaca" &gt;Oaxaca, OAX&lt;/option&gt;
  
  &lt;option value="oklahoma-city-ok" data-col="88.2" data-name="Oklahoma City" &gt;Oklahoma City, OK&lt;/option&gt;
  
@@ -1216,7 +1372,11 @@ function compareCOL() {
  
  &lt;option value="providence-ri" data-col="118.5" data-name="Providence" &gt;Providence, RI&lt;/option&gt;
  
+ &lt;option value="puebla-pue" data-col="72.1" data-name="Puebla" &gt;Puebla, PUE&lt;/option&gt;
+ 
  &lt;option value="quebec-city-ca" data-col="87.2" data-name="Quebec City" &gt;Quebec City, QC&lt;/option&gt;
+ 
+ &lt;option value="queretaro-que" data-col="76.8" data-name="Querétaro" &gt;Querétaro, QUE&lt;/option&gt;
  
  &lt;option value="raleigh-nc" data-col="102.4" data-name="Raleigh" &gt;Raleigh, NC&lt;/option&gt;
  
@@ -1238,6 +1398,8 @@ function compareCOL() {
  
  &lt;option value="salt-lake-city-ut" data-col="108.5" data-name="Salt Lake City" &gt;Salt Lake City, UT&lt;/option&gt;
  
+ &lt;option value="saltillo-coa" data-col="69.8" data-name="Saltillo" &gt;Saltillo, COA&lt;/option&gt;
+ 
  &lt;option value="san-antonio-tx" data-col="92.4" data-name="San Antonio" &gt;San Antonio, TX&lt;/option&gt;
  
  &lt;option value="san-bernardino-ca" data-col="108.5" data-name="San Bernardino" &gt;San Bernardino, CA&lt;/option&gt;
@@ -1247,6 +1409,10 @@ function compareCOL() {
  &lt;option value="san-francisco-ca" data-col="269.3" data-name="San Francisco" &gt;San Francisco, CA&lt;/option&gt;
  
  &lt;option value="san-jose-ca" data-col="214.5" data-name="San Jose" &gt;San Jose, CA&lt;/option&gt;
+ 
+ &lt;option value="san-luis-potosi-slp" data-col="68.2" data-name="San Luis Potosí" &gt;San Luis Potosí, SLP&lt;/option&gt;
+ 
+ &lt;option value="san-miguel-de-allende-gua" data-col="82" data-name="San Miguel de Allende" &gt;San Miguel de Allende, GUA&lt;/option&gt;
  
  &lt;option value="santa-ana-ca" data-col="142.8" data-name="Santa Ana" &gt;Santa Ana, CA&lt;/option&gt;
  
@@ -1272,13 +1438,21 @@ function compareCOL() {
  
  &lt;option value="tampa-fl" data-col="102.8" data-name="Tampa" &gt;Tampa, FL&lt;/option&gt;
  
+ &lt;option value="tepic-nay" data-col="63.5" data-name="Tepic" &gt;Tepic, NAY&lt;/option&gt;
+ 
  &lt;option value="the-hague-nl" data-col="75.6" data-name="The Hague" &gt;The Hague, ZH&lt;/option&gt;
+ 
+ &lt;option value="tijuana-bcn" data-col="80.5" data-name="Tijuana" &gt;Tijuana, BCN&lt;/option&gt;
  
  &lt;option value="tilburg-nl" data-col="73" data-name="Tilburg" &gt;Tilburg, NB&lt;/option&gt;
  
  &lt;option value="toledo-oh" data-col="88.5" data-name="Toledo" &gt;Toledo, OH&lt;/option&gt;
  
+ &lt;option value="toluca-mex" data-col="71.5" data-name="Toluca" &gt;Toluca, MEX&lt;/option&gt;
+ 
  &lt;option value="toronto-ca" data-col="128.4" data-name="Toronto" &gt;Toronto, ON&lt;/option&gt;
+ 
+ &lt;option value="torreon-coa" data-col="67.8" data-name="Torreón" &gt;Torreón, COA&lt;/option&gt;
  
  &lt;option value="tucson-az" data-col="95.8" data-name="Tucson" &gt;Tucson, AZ&lt;/option&gt;
  
@@ -1288,7 +1462,11 @@ function compareCOL() {
  
  &lt;option value="vancouver-ca" data-col="142.6" data-name="Vancouver" &gt;Vancouver, BC&lt;/option&gt;
  
+ &lt;option value="veracruz-ver" data-col="68.5" data-name="Veracruz" &gt;Veracruz, VER&lt;/option&gt;
+ 
  &lt;option value="victoria-ca" data-col="112.4" data-name="Victoria" &gt;Victoria, BC&lt;/option&gt;
+ 
+ &lt;option value="villahermosa-tab" data-col="67" data-name="Villahermosa" &gt;Villahermosa, TAB&lt;/option&gt;
  
  &lt;option value="virginia-beach-va" data-col="104.2" data-name="Virginia Beach" &gt;Virginia Beach, VA&lt;/option&gt;
  
@@ -1304,6 +1482,8 @@ function compareCOL() {
  
  &lt;option value="worcester-ma" data-col="118.5" data-name="Worcester" &gt;Worcester, MA&lt;/option&gt;
  
+ &lt;option value="zacatecas-zac" data-col="62.5" data-name="Zacatecas" &gt;Zacatecas, ZAC&lt;/option&gt;
+ 
  &lt;/select&gt;
  &lt;/div&gt;
 
@@ -1313,6 +1493,10 @@ function compareCOL() {
  Ciudad de Destino
  &lt;/label&gt;
  &lt;select id="to-city"&gt;
+ 
+ &lt;option value="acapulco-gro" data-col="70.5" data-name="Acapulco" &gt;Acapulco, GRO&lt;/option&gt;
+ 
+ &lt;option value="aguascalientes-agu" data-col="67.5" data-name="Aguascalientes" &gt;Aguascalientes, AGU&lt;/option&gt;
  
  &lt;option value="akron-oh" data-col="88.5" data-name="Akron" &gt;Akron, OH&lt;/option&gt;
  
@@ -1370,7 +1554,11 @@ function compareCOL() {
  
  &lt;option value="calgary-ca" data-col="105.7" data-name="Calgary" &gt;Calgary, AB&lt;/option&gt;
  
+ &lt;option value="cancun-roo" data-col="88.5" data-name="Cancún" &gt;Cancún, ROO&lt;/option&gt;
+ 
  &lt;option value="cardiff-gb" data-col="89.2" data-name="Cardiff" &gt;Cardiff, WLS&lt;/option&gt;
+ 
+ &lt;option value="celaya-gua" data-col="65.5" data-name="Celaya" &gt;Celaya, GUA&lt;/option&gt;
  
  &lt;option value="chandler-az" data-col="108.5" data-name="Chandler" &gt;Chandler, AZ&lt;/option&gt;
  
@@ -1386,11 +1574,17 @@ function compareCOL() {
  
  &lt;option value="chicago-il" data-col="110.8" data-name="Chicago" &gt;Chicago, IL&lt;/option&gt;
  
+ &lt;option value="chihuahua-chh" data-col="66.5" data-name="Chihuahua" &gt;Chihuahua, CHH&lt;/option&gt;
+ 
  &lt;option value="chula-vista-ca" data-col="138.5" data-name="Chula Vista" &gt;Chula Vista, CA&lt;/option&gt;
  
  &lt;option value="cincinnati-oh" data-col="92.8" data-name="Cincinnati" &gt;Cincinnati, OH&lt;/option&gt;
  
+ &lt;option value="ciudad-juarez-chh" data-col="63" data-name="Ciudad Juárez" &gt;Ciudad Juárez, CHH&lt;/option&gt;
+ 
  &lt;option value="cleveland-oh" data-col="90.2" data-name="Cleveland" &gt;Cleveland, OH&lt;/option&gt;
+ 
+ &lt;option value="coatzacoalcos-ver" data-col="64" data-name="Coatzacoalcos" &gt;Coatzacoalcos, VER&lt;/option&gt;
  
  &lt;option value="colorado-springs-co" data-col="105.2" data-name="Colorado Springs" &gt;Colorado Springs, CO&lt;/option&gt;
  
@@ -1399,6 +1593,10 @@ function compareCOL() {
  &lt;option value="columbus-oh" data-col="92.1" data-name="Columbus" &gt;Columbus, OH&lt;/option&gt;
  
  &lt;option value="corpus-christi-tx" data-col="92.5" data-name="Corpus Christi" &gt;Corpus Christi, TX&lt;/option&gt;
+ 
+ &lt;option value="cuernavaca-mor" data-col="73.2" data-name="Cuernavaca" &gt;Cuernavaca, MOR&lt;/option&gt;
+ 
+ &lt;option value="culiacan-sin" data-col="66" data-name="Culiacán" &gt;Culiacán, SIN&lt;/option&gt;
  
  &lt;option value="dallas-tx" data-col="101.3" data-name="Dallas" &gt;Dallas, TX&lt;/option&gt;
  
@@ -1409,6 +1607,8 @@ function compareCOL() {
  &lt;option value="des-moines-ia" data-col="90.5" data-name="Des Moines" &gt;Des Moines, IA&lt;/option&gt;
  
  &lt;option value="detroit-mi" data-col="92.8" data-name="Detroit" &gt;Detroit, MI&lt;/option&gt;
+ 
+ &lt;option value="durango-dur" data-col="64.5" data-name="Durango" &gt;Durango, DUR&lt;/option&gt;
  
  &lt;option value="durham-nc" data-col="98.5" data-name="Durham" &gt;Durham, NC&lt;/option&gt;
  
@@ -1450,9 +1650,13 @@ function compareCOL() {
  
  &lt;option value="groningen-nl" data-col="71" data-name="Groningen" &gt;Groningen, GR&lt;/option&gt;
  
+ &lt;option value="guadalajara-jal" data-col="78.2" data-name="Guadalajara" &gt;Guadalajara, JAL&lt;/option&gt;
+ 
  &lt;option value="halifax-ca" data-col="93.5" data-name="Halifax" &gt;Halifax, NS&lt;/option&gt;
  
  &lt;option value="henderson-nv" data-col="108.5" data-name="Henderson" &gt;Henderson, NV&lt;/option&gt;
+ 
+ &lt;option value="hermosillo-son" data-col="68.8" data-name="Hermosillo" &gt;Hermosillo, SON&lt;/option&gt;
  
  &lt;option value="hialeah-fl" data-col="108.5" data-name="Hialeah" &gt;Hialeah, FL&lt;/option&gt;
  
@@ -1490,6 +1694,8 @@ function compareCOL() {
  
  &lt;option value="leiden-nl" data-col="76" data-name="Leiden" &gt;Leiden, ZH&lt;/option&gt;
  
+ &lt;option value="leon-gua" data-col="70.8" data-name="León" &gt;León, GUA&lt;/option&gt;
+ 
  &lt;option value="lexington-ky" data-col="94.2" data-name="Lexington" &gt;Lexington, KY&lt;/option&gt;
  
  &lt;option value="lincoln-ne" data-col="92.5" data-name="Lincoln" &gt;Lincoln, NE&lt;/option&gt;
@@ -1518,7 +1724,11 @@ function compareCOL() {
  
  &lt;option value="memphis-tn" data-col="88.5" data-name="Memphis" &gt;Memphis, TN&lt;/option&gt;
  
+ &lt;option value="merida-yuc" data-col="74" data-name="Mérida" &gt;Mérida, YUC&lt;/option&gt;
+ 
  &lt;option value="mesa-az" data-col="102.5" data-name="Mesa" &gt;Mesa, AZ&lt;/option&gt;
+ 
+ &lt;option value="mexico-city-cmx" data-col="85.3" data-name="Mexico City" &gt;Mexico City, CMX&lt;/option&gt;
  
  &lt;option value="miami-fl" data-col="145.6" data-name="Miami" &gt;Miami, FL&lt;/option&gt;
  
@@ -1530,9 +1740,13 @@ function compareCOL() {
  
  &lt;option value="modesto-ca" data-col="108.5" data-name="Modesto" &gt;Modesto, CA&lt;/option&gt;
  
+ &lt;option value="monterrey-nle" data-col="92.4" data-name="Monterrey" &gt;Monterrey, NLE&lt;/option&gt;
+ 
  &lt;option value="montgomery-al" data-col="90.5" data-name="Montgomery" &gt;Montgomery, AL&lt;/option&gt;
  
  &lt;option value="montreal-ca" data-col="98.3" data-name="Montreal" &gt;Montreal, QC&lt;/option&gt;
+ 
+ &lt;option value="morelia-mic" data-col="69" data-name="Morelia" &gt;Morelia, MIC&lt;/option&gt;
  
  &lt;option value="myrtle-beach-sc" data-col="96.5" data-name="Myrtle Beach" &gt;Myrtle Beach, SC&lt;/option&gt;
  
@@ -1547,6 +1761,8 @@ function compareCOL() {
  &lt;option value="norfolk-va" data-col="98.5" data-name="Norfolk" &gt;Norfolk, VA&lt;/option&gt;
  
  &lt;option value="oakland-ca" data-col="158.4" data-name="Oakland" &gt;Oakland, CA&lt;/option&gt;
+ 
+ &lt;option value="oaxaca-oax" data-col="65" data-name="Oaxaca" &gt;Oaxaca, OAX&lt;/option&gt;
  
  &lt;option value="oklahoma-city-ok" data-col="88.2" data-name="Oklahoma City" &gt;Oklahoma City, OK&lt;/option&gt;
  
@@ -1572,7 +1788,11 @@ function compareCOL() {
  
  &lt;option value="providence-ri" data-col="118.5" data-name="Providence" &gt;Providence, RI&lt;/option&gt;
  
+ &lt;option value="puebla-pue" data-col="72.1" data-name="Puebla" &gt;Puebla, PUE&lt;/option&gt;
+ 
  &lt;option value="quebec-city-ca" data-col="87.2" data-name="Quebec City" &gt;Quebec City, QC&lt;/option&gt;
+ 
+ &lt;option value="queretaro-que" data-col="76.8" data-name="Querétaro" &gt;Querétaro, QUE&lt;/option&gt;
  
  &lt;option value="raleigh-nc" data-col="102.4" data-name="Raleigh" &gt;Raleigh, NC&lt;/option&gt;
  
@@ -1594,6 +1814,8 @@ function compareCOL() {
  
  &lt;option value="salt-lake-city-ut" data-col="108.5" data-name="Salt Lake City" &gt;Salt Lake City, UT&lt;/option&gt;
  
+ &lt;option value="saltillo-coa" data-col="69.8" data-name="Saltillo" &gt;Saltillo, COA&lt;/option&gt;
+ 
  &lt;option value="san-antonio-tx" data-col="92.4" data-name="San Antonio" &gt;San Antonio, TX&lt;/option&gt;
  
  &lt;option value="san-bernardino-ca" data-col="108.5" data-name="San Bernardino" &gt;San Bernardino, CA&lt;/option&gt;
@@ -1603,6 +1825,10 @@ function compareCOL() {
  &lt;option value="san-francisco-ca" data-col="269.3" data-name="San Francisco" &gt;San Francisco, CA&lt;/option&gt;
  
  &lt;option value="san-jose-ca" data-col="214.5" data-name="San Jose" &gt;San Jose, CA&lt;/option&gt;
+ 
+ &lt;option value="san-luis-potosi-slp" data-col="68.2" data-name="San Luis Potosí" &gt;San Luis Potosí, SLP&lt;/option&gt;
+ 
+ &lt;option value="san-miguel-de-allende-gua" data-col="82" data-name="San Miguel de Allende" &gt;San Miguel de Allende, GUA&lt;/option&gt;
  
  &lt;option value="santa-ana-ca" data-col="142.8" data-name="Santa Ana" &gt;Santa Ana, CA&lt;/option&gt;
  
@@ -1628,13 +1854,21 @@ function compareCOL() {
  
  &lt;option value="tampa-fl" data-col="102.8" data-name="Tampa" &gt;Tampa, FL&lt;/option&gt;
  
+ &lt;option value="tepic-nay" data-col="63.5" data-name="Tepic" &gt;Tepic, NAY&lt;/option&gt;
+ 
  &lt;option value="the-hague-nl" data-col="75.6" data-name="The Hague" &gt;The Hague, ZH&lt;/option&gt;
+ 
+ &lt;option value="tijuana-bcn" data-col="80.5" data-name="Tijuana" &gt;Tijuana, BCN&lt;/option&gt;
  
  &lt;option value="tilburg-nl" data-col="73" data-name="Tilburg" &gt;Tilburg, NB&lt;/option&gt;
  
  &lt;option value="toledo-oh" data-col="88.5" data-name="Toledo" &gt;Toledo, OH&lt;/option&gt;
  
+ &lt;option value="toluca-mex" data-col="71.5" data-name="Toluca" &gt;Toluca, MEX&lt;/option&gt;
+ 
  &lt;option value="toronto-ca" data-col="128.4" data-name="Toronto" &gt;Toronto, ON&lt;/option&gt;
+ 
+ &lt;option value="torreon-coa" data-col="67.8" data-name="Torreón" &gt;Torreón, COA&lt;/option&gt;
  
  &lt;option value="tucson-az" data-col="95.8" data-name="Tucson" &gt;Tucson, AZ&lt;/option&gt;
  
@@ -1644,7 +1878,11 @@ function compareCOL() {
  
  &lt;option value="vancouver-ca" data-col="142.6" data-name="Vancouver" &gt;Vancouver, BC&lt;/option&gt;
  
+ &lt;option value="veracruz-ver" data-col="68.5" data-name="Veracruz" &gt;Veracruz, VER&lt;/option&gt;
+ 
  &lt;option value="victoria-ca" data-col="112.4" data-name="Victoria" &gt;Victoria, BC&lt;/option&gt;
+ 
+ &lt;option value="villahermosa-tab" data-col="67" data-name="Villahermosa" &gt;Villahermosa, TAB&lt;/option&gt;
  
  &lt;option value="virginia-beach-va" data-col="104.2" data-name="Virginia Beach" &gt;Virginia Beach, VA&lt;/option&gt;
  
@@ -1659,6 +1897,8 @@ function compareCOL() {
  &lt;option value="winston-salem-nc" data-col="92.5" data-name="Winston-Salem" &gt;Winston-Salem, NC&lt;/option&gt;
  
  &lt;option value="worcester-ma" data-col="118.5" data-name="Worcester" &gt;Worcester, MA&lt;/option&gt;
+ 
+ &lt;option value="zacatecas-zac" data-col="62.5" data-name="Zacatecas" &gt;Zacatecas, ZAC&lt;/option&gt;
  
  &lt;/select&gt;
  &lt;/div&gt;
