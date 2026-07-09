@@ -25,11 +25,15 @@
  
  &lt;option value="acapulco-gro" data-col="70.5" data-housing="68" data-name="Acapulco"&gt;Acapulco, GRO&lt;/option&gt;
  
+ &lt;option value="agrinio-wg" data-col="63" data-housing="59" data-name="Agrinio"&gt;Agrinio, WG&lt;/option&gt;
+ 
  &lt;option value="aguascalientes-agu" data-col="67.5" data-housing="64" data-name="Aguascalientes"&gt;Aguascalientes, AGU&lt;/option&gt;
  
  &lt;option value="akron-oh" data-col="88.5" data-housing="68.5" data-name="Akron"&gt;Akron, OH&lt;/option&gt;
  
  &lt;option value="albuquerque-nm" data-col="94.5" data-housing="88.2" data-name="Albuquerque"&gt;Albuquerque, NM&lt;/option&gt;
+ 
+ &lt;option value="alexandroupoli-em" data-col="65" data-housing="62" data-name="Alexandroupoli"&gt;Alexandroupoli, EM&lt;/option&gt;
  
  &lt;option value="amsterdam-nl" data-col="82.1" data-housing="135" data-name="Amsterdam"&gt;Amsterdam, NH&lt;/option&gt;
  
@@ -40,6 +44,8 @@
  &lt;option value="ann-arbor-mi" data-col="108.5" data-housing="118.2" data-name="Ann Arbor"&gt;Ann Arbor, MI&lt;/option&gt;
  
  &lt;option value="asheville-nc" data-col="102.5" data-housing="108.5" data-name="Asheville"&gt;Asheville, NC&lt;/option&gt;
+ 
+ &lt;option value="athens-att" data-col="78.5" data-housing="82" data-name="Athens"&gt;Athens, ATT&lt;/option&gt;
  
  &lt;option value="atlanta-ga" data-col="104.7" data-housing="118.3" data-name="Atlanta"&gt;Atlanta, GA&lt;/option&gt;
  
@@ -89,7 +95,11 @@
  
  &lt;option value="celaya-gua" data-col="65.5" data-housing="62" data-name="Celaya"&gt;Celaya, GUA&lt;/option&gt;
  
+ &lt;option value="chalcis-cp" data-col="65" data-housing="62" data-name="Chalcis"&gt;Chalcis, CP&lt;/option&gt;
+ 
  &lt;option value="chandler-az" data-col="108.5" data-housing="118.2" data-name="Chandler"&gt;Chandler, AZ&lt;/option&gt;
+ 
+ &lt;option value="chania-cr" data-col="71" data-housing="73" data-name="Chania"&gt;Chania, CR&lt;/option&gt;
  
  &lt;option value="charleston-sc" data-col="108.5" data-housing="118.2" data-name="Charleston"&gt;Charleston, SC&lt;/option&gt;
  
@@ -121,6 +131,8 @@
  
  &lt;option value="columbus-oh" data-col="92.1" data-housing="84.5" data-name="Columbus"&gt;Columbus, OH&lt;/option&gt;
  
+ &lt;option value="corfu-ii" data-col="73" data-housing="76" data-name="Corfu"&gt;Corfu, II&lt;/option&gt;
+ 
  &lt;option value="corpus-christi-tx" data-col="92.5" data-housing="88.4" data-name="Corpus Christi"&gt;Corpus Christi, TX&lt;/option&gt;
  
  &lt;option value="cuernavaca-mor" data-col="73.2" data-housing="72" data-name="Cuernavaca"&gt;Cuernavaca, MOR&lt;/option&gt;
@@ -130,6 +142,8 @@
  &lt;option value="dallas-tx" data-col="101.3" data-housing="108.5" data-name="Dallas"&gt;Dallas, TX&lt;/option&gt;
  
  &lt;option value="delft-nl" data-col="75" data-housing="105" data-name="Delft"&gt;Delft, ZH&lt;/option&gt;
+ 
+ &lt;option value="delphi-cp" data-col="68" data-housing="65" data-name="Delphi"&gt;Delphi, CP&lt;/option&gt;
  
  &lt;option value="denver-co" data-col="128.5" data-housing="168.3" data-name="Denver"&gt;Denver, CO&lt;/option&gt;
  
@@ -185,6 +199,8 @@
  
  &lt;option value="henderson-nv" data-col="108.5" data-housing="118.2" data-name="Henderson"&gt;Henderson, NV&lt;/option&gt;
  
+ &lt;option value="heraklion-cr" data-col="70.5" data-housing="68" data-name="Heraklion"&gt;Heraklion, CR&lt;/option&gt;
+ 
  &lt;option value="hermosillo-son" data-col="68.8" data-housing="66" data-name="Hermosillo"&gt;Hermosillo, SON&lt;/option&gt;
  
  &lt;option value="hialeah-fl" data-col="108.5" data-housing="112.5" data-name="Hialeah"&gt;Hialeah, FL&lt;/option&gt;
@@ -197,6 +213,8 @@
  
  &lt;option value="indianapolis-in" data-col="91.5" data-housing="82.4" data-name="Indianapolis"&gt;Indianapolis, IN&lt;/option&gt;
  
+ &lt;option value="ioannina-ep" data-col="65" data-housing="61" data-name="Ioannina"&gt;Ioannina, EP&lt;/option&gt;
+ 
  &lt;option value="irvine-ca" data-col="158.5" data-housing="228.4" data-name="Irvine"&gt;Irvine, CA&lt;/option&gt;
  
  &lt;option value="irving-tx" data-col="100.5" data-housing="102.4" data-name="Irving"&gt;Irving, TX&lt;/option&gt;
@@ -207,15 +225,27 @@
  
  &lt;option value="jersey-city-nj" data-col="142.5" data-housing="188.4" data-name="Jersey City"&gt;Jersey City, NJ&lt;/option&gt;
  
+ &lt;option value="kalamata-pe" data-col="66" data-housing="63" data-name="Kalamata"&gt;Kalamata, PE&lt;/option&gt;
+ 
  &lt;option value="kansas-city-ks" data-col="90.5" data-housing="78.5" data-name="Kansas City"&gt;Kansas City, KS&lt;/option&gt;
  
  &lt;option value="kansas-city-mo" data-col="92.8" data-housing="85.4" data-name="Kansas City"&gt;Kansas City, MO&lt;/option&gt;
+ 
+ &lt;option value="katerini-cm" data-col="64" data-housing="60" data-name="Katerini"&gt;Katerini, CM&lt;/option&gt;
+ 
+ &lt;option value="kavala-em" data-col="64" data-housing="60" data-name="Kavala"&gt;Kavala, EM&lt;/option&gt;
  
  &lt;option value="key-west-fl" data-col="158.5" data-housing="228.4" data-name="Key West"&gt;Key West, FL&lt;/option&gt;
  
  &lt;option value="knoxville-tn" data-col="92.5" data-housing="82.5" data-name="Knoxville"&gt;Knoxville, TN&lt;/option&gt;
  
+ &lt;option value="kozani-wm" data-col="62" data-housing="58" data-name="Kozani"&gt;Kozani, WM&lt;/option&gt;
+ 
+ &lt;option value="lamia-cp" data-col="64" data-housing="60" data-name="Lamia"&gt;Lamia, CP&lt;/option&gt;
+ 
  &lt;option value="laredo-tx" data-col="88.5" data-housing="78.4" data-name="Laredo"&gt;Laredo, TX&lt;/option&gt;
+ 
+ &lt;option value="larissa-th" data-col="66" data-housing="62" data-name="Larissa"&gt;Larissa, TH&lt;/option&gt;
  
  &lt;option value="las-vegas-nv" data-col="102.4" data-housing="108.2" data-name="Las Vegas"&gt;Las Vegas, NV&lt;/option&gt;
  
@@ -279,6 +309,10 @@
  
  &lt;option value="myrtle-beach-sc" data-col="96.5" data-housing="88.5" data-name="Myrtle Beach"&gt;Myrtle Beach, SC&lt;/option&gt;
  
+ &lt;option value="mytilene-na" data-col="66" data-housing="63" data-name="Mytilene"&gt;Mytilene, NA&lt;/option&gt;
+ 
+ &lt;option value="nafplio-pe" data-col="70" data-housing="72" data-name="Nafplio"&gt;Nafplio, PE&lt;/option&gt;
+ 
  &lt;option value="nashville-tn" data-col="100.5" data-housing="105.2" data-name="Nashville"&gt;Nashville, TN&lt;/option&gt;
  
  &lt;option value="new-orleans-la" data-col="98.5" data-housing="95.2" data-name="New Orleans"&gt;New Orleans, LA&lt;/option&gt;
@@ -295,6 +329,8 @@
  
  &lt;option value="oklahoma-city-ok" data-col="88.2" data-housing="78.5" data-name="Oklahoma City"&gt;Oklahoma City, OK&lt;/option&gt;
  
+ &lt;option value="olympia-wg" data-col="67" data-housing="64" data-name="Olympia"&gt;Olympia, WG&lt;/option&gt;
+ 
  &lt;option value="omaha-ne" data-col="91.5" data-housing="82.8" data-name="Omaha"&gt;Omaha, NE&lt;/option&gt;
  
  &lt;option value="orlando-fl" data-col="98.5" data-housing="95.2" data-name="Orlando"&gt;Orlando, FL&lt;/option&gt;
@@ -302,6 +338,8 @@
  &lt;option value="ottawa-ca" data-col="101.2" data-housing="104.8" data-name="Ottawa"&gt;Ottawa, ON&lt;/option&gt;
  
  &lt;option value="oxnard-ca" data-col="138.5" data-housing="188.4" data-name="Oxnard"&gt;Oxnard, CA&lt;/option&gt;
+ 
+ &lt;option value="patras-wg" data-col="68" data-housing="65" data-name="Patras"&gt;Patras, WG&lt;/option&gt;
  
  &lt;option value="philadelphia-pa" data-col="108.5" data-housing="118.3" data-name="Philadelphia"&gt;Philadelphia, PA&lt;/option&gt;
  
@@ -326,6 +364,8 @@
  &lt;option value="raleigh-nc" data-col="102.4" data-housing="108.5" data-name="Raleigh"&gt;Raleigh, NC&lt;/option&gt;
  
  &lt;option value="reno-nv" data-col="108.5" data-housing="118.2" data-name="Reno"&gt;Reno, NV&lt;/option&gt;
+ 
+ &lt;option value="rhodes-sa" data-col="72" data-housing="75" data-name="Rhodes"&gt;Rhodes, SA&lt;/option&gt;
  
  &lt;option value="richmond-va" data-col="98.5" data-housing="92.4" data-name="Richmond"&gt;Richmond, VA&lt;/option&gt;
  
@@ -369,7 +409,11 @@
  
  &lt;option value="seattle-wa" data-col="172.1" data-housing="245.8" data-name="Seattle"&gt;Seattle, WA&lt;/option&gt;
  
+ &lt;option value="serres-cm" data-col="63" data-housing="59" data-name="Serres"&gt;Serres, CM&lt;/option&gt;
+ 
  &lt;option value="sioux-falls-sd" data-col="90.5" data-housing="82.5" data-name="Sioux Falls"&gt;Sioux Falls, SD&lt;/option&gt;
+ 
+ &lt;option value="sparta-pe" data-col="63" data-housing="59" data-name="Sparta"&gt;Sparta, PE&lt;/option&gt;
  
  &lt;option value="spokane-wa" data-col="98.5" data-housing="92.4" data-name="Spokane"&gt;Spokane, WA&lt;/option&gt;
  
@@ -387,6 +431,8 @@
  
  &lt;option value="the-hague-nl" data-col="75.6" data-housing="118" data-name="The Hague"&gt;The Hague, ZH&lt;/option&gt;
  
+ &lt;option value="thessaloniki-cm" data-col="72" data-housing="70" data-name="Thessaloniki"&gt;Thessaloniki, CM&lt;/option&gt;
+ 
  &lt;option value="tijuana-bcn" data-col="80.5" data-housing="85" data-name="Tijuana"&gt;Tijuana, BCN&lt;/option&gt;
  
  &lt;option value="tilburg-nl" data-col="73" data-housing="88" data-name="Tilburg"&gt;Tilburg, NB&lt;/option&gt;
@@ -398,6 +444,8 @@
  &lt;option value="toronto-ca" data-col="128.4" data-housing="152.7" data-name="Toronto"&gt;Toronto, ON&lt;/option&gt;
  
  &lt;option value="torreon-coa" data-col="67.8" data-housing="65" data-name="Torreón"&gt;Torreón, COA&lt;/option&gt;
+ 
+ &lt;option value="trikala-th" data-col="64" data-housing="60" data-name="Trikala"&gt;Trikala, TH&lt;/option&gt;
  
  &lt;option value="tucson-az" data-col="95.8" data-housing="88.5" data-name="Tucson"&gt;Tucson, AZ&lt;/option&gt;
  
@@ -414,6 +462,8 @@
  &lt;option value="villahermosa-tab" data-col="67" data-housing="64" data-name="Villahermosa"&gt;Villahermosa, TAB&lt;/option&gt;
  
  &lt;option value="virginia-beach-va" data-col="104.2" data-housing="112.5" data-name="Virginia Beach"&gt;Virginia Beach, VA&lt;/option&gt;
+ 
+ &lt;option value="volos-th" data-col="67" data-housing="64" data-name="Volos"&gt;Volos, TH&lt;/option&gt;
  
  &lt;option value="washington-dc" data-col="152.1" data-housing="228.4" data-name="Washington DC"&gt;Washington DC, DC&lt;/option&gt;
  
@@ -450,11 +500,15 @@
  
  &lt;option value="acapulco-gro" data-col="70.5" data-housing="68" data-name="Acapulco"&gt;Acapulco, GRO&lt;/option&gt;
  
+ &lt;option value="agrinio-wg" data-col="63" data-housing="59" data-name="Agrinio"&gt;Agrinio, WG&lt;/option&gt;
+ 
  &lt;option value="aguascalientes-agu" data-col="67.5" data-housing="64" data-name="Aguascalientes"&gt;Aguascalientes, AGU&lt;/option&gt;
  
  &lt;option value="akron-oh" data-col="88.5" data-housing="68.5" data-name="Akron"&gt;Akron, OH&lt;/option&gt;
  
  &lt;option value="albuquerque-nm" data-col="94.5" data-housing="88.2" data-name="Albuquerque"&gt;Albuquerque, NM&lt;/option&gt;
+ 
+ &lt;option value="alexandroupoli-em" data-col="65" data-housing="62" data-name="Alexandroupoli"&gt;Alexandroupoli, EM&lt;/option&gt;
  
  &lt;option value="amsterdam-nl" data-col="82.1" data-housing="135" data-name="Amsterdam"&gt;Amsterdam, NH&lt;/option&gt;
  
@@ -465,6 +519,8 @@
  &lt;option value="ann-arbor-mi" data-col="108.5" data-housing="118.2" data-name="Ann Arbor"&gt;Ann Arbor, MI&lt;/option&gt;
  
  &lt;option value="asheville-nc" data-col="102.5" data-housing="108.5" data-name="Asheville"&gt;Asheville, NC&lt;/option&gt;
+ 
+ &lt;option value="athens-att" data-col="78.5" data-housing="82" data-name="Athens"&gt;Athens, ATT&lt;/option&gt;
  
  &lt;option value="atlanta-ga" data-col="104.7" data-housing="118.3" data-name="Atlanta"&gt;Atlanta, GA&lt;/option&gt;
  
@@ -514,7 +570,11 @@
  
  &lt;option value="celaya-gua" data-col="65.5" data-housing="62" data-name="Celaya"&gt;Celaya, GUA&lt;/option&gt;
  
+ &lt;option value="chalcis-cp" data-col="65" data-housing="62" data-name="Chalcis"&gt;Chalcis, CP&lt;/option&gt;
+ 
  &lt;option value="chandler-az" data-col="108.5" data-housing="118.2" data-name="Chandler"&gt;Chandler, AZ&lt;/option&gt;
+ 
+ &lt;option value="chania-cr" data-col="71" data-housing="73" data-name="Chania"&gt;Chania, CR&lt;/option&gt;
  
  &lt;option value="charleston-sc" data-col="108.5" data-housing="118.2" data-name="Charleston"&gt;Charleston, SC&lt;/option&gt;
  
@@ -546,6 +606,8 @@
  
  &lt;option value="columbus-oh" data-col="92.1" data-housing="84.5" data-name="Columbus"&gt;Columbus, OH&lt;/option&gt;
  
+ &lt;option value="corfu-ii" data-col="73" data-housing="76" data-name="Corfu"&gt;Corfu, II&lt;/option&gt;
+ 
  &lt;option value="corpus-christi-tx" data-col="92.5" data-housing="88.4" data-name="Corpus Christi"&gt;Corpus Christi, TX&lt;/option&gt;
  
  &lt;option value="cuernavaca-mor" data-col="73.2" data-housing="72" data-name="Cuernavaca"&gt;Cuernavaca, MOR&lt;/option&gt;
@@ -555,6 +617,8 @@
  &lt;option value="dallas-tx" data-col="101.3" data-housing="108.5" data-name="Dallas"&gt;Dallas, TX&lt;/option&gt;
  
  &lt;option value="delft-nl" data-col="75" data-housing="105" data-name="Delft"&gt;Delft, ZH&lt;/option&gt;
+ 
+ &lt;option value="delphi-cp" data-col="68" data-housing="65" data-name="Delphi"&gt;Delphi, CP&lt;/option&gt;
  
  &lt;option value="denver-co" data-col="128.5" data-housing="168.3" data-name="Denver"&gt;Denver, CO&lt;/option&gt;
  
@@ -610,6 +674,8 @@
  
  &lt;option value="henderson-nv" data-col="108.5" data-housing="118.2" data-name="Henderson"&gt;Henderson, NV&lt;/option&gt;
  
+ &lt;option value="heraklion-cr" data-col="70.5" data-housing="68" data-name="Heraklion"&gt;Heraklion, CR&lt;/option&gt;
+ 
  &lt;option value="hermosillo-son" data-col="68.8" data-housing="66" data-name="Hermosillo"&gt;Hermosillo, SON&lt;/option&gt;
  
  &lt;option value="hialeah-fl" data-col="108.5" data-housing="112.5" data-name="Hialeah"&gt;Hialeah, FL&lt;/option&gt;
@@ -622,6 +688,8 @@
  
  &lt;option value="indianapolis-in" data-col="91.5" data-housing="82.4" data-name="Indianapolis"&gt;Indianapolis, IN&lt;/option&gt;
  
+ &lt;option value="ioannina-ep" data-col="65" data-housing="61" data-name="Ioannina"&gt;Ioannina, EP&lt;/option&gt;
+ 
  &lt;option value="irvine-ca" data-col="158.5" data-housing="228.4" data-name="Irvine"&gt;Irvine, CA&lt;/option&gt;
  
  &lt;option value="irving-tx" data-col="100.5" data-housing="102.4" data-name="Irving"&gt;Irving, TX&lt;/option&gt;
@@ -632,15 +700,27 @@
  
  &lt;option value="jersey-city-nj" data-col="142.5" data-housing="188.4" data-name="Jersey City"&gt;Jersey City, NJ&lt;/option&gt;
  
+ &lt;option value="kalamata-pe" data-col="66" data-housing="63" data-name="Kalamata"&gt;Kalamata, PE&lt;/option&gt;
+ 
  &lt;option value="kansas-city-ks" data-col="90.5" data-housing="78.5" data-name="Kansas City"&gt;Kansas City, KS&lt;/option&gt;
  
  &lt;option value="kansas-city-mo" data-col="92.8" data-housing="85.4" data-name="Kansas City"&gt;Kansas City, MO&lt;/option&gt;
+ 
+ &lt;option value="katerini-cm" data-col="64" data-housing="60" data-name="Katerini"&gt;Katerini, CM&lt;/option&gt;
+ 
+ &lt;option value="kavala-em" data-col="64" data-housing="60" data-name="Kavala"&gt;Kavala, EM&lt;/option&gt;
  
  &lt;option value="key-west-fl" data-col="158.5" data-housing="228.4" data-name="Key West"&gt;Key West, FL&lt;/option&gt;
  
  &lt;option value="knoxville-tn" data-col="92.5" data-housing="82.5" data-name="Knoxville"&gt;Knoxville, TN&lt;/option&gt;
  
+ &lt;option value="kozani-wm" data-col="62" data-housing="58" data-name="Kozani"&gt;Kozani, WM&lt;/option&gt;
+ 
+ &lt;option value="lamia-cp" data-col="64" data-housing="60" data-name="Lamia"&gt;Lamia, CP&lt;/option&gt;
+ 
  &lt;option value="laredo-tx" data-col="88.5" data-housing="78.4" data-name="Laredo"&gt;Laredo, TX&lt;/option&gt;
+ 
+ &lt;option value="larissa-th" data-col="66" data-housing="62" data-name="Larissa"&gt;Larissa, TH&lt;/option&gt;
  
  &lt;option value="las-vegas-nv" data-col="102.4" data-housing="108.2" data-name="Las Vegas"&gt;Las Vegas, NV&lt;/option&gt;
  
@@ -704,6 +784,10 @@
  
  &lt;option value="myrtle-beach-sc" data-col="96.5" data-housing="88.5" data-name="Myrtle Beach"&gt;Myrtle Beach, SC&lt;/option&gt;
  
+ &lt;option value="mytilene-na" data-col="66" data-housing="63" data-name="Mytilene"&gt;Mytilene, NA&lt;/option&gt;
+ 
+ &lt;option value="nafplio-pe" data-col="70" data-housing="72" data-name="Nafplio"&gt;Nafplio, PE&lt;/option&gt;
+ 
  &lt;option value="nashville-tn" data-col="100.5" data-housing="105.2" data-name="Nashville"&gt;Nashville, TN&lt;/option&gt;
  
  &lt;option value="new-orleans-la" data-col="98.5" data-housing="95.2" data-name="New Orleans"&gt;New Orleans, LA&lt;/option&gt;
@@ -720,6 +804,8 @@
  
  &lt;option value="oklahoma-city-ok" data-col="88.2" data-housing="78.5" data-name="Oklahoma City"&gt;Oklahoma City, OK&lt;/option&gt;
  
+ &lt;option value="olympia-wg" data-col="67" data-housing="64" data-name="Olympia"&gt;Olympia, WG&lt;/option&gt;
+ 
  &lt;option value="omaha-ne" data-col="91.5" data-housing="82.8" data-name="Omaha"&gt;Omaha, NE&lt;/option&gt;
  
  &lt;option value="orlando-fl" data-col="98.5" data-housing="95.2" data-name="Orlando"&gt;Orlando, FL&lt;/option&gt;
@@ -727,6 +813,8 @@
  &lt;option value="ottawa-ca" data-col="101.2" data-housing="104.8" data-name="Ottawa"&gt;Ottawa, ON&lt;/option&gt;
  
  &lt;option value="oxnard-ca" data-col="138.5" data-housing="188.4" data-name="Oxnard"&gt;Oxnard, CA&lt;/option&gt;
+ 
+ &lt;option value="patras-wg" data-col="68" data-housing="65" data-name="Patras"&gt;Patras, WG&lt;/option&gt;
  
  &lt;option value="philadelphia-pa" data-col="108.5" data-housing="118.3" data-name="Philadelphia"&gt;Philadelphia, PA&lt;/option&gt;
  
@@ -751,6 +839,8 @@
  &lt;option value="raleigh-nc" data-col="102.4" data-housing="108.5" data-name="Raleigh"&gt;Raleigh, NC&lt;/option&gt;
  
  &lt;option value="reno-nv" data-col="108.5" data-housing="118.2" data-name="Reno"&gt;Reno, NV&lt;/option&gt;
+ 
+ &lt;option value="rhodes-sa" data-col="72" data-housing="75" data-name="Rhodes"&gt;Rhodes, SA&lt;/option&gt;
  
  &lt;option value="richmond-va" data-col="98.5" data-housing="92.4" data-name="Richmond"&gt;Richmond, VA&lt;/option&gt;
  
@@ -794,7 +884,11 @@
  
  &lt;option value="seattle-wa" data-col="172.1" data-housing="245.8" data-name="Seattle"&gt;Seattle, WA&lt;/option&gt;
  
+ &lt;option value="serres-cm" data-col="63" data-housing="59" data-name="Serres"&gt;Serres, CM&lt;/option&gt;
+ 
  &lt;option value="sioux-falls-sd" data-col="90.5" data-housing="82.5" data-name="Sioux Falls"&gt;Sioux Falls, SD&lt;/option&gt;
+ 
+ &lt;option value="sparta-pe" data-col="63" data-housing="59" data-name="Sparta"&gt;Sparta, PE&lt;/option&gt;
  
  &lt;option value="spokane-wa" data-col="98.5" data-housing="92.4" data-name="Spokane"&gt;Spokane, WA&lt;/option&gt;
  
@@ -812,6 +906,8 @@
  
  &lt;option value="the-hague-nl" data-col="75.6" data-housing="118" data-name="The Hague"&gt;The Hague, ZH&lt;/option&gt;
  
+ &lt;option value="thessaloniki-cm" data-col="72" data-housing="70" data-name="Thessaloniki"&gt;Thessaloniki, CM&lt;/option&gt;
+ 
  &lt;option value="tijuana-bcn" data-col="80.5" data-housing="85" data-name="Tijuana"&gt;Tijuana, BCN&lt;/option&gt;
  
  &lt;option value="tilburg-nl" data-col="73" data-housing="88" data-name="Tilburg"&gt;Tilburg, NB&lt;/option&gt;
@@ -823,6 +919,8 @@
  &lt;option value="toronto-ca" data-col="128.4" data-housing="152.7" data-name="Toronto"&gt;Toronto, ON&lt;/option&gt;
  
  &lt;option value="torreon-coa" data-col="67.8" data-housing="65" data-name="Torreón"&gt;Torreón, COA&lt;/option&gt;
+ 
+ &lt;option value="trikala-th" data-col="64" data-housing="60" data-name="Trikala"&gt;Trikala, TH&lt;/option&gt;
  
  &lt;option value="tucson-az" data-col="95.8" data-housing="88.5" data-name="Tucson"&gt;Tucson, AZ&lt;/option&gt;
  
@@ -839,6 +937,8 @@
  &lt;option value="villahermosa-tab" data-col="67" data-housing="64" data-name="Villahermosa"&gt;Villahermosa, TAB&lt;/option&gt;
  
  &lt;option value="virginia-beach-va" data-col="104.2" data-housing="112.5" data-name="Virginia Beach"&gt;Virginia Beach, VA&lt;/option&gt;
+ 
+ &lt;option value="volos-th" data-col="67" data-housing="64" data-name="Volos"&gt;Volos, TH&lt;/option&gt;
  
  &lt;option value="washington-dc" data-col="152.1" data-housing="228.4" data-name="Washington DC"&gt;Washington DC, DC&lt;/option&gt;
  
@@ -1080,11 +1180,15 @@ function compareCOL() {
  
  &lt;option value="acapulco-gro" data-col="70.5" data-name="Acapulco" &gt;Acapulco, GRO&lt;/option&gt;
  
+ &lt;option value="agrinio-wg" data-col="63" data-name="Agrinio" &gt;Agrinio, WG&lt;/option&gt;
+ 
  &lt;option value="aguascalientes-agu" data-col="67.5" data-name="Aguascalientes" &gt;Aguascalientes, AGU&lt;/option&gt;
  
  &lt;option value="akron-oh" data-col="88.5" data-name="Akron" &gt;Akron, OH&lt;/option&gt;
  
  &lt;option value="albuquerque-nm" data-col="94.5" data-name="Albuquerque" &gt;Albuquerque, NM&lt;/option&gt;
+ 
+ &lt;option value="alexandroupoli-em" data-col="65" data-name="Alexandroupoli" &gt;Alexandroupoli, EM&lt;/option&gt;
  
  &lt;option value="amsterdam-nl" data-col="82.1" data-name="Amsterdam" &gt;Amsterdam, NH&lt;/option&gt;
  
@@ -1095,6 +1199,8 @@ function compareCOL() {
  &lt;option value="ann-arbor-mi" data-col="108.5" data-name="Ann Arbor" &gt;Ann Arbor, MI&lt;/option&gt;
  
  &lt;option value="asheville-nc" data-col="102.5" data-name="Asheville" &gt;Asheville, NC&lt;/option&gt;
+ 
+ &lt;option value="athens-att" data-col="78.5" data-name="Athens" &gt;Athens, ATT&lt;/option&gt;
  
  &lt;option value="atlanta-ga" data-col="104.7" data-name="Atlanta" &gt;Atlanta, GA&lt;/option&gt;
  
@@ -1144,7 +1250,11 @@ function compareCOL() {
  
  &lt;option value="celaya-gua" data-col="65.5" data-name="Celaya" &gt;Celaya, GUA&lt;/option&gt;
  
+ &lt;option value="chalcis-cp" data-col="65" data-name="Chalcis" &gt;Chalcis, CP&lt;/option&gt;
+ 
  &lt;option value="chandler-az" data-col="108.5" data-name="Chandler" &gt;Chandler, AZ&lt;/option&gt;
+ 
+ &lt;option value="chania-cr" data-col="71" data-name="Chania" &gt;Chania, CR&lt;/option&gt;
  
  &lt;option value="charleston-sc" data-col="108.5" data-name="Charleston" &gt;Charleston, SC&lt;/option&gt;
  
@@ -1176,6 +1286,8 @@ function compareCOL() {
  
  &lt;option value="columbus-oh" data-col="92.1" data-name="Columbus" &gt;Columbus, OH&lt;/option&gt;
  
+ &lt;option value="corfu-ii" data-col="73" data-name="Corfu" &gt;Corfu, II&lt;/option&gt;
+ 
  &lt;option value="corpus-christi-tx" data-col="92.5" data-name="Corpus Christi" &gt;Corpus Christi, TX&lt;/option&gt;
  
  &lt;option value="cuernavaca-mor" data-col="73.2" data-name="Cuernavaca" &gt;Cuernavaca, MOR&lt;/option&gt;
@@ -1185,6 +1297,8 @@ function compareCOL() {
  &lt;option value="dallas-tx" data-col="101.3" data-name="Dallas" &gt;Dallas, TX&lt;/option&gt;
  
  &lt;option value="delft-nl" data-col="75" data-name="Delft" &gt;Delft, ZH&lt;/option&gt;
+ 
+ &lt;option value="delphi-cp" data-col="68" data-name="Delphi" &gt;Delphi, CP&lt;/option&gt;
  
  &lt;option value="denver-co" data-col="128.5" data-name="Denver" &gt;Denver, CO&lt;/option&gt;
  
@@ -1240,6 +1354,8 @@ function compareCOL() {
  
  &lt;option value="henderson-nv" data-col="108.5" data-name="Henderson" &gt;Henderson, NV&lt;/option&gt;
  
+ &lt;option value="heraklion-cr" data-col="70.5" data-name="Heraklion" &gt;Heraklion, CR&lt;/option&gt;
+ 
  &lt;option value="hermosillo-son" data-col="68.8" data-name="Hermosillo" &gt;Hermosillo, SON&lt;/option&gt;
  
  &lt;option value="hialeah-fl" data-col="108.5" data-name="Hialeah" &gt;Hialeah, FL&lt;/option&gt;
@@ -1252,6 +1368,8 @@ function compareCOL() {
  
  &lt;option value="indianapolis-in" data-col="91.5" data-name="Indianapolis" &gt;Indianapolis, IN&lt;/option&gt;
  
+ &lt;option value="ioannina-ep" data-col="65" data-name="Ioannina" &gt;Ioannina, EP&lt;/option&gt;
+ 
  &lt;option value="irvine-ca" data-col="158.5" data-name="Irvine" &gt;Irvine, CA&lt;/option&gt;
  
  &lt;option value="irving-tx" data-col="100.5" data-name="Irving" &gt;Irving, TX&lt;/option&gt;
@@ -1262,15 +1380,27 @@ function compareCOL() {
  
  &lt;option value="jersey-city-nj" data-col="142.5" data-name="Jersey City" &gt;Jersey City, NJ&lt;/option&gt;
  
+ &lt;option value="kalamata-pe" data-col="66" data-name="Kalamata" &gt;Kalamata, PE&lt;/option&gt;
+ 
  &lt;option value="kansas-city-ks" data-col="90.5" data-name="Kansas City" &gt;Kansas City, KS&lt;/option&gt;
  
  &lt;option value="kansas-city-mo" data-col="92.8" data-name="Kansas City" &gt;Kansas City, MO&lt;/option&gt;
+ 
+ &lt;option value="katerini-cm" data-col="64" data-name="Katerini" &gt;Katerini, CM&lt;/option&gt;
+ 
+ &lt;option value="kavala-em" data-col="64" data-name="Kavala" &gt;Kavala, EM&lt;/option&gt;
  
  &lt;option value="key-west-fl" data-col="158.5" data-name="Key West" &gt;Key West, FL&lt;/option&gt;
  
  &lt;option value="knoxville-tn" data-col="92.5" data-name="Knoxville" &gt;Knoxville, TN&lt;/option&gt;
  
+ &lt;option value="kozani-wm" data-col="62" data-name="Kozani" &gt;Kozani, WM&lt;/option&gt;
+ 
+ &lt;option value="lamia-cp" data-col="64" data-name="Lamia" &gt;Lamia, CP&lt;/option&gt;
+ 
  &lt;option value="laredo-tx" data-col="88.5" data-name="Laredo" &gt;Laredo, TX&lt;/option&gt;
+ 
+ &lt;option value="larissa-th" data-col="66" data-name="Larissa" &gt;Larissa, TH&lt;/option&gt;
  
  &lt;option value="las-vegas-nv" data-col="102.4" data-name="Las Vegas" &gt;Las Vegas, NV&lt;/option&gt;
  
@@ -1334,6 +1464,10 @@ function compareCOL() {
  
  &lt;option value="myrtle-beach-sc" data-col="96.5" data-name="Myrtle Beach" &gt;Myrtle Beach, SC&lt;/option&gt;
  
+ &lt;option value="mytilene-na" data-col="66" data-name="Mytilene" &gt;Mytilene, NA&lt;/option&gt;
+ 
+ &lt;option value="nafplio-pe" data-col="70" data-name="Nafplio" &gt;Nafplio, PE&lt;/option&gt;
+ 
  &lt;option value="nashville-tn" data-col="100.5" data-name="Nashville" &gt;Nashville, TN&lt;/option&gt;
  
  &lt;option value="new-orleans-la" data-col="98.5" data-name="New Orleans" &gt;New Orleans, LA&lt;/option&gt;
@@ -1350,6 +1484,8 @@ function compareCOL() {
  
  &lt;option value="oklahoma-city-ok" data-col="88.2" data-name="Oklahoma City" &gt;Oklahoma City, OK&lt;/option&gt;
  
+ &lt;option value="olympia-wg" data-col="67" data-name="Olympia" &gt;Olympia, WG&lt;/option&gt;
+ 
  &lt;option value="omaha-ne" data-col="91.5" data-name="Omaha" &gt;Omaha, NE&lt;/option&gt;
  
  &lt;option value="orlando-fl" data-col="98.5" data-name="Orlando" &gt;Orlando, FL&lt;/option&gt;
@@ -1357,6 +1493,8 @@ function compareCOL() {
  &lt;option value="ottawa-ca" data-col="101.2" data-name="Ottawa" &gt;Ottawa, ON&lt;/option&gt;
  
  &lt;option value="oxnard-ca" data-col="138.5" data-name="Oxnard" &gt;Oxnard, CA&lt;/option&gt;
+ 
+ &lt;option value="patras-wg" data-col="68" data-name="Patras" &gt;Patras, WG&lt;/option&gt;
  
  &lt;option value="philadelphia-pa" data-col="108.5" data-name="Philadelphia" &gt;Philadelphia, PA&lt;/option&gt;
  
@@ -1381,6 +1519,8 @@ function compareCOL() {
  &lt;option value="raleigh-nc" data-col="102.4" data-name="Raleigh" &gt;Raleigh, NC&lt;/option&gt;
  
  &lt;option value="reno-nv" data-col="108.5" data-name="Reno" &gt;Reno, NV&lt;/option&gt;
+ 
+ &lt;option value="rhodes-sa" data-col="72" data-name="Rhodes" &gt;Rhodes, SA&lt;/option&gt;
  
  &lt;option value="richmond-va" data-col="98.5" data-name="Richmond" &gt;Richmond, VA&lt;/option&gt;
  
@@ -1424,7 +1564,11 @@ function compareCOL() {
  
  &lt;option value="seattle-wa" data-col="172.1" data-name="Seattle" &gt;Seattle, WA&lt;/option&gt;
  
+ &lt;option value="serres-cm" data-col="63" data-name="Serres" &gt;Serres, CM&lt;/option&gt;
+ 
  &lt;option value="sioux-falls-sd" data-col="90.5" data-name="Sioux Falls" &gt;Sioux Falls, SD&lt;/option&gt;
+ 
+ &lt;option value="sparta-pe" data-col="63" data-name="Sparta" &gt;Sparta, PE&lt;/option&gt;
  
  &lt;option value="spokane-wa" data-col="98.5" data-name="Spokane" &gt;Spokane, WA&lt;/option&gt;
  
@@ -1442,6 +1586,8 @@ function compareCOL() {
  
  &lt;option value="the-hague-nl" data-col="75.6" data-name="The Hague" &gt;The Hague, ZH&lt;/option&gt;
  
+ &lt;option value="thessaloniki-cm" data-col="72" data-name="Thessaloniki" &gt;Thessaloniki, CM&lt;/option&gt;
+ 
  &lt;option value="tijuana-bcn" data-col="80.5" data-name="Tijuana" &gt;Tijuana, BCN&lt;/option&gt;
  
  &lt;option value="tilburg-nl" data-col="73" data-name="Tilburg" &gt;Tilburg, NB&lt;/option&gt;
@@ -1453,6 +1599,8 @@ function compareCOL() {
  &lt;option value="toronto-ca" data-col="128.4" data-name="Toronto" &gt;Toronto, ON&lt;/option&gt;
  
  &lt;option value="torreon-coa" data-col="67.8" data-name="Torreón" &gt;Torreón, COA&lt;/option&gt;
+ 
+ &lt;option value="trikala-th" data-col="64" data-name="Trikala" &gt;Trikala, TH&lt;/option&gt;
  
  &lt;option value="tucson-az" data-col="95.8" data-name="Tucson" &gt;Tucson, AZ&lt;/option&gt;
  
@@ -1469,6 +1617,8 @@ function compareCOL() {
  &lt;option value="villahermosa-tab" data-col="67" data-name="Villahermosa" &gt;Villahermosa, TAB&lt;/option&gt;
  
  &lt;option value="virginia-beach-va" data-col="104.2" data-name="Virginia Beach" &gt;Virginia Beach, VA&lt;/option&gt;
+ 
+ &lt;option value="volos-th" data-col="67" data-name="Volos" &gt;Volos, TH&lt;/option&gt;
  
  &lt;option value="washington-dc" data-col="152.1" data-name="Washington DC" &gt;Washington DC, DC&lt;/option&gt;
  
@@ -1496,11 +1646,15 @@ function compareCOL() {
  
  &lt;option value="acapulco-gro" data-col="70.5" data-name="Acapulco" &gt;Acapulco, GRO&lt;/option&gt;
  
+ &lt;option value="agrinio-wg" data-col="63" data-name="Agrinio" &gt;Agrinio, WG&lt;/option&gt;
+ 
  &lt;option value="aguascalientes-agu" data-col="67.5" data-name="Aguascalientes" &gt;Aguascalientes, AGU&lt;/option&gt;
  
  &lt;option value="akron-oh" data-col="88.5" data-name="Akron" &gt;Akron, OH&lt;/option&gt;
  
  &lt;option value="albuquerque-nm" data-col="94.5" data-name="Albuquerque" &gt;Albuquerque, NM&lt;/option&gt;
+ 
+ &lt;option value="alexandroupoli-em" data-col="65" data-name="Alexandroupoli" &gt;Alexandroupoli, EM&lt;/option&gt;
  
  &lt;option value="amsterdam-nl" data-col="82.1" data-name="Amsterdam" &gt;Amsterdam, NH&lt;/option&gt;
  
@@ -1511,6 +1665,8 @@ function compareCOL() {
  &lt;option value="ann-arbor-mi" data-col="108.5" data-name="Ann Arbor" &gt;Ann Arbor, MI&lt;/option&gt;
  
  &lt;option value="asheville-nc" data-col="102.5" data-name="Asheville" &gt;Asheville, NC&lt;/option&gt;
+ 
+ &lt;option value="athens-att" data-col="78.5" data-name="Athens" &gt;Athens, ATT&lt;/option&gt;
  
  &lt;option value="atlanta-ga" data-col="104.7" data-name="Atlanta" &gt;Atlanta, GA&lt;/option&gt;
  
@@ -1560,7 +1716,11 @@ function compareCOL() {
  
  &lt;option value="celaya-gua" data-col="65.5" data-name="Celaya" &gt;Celaya, GUA&lt;/option&gt;
  
+ &lt;option value="chalcis-cp" data-col="65" data-name="Chalcis" &gt;Chalcis, CP&lt;/option&gt;
+ 
  &lt;option value="chandler-az" data-col="108.5" data-name="Chandler" &gt;Chandler, AZ&lt;/option&gt;
+ 
+ &lt;option value="chania-cr" data-col="71" data-name="Chania" &gt;Chania, CR&lt;/option&gt;
  
  &lt;option value="charleston-sc" data-col="108.5" data-name="Charleston" &gt;Charleston, SC&lt;/option&gt;
  
@@ -1592,6 +1752,8 @@ function compareCOL() {
  
  &lt;option value="columbus-oh" data-col="92.1" data-name="Columbus" &gt;Columbus, OH&lt;/option&gt;
  
+ &lt;option value="corfu-ii" data-col="73" data-name="Corfu" &gt;Corfu, II&lt;/option&gt;
+ 
  &lt;option value="corpus-christi-tx" data-col="92.5" data-name="Corpus Christi" &gt;Corpus Christi, TX&lt;/option&gt;
  
  &lt;option value="cuernavaca-mor" data-col="73.2" data-name="Cuernavaca" &gt;Cuernavaca, MOR&lt;/option&gt;
@@ -1601,6 +1763,8 @@ function compareCOL() {
  &lt;option value="dallas-tx" data-col="101.3" data-name="Dallas" &gt;Dallas, TX&lt;/option&gt;
  
  &lt;option value="delft-nl" data-col="75" data-name="Delft" &gt;Delft, ZH&lt;/option&gt;
+ 
+ &lt;option value="delphi-cp" data-col="68" data-name="Delphi" &gt;Delphi, CP&lt;/option&gt;
  
  &lt;option value="denver-co" data-col="128.5" data-name="Denver" &gt;Denver, CO&lt;/option&gt;
  
@@ -1656,6 +1820,8 @@ function compareCOL() {
  
  &lt;option value="henderson-nv" data-col="108.5" data-name="Henderson" &gt;Henderson, NV&lt;/option&gt;
  
+ &lt;option value="heraklion-cr" data-col="70.5" data-name="Heraklion" &gt;Heraklion, CR&lt;/option&gt;
+ 
  &lt;option value="hermosillo-son" data-col="68.8" data-name="Hermosillo" &gt;Hermosillo, SON&lt;/option&gt;
  
  &lt;option value="hialeah-fl" data-col="108.5" data-name="Hialeah" &gt;Hialeah, FL&lt;/option&gt;
@@ -1668,6 +1834,8 @@ function compareCOL() {
  
  &lt;option value="indianapolis-in" data-col="91.5" data-name="Indianapolis" &gt;Indianapolis, IN&lt;/option&gt;
  
+ &lt;option value="ioannina-ep" data-col="65" data-name="Ioannina" &gt;Ioannina, EP&lt;/option&gt;
+ 
  &lt;option value="irvine-ca" data-col="158.5" data-name="Irvine" &gt;Irvine, CA&lt;/option&gt;
  
  &lt;option value="irving-tx" data-col="100.5" data-name="Irving" &gt;Irving, TX&lt;/option&gt;
@@ -1678,15 +1846,27 @@ function compareCOL() {
  
  &lt;option value="jersey-city-nj" data-col="142.5" data-name="Jersey City" &gt;Jersey City, NJ&lt;/option&gt;
  
+ &lt;option value="kalamata-pe" data-col="66" data-name="Kalamata" &gt;Kalamata, PE&lt;/option&gt;
+ 
  &lt;option value="kansas-city-ks" data-col="90.5" data-name="Kansas City" &gt;Kansas City, KS&lt;/option&gt;
  
  &lt;option value="kansas-city-mo" data-col="92.8" data-name="Kansas City" &gt;Kansas City, MO&lt;/option&gt;
+ 
+ &lt;option value="katerini-cm" data-col="64" data-name="Katerini" &gt;Katerini, CM&lt;/option&gt;
+ 
+ &lt;option value="kavala-em" data-col="64" data-name="Kavala" &gt;Kavala, EM&lt;/option&gt;
  
  &lt;option value="key-west-fl" data-col="158.5" data-name="Key West" &gt;Key West, FL&lt;/option&gt;
  
  &lt;option value="knoxville-tn" data-col="92.5" data-name="Knoxville" &gt;Knoxville, TN&lt;/option&gt;
  
+ &lt;option value="kozani-wm" data-col="62" data-name="Kozani" &gt;Kozani, WM&lt;/option&gt;
+ 
+ &lt;option value="lamia-cp" data-col="64" data-name="Lamia" &gt;Lamia, CP&lt;/option&gt;
+ 
  &lt;option value="laredo-tx" data-col="88.5" data-name="Laredo" &gt;Laredo, TX&lt;/option&gt;
+ 
+ &lt;option value="larissa-th" data-col="66" data-name="Larissa" &gt;Larissa, TH&lt;/option&gt;
  
  &lt;option value="las-vegas-nv" data-col="102.4" data-name="Las Vegas" &gt;Las Vegas, NV&lt;/option&gt;
  
@@ -1750,6 +1930,10 @@ function compareCOL() {
  
  &lt;option value="myrtle-beach-sc" data-col="96.5" data-name="Myrtle Beach" &gt;Myrtle Beach, SC&lt;/option&gt;
  
+ &lt;option value="mytilene-na" data-col="66" data-name="Mytilene" &gt;Mytilene, NA&lt;/option&gt;
+ 
+ &lt;option value="nafplio-pe" data-col="70" data-name="Nafplio" &gt;Nafplio, PE&lt;/option&gt;
+ 
  &lt;option value="nashville-tn" data-col="100.5" data-name="Nashville" &gt;Nashville, TN&lt;/option&gt;
  
  &lt;option value="new-orleans-la" data-col="98.5" data-name="New Orleans" &gt;New Orleans, LA&lt;/option&gt;
@@ -1766,6 +1950,8 @@ function compareCOL() {
  
  &lt;option value="oklahoma-city-ok" data-col="88.2" data-name="Oklahoma City" &gt;Oklahoma City, OK&lt;/option&gt;
  
+ &lt;option value="olympia-wg" data-col="67" data-name="Olympia" &gt;Olympia, WG&lt;/option&gt;
+ 
  &lt;option value="omaha-ne" data-col="91.5" data-name="Omaha" &gt;Omaha, NE&lt;/option&gt;
  
  &lt;option value="orlando-fl" data-col="98.5" data-name="Orlando" &gt;Orlando, FL&lt;/option&gt;
@@ -1773,6 +1959,8 @@ function compareCOL() {
  &lt;option value="ottawa-ca" data-col="101.2" data-name="Ottawa" &gt;Ottawa, ON&lt;/option&gt;
  
  &lt;option value="oxnard-ca" data-col="138.5" data-name="Oxnard" &gt;Oxnard, CA&lt;/option&gt;
+ 
+ &lt;option value="patras-wg" data-col="68" data-name="Patras" &gt;Patras, WG&lt;/option&gt;
  
  &lt;option value="philadelphia-pa" data-col="108.5" data-name="Philadelphia" &gt;Philadelphia, PA&lt;/option&gt;
  
@@ -1797,6 +1985,8 @@ function compareCOL() {
  &lt;option value="raleigh-nc" data-col="102.4" data-name="Raleigh" &gt;Raleigh, NC&lt;/option&gt;
  
  &lt;option value="reno-nv" data-col="108.5" data-name="Reno" &gt;Reno, NV&lt;/option&gt;
+ 
+ &lt;option value="rhodes-sa" data-col="72" data-name="Rhodes" &gt;Rhodes, SA&lt;/option&gt;
  
  &lt;option value="richmond-va" data-col="98.5" data-name="Richmond" &gt;Richmond, VA&lt;/option&gt;
  
@@ -1840,7 +2030,11 @@ function compareCOL() {
  
  &lt;option value="seattle-wa" data-col="172.1" data-name="Seattle" &gt;Seattle, WA&lt;/option&gt;
  
+ &lt;option value="serres-cm" data-col="63" data-name="Serres" &gt;Serres, CM&lt;/option&gt;
+ 
  &lt;option value="sioux-falls-sd" data-col="90.5" data-name="Sioux Falls" &gt;Sioux Falls, SD&lt;/option&gt;
+ 
+ &lt;option value="sparta-pe" data-col="63" data-name="Sparta" &gt;Sparta, PE&lt;/option&gt;
  
  &lt;option value="spokane-wa" data-col="98.5" data-name="Spokane" &gt;Spokane, WA&lt;/option&gt;
  
@@ -1858,6 +2052,8 @@ function compareCOL() {
  
  &lt;option value="the-hague-nl" data-col="75.6" data-name="The Hague" &gt;The Hague, ZH&lt;/option&gt;
  
+ &lt;option value="thessaloniki-cm" data-col="72" data-name="Thessaloniki" &gt;Thessaloniki, CM&lt;/option&gt;
+ 
  &lt;option value="tijuana-bcn" data-col="80.5" data-name="Tijuana" &gt;Tijuana, BCN&lt;/option&gt;
  
  &lt;option value="tilburg-nl" data-col="73" data-name="Tilburg" &gt;Tilburg, NB&lt;/option&gt;
@@ -1869,6 +2065,8 @@ function compareCOL() {
  &lt;option value="toronto-ca" data-col="128.4" data-name="Toronto" &gt;Toronto, ON&lt;/option&gt;
  
  &lt;option value="torreon-coa" data-col="67.8" data-name="Torreón" &gt;Torreón, COA&lt;/option&gt;
+ 
+ &lt;option value="trikala-th" data-col="64" data-name="Trikala" &gt;Trikala, TH&lt;/option&gt;
  
  &lt;option value="tucson-az" data-col="95.8" data-name="Tucson" &gt;Tucson, AZ&lt;/option&gt;
  
@@ -1885,6 +2083,8 @@ function compareCOL() {
  &lt;option value="villahermosa-tab" data-col="67" data-name="Villahermosa" &gt;Villahermosa, TAB&lt;/option&gt;
  
  &lt;option value="virginia-beach-va" data-col="104.2" data-name="Virginia Beach" &gt;Virginia Beach, VA&lt;/option&gt;
+ 
+ &lt;option value="volos-th" data-col="67" data-name="Volos" &gt;Volos, TH&lt;/option&gt;
  
  &lt;option value="washington-dc" data-col="152.1" data-name="Washington DC" &gt;Washington DC, DC&lt;/option&gt;
  
