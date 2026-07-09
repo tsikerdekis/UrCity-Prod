@@ -25,6 +25,8 @@
  
  &lt;option value="acapulco-gro" data-col="70.5" data-housing="68" data-name="Acapulco"&gt;Acapulco, GRO&lt;/option&gt;
  
+ &lt;option value="adelaide-sa" data-col="82" data-housing="80" data-name="Adelaide"&gt;Adelaide, SA&lt;/option&gt;
+ 
  &lt;option value="agrinio-wg" data-col="78" data-housing="68" data-name="Agrinio"&gt;Agrinio, WG&lt;/option&gt;
  
  &lt;option value="aguascalientes-agu" data-col="67.5" data-housing="64" data-name="Aguascalientes"&gt;Aguascalientes, AGU&lt;/option&gt;
@@ -32,6 +34,8 @@
  &lt;option value="akron-oh" data-col="88.5" data-housing="68.5" data-name="Akron"&gt;Akron, OH&lt;/option&gt;
  
  &lt;option value="albuquerque-nm" data-col="94.5" data-housing="88.2" data-name="Albuquerque"&gt;Albuquerque, NM&lt;/option&gt;
+ 
+ &lt;option value="albury-nsw" data-col="65" data-housing="60" data-name="Albury"&gt;Albury, NSW&lt;/option&gt;
  
  &lt;option value="alexandroupoli-em" data-col="84" data-housing="75" data-name="Alexandroupoli"&gt;Alexandroupoli, EM&lt;/option&gt;
  
@@ -57,6 +61,8 @@
  
  &lt;option value="bakersfield-ca" data-col="102.5" data-housing="98.4" data-name="Bakersfield"&gt;Bakersfield, CA&lt;/option&gt;
  
+ &lt;option value="ballarat-vic" data-col="68" data-housing="62" data-name="Ballarat"&gt;Ballarat, VIC&lt;/option&gt;
+ 
  &lt;option value="baltimore-md" data-col="108.4" data-housing="112.5" data-name="Baltimore"&gt;Baltimore, MD&lt;/option&gt;
  
  &lt;option value="baton-rouge-la" data-col="94.5" data-housing="88.5" data-name="Baton Rouge"&gt;Baton Rouge, LA&lt;/option&gt;
@@ -66,6 +72,8 @@
  &lt;option value="bellingham-wa" data-col="115.2" data-housing="132.5" data-name="Bellingham"&gt;Bellingham, WA&lt;/option&gt;
  
  &lt;option value="bend-or" data-col="118.5" data-housing="142.5" data-name="Bend"&gt;Bend, OR&lt;/option&gt;
+ 
+ &lt;option value="bendigo-vic" data-col="68" data-housing="62" data-name="Bendigo"&gt;Bendigo, VIC&lt;/option&gt;
  
  &lt;option value="billings-mt" data-col="96.5" data-housing="92.5" data-name="Billings"&gt;Billings, MT&lt;/option&gt;
  
@@ -81,13 +89,23 @@
  
  &lt;option value="bridgeport-ct" data-col="118.5" data-housing="128.4" data-name="Bridgeport"&gt;Bridgeport, CT&lt;/option&gt;
  
+ &lt;option value="brisbane-qld" data-col="88" data-housing="95" data-name="Brisbane"&gt;Brisbane, QLD&lt;/option&gt;
+ 
  &lt;option value="bristol-gb" data-col="102.1" data-housing="108.5" data-name="Bristol"&gt;Bristol, ENG&lt;/option&gt;
  
  &lt;option value="buffalo-ny" data-col="92.5" data-housing="72.5" data-name="Buffalo"&gt;Buffalo, NY&lt;/option&gt;
  
+ &lt;option value="bunbury-wa" data-col="70" data-housing="66" data-name="Bunbury"&gt;Bunbury, WA&lt;/option&gt;
+ 
+ &lt;option value="bundaberg-qld" data-col="66" data-housing="62" data-name="Bundaberg"&gt;Bundaberg, QLD&lt;/option&gt;
+ 
  &lt;option value="burlington-vt" data-col="112.5" data-housing="128.4" data-name="Burlington"&gt;Burlington, VT&lt;/option&gt;
  
+ &lt;option value="cairns-qld" data-col="74" data-housing="70" data-name="Cairns"&gt;Cairns, QLD&lt;/option&gt;
+ 
  &lt;option value="calgary-ca" data-col="105.7" data-housing="108.2" data-name="Calgary"&gt;Calgary, AB&lt;/option&gt;
+ 
+ &lt;option value="canberra-act" data-col="90" data-housing="95" data-name="Canberra"&gt;Canberra, ACT&lt;/option&gt;
  
  &lt;option value="cancun-roo" data-col="88.5" data-housing="95" data-name="Cancún"&gt;Cancún, ROO&lt;/option&gt;
  
@@ -141,6 +159,8 @@
  
  &lt;option value="dallas-tx" data-col="101.3" data-housing="108.5" data-name="Dallas"&gt;Dallas, TX&lt;/option&gt;
  
+ &lt;option value="darwin-nt" data-col="78" data-housing="76" data-name="Darwin"&gt;Darwin, NT&lt;/option&gt;
+ 
  &lt;option value="delft-nl" data-col="75" data-housing="105" data-name="Delft"&gt;Delft, ZH&lt;/option&gt;
  
  &lt;option value="delphi-cp" data-col="85" data-housing="78" data-name="Delphi"&gt;Delphi, CP&lt;/option&gt;
@@ -181,9 +201,13 @@
  
  &lt;option value="garland-tx" data-col="96.5" data-housing="92.4" data-name="Garland"&gt;Garland, TX&lt;/option&gt;
  
+ &lt;option value="geelong-vic" data-col="75" data-housing="70" data-name="Geelong"&gt;Geelong, VIC&lt;/option&gt;
+ 
  &lt;option value="glasgow-gb" data-col="88.4" data-housing="86.2" data-name="Glasgow"&gt;Glasgow, SCT&lt;/option&gt;
  
  &lt;option value="glendale-az" data-col="98.5" data-housing="95.2" data-name="Glendale"&gt;Glendale, AZ&lt;/option&gt;
+ 
+ &lt;option value="gold-coast-qld" data-col="86" data-housing="92" data-name="Gold Coast"&gt;Gold Coast, QLD&lt;/option&gt;
  
  &lt;option value="grand-rapids-mi" data-col="94.5" data-housing="88.5" data-name="Grand Rapids"&gt;Grand Rapids, MI&lt;/option&gt;
  
@@ -203,7 +227,11 @@
  
  &lt;option value="hermosillo-son" data-col="68.8" data-housing="66" data-name="Hermosillo"&gt;Hermosillo, SON&lt;/option&gt;
  
+ &lt;option value="hervey-bay-qld" data-col="68" data-housing="64" data-name="Hervey Bay"&gt;Hervey Bay, QLD&lt;/option&gt;
+ 
  &lt;option value="hialeah-fl" data-col="108.5" data-housing="112.5" data-name="Hialeah"&gt;Hialeah, FL&lt;/option&gt;
+ 
+ &lt;option value="hobart-tas" data-col="76" data-housing="72" data-name="Hobart"&gt;Hobart, TAS&lt;/option&gt;
  
  &lt;option value="honolulu-hi" data-col="185.2" data-housing="284.5" data-name="Honolulu"&gt;Honolulu, HI&lt;/option&gt;
  
@@ -249,6 +277,8 @@
  
  &lt;option value="las-vegas-nv" data-col="102.4" data-housing="108.2" data-name="Las Vegas"&gt;Las Vegas, NV&lt;/option&gt;
  
+ &lt;option value="launceston-tas" data-col="65" data-housing="60" data-name="Launceston"&gt;Launceston, TAS&lt;/option&gt;
+ 
  &lt;option value="leeds-gb" data-col="91.7" data-housing="93.1" data-name="Leeds"&gt;Leeds, ENG&lt;/option&gt;
  
  &lt;option value="leiden-nl" data-col="76" data-housing="110" data-name="Leiden"&gt;Leiden, ZH&lt;/option&gt;
@@ -275,11 +305,15 @@
  
  &lt;option value="maastricht-nl" data-col="74" data-housing="92" data-name="Maastricht"&gt;Maastricht, LI&lt;/option&gt;
  
+ &lt;option value="mackay-qld" data-col="72" data-housing="68" data-name="Mackay"&gt;Mackay, QLD&lt;/option&gt;
+ 
  &lt;option value="madison-wi" data-col="104.2" data-housing="112.5" data-name="Madison"&gt;Madison, WI&lt;/option&gt;
  
  &lt;option value="manchester-gb" data-col="98.5" data-housing="102.3" data-name="Manchester"&gt;Manchester, ENG&lt;/option&gt;
  
  &lt;option value="manchester-nh" data-col="108.5" data-housing="118.2" data-name="Manchester"&gt;Manchester, NH&lt;/option&gt;
+ 
+ &lt;option value="melbourne-vic" data-col="95" data-housing="110" data-name="Melbourne"&gt;Melbourne, VIC&lt;/option&gt;
  
  &lt;option value="memphis-tn" data-col="88.5" data-housing="74.2" data-name="Memphis"&gt;Memphis, TN&lt;/option&gt;
  
@@ -321,6 +355,8 @@
  
  &lt;option value="newark-nj" data-col="118.5" data-housing="128.4" data-name="Newark"&gt;Newark, NJ&lt;/option&gt;
  
+ &lt;option value="newcastle-nsw" data-col="80" data-housing="78" data-name="Newcastle"&gt;Newcastle, NSW&lt;/option&gt;
+ 
  &lt;option value="norfolk-va" data-col="98.5" data-housing="92.4" data-name="Norfolk"&gt;Norfolk, VA&lt;/option&gt;
  
  &lt;option value="oakland-ca" data-col="158.4" data-housing="218.5" data-name="Oakland"&gt;Oakland, CA&lt;/option&gt;
@@ -340,6 +376,8 @@
  &lt;option value="oxnard-ca" data-col="138.5" data-housing="188.4" data-name="Oxnard"&gt;Oxnard, CA&lt;/option&gt;
  
  &lt;option value="patras-wg" data-col="84" data-housing="75" data-name="Patras"&gt;Patras, WG&lt;/option&gt;
+ 
+ &lt;option value="perth-wa" data-col="85" data-housing="88" data-name="Perth"&gt;Perth, WA&lt;/option&gt;
  
  &lt;option value="philadelphia-pa" data-col="108.5" data-housing="118.3" data-name="Philadelphia"&gt;Philadelphia, PA&lt;/option&gt;
  
@@ -372,6 +410,8 @@
  &lt;option value="riverside-ca" data-col="118.5" data-housing="142.5" data-name="Riverside"&gt;Riverside, CA&lt;/option&gt;
  
  &lt;option value="rochester-ny" data-col="92.5" data-housing="72.5" data-name="Rochester"&gt;Rochester, NY&lt;/option&gt;
+ 
+ &lt;option value="rockhampton-qld" data-col="68" data-housing="64" data-name="Rockhampton"&gt;Rockhampton, QLD&lt;/option&gt;
  
  &lt;option value="rotterdam-nl" data-col="78.9" data-housing="115" data-name="Rotterdam"&gt;Rotterdam, ZH&lt;/option&gt;
  
@@ -421,6 +461,10 @@
  
  &lt;option value="stockton-ca" data-col="112.5" data-housing="128.4" data-name="Stockton"&gt;Stockton, CA&lt;/option&gt;
  
+ &lt;option value="sunshine-coast-qld" data-col="84" data-housing="88" data-name="Sunshine Coast"&gt;Sunshine Coast, QLD&lt;/option&gt;
+ 
+ &lt;option value="sydney-nsw" data-col="100" data-housing="120" data-name="Sydney"&gt;Sydney, NSW&lt;/option&gt;
+ 
  &lt;option value="tacoma-wa" data-col="112.5" data-housing="128.4" data-name="Tacoma"&gt;Tacoma, WA&lt;/option&gt;
  
  &lt;option value="tallahassee-fl" data-col="96.5" data-housing="88.5" data-name="Tallahassee"&gt;Tallahassee, FL&lt;/option&gt;
@@ -441,9 +485,13 @@
  
  &lt;option value="toluca-mex" data-col="71.5" data-housing="69" data-name="Toluca"&gt;Toluca, MEX&lt;/option&gt;
  
+ &lt;option value="toowoomba-qld" data-col="70" data-housing="65" data-name="Toowoomba"&gt;Toowoomba, QLD&lt;/option&gt;
+ 
  &lt;option value="toronto-ca" data-col="128.4" data-housing="152.7" data-name="Toronto"&gt;Toronto, ON&lt;/option&gt;
  
  &lt;option value="torreon-coa" data-col="67.8" data-housing="65" data-name="Torreón"&gt;Torreón, COA&lt;/option&gt;
+ 
+ &lt;option value="townsville-qld" data-col="72" data-housing="68" data-name="Townsville"&gt;Townsville, QLD&lt;/option&gt;
  
  &lt;option value="trikala-th" data-col="80" data-housing="70" data-name="Trikala"&gt;Trikala, TH&lt;/option&gt;
  
@@ -474,6 +522,8 @@
  &lt;option value="winnipeg-ca" data-col="88.6" data-housing="82.4" data-name="Winnipeg"&gt;Winnipeg, MB&lt;/option&gt;
  
  &lt;option value="winston-salem-nc" data-col="92.5" data-housing="82.5" data-name="Winston-Salem"&gt;Winston-Salem, NC&lt;/option&gt;
+ 
+ &lt;option value="wollongong-nsw" data-col="78" data-housing="75" data-name="Wollongong"&gt;Wollongong, NSW&lt;/option&gt;
  
  &lt;option value="worcester-ma" data-col="118.5" data-housing="128.4" data-name="Worcester"&gt;Worcester, MA&lt;/option&gt;
  
@@ -500,6 +550,8 @@
  
  &lt;option value="acapulco-gro" data-col="70.5" data-housing="68" data-name="Acapulco"&gt;Acapulco, GRO&lt;/option&gt;
  
+ &lt;option value="adelaide-sa" data-col="82" data-housing="80" data-name="Adelaide"&gt;Adelaide, SA&lt;/option&gt;
+ 
  &lt;option value="agrinio-wg" data-col="78" data-housing="68" data-name="Agrinio"&gt;Agrinio, WG&lt;/option&gt;
  
  &lt;option value="aguascalientes-agu" data-col="67.5" data-housing="64" data-name="Aguascalientes"&gt;Aguascalientes, AGU&lt;/option&gt;
@@ -507,6 +559,8 @@
  &lt;option value="akron-oh" data-col="88.5" data-housing="68.5" data-name="Akron"&gt;Akron, OH&lt;/option&gt;
  
  &lt;option value="albuquerque-nm" data-col="94.5" data-housing="88.2" data-name="Albuquerque"&gt;Albuquerque, NM&lt;/option&gt;
+ 
+ &lt;option value="albury-nsw" data-col="65" data-housing="60" data-name="Albury"&gt;Albury, NSW&lt;/option&gt;
  
  &lt;option value="alexandroupoli-em" data-col="84" data-housing="75" data-name="Alexandroupoli"&gt;Alexandroupoli, EM&lt;/option&gt;
  
@@ -532,6 +586,8 @@
  
  &lt;option value="bakersfield-ca" data-col="102.5" data-housing="98.4" data-name="Bakersfield"&gt;Bakersfield, CA&lt;/option&gt;
  
+ &lt;option value="ballarat-vic" data-col="68" data-housing="62" data-name="Ballarat"&gt;Ballarat, VIC&lt;/option&gt;
+ 
  &lt;option value="baltimore-md" data-col="108.4" data-housing="112.5" data-name="Baltimore"&gt;Baltimore, MD&lt;/option&gt;
  
  &lt;option value="baton-rouge-la" data-col="94.5" data-housing="88.5" data-name="Baton Rouge"&gt;Baton Rouge, LA&lt;/option&gt;
@@ -541,6 +597,8 @@
  &lt;option value="bellingham-wa" data-col="115.2" data-housing="132.5" data-name="Bellingham"&gt;Bellingham, WA&lt;/option&gt;
  
  &lt;option value="bend-or" data-col="118.5" data-housing="142.5" data-name="Bend"&gt;Bend, OR&lt;/option&gt;
+ 
+ &lt;option value="bendigo-vic" data-col="68" data-housing="62" data-name="Bendigo"&gt;Bendigo, VIC&lt;/option&gt;
  
  &lt;option value="billings-mt" data-col="96.5" data-housing="92.5" data-name="Billings"&gt;Billings, MT&lt;/option&gt;
  
@@ -556,13 +614,23 @@
  
  &lt;option value="bridgeport-ct" data-col="118.5" data-housing="128.4" data-name="Bridgeport"&gt;Bridgeport, CT&lt;/option&gt;
  
+ &lt;option value="brisbane-qld" data-col="88" data-housing="95" data-name="Brisbane"&gt;Brisbane, QLD&lt;/option&gt;
+ 
  &lt;option value="bristol-gb" data-col="102.1" data-housing="108.5" data-name="Bristol"&gt;Bristol, ENG&lt;/option&gt;
  
  &lt;option value="buffalo-ny" data-col="92.5" data-housing="72.5" data-name="Buffalo"&gt;Buffalo, NY&lt;/option&gt;
  
+ &lt;option value="bunbury-wa" data-col="70" data-housing="66" data-name="Bunbury"&gt;Bunbury, WA&lt;/option&gt;
+ 
+ &lt;option value="bundaberg-qld" data-col="66" data-housing="62" data-name="Bundaberg"&gt;Bundaberg, QLD&lt;/option&gt;
+ 
  &lt;option value="burlington-vt" data-col="112.5" data-housing="128.4" data-name="Burlington"&gt;Burlington, VT&lt;/option&gt;
  
+ &lt;option value="cairns-qld" data-col="74" data-housing="70" data-name="Cairns"&gt;Cairns, QLD&lt;/option&gt;
+ 
  &lt;option value="calgary-ca" data-col="105.7" data-housing="108.2" data-name="Calgary"&gt;Calgary, AB&lt;/option&gt;
+ 
+ &lt;option value="canberra-act" data-col="90" data-housing="95" data-name="Canberra"&gt;Canberra, ACT&lt;/option&gt;
  
  &lt;option value="cancun-roo" data-col="88.5" data-housing="95" data-name="Cancún"&gt;Cancún, ROO&lt;/option&gt;
  
@@ -616,6 +684,8 @@
  
  &lt;option value="dallas-tx" data-col="101.3" data-housing="108.5" data-name="Dallas"&gt;Dallas, TX&lt;/option&gt;
  
+ &lt;option value="darwin-nt" data-col="78" data-housing="76" data-name="Darwin"&gt;Darwin, NT&lt;/option&gt;
+ 
  &lt;option value="delft-nl" data-col="75" data-housing="105" data-name="Delft"&gt;Delft, ZH&lt;/option&gt;
  
  &lt;option value="delphi-cp" data-col="85" data-housing="78" data-name="Delphi"&gt;Delphi, CP&lt;/option&gt;
@@ -656,9 +726,13 @@
  
  &lt;option value="garland-tx" data-col="96.5" data-housing="92.4" data-name="Garland"&gt;Garland, TX&lt;/option&gt;
  
+ &lt;option value="geelong-vic" data-col="75" data-housing="70" data-name="Geelong"&gt;Geelong, VIC&lt;/option&gt;
+ 
  &lt;option value="glasgow-gb" data-col="88.4" data-housing="86.2" data-name="Glasgow"&gt;Glasgow, SCT&lt;/option&gt;
  
  &lt;option value="glendale-az" data-col="98.5" data-housing="95.2" data-name="Glendale"&gt;Glendale, AZ&lt;/option&gt;
+ 
+ &lt;option value="gold-coast-qld" data-col="86" data-housing="92" data-name="Gold Coast"&gt;Gold Coast, QLD&lt;/option&gt;
  
  &lt;option value="grand-rapids-mi" data-col="94.5" data-housing="88.5" data-name="Grand Rapids"&gt;Grand Rapids, MI&lt;/option&gt;
  
@@ -678,7 +752,11 @@
  
  &lt;option value="hermosillo-son" data-col="68.8" data-housing="66" data-name="Hermosillo"&gt;Hermosillo, SON&lt;/option&gt;
  
+ &lt;option value="hervey-bay-qld" data-col="68" data-housing="64" data-name="Hervey Bay"&gt;Hervey Bay, QLD&lt;/option&gt;
+ 
  &lt;option value="hialeah-fl" data-col="108.5" data-housing="112.5" data-name="Hialeah"&gt;Hialeah, FL&lt;/option&gt;
+ 
+ &lt;option value="hobart-tas" data-col="76" data-housing="72" data-name="Hobart"&gt;Hobart, TAS&lt;/option&gt;
  
  &lt;option value="honolulu-hi" data-col="185.2" data-housing="284.5" data-name="Honolulu"&gt;Honolulu, HI&lt;/option&gt;
  
@@ -724,6 +802,8 @@
  
  &lt;option value="las-vegas-nv" data-col="102.4" data-housing="108.2" data-name="Las Vegas"&gt;Las Vegas, NV&lt;/option&gt;
  
+ &lt;option value="launceston-tas" data-col="65" data-housing="60" data-name="Launceston"&gt;Launceston, TAS&lt;/option&gt;
+ 
  &lt;option value="leeds-gb" data-col="91.7" data-housing="93.1" data-name="Leeds"&gt;Leeds, ENG&lt;/option&gt;
  
  &lt;option value="leiden-nl" data-col="76" data-housing="110" data-name="Leiden"&gt;Leiden, ZH&lt;/option&gt;
@@ -750,11 +830,15 @@
  
  &lt;option value="maastricht-nl" data-col="74" data-housing="92" data-name="Maastricht"&gt;Maastricht, LI&lt;/option&gt;
  
+ &lt;option value="mackay-qld" data-col="72" data-housing="68" data-name="Mackay"&gt;Mackay, QLD&lt;/option&gt;
+ 
  &lt;option value="madison-wi" data-col="104.2" data-housing="112.5" data-name="Madison"&gt;Madison, WI&lt;/option&gt;
  
  &lt;option value="manchester-gb" data-col="98.5" data-housing="102.3" data-name="Manchester"&gt;Manchester, ENG&lt;/option&gt;
  
  &lt;option value="manchester-nh" data-col="108.5" data-housing="118.2" data-name="Manchester"&gt;Manchester, NH&lt;/option&gt;
+ 
+ &lt;option value="melbourne-vic" data-col="95" data-housing="110" data-name="Melbourne"&gt;Melbourne, VIC&lt;/option&gt;
  
  &lt;option value="memphis-tn" data-col="88.5" data-housing="74.2" data-name="Memphis"&gt;Memphis, TN&lt;/option&gt;
  
@@ -796,6 +880,8 @@
  
  &lt;option value="newark-nj" data-col="118.5" data-housing="128.4" data-name="Newark"&gt;Newark, NJ&lt;/option&gt;
  
+ &lt;option value="newcastle-nsw" data-col="80" data-housing="78" data-name="Newcastle"&gt;Newcastle, NSW&lt;/option&gt;
+ 
  &lt;option value="norfolk-va" data-col="98.5" data-housing="92.4" data-name="Norfolk"&gt;Norfolk, VA&lt;/option&gt;
  
  &lt;option value="oakland-ca" data-col="158.4" data-housing="218.5" data-name="Oakland"&gt;Oakland, CA&lt;/option&gt;
@@ -815,6 +901,8 @@
  &lt;option value="oxnard-ca" data-col="138.5" data-housing="188.4" data-name="Oxnard"&gt;Oxnard, CA&lt;/option&gt;
  
  &lt;option value="patras-wg" data-col="84" data-housing="75" data-name="Patras"&gt;Patras, WG&lt;/option&gt;
+ 
+ &lt;option value="perth-wa" data-col="85" data-housing="88" data-name="Perth"&gt;Perth, WA&lt;/option&gt;
  
  &lt;option value="philadelphia-pa" data-col="108.5" data-housing="118.3" data-name="Philadelphia"&gt;Philadelphia, PA&lt;/option&gt;
  
@@ -847,6 +935,8 @@
  &lt;option value="riverside-ca" data-col="118.5" data-housing="142.5" data-name="Riverside"&gt;Riverside, CA&lt;/option&gt;
  
  &lt;option value="rochester-ny" data-col="92.5" data-housing="72.5" data-name="Rochester"&gt;Rochester, NY&lt;/option&gt;
+ 
+ &lt;option value="rockhampton-qld" data-col="68" data-housing="64" data-name="Rockhampton"&gt;Rockhampton, QLD&lt;/option&gt;
  
  &lt;option value="rotterdam-nl" data-col="78.9" data-housing="115" data-name="Rotterdam"&gt;Rotterdam, ZH&lt;/option&gt;
  
@@ -896,6 +986,10 @@
  
  &lt;option value="stockton-ca" data-col="112.5" data-housing="128.4" data-name="Stockton"&gt;Stockton, CA&lt;/option&gt;
  
+ &lt;option value="sunshine-coast-qld" data-col="84" data-housing="88" data-name="Sunshine Coast"&gt;Sunshine Coast, QLD&lt;/option&gt;
+ 
+ &lt;option value="sydney-nsw" data-col="100" data-housing="120" data-name="Sydney"&gt;Sydney, NSW&lt;/option&gt;
+ 
  &lt;option value="tacoma-wa" data-col="112.5" data-housing="128.4" data-name="Tacoma"&gt;Tacoma, WA&lt;/option&gt;
  
  &lt;option value="tallahassee-fl" data-col="96.5" data-housing="88.5" data-name="Tallahassee"&gt;Tallahassee, FL&lt;/option&gt;
@@ -916,9 +1010,13 @@
  
  &lt;option value="toluca-mex" data-col="71.5" data-housing="69" data-name="Toluca"&gt;Toluca, MEX&lt;/option&gt;
  
+ &lt;option value="toowoomba-qld" data-col="70" data-housing="65" data-name="Toowoomba"&gt;Toowoomba, QLD&lt;/option&gt;
+ 
  &lt;option value="toronto-ca" data-col="128.4" data-housing="152.7" data-name="Toronto"&gt;Toronto, ON&lt;/option&gt;
  
  &lt;option value="torreon-coa" data-col="67.8" data-housing="65" data-name="Torreón"&gt;Torreón, COA&lt;/option&gt;
+ 
+ &lt;option value="townsville-qld" data-col="72" data-housing="68" data-name="Townsville"&gt;Townsville, QLD&lt;/option&gt;
  
  &lt;option value="trikala-th" data-col="80" data-housing="70" data-name="Trikala"&gt;Trikala, TH&lt;/option&gt;
  
@@ -949,6 +1047,8 @@
  &lt;option value="winnipeg-ca" data-col="88.6" data-housing="82.4" data-name="Winnipeg"&gt;Winnipeg, MB&lt;/option&gt;
  
  &lt;option value="winston-salem-nc" data-col="92.5" data-housing="82.5" data-name="Winston-Salem"&gt;Winston-Salem, NC&lt;/option&gt;
+ 
+ &lt;option value="wollongong-nsw" data-col="78" data-housing="75" data-name="Wollongong"&gt;Wollongong, NSW&lt;/option&gt;
  
  &lt;option value="worcester-ma" data-col="118.5" data-housing="128.4" data-name="Worcester"&gt;Worcester, MA&lt;/option&gt;
  
@@ -1901,6 +2001,8 @@ function compareCOL() {
  
  &lt;option value="acapulco-gro" data-col="70.5" data-name="Acapulco" &gt;Acapulco, GRO&lt;/option&gt;
  
+ &lt;option value="adelaide-sa" data-col="82" data-name="Adelaide" &gt;Adelaide, SA&lt;/option&gt;
+ 
  &lt;option value="agrinio-wg" data-col="78" data-name="Agrinio" &gt;Agrinio, WG&lt;/option&gt;
  
  &lt;option value="aguascalientes-agu" data-col="67.5" data-name="Aguascalientes" &gt;Aguascalientes, AGU&lt;/option&gt;
@@ -1908,6 +2010,8 @@ function compareCOL() {
  &lt;option value="akron-oh" data-col="88.5" data-name="Akron" &gt;Akron, OH&lt;/option&gt;
  
  &lt;option value="albuquerque-nm" data-col="94.5" data-name="Albuquerque" &gt;Albuquerque, NM&lt;/option&gt;
+ 
+ &lt;option value="albury-nsw" data-col="65" data-name="Albury" &gt;Albury, NSW&lt;/option&gt;
  
  &lt;option value="alexandroupoli-em" data-col="84" data-name="Alexandroupoli" &gt;Alexandroupoli, EM&lt;/option&gt;
  
@@ -1933,6 +2037,8 @@ function compareCOL() {
  
  &lt;option value="bakersfield-ca" data-col="102.5" data-name="Bakersfield" &gt;Bakersfield, CA&lt;/option&gt;
  
+ &lt;option value="ballarat-vic" data-col="68" data-name="Ballarat" &gt;Ballarat, VIC&lt;/option&gt;
+ 
  &lt;option value="baltimore-md" data-col="108.4" data-name="Baltimore" &gt;Baltimore, MD&lt;/option&gt;
  
  &lt;option value="baton-rouge-la" data-col="94.5" data-name="Baton Rouge" &gt;Baton Rouge, LA&lt;/option&gt;
@@ -1942,6 +2048,8 @@ function compareCOL() {
  &lt;option value="bellingham-wa" data-col="115.2" data-name="Bellingham" &gt;Bellingham, WA&lt;/option&gt;
  
  &lt;option value="bend-or" data-col="118.5" data-name="Bend" &gt;Bend, OR&lt;/option&gt;
+ 
+ &lt;option value="bendigo-vic" data-col="68" data-name="Bendigo" &gt;Bendigo, VIC&lt;/option&gt;
  
  &lt;option value="billings-mt" data-col="96.5" data-name="Billings" &gt;Billings, MT&lt;/option&gt;
  
@@ -1957,13 +2065,23 @@ function compareCOL() {
  
  &lt;option value="bridgeport-ct" data-col="118.5" data-name="Bridgeport" &gt;Bridgeport, CT&lt;/option&gt;
  
+ &lt;option value="brisbane-qld" data-col="88" data-name="Brisbane" &gt;Brisbane, QLD&lt;/option&gt;
+ 
  &lt;option value="bristol-gb" data-col="102.1" data-name="Bristol" &gt;Bristol, ENG&lt;/option&gt;
  
  &lt;option value="buffalo-ny" data-col="92.5" data-name="Buffalo" &gt;Buffalo, NY&lt;/option&gt;
  
+ &lt;option value="bunbury-wa" data-col="70" data-name="Bunbury" &gt;Bunbury, WA&lt;/option&gt;
+ 
+ &lt;option value="bundaberg-qld" data-col="66" data-name="Bundaberg" &gt;Bundaberg, QLD&lt;/option&gt;
+ 
  &lt;option value="burlington-vt" data-col="112.5" data-name="Burlington" &gt;Burlington, VT&lt;/option&gt;
  
+ &lt;option value="cairns-qld" data-col="74" data-name="Cairns" &gt;Cairns, QLD&lt;/option&gt;
+ 
  &lt;option value="calgary-ca" data-col="105.7" data-name="Calgary" &gt;Calgary, AB&lt;/option&gt;
+ 
+ &lt;option value="canberra-act" data-col="90" data-name="Canberra" &gt;Canberra, ACT&lt;/option&gt;
  
  &lt;option value="cancun-roo" data-col="88.5" data-name="Cancún" &gt;Cancún, ROO&lt;/option&gt;
  
@@ -2017,6 +2135,8 @@ function compareCOL() {
  
  &lt;option value="dallas-tx" data-col="101.3" data-name="Dallas" &gt;Dallas, TX&lt;/option&gt;
  
+ &lt;option value="darwin-nt" data-col="78" data-name="Darwin" &gt;Darwin, NT&lt;/option&gt;
+ 
  &lt;option value="delft-nl" data-col="75" data-name="Delft" &gt;Delft, ZH&lt;/option&gt;
  
  &lt;option value="delphi-cp" data-col="85" data-name="Delphi" &gt;Delphi, CP&lt;/option&gt;
@@ -2057,9 +2177,13 @@ function compareCOL() {
  
  &lt;option value="garland-tx" data-col="96.5" data-name="Garland" &gt;Garland, TX&lt;/option&gt;
  
+ &lt;option value="geelong-vic" data-col="75" data-name="Geelong" &gt;Geelong, VIC&lt;/option&gt;
+ 
  &lt;option value="glasgow-gb" data-col="88.4" data-name="Glasgow" &gt;Glasgow, SCT&lt;/option&gt;
  
  &lt;option value="glendale-az" data-col="98.5" data-name="Glendale" &gt;Glendale, AZ&lt;/option&gt;
+ 
+ &lt;option value="gold-coast-qld" data-col="86" data-name="Gold Coast" &gt;Gold Coast, QLD&lt;/option&gt;
  
  &lt;option value="grand-rapids-mi" data-col="94.5" data-name="Grand Rapids" &gt;Grand Rapids, MI&lt;/option&gt;
  
@@ -2079,7 +2203,11 @@ function compareCOL() {
  
  &lt;option value="hermosillo-son" data-col="68.8" data-name="Hermosillo" &gt;Hermosillo, SON&lt;/option&gt;
  
+ &lt;option value="hervey-bay-qld" data-col="68" data-name="Hervey Bay" &gt;Hervey Bay, QLD&lt;/option&gt;
+ 
  &lt;option value="hialeah-fl" data-col="108.5" data-name="Hialeah" &gt;Hialeah, FL&lt;/option&gt;
+ 
+ &lt;option value="hobart-tas" data-col="76" data-name="Hobart" &gt;Hobart, TAS&lt;/option&gt;
  
  &lt;option value="honolulu-hi" data-col="185.2" data-name="Honolulu" &gt;Honolulu, HI&lt;/option&gt;
  
@@ -2125,6 +2253,8 @@ function compareCOL() {
  
  &lt;option value="las-vegas-nv" data-col="102.4" data-name="Las Vegas" &gt;Las Vegas, NV&lt;/option&gt;
  
+ &lt;option value="launceston-tas" data-col="65" data-name="Launceston" &gt;Launceston, TAS&lt;/option&gt;
+ 
  &lt;option value="leeds-gb" data-col="91.7" data-name="Leeds" &gt;Leeds, ENG&lt;/option&gt;
  
  &lt;option value="leiden-nl" data-col="76" data-name="Leiden" &gt;Leiden, ZH&lt;/option&gt;
@@ -2151,11 +2281,15 @@ function compareCOL() {
  
  &lt;option value="maastricht-nl" data-col="74" data-name="Maastricht" &gt;Maastricht, LI&lt;/option&gt;
  
+ &lt;option value="mackay-qld" data-col="72" data-name="Mackay" &gt;Mackay, QLD&lt;/option&gt;
+ 
  &lt;option value="madison-wi" data-col="104.2" data-name="Madison" &gt;Madison, WI&lt;/option&gt;
  
  &lt;option value="manchester-gb" data-col="98.5" data-name="Manchester" &gt;Manchester, ENG&lt;/option&gt;
  
  &lt;option value="manchester-nh" data-col="108.5" data-name="Manchester" &gt;Manchester, NH&lt;/option&gt;
+ 
+ &lt;option value="melbourne-vic" data-col="95" data-name="Melbourne" &gt;Melbourne, VIC&lt;/option&gt;
  
  &lt;option value="memphis-tn" data-col="88.5" data-name="Memphis" &gt;Memphis, TN&lt;/option&gt;
  
@@ -2197,6 +2331,8 @@ function compareCOL() {
  
  &lt;option value="newark-nj" data-col="118.5" data-name="Newark" &gt;Newark, NJ&lt;/option&gt;
  
+ &lt;option value="newcastle-nsw" data-col="80" data-name="Newcastle" &gt;Newcastle, NSW&lt;/option&gt;
+ 
  &lt;option value="norfolk-va" data-col="98.5" data-name="Norfolk" &gt;Norfolk, VA&lt;/option&gt;
  
  &lt;option value="oakland-ca" data-col="158.4" data-name="Oakland" &gt;Oakland, CA&lt;/option&gt;
@@ -2216,6 +2352,8 @@ function compareCOL() {
  &lt;option value="oxnard-ca" data-col="138.5" data-name="Oxnard" &gt;Oxnard, CA&lt;/option&gt;
  
  &lt;option value="patras-wg" data-col="84" data-name="Patras" &gt;Patras, WG&lt;/option&gt;
+ 
+ &lt;option value="perth-wa" data-col="85" data-name="Perth" &gt;Perth, WA&lt;/option&gt;
  
  &lt;option value="philadelphia-pa" data-col="108.5" data-name="Philadelphia" &gt;Philadelphia, PA&lt;/option&gt;
  
@@ -2248,6 +2386,8 @@ function compareCOL() {
  &lt;option value="riverside-ca" data-col="118.5" data-name="Riverside" &gt;Riverside, CA&lt;/option&gt;
  
  &lt;option value="rochester-ny" data-col="92.5" data-name="Rochester" &gt;Rochester, NY&lt;/option&gt;
+ 
+ &lt;option value="rockhampton-qld" data-col="68" data-name="Rockhampton" &gt;Rockhampton, QLD&lt;/option&gt;
  
  &lt;option value="rotterdam-nl" data-col="78.9" data-name="Rotterdam" &gt;Rotterdam, ZH&lt;/option&gt;
  
@@ -2297,6 +2437,10 @@ function compareCOL() {
  
  &lt;option value="stockton-ca" data-col="112.5" data-name="Stockton" &gt;Stockton, CA&lt;/option&gt;
  
+ &lt;option value="sunshine-coast-qld" data-col="84" data-name="Sunshine Coast" &gt;Sunshine Coast, QLD&lt;/option&gt;
+ 
+ &lt;option value="sydney-nsw" data-col="100" data-name="Sydney" &gt;Sydney, NSW&lt;/option&gt;
+ 
  &lt;option value="tacoma-wa" data-col="112.5" data-name="Tacoma" &gt;Tacoma, WA&lt;/option&gt;
  
  &lt;option value="tallahassee-fl" data-col="96.5" data-name="Tallahassee" &gt;Tallahassee, FL&lt;/option&gt;
@@ -2317,9 +2461,13 @@ function compareCOL() {
  
  &lt;option value="toluca-mex" data-col="71.5" data-name="Toluca" &gt;Toluca, MEX&lt;/option&gt;
  
+ &lt;option value="toowoomba-qld" data-col="70" data-name="Toowoomba" &gt;Toowoomba, QLD&lt;/option&gt;
+ 
  &lt;option value="toronto-ca" data-col="128.4" data-name="Toronto" &gt;Toronto, ON&lt;/option&gt;
  
  &lt;option value="torreon-coa" data-col="67.8" data-name="Torreón" &gt;Torreón, COA&lt;/option&gt;
+ 
+ &lt;option value="townsville-qld" data-col="72" data-name="Townsville" &gt;Townsville, QLD&lt;/option&gt;
  
  &lt;option value="trikala-th" data-col="80" data-name="Trikala" &gt;Trikala, TH&lt;/option&gt;
  
@@ -2351,6 +2499,8 @@ function compareCOL() {
  
  &lt;option value="winston-salem-nc" data-col="92.5" data-name="Winston-Salem" &gt;Winston-Salem, NC&lt;/option&gt;
  
+ &lt;option value="wollongong-nsw" data-col="78" data-name="Wollongong" &gt;Wollongong, NSW&lt;/option&gt;
+ 
  &lt;option value="worcester-ma" data-col="118.5" data-name="Worcester" &gt;Worcester, MA&lt;/option&gt;
  
  &lt;option value="zacatecas-zac" data-col="62.5" data-name="Zacatecas" &gt;Zacatecas, ZAC&lt;/option&gt;
@@ -2367,6 +2517,8 @@ function compareCOL() {
  
  &lt;option value="acapulco-gro" data-col="70.5" data-name="Acapulco" &gt;Acapulco, GRO&lt;/option&gt;
  
+ &lt;option value="adelaide-sa" data-col="82" data-name="Adelaide" &gt;Adelaide, SA&lt;/option&gt;
+ 
  &lt;option value="agrinio-wg" data-col="78" data-name="Agrinio" &gt;Agrinio, WG&lt;/option&gt;
  
  &lt;option value="aguascalientes-agu" data-col="67.5" data-name="Aguascalientes" &gt;Aguascalientes, AGU&lt;/option&gt;
@@ -2374,6 +2526,8 @@ function compareCOL() {
  &lt;option value="akron-oh" data-col="88.5" data-name="Akron" &gt;Akron, OH&lt;/option&gt;
  
  &lt;option value="albuquerque-nm" data-col="94.5" data-name="Albuquerque" &gt;Albuquerque, NM&lt;/option&gt;
+ 
+ &lt;option value="albury-nsw" data-col="65" data-name="Albury" &gt;Albury, NSW&lt;/option&gt;
  
  &lt;option value="alexandroupoli-em" data-col="84" data-name="Alexandroupoli" &gt;Alexandroupoli, EM&lt;/option&gt;
  
@@ -2399,6 +2553,8 @@ function compareCOL() {
  
  &lt;option value="bakersfield-ca" data-col="102.5" data-name="Bakersfield" &gt;Bakersfield, CA&lt;/option&gt;
  
+ &lt;option value="ballarat-vic" data-col="68" data-name="Ballarat" &gt;Ballarat, VIC&lt;/option&gt;
+ 
  &lt;option value="baltimore-md" data-col="108.4" data-name="Baltimore" &gt;Baltimore, MD&lt;/option&gt;
  
  &lt;option value="baton-rouge-la" data-col="94.5" data-name="Baton Rouge" &gt;Baton Rouge, LA&lt;/option&gt;
@@ -2408,6 +2564,8 @@ function compareCOL() {
  &lt;option value="bellingham-wa" data-col="115.2" data-name="Bellingham" &gt;Bellingham, WA&lt;/option&gt;
  
  &lt;option value="bend-or" data-col="118.5" data-name="Bend" &gt;Bend, OR&lt;/option&gt;
+ 
+ &lt;option value="bendigo-vic" data-col="68" data-name="Bendigo" &gt;Bendigo, VIC&lt;/option&gt;
  
  &lt;option value="billings-mt" data-col="96.5" data-name="Billings" &gt;Billings, MT&lt;/option&gt;
  
@@ -2423,13 +2581,23 @@ function compareCOL() {
  
  &lt;option value="bridgeport-ct" data-col="118.5" data-name="Bridgeport" &gt;Bridgeport, CT&lt;/option&gt;
  
+ &lt;option value="brisbane-qld" data-col="88" data-name="Brisbane" &gt;Brisbane, QLD&lt;/option&gt;
+ 
  &lt;option value="bristol-gb" data-col="102.1" data-name="Bristol" &gt;Bristol, ENG&lt;/option&gt;
  
  &lt;option value="buffalo-ny" data-col="92.5" data-name="Buffalo" &gt;Buffalo, NY&lt;/option&gt;
  
+ &lt;option value="bunbury-wa" data-col="70" data-name="Bunbury" &gt;Bunbury, WA&lt;/option&gt;
+ 
+ &lt;option value="bundaberg-qld" data-col="66" data-name="Bundaberg" &gt;Bundaberg, QLD&lt;/option&gt;
+ 
  &lt;option value="burlington-vt" data-col="112.5" data-name="Burlington" &gt;Burlington, VT&lt;/option&gt;
  
+ &lt;option value="cairns-qld" data-col="74" data-name="Cairns" &gt;Cairns, QLD&lt;/option&gt;
+ 
  &lt;option value="calgary-ca" data-col="105.7" data-name="Calgary" &gt;Calgary, AB&lt;/option&gt;
+ 
+ &lt;option value="canberra-act" data-col="90" data-name="Canberra" &gt;Canberra, ACT&lt;/option&gt;
  
  &lt;option value="cancun-roo" data-col="88.5" data-name="Cancún" &gt;Cancún, ROO&lt;/option&gt;
  
@@ -2483,6 +2651,8 @@ function compareCOL() {
  
  &lt;option value="dallas-tx" data-col="101.3" data-name="Dallas" &gt;Dallas, TX&lt;/option&gt;
  
+ &lt;option value="darwin-nt" data-col="78" data-name="Darwin" &gt;Darwin, NT&lt;/option&gt;
+ 
  &lt;option value="delft-nl" data-col="75" data-name="Delft" &gt;Delft, ZH&lt;/option&gt;
  
  &lt;option value="delphi-cp" data-col="85" data-name="Delphi" &gt;Delphi, CP&lt;/option&gt;
@@ -2523,9 +2693,13 @@ function compareCOL() {
  
  &lt;option value="garland-tx" data-col="96.5" data-name="Garland" &gt;Garland, TX&lt;/option&gt;
  
+ &lt;option value="geelong-vic" data-col="75" data-name="Geelong" &gt;Geelong, VIC&lt;/option&gt;
+ 
  &lt;option value="glasgow-gb" data-col="88.4" data-name="Glasgow" &gt;Glasgow, SCT&lt;/option&gt;
  
  &lt;option value="glendale-az" data-col="98.5" data-name="Glendale" &gt;Glendale, AZ&lt;/option&gt;
+ 
+ &lt;option value="gold-coast-qld" data-col="86" data-name="Gold Coast" &gt;Gold Coast, QLD&lt;/option&gt;
  
  &lt;option value="grand-rapids-mi" data-col="94.5" data-name="Grand Rapids" &gt;Grand Rapids, MI&lt;/option&gt;
  
@@ -2545,7 +2719,11 @@ function compareCOL() {
  
  &lt;option value="hermosillo-son" data-col="68.8" data-name="Hermosillo" &gt;Hermosillo, SON&lt;/option&gt;
  
+ &lt;option value="hervey-bay-qld" data-col="68" data-name="Hervey Bay" &gt;Hervey Bay, QLD&lt;/option&gt;
+ 
  &lt;option value="hialeah-fl" data-col="108.5" data-name="Hialeah" &gt;Hialeah, FL&lt;/option&gt;
+ 
+ &lt;option value="hobart-tas" data-col="76" data-name="Hobart" &gt;Hobart, TAS&lt;/option&gt;
  
  &lt;option value="honolulu-hi" data-col="185.2" data-name="Honolulu" &gt;Honolulu, HI&lt;/option&gt;
  
@@ -2591,6 +2769,8 @@ function compareCOL() {
  
  &lt;option value="las-vegas-nv" data-col="102.4" data-name="Las Vegas" &gt;Las Vegas, NV&lt;/option&gt;
  
+ &lt;option value="launceston-tas" data-col="65" data-name="Launceston" &gt;Launceston, TAS&lt;/option&gt;
+ 
  &lt;option value="leeds-gb" data-col="91.7" data-name="Leeds" &gt;Leeds, ENG&lt;/option&gt;
  
  &lt;option value="leiden-nl" data-col="76" data-name="Leiden" &gt;Leiden, ZH&lt;/option&gt;
@@ -2617,11 +2797,15 @@ function compareCOL() {
  
  &lt;option value="maastricht-nl" data-col="74" data-name="Maastricht" &gt;Maastricht, LI&lt;/option&gt;
  
+ &lt;option value="mackay-qld" data-col="72" data-name="Mackay" &gt;Mackay, QLD&lt;/option&gt;
+ 
  &lt;option value="madison-wi" data-col="104.2" data-name="Madison" &gt;Madison, WI&lt;/option&gt;
  
  &lt;option value="manchester-gb" data-col="98.5" data-name="Manchester" &gt;Manchester, ENG&lt;/option&gt;
  
  &lt;option value="manchester-nh" data-col="108.5" data-name="Manchester" &gt;Manchester, NH&lt;/option&gt;
+ 
+ &lt;option value="melbourne-vic" data-col="95" data-name="Melbourne" &gt;Melbourne, VIC&lt;/option&gt;
  
  &lt;option value="memphis-tn" data-col="88.5" data-name="Memphis" &gt;Memphis, TN&lt;/option&gt;
  
@@ -2663,6 +2847,8 @@ function compareCOL() {
  
  &lt;option value="newark-nj" data-col="118.5" data-name="Newark" &gt;Newark, NJ&lt;/option&gt;
  
+ &lt;option value="newcastle-nsw" data-col="80" data-name="Newcastle" &gt;Newcastle, NSW&lt;/option&gt;
+ 
  &lt;option value="norfolk-va" data-col="98.5" data-name="Norfolk" &gt;Norfolk, VA&lt;/option&gt;
  
  &lt;option value="oakland-ca" data-col="158.4" data-name="Oakland" &gt;Oakland, CA&lt;/option&gt;
@@ -2682,6 +2868,8 @@ function compareCOL() {
  &lt;option value="oxnard-ca" data-col="138.5" data-name="Oxnard" &gt;Oxnard, CA&lt;/option&gt;
  
  &lt;option value="patras-wg" data-col="84" data-name="Patras" &gt;Patras, WG&lt;/option&gt;
+ 
+ &lt;option value="perth-wa" data-col="85" data-name="Perth" &gt;Perth, WA&lt;/option&gt;
  
  &lt;option value="philadelphia-pa" data-col="108.5" data-name="Philadelphia" &gt;Philadelphia, PA&lt;/option&gt;
  
@@ -2714,6 +2902,8 @@ function compareCOL() {
  &lt;option value="riverside-ca" data-col="118.5" data-name="Riverside" &gt;Riverside, CA&lt;/option&gt;
  
  &lt;option value="rochester-ny" data-col="92.5" data-name="Rochester" &gt;Rochester, NY&lt;/option&gt;
+ 
+ &lt;option value="rockhampton-qld" data-col="68" data-name="Rockhampton" &gt;Rockhampton, QLD&lt;/option&gt;
  
  &lt;option value="rotterdam-nl" data-col="78.9" data-name="Rotterdam" &gt;Rotterdam, ZH&lt;/option&gt;
  
@@ -2763,6 +2953,10 @@ function compareCOL() {
  
  &lt;option value="stockton-ca" data-col="112.5" data-name="Stockton" &gt;Stockton, CA&lt;/option&gt;
  
+ &lt;option value="sunshine-coast-qld" data-col="84" data-name="Sunshine Coast" &gt;Sunshine Coast, QLD&lt;/option&gt;
+ 
+ &lt;option value="sydney-nsw" data-col="100" data-name="Sydney" &gt;Sydney, NSW&lt;/option&gt;
+ 
  &lt;option value="tacoma-wa" data-col="112.5" data-name="Tacoma" &gt;Tacoma, WA&lt;/option&gt;
  
  &lt;option value="tallahassee-fl" data-col="96.5" data-name="Tallahassee" &gt;Tallahassee, FL&lt;/option&gt;
@@ -2783,9 +2977,13 @@ function compareCOL() {
  
  &lt;option value="toluca-mex" data-col="71.5" data-name="Toluca" &gt;Toluca, MEX&lt;/option&gt;
  
+ &lt;option value="toowoomba-qld" data-col="70" data-name="Toowoomba" &gt;Toowoomba, QLD&lt;/option&gt;
+ 
  &lt;option value="toronto-ca" data-col="128.4" data-name="Toronto" &gt;Toronto, ON&lt;/option&gt;
  
  &lt;option value="torreon-coa" data-col="67.8" data-name="Torreón" &gt;Torreón, COA&lt;/option&gt;
+ 
+ &lt;option value="townsville-qld" data-col="72" data-name="Townsville" &gt;Townsville, QLD&lt;/option&gt;
  
  &lt;option value="trikala-th" data-col="80" data-name="Trikala" &gt;Trikala, TH&lt;/option&gt;
  
@@ -2816,6 +3014,8 @@ function compareCOL() {
  &lt;option value="winnipeg-ca" data-col="88.6" data-name="Winnipeg" &gt;Winnipeg, MB&lt;/option&gt;
  
  &lt;option value="winston-salem-nc" data-col="92.5" data-name="Winston-Salem" &gt;Winston-Salem, NC&lt;/option&gt;
+ 
+ &lt;option value="wollongong-nsw" data-col="78" data-name="Wollongong" &gt;Wollongong, NSW&lt;/option&gt;
  
  &lt;option value="worcester-ma" data-col="118.5" data-name="Worcester" &gt;Worcester, MA&lt;/option&gt;
  
