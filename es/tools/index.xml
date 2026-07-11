@@ -262,6 +262,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"a-coruna-gal",col: 86 ,name:"A Coruña",display:"A Coruña, España",country:"ES"},
+
+
+
 {value:"acapulco-gro",col: 70.5 ,name:"Acapulco",display:"Acapulco, México",country:"MX"},
 
 
@@ -275,6 +279,10 @@ var SALARY_CITIES = [
 
 
 {value:"aguascalientes-agu",col: 67.5 ,name:"Aguascalientes",display:"Aguascalientes, México",country:"MX"},
+
+
+
+{value:"ajaccio-cor",col: 95 ,name:"Ajaccio",display:"Ajaccio, Francia",country:"FR"},
 
 
 
@@ -298,6 +306,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"alicante-val",col: 88 ,name:"Alicante",display:"Alicante, España",country:"ES"},
+
+
+
 {value:"amsterdam-nl",col: 82.1 ,name:"Amsterdam",display:"Amsterdam, Países Bajos",country:"NL"},
 
 
@@ -307,6 +319,10 @@ var SALARY_CITIES = [
 
 
 {value:"anchorage-ak",col: 118.5 ,name:"Anchorage",display:"Anchorage, AK, US",country:"US"},
+
+
+
+{value:"angers-pdl",col: 87 ,name:"Angers",display:"Angers, Francia",country:"FR"},
 
 
 
@@ -346,7 +362,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"avignon-pac",col: 90 ,name:"Avignon",display:"Avignon, Francia",country:"FR"},
+
+
+
 {value:"azul-ba",col: 62 ,name:"Azul",display:"Azul, Argentina",country:"AR"},
+
+
+
+{value:"badajoz-ext",col: 80 ,name:"Badajoz",display:"Badajoz, España",country:"ES"},
 
 
 
@@ -363,6 +387,10 @@ var SALARY_CITIES = [
 
 
 {value:"baltimore-md",col: 108.4 ,name:"Baltimore",display:"Baltimore, MD, US",country:"US"},
+
+
+
+{value:"barcelona-cat",col: 110 ,name:"Barcelona",display:"Barcelona, España",country:"ES"},
 
 
 
@@ -386,6 +414,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"bilbao-pv",col: 98 ,name:"Bilbao",display:"Bilbao, España",country:"ES"},
+
+
+
 {value:"billings-mt",col: 96.5 ,name:"Billings",display:"Billings, MT, US",country:"US"},
 
 
@@ -402,11 +434,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"bordeaux-naq",col: 100 ,name:"Bordeaux",display:"Bordeaux, Francia",country:"FR"},
+
+
+
 {value:"boston-ma",col: 153.2 ,name:"Boston",display:"Boston, MA, US",country:"US"},
 
 
 
 {value:"boulder-co",col: 148.5 ,name:"Boulder",display:"Boulder, CO, US",country:"US"},
+
+
+
+{value:"brest-bre",col: 85 ,name:"Brest",display:"Brest, Francia",country:"FR"},
 
 
 
@@ -438,7 +478,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"burgos-cle",col: 82 ,name:"Burgos",display:"Burgos, España",country:"ES"},
+
+
+
 {value:"burlington-vt",col: 112.5 ,name:"Burlington",display:"Burlington, VT, US",country:"US"},
+
+
+
+{value:"cádiz-and",col: 85 ,name:"Cádiz",display:"Cádiz, España",country:"ES"},
+
+
+
+{value:"caen-nor",col: 86 ,name:"Caen",display:"Caen, Francia",country:"FR"},
 
 
 
@@ -522,6 +574,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"clermont-ferrand-ara",col: 86 ,name:"Clermont-Ferrand",display:"Clermont-Ferrand, Francia",country:"FR"},
+
+
+
 {value:"cleveland-oh",col: 90.2 ,name:"Cleveland",display:"Cleveland, OH, US",country:"US"},
 
 
@@ -547,6 +603,10 @@ var SALARY_CITIES = [
 
 
 {value:"concordia-er",col: 64 ,name:"Concordia",display:"Concordia, Argentina",country:"AR"},
+
+
+
+{value:"cordoba-and",col: 85 ,name:"Córdoba",display:"Córdoba, España",country:"ES"},
 
 
 
@@ -599,6 +659,10 @@ var SALARY_CITIES = [
 
 
 {value:"detroit-mi",col: 92.8 ,name:"Detroit",display:"Detroit, MI, US",country:"US"},
+
+
+
+{value:"dijon-bfc",col: 88 ,name:"Dijon",display:"Dijon, Francia",country:"FR"},
 
 
 
@@ -698,6 +762,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"gijon-ast",col: 84 ,name:"Gijón",display:"Gijón, España",country:"ES"},
+
+
+
 {value:"glasgow-gb",col: 88.4 ,name:"Glasgow",display:"Glasgow, Reino Unido",country:"GB"},
 
 
@@ -710,6 +778,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"granada-and",col: 88 ,name:"Granada",display:"Granada, España",country:"ES"},
+
+
+
 {value:"grand-rapids-mi",col: 94.5 ,name:"Grand Rapids",display:"Grand Rapids, MI, US",country:"US"},
 
 
@@ -719,6 +791,10 @@ var SALARY_CITIES = [
 
 
 {value:"greenville-sc",col: 96.5 ,name:"Greenville",display:"Greenville, SC, US",country:"US"},
+
+
+
+{value:"grenoble-ara",col: 92 ,name:"Grenoble",display:"Grenoble, Francia",country:"FR"},
 
 
 
@@ -787,6 +863,10 @@ var SALARY_CITIES = [
 
 
 {value:"houston-tx",col: 95.8 ,name:"Houston",display:"Houston, TX, US",country:"US"},
+
+
+
+{value:"huelva-and",col: 80 ,name:"Huelva",display:"Huelva, España",country:"ES"},
 
 
 
@@ -934,6 +1014,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"le-havre-nor",col: 85 ,name:"Le Havre",display:"Le Havre, Francia",country:"FR"},
+
+
+
 {value:"leeds-gb",col: 91.7 ,name:"Leeds",display:"Leeds, Reino Unido",country:"GB"},
 
 
@@ -942,11 +1026,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"leon-cle",col: 82 ,name:"León",display:"León, España",country:"ES"},
+
+
+
 {value:"leon-gua",col: 70.8 ,name:"León",display:"León, México",country:"MX"},
 
 
 
 {value:"lexington-ky",col: 94.2 ,name:"Lexington",display:"Lexington, KY, US",country:"US"},
+
+
+
+{value:"lille-hdf",col: 90 ,name:"Lille",display:"Lille, Francia",country:"FR"},
 
 
 
@@ -959,6 +1051,14 @@ var SALARY_CITIES = [
 
 
 {value:"liverpool-gb",col: 86.5 ,name:"Liverpool",display:"Liverpool, Reino Unido",country:"GB"},
+
+
+
+{value:"lleida-cat",col: 82 ,name:"Lleida",display:"Lleida, España",country:"ES"},
+
+
+
+{value:"logrono-rio",col: 84 ,name:"Logroño",display:"Logroño, España",country:"ES"},
 
 
 
@@ -982,6 +1082,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"lyon-ara",col: 100 ,name:"Lyon",display:"Lyon, Francia",country:"FR"},
+
+
+
 {value:"maastricht-nl",col: 74 ,name:"Maastricht",display:"Maastricht, Países Bajos",country:"NL"},
 
 
@@ -994,7 +1098,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"madrid-mad",col: 105 ,name:"Madrid",display:"Madrid, España",country:"ES"},
+
+
+
 {value:"maebashi-gum",col: 87 ,name:"Maebashi",display:"Maebashi, Japón",country:"JP"},
+
+
+
+{value:"málaga-and",col: 90 ,name:"Málaga",display:"Málaga, España",country:"ES"},
 
 
 
@@ -1007,6 +1119,10 @@ var SALARY_CITIES = [
 
 
 {value:"mar-del-plata-ba",col: 76 ,name:"Mar del Plata",display:"Mar del Plata, Argentina",country:"AR"},
+
+
+
+{value:"marseille-pac",col: 95 ,name:"Marseille",display:"Marseille, Francia",country:"FR"},
 
 
 
@@ -1039,6 +1155,10 @@ var SALARY_CITIES = [
 
 
 {value:"mesa-az",col: 102.5 ,name:"Mesa",display:"Mesa, AZ, US",country:"US"},
+
+
+
+{value:"metz-ges",col: 87 ,name:"Metz",display:"Metz, Francia",country:"FR"},
 
 
 
@@ -1082,6 +1202,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"montpellier-occ",col: 93 ,name:"Montpellier",display:"Montpellier, Francia",country:"FR"},
+
+
+
 {value:"montreal-ca",col: 98.3 ,name:"Montreal",display:"Montreal, Canadá",country:"CA"},
 
 
@@ -1091,6 +1215,14 @@ var SALARY_CITIES = [
 
 
 {value:"morioka-iwt",col: 86 ,name:"Morioka",display:"Morioka, Japón",country:"JP"},
+
+
+
+{value:"mulhouse-ges",col: 85 ,name:"Mulhouse",display:"Mulhouse, Francia",country:"FR"},
+
+
+
+{value:"murcia-mur",col: 85 ,name:"Murcia",display:"Murcia, España",country:"ES"},
 
 
 
@@ -1119,6 +1251,14 @@ var SALARY_CITIES = [
 
 
 {value:"naha-okn",col: 95 ,name:"Naha",display:"Naha, Japón",country:"JP"},
+
+
+
+{value:"nancy-ges",col: 87 ,name:"Nancy",display:"Nancy, Francia",country:"FR"},
+
+
+
+{value:"nantes-pdl",col: 92 ,name:"Nantes",display:"Nantes, Francia",country:"FR"},
 
 
 
@@ -1151,6 +1291,10 @@ var SALARY_CITIES = [
 
 
 {value:"newcastle-nsw",col: 80 ,name:"Newcastle",display:"Newcastle, Australia",country:"AU"},
+
+
+
+{value:"nice-pac",col: 108 ,name:"Nice",display:"Nice, Francia",country:"FR"},
 
 
 
@@ -1194,6 +1338,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"orleans-cvl",col: 86 ,name:"Orléans",display:"Orléans, Francia",country:"FR"},
+
+
+
 {value:"osaka-osk",col: 110 ,name:"Osaka",display:"Osaka, Japón",country:"JP"},
 
 
@@ -1206,11 +1354,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"oviedo-ast",col: 85 ,name:"Oviedo",display:"Oviedo, España",country:"ES"},
+
+
+
 {value:"oxnard-ca",col: 138.5 ,name:"Oxnard",display:"Oxnard, CA, US",country:"US"},
 
 
 
+{value:"palma-bal",col: 100 ,name:"Palma",display:"Palma, España",country:"ES"},
+
+
+
+{value:"pamplona-nav",col: 90 ,name:"Pamplona",display:"Pamplona, España",country:"ES"},
+
+
+
 {value:"parana-er",col: 70 ,name:"Paraná",display:"Paraná, Argentina",country:"AR"},
+
+
+
+{value:"paris-idf",col: 120 ,name:"Paris",display:"Paris, Francia",country:"FR"},
 
 
 
@@ -1219,6 +1383,10 @@ var SALARY_CITIES = [
 
 
 {value:"pergamino-ba",col: 62 ,name:"Pergamino",display:"Pergamino, Argentina",country:"AR"},
+
+
+
+{value:"perpignan-occ",col: 87 ,name:"Perpignan",display:"Perpignan, Francia",country:"FR"},
 
 
 
@@ -1278,6 +1446,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"reims-ges",col: 88 ,name:"Reims",display:"Reims, Francia",country:"FR"},
+
+
+
+{value:"rennes-bre",col: 90 ,name:"Rennes",display:"Rennes, Francia",country:"FR"},
+
+
+
 {value:"reno-nv",col: 108.5 ,name:"Reno",display:"Reno, NV, US",country:"US"},
 
 
@@ -1322,6 +1498,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"rouen-nor",col: 88 ,name:"Rouen",display:"Rouen, Francia",country:"FR"},
+
+
+
 {value:"sacramento-ca",col: 118.5 ,name:"Sacramento",display:"Sacramento, CA, US",country:"US"},
 
 
@@ -1338,11 +1518,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"saint-etienne-ara",col: 84 ,name:"Saint-Étienne",display:"Saint-Étienne, Francia",country:"FR"},
+
+
+
 {value:"saitama-sai",col: 95 ,name:"Saitama",display:"Saitama, Japón",country:"JP"},
 
 
 
 {value:"sakai-osk",col: 100 ,name:"Sakai",display:"Sakai, Japón",country:"JP"},
+
+
+
+{value:"salamanca-cle",col: 82 ,name:"Salamanca",display:"Salamanca, España",country:"ES"},
 
 
 
@@ -1418,6 +1606,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"san-sebastián-pv",col: 110 ,name:"San Sebastián",display:"San Sebastián, España",country:"ES"},
+
+
+
 {value:"santa-ana-ca",col: 142.8 ,name:"Santa Ana",display:"Santa Ana, CA, US",country:"US"},
 
 
@@ -1427,6 +1619,10 @@ var SALARY_CITIES = [
 
 
 {value:"santa-fe-sf",col: 74 ,name:"Santa Fe",display:"Santa Fe, Argentina",country:"AR"},
+
+
+
+{value:"santander-cant",col: 88 ,name:"Santander",display:"Santander, España",country:"ES"},
 
 
 
@@ -1458,6 +1654,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"seville-and",col: 92 ,name:"Seville",display:"Seville, España",country:"ES"},
+
+
+
 {value:"shizuoka-szo",col: 93 ,name:"Shizuoka",display:"Shizuoka, Japón",country:"JP"},
 
 
@@ -1479,6 +1679,10 @@ var SALARY_CITIES = [
 
 
 {value:"stockton-ca",col: 112.5 ,name:"Stockton",display:"Stockton, CA, US",country:"US"},
+
+
+
+{value:"strasbourg-ges",col: 98 ,name:"Strasbourg",display:"Strasbourg, Francia",country:"FR"},
 
 
 
@@ -1514,6 +1718,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"tarragona-cat",col: 88 ,name:"Tarragona",display:"Tarragona, España",country:"ES"},
+
+
+
 {value:"tepic-nay",col: 63.5 ,name:"Tepic",display:"Tepic, México",country:"MX"},
 
 
@@ -1542,6 +1750,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"toledo-clm",col: 85 ,name:"Toledo",display:"Toledo, España",country:"ES"},
+
+
+
 {value:"toledo-oh",col: 88.5 ,name:"Toledo",display:"Toledo, OH, US",country:"US"},
 
 
@@ -1563,6 +1775,18 @@ var SALARY_CITIES = [
 
 
 {value:"tottori-ttr",col: 84 ,name:"Tottori",display:"Tottori, Japón",country:"JP"},
+
+
+
+{value:"toulon-pac",col: 90 ,name:"Toulon",display:"Toulon, Francia",country:"FR"},
+
+
+
+{value:"toulouse-occ",col: 95 ,name:"Toulouse",display:"Toulouse, Francia",country:"FR"},
+
+
+
+{value:"tours-cvl",col: 88 ,name:"Tours",display:"Tours, Francia",country:"FR"},
 
 
 
@@ -1610,6 +1834,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"valencia-val",col: 95 ,name:"Valencia",display:"Valencia, España",country:"ES"},
+
+
+
+{value:"valladolid-cle",col: 82 ,name:"Valladolid",display:"Valladolid, España",country:"ES"},
+
+
+
 {value:"vancouver-ca",col: 142.6 ,name:"Vancouver",display:"Vancouver, Canadá",country:"CA"},
 
 
@@ -1623,6 +1855,10 @@ var SALARY_CITIES = [
 
 
 {value:"viedma-rn",col: 64 ,name:"Viedma",display:"Viedma, Argentina",country:"AR"},
+
+
+
+{value:"vigo-gal",col: 85 ,name:"Vigo",display:"Vigo, España",country:"ES"},
 
 
 
@@ -1687,6 +1923,10 @@ var SALARY_CITIES = [
 
 
 {value:"zacatecas-zac",col: 62.5 ,name:"Zacatecas",display:"Zacatecas, México",country:"MX"},
+
+
+
+{value:"zaragoza-ara",col: 88 ,name:"Zaragoza",display:"Zaragoza, España",country:"ES"},
 
 ];
 
