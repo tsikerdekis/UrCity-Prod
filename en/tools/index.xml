@@ -1055,6 +1055,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"azul-ba",col: 62 ,name:"Azul",display:"Azul, Argentina",country:"AR"},
+
+
+
+{value:"bahia-blanca-ba",col: 72 ,name:"Bahía Blanca",display:"Bahía Blanca, Argentina",country:"AR"},
+
+
+
 {value:"bakersfield-ca",col: 102.5 ,name:"Bakersfield",display:"Bakersfield, CA, US",country:"US"},
 
 
@@ -1120,6 +1128,10 @@ var SALARY_CITIES = [
 
 
 {value:"bristol-gb",col: 102.1 ,name:"Bristol",display:"Bristol, UK",country:"GB"},
+
+
+
+{value:"buenos-aires-caba",col: 100 ,name:"Buenos Aires",display:"Buenos Aires, Argentina",country:"AR"},
 
 
 
@@ -1235,11 +1247,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"comodoro-rivadavia-pz",col: 74 ,name:"Comodoro Rivadavia",display:"Comodoro Rivadavia, Argentina",country:"AR"},
+
+
+
+{value:"concordia-er",col: 64 ,name:"Concordia",display:"Concordia, Argentina",country:"AR"},
+
+
+
+{value:"cordoba-cord",col: 85 ,name:"Córdoba",display:"Córdoba, Argentina",country:"AR"},
+
+
+
 {value:"corfu-ii",col: 95 ,name:"Corfu",display:"Corfu, Greece",country:"GR"},
 
 
 
 {value:"corpus-christi-tx",col: 92.5 ,name:"Corpus Christi",display:"Corpus Christi, TX, US",country:"US"},
+
+
+
+{value:"corrientes-corr",col: 68 ,name:"Corrientes",display:"Corrientes, Argentina",country:"AR"},
 
 
 
@@ -1299,6 +1327,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"el-calafate-sc",col: 78 ,name:"El Calafate",display:"El Calafate, Argentina",country:"AR"},
+
+
+
 {value:"el-paso-tx",col: 88.5 ,name:"El Paso",display:"El Paso, TX, US",country:"US"},
 
 
@@ -1316,6 +1348,10 @@ var SALARY_CITIES = [
 
 
 {value:"fayetteville-nc",col: 90.5 ,name:"Fayetteville",display:"Fayetteville, NC, US",country:"US"},
+
+
+
+{value:"formosa-fsa",col: 60 ,name:"Formosa",display:"Formosa, Argentina",country:"AR"},
 
 
 
@@ -1372,6 +1408,10 @@ var SALARY_CITIES = [
 
 
 {value:"guadalajara-jal",col: 78.2 ,name:"Guadalajara",display:"Guadalajara, Mexico",country:"MX"},
+
+
+
+{value:"gualeguaychu-er",col: 64 ,name:"Gualeguaychú",display:"Gualeguaychú, Argentina",country:"AR"},
 
 
 
@@ -1475,6 +1515,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"la-plata-ba",col: 78 ,name:"La Plata",display:"La Plata, Argentina",country:"AR"},
+
+
+
+{value:"la-rioja-lr",col: 62 ,name:"La Rioja",display:"La Rioja, Argentina",country:"AR"},
+
+
+
 {value:"lamia-cp",col: 82 ,name:"Lamia",display:"Lamia, Greece",country:"GR"},
 
 
@@ -1563,11 +1611,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"mar-del-plata-ba",col: 76 ,name:"Mar del Plata",display:"Mar del Plata, Argentina",country:"AR"},
+
+
+
 {value:"melbourne-vic",col: 95 ,name:"Melbourne",display:"Melbourne, Australia",country:"AU"},
 
 
 
 {value:"memphis-tn",col: 88.5 ,name:"Memphis",display:"Memphis, TN, US",country:"US"},
+
+
+
+{value:"mendoza-men",col: 80 ,name:"Mendoza",display:"Mendoza, Argentina",country:"AR"},
 
 
 
@@ -1635,6 +1691,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"necochea-ba",col: 64 ,name:"Necochea",display:"Necochea, Argentina",country:"AR"},
+
+
+
+{value:"neuquen-nqn",col: 78 ,name:"Neuquén",display:"Neuquén, Argentina",country:"AR"},
+
+
+
 {value:"new-orleans-la",col: 98.5 ,name:"New Orleans",display:"New Orleans, LA, US",country:"US"},
 
 
@@ -1687,7 +1751,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"parana-er",col: 70 ,name:"Paraná",display:"Paraná, Argentina",country:"AR"},
+
+
+
 {value:"patras-wg",col: 84 ,name:"Patras",display:"Patras, Greece",country:"GR"},
+
+
+
+{value:"pergamino-ba",col: 62 ,name:"Pergamino",display:"Pergamino, Argentina",country:"AR"},
 
 
 
@@ -1719,6 +1791,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"posadas-mis",col: 66 ,name:"Posadas",display:"Posadas, Argentina",country:"AR"},
+
+
+
 {value:"providence-ri",col: 118.5 ,name:"Providence",display:"Providence, RI, US",country:"US"},
 
 
@@ -1739,7 +1815,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"rawson-pz",col: 60 ,name:"Rawson",display:"Rawson, Argentina",country:"AR"},
+
+
+
 {value:"reno-nv",col: 108.5 ,name:"Reno",display:"Reno, NV, US",country:"US"},
+
+
+
+{value:"resistencia-cha",col: 65 ,name:"Resistencia",display:"Resistencia, Argentina",country:"AR"},
 
 
 
@@ -1748,6 +1832,14 @@ var SALARY_CITIES = [
 
 
 {value:"richmond-va",col: 98.5 ,name:"Richmond",display:"Richmond, VA, US",country:"US"},
+
+
+
+{value:"rio-cuarto-cord",col: 66 ,name:"Río Cuarto",display:"Río Cuarto, Argentina",country:"AR"},
+
+
+
+{value:"rio-gallegos-sc",col: 72 ,name:"Río Gallegos",display:"Río Gallegos, Argentina",country:"AR"},
 
 
 
@@ -1760,6 +1852,10 @@ var SALARY_CITIES = [
 
 
 {value:"rockhampton-qld",col: 68 ,name:"Rockhampton",display:"Rockhampton, Australia",country:"AU"},
+
+
+
+{value:"rosario-sf",col: 82 ,name:"Rosario",display:"Rosario, Argentina",country:"AR"},
 
 
 
@@ -1783,6 +1879,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"salta-sal",col: 70 ,name:"Salta",display:"Salta, Argentina",country:"AR"},
+
+
+
 {value:"saltillo-coa",col: 69.8 ,name:"Saltillo",display:"Saltillo, Mexico",country:"MX"},
 
 
@@ -1795,7 +1895,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"san-carlos-de-bariloche-rn",col: 82 ,name:"San Carlos de Bariloche",display:"San Carlos de Bariloche, Argentina",country:"AR"},
+
+
+
 {value:"san-diego-ca",col: 154.2 ,name:"San Diego",display:"San Diego, CA, US",country:"US"},
+
+
+
+{value:"catamarca-ct",col: 62 ,name:"San Fernando del Valle de Catamarca",display:"San Fernando del Valle de Catamarca, Argentina",country:"AR"},
 
 
 
@@ -1807,11 +1915,31 @@ var SALARY_CITIES = [
 
 
 
+{value:"san-juan-sj",col: 68 ,name:"San Juan",display:"San Juan, Argentina",country:"AR"},
+
+
+
 {value:"san-luis-potosi-slp",col: 68.2 ,name:"San Luis Potosí",display:"San Luis Potosí, Mexico",country:"MX"},
 
 
 
+{value:"san-luis-sl",col: 64 ,name:"San Luis",display:"San Luis, Argentina",country:"AR"},
+
+
+
 {value:"san-miguel-de-allende-gua",col: 82 ,name:"San Miguel de Allende",display:"San Miguel de Allende, Mexico",country:"MX"},
+
+
+
+{value:"san-miguel-de-tucuman-tuc",col: 72 ,name:"San Miguel de Tucumán",display:"San Miguel de Tucumán, Argentina",country:"AR"},
+
+
+
+{value:"san-rafael-men",col: 66 ,name:"San Rafael",display:"San Rafael, Argentina",country:"AR"},
+
+
+
+{value:"jujuy-juj",col: 64 ,name:"San Salvador de Jujuy",display:"San Salvador de Jujuy, Argentina",country:"AR"},
 
 
 
@@ -1820,6 +1948,14 @@ var SALARY_CITIES = [
 
 
 {value:"santa-fe-nm",col: 112.5 ,name:"Santa Fe",display:"Santa Fe, NM, US",country:"US"},
+
+
+
+{value:"santa-fe-sf",col: 74 ,name:"Santa Fe",display:"Santa Fe, Argentina",country:"AR"},
+
+
+
+{value:"santiago-del-estero-se",col: 62 ,name:"Santiago del Estero",display:"Santiago del Estero, Argentina",country:"AR"},
 
 
 
@@ -1879,6 +2015,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"tandil-ba",col: 68 ,name:"Tandil",display:"Tandil, Argentina",country:"AR"},
+
+
+
 {value:"tepic-nay",col: 63.5 ,name:"Tepic",display:"Tepic, Mexico",country:"MX"},
 
 
@@ -1923,6 +2063,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"trelew-pz",col: 66 ,name:"Trelew",display:"Trelew, Argentina",country:"AR"},
+
+
+
 {value:"trikala-th",col: 80 ,name:"Trikala",display:"Trikala, Greece",country:"GR"},
 
 
@@ -1932,6 +2076,10 @@ var SALARY_CITIES = [
 
 
 {value:"tulsa-ok",col: 88.5 ,name:"Tulsa",display:"Tulsa, OK, US",country:"US"},
+
+
+
+{value:"ushuaia-tdf",col: 80 ,name:"Ushuaia",display:"Ushuaia, Argentina",country:"AR"},
 
 
 
@@ -1948,6 +2096,14 @@ var SALARY_CITIES = [
 
 
 {value:"victoria-ca",col: 112.4 ,name:"Victoria",display:"Victoria, Canada",country:"CA"},
+
+
+
+{value:"viedma-rn",col: 64 ,name:"Viedma",display:"Viedma, Argentina",country:"AR"},
+
+
+
+{value:"villa-maria-cord",col: 64 ,name:"Villa María",display:"Villa María, Argentina",country:"AR"},
 
 
 
