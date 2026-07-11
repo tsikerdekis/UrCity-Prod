@@ -278,6 +278,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"akita-akt",col: 85 ,name:"Akita",display:"Akita, Japón",country:"JP"},
+
+
+
 {value:"akron-oh",col: 88.5 ,name:"Akron",display:"Akron, OH, US",country:"US"},
 
 
@@ -307,6 +311,14 @@ var SALARY_CITIES = [
 
 
 {value:"ann-arbor-mi",col: 108.5 ,name:"Ann Arbor",display:"Ann Arbor, MI, US",country:"US"},
+
+
+
+{value:"aomori-aom",col: 85 ,name:"Aomori",display:"Aomori, Japón",country:"JP"},
+
+
+
+{value:"asahikawa-hkd",col: 88 ,name:"Asahikawa",display:"Asahikawa, Japón",country:"JP"},
 
 
 
@@ -486,6 +498,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"chiba-chb",col: 96 ,name:"Chiba",display:"Chiba, Japón",country:"JP"},
+
+
+
 {value:"chicago-il",col: 110.8 ,name:"Chicago",display:"Chicago, IL, US",country:"US"},
 
 
@@ -650,11 +666,35 @@ var SALARY_CITIES = [
 
 
 
+{value:"fukui-fki",col: 86 ,name:"Fukui",display:"Fukui, Japón",country:"JP"},
+
+
+
+{value:"fukuoka-fko",col: 100 ,name:"Fukuoka",display:"Fukuoka, Japón",country:"JP"},
+
+
+
+{value:"fukushima-fks",col: 87 ,name:"Fukushima",display:"Fukushima, Japón",country:"JP"},
+
+
+
+{value:"fukuyama-hrs",col: 88 ,name:"Fukuyama",display:"Fukuyama, Japón",country:"JP"},
+
+
+
+{value:"funabashi-chb",col: 92 ,name:"Funabashi",display:"Funabashi, Japón",country:"JP"},
+
+
+
 {value:"garland-tx",col: 96.5 ,name:"Garland",display:"Garland, TX, US",country:"US"},
 
 
 
 {value:"geelong-vic",col: 75 ,name:"Geelong",display:"Geelong, Australia",country:"AU"},
+
+
+
+{value:"gifu-gif",col: 90 ,name:"Gifu",display:"Gifu, Japón",country:"JP"},
 
 
 
@@ -694,7 +734,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"hachioji-tky",col: 98 ,name:"Hachioji",display:"Hachioji, Japón",country:"JP"},
+
+
+
+{value:"hakodate-hkd",col: 87 ,name:"Hakodate",display:"Hakodate, Japón",country:"JP"},
+
+
+
 {value:"halifax-ca",col: 93.5 ,name:"Halifax",display:"Halifax, Canadá",country:"CA"},
+
+
+
+{value:"hamamatsu-szo",col: 95 ,name:"Hamamatsu",display:"Hamamatsu, Japón",country:"JP"},
 
 
 
@@ -715,6 +767,14 @@ var SALARY_CITIES = [
 
 
 {value:"hialeah-fl",col: 108.5 ,name:"Hialeah",display:"Hialeah, FL, US",country:"US"},
+
+
+
+{value:"himeji-hyg",col: 90 ,name:"Himeji",display:"Himeji, Japón",country:"JP"},
+
+
+
+{value:"hiroshima-hrs",col: 98 ,name:"Hiroshima",display:"Hiroshima, Japón",country:"JP"},
 
 
 
@@ -750,6 +810,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"iwaki-fks",col: 85 ,name:"Iwaki",display:"Iwaki, Japón",country:"JP"},
+
+
+
 {value:"jackson-ms",col: 88.5 ,name:"Jackson",display:"Jackson, MS, US",country:"US"},
 
 
@@ -762,7 +826,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"kagoshima-kgs",col: 90 ,name:"Kagoshima",display:"Kagoshima, Japón",country:"JP"},
+
+
+
 {value:"kalamata-pe",col: 88 ,name:"Kalamata",display:"Kalamata, Grecia",country:"GR"},
+
+
+
+{value:"kanazawa-isk",col: 95 ,name:"Kanazawa",display:"Kanazawa, Japón",country:"JP"},
 
 
 
@@ -782,7 +854,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"kawaguchi-sai",col: 93 ,name:"Kawaguchi",display:"Kawaguchi, Japón",country:"JP"},
+
+
+
+{value:"kawasaki-kng",col: 108 ,name:"Kawasaki",display:"Kawasaki, Japón",country:"JP"},
+
+
+
 {value:"key-west-fl",col: 158.5 ,name:"Key West",display:"Key West, FL, US",country:"US"},
+
+
+
+{value:"kitakyushu-fko",col: 90 ,name:"Kitakyushu",display:"Kitakyushu, Japón",country:"JP"},
 
 
 
@@ -790,7 +874,35 @@ var SALARY_CITIES = [
 
 
 
+{value:"kobe-hyg",col: 108 ,name:"Kobe",display:"Kobe, Japón",country:"JP"},
+
+
+
+{value:"kochi-koc",col: 87 ,name:"Kochi",display:"Kochi, Japón",country:"JP"},
+
+
+
+{value:"kofu-ymn",col: 87 ,name:"Kofu",display:"Kofu, Japón",country:"JP"},
+
+
+
+{value:"koriyama-fks",col: 86 ,name:"Koriyama",display:"Koriyama, Japón",country:"JP"},
+
+
+
 {value:"kozani-wm",col: 75 ,name:"Kozani",display:"Kozani, Grecia",country:"GR"},
+
+
+
+{value:"kumamoto-kmm",col: 92 ,name:"Kumamoto",display:"Kumamoto, Japón",country:"JP"},
+
+
+
+{value:"kurashiki-oky",col: 90 ,name:"Kurashiki",display:"Kurashiki, Japón",country:"JP"},
+
+
+
+{value:"kyoto-kyo",col: 112 ,name:"Kyoto",display:"Kyoto, Japón",country:"JP"},
 
 
 
@@ -882,6 +994,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"maebashi-gum",col: 87 ,name:"Maebashi",display:"Maebashi, Japón",country:"JP"},
+
+
+
 {value:"manchester-gb",col: 98.5 ,name:"Manchester",display:"Manchester, Reino Unido",country:"GB"},
 
 
@@ -891,6 +1007,18 @@ var SALARY_CITIES = [
 
 
 {value:"mar-del-plata-ba",col: 76 ,name:"Mar del Plata",display:"Mar del Plata, Argentina",country:"AR"},
+
+
+
+{value:"matsue-smn",col: 85 ,name:"Matsue",display:"Matsue, Japón",country:"JP"},
+
+
+
+{value:"matsumoto-ngn",col: 88 ,name:"Matsumoto",display:"Matsumoto, Japón",country:"JP"},
+
+
+
+{value:"matsuyama-ehm",col: 88 ,name:"Matsuyama",display:"Matsuyama, Japón",country:"JP"},
 
 
 
@@ -930,6 +1058,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"mito-ibr",col: 88 ,name:"Mito",display:"Mito, Japón",country:"JP"},
+
+
+
+{value:"miyazaki-myz",col: 86 ,name:"Miyazaki",display:"Miyazaki, Japón",country:"JP"},
+
+
+
 {value:"mobile-al",col: 90.5 ,name:"Mobile",display:"Mobile, AL, US",country:"US"},
 
 
@@ -954,6 +1090,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"morioka-iwt",col: 86 ,name:"Morioka",display:"Morioka, Japón",country:"JP"},
+
+
+
 {value:"myrtle-beach-sc",col: 96.5 ,name:"Myrtle Beach",display:"Myrtle Beach, SC, US",country:"US"},
 
 
@@ -963,6 +1103,26 @@ var SALARY_CITIES = [
 
 
 {value:"nafplio-pe",col: 92 ,name:"Nafplio",display:"Nafplio, Grecia",country:"GR"},
+
+
+
+{value:"nagano-ngn",col: 90 ,name:"Nagano",display:"Nagano, Japón",country:"JP"},
+
+
+
+{value:"nagasaki-ngs",col: 88 ,name:"Nagasaki",display:"Nagasaki, Japón",country:"JP"},
+
+
+
+{value:"nagoya-aic",col: 105 ,name:"Nagoya",display:"Nagoya, Japón",country:"JP"},
+
+
+
+{value:"naha-okn",col: 95 ,name:"Naha",display:"Naha, Japón",country:"JP"},
+
+
+
+{value:"nara-nar",col: 95 ,name:"Nara",display:"Nara, Japón",country:"JP"},
 
 
 
@@ -994,6 +1154,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"niigata-nig",col: 90 ,name:"Niigata",display:"Niigata, Japón",country:"JP"},
+
+
+
 {value:"norfolk-va",col: 98.5 ,name:"Norfolk",display:"Norfolk, VA, US",country:"US"},
 
 
@@ -1003,6 +1167,14 @@ var SALARY_CITIES = [
 
 
 {value:"oaxaca-oax",col: 65 ,name:"Oaxaca",display:"Oaxaca, México",country:"MX"},
+
+
+
+{value:"oita-oit",col: 88 ,name:"Oita",display:"Oita, Japón",country:"JP"},
+
+
+
+{value:"okayama-oky",col: 92 ,name:"Okayama",display:"Okayama, Japón",country:"JP"},
 
 
 
@@ -1019,6 +1191,14 @@ var SALARY_CITIES = [
 
 
 {value:"orlando-fl",col: 98.5 ,name:"Orlando",display:"Orlando, FL, US",country:"US"},
+
+
+
+{value:"osaka-osk",col: 110 ,name:"Osaka",display:"Osaka, Japón",country:"JP"},
+
+
+
+{value:"otsu-sig",col: 92 ,name:"Otsu",display:"Otsu, Japón",country:"JP"},
 
 
 
@@ -1146,7 +1326,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"saga-sag",col: 85 ,name:"Saga",display:"Saga, Japón",country:"JP"},
+
+
+
+{value:"sagamihara-kng",col: 100 ,name:"Sagamihara",display:"Sagamihara, Japón",country:"JP"},
+
+
+
 {value:"saint-paul-mn",col: 104.2 ,name:"Saint Paul",display:"Saint Paul, MN, US",country:"US"},
+
+
+
+{value:"saitama-sai",col: 95 ,name:"Saitama",display:"Saitama, Japón",country:"JP"},
+
+
+
+{value:"sakai-osk",col: 100 ,name:"Sakai",display:"Sakai, Japón",country:"JP"},
 
 
 
@@ -1238,6 +1434,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"sapporo-hkd",col: 95 ,name:"Sapporo",display:"Sapporo, Japón",country:"JP"},
+
+
+
 {value:"savannah-ga",col: 96.5 ,name:"Savannah",display:"Savannah, GA, US",country:"US"},
 
 
@@ -1250,7 +1450,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"sendai-myg",col: 95 ,name:"Sendai",display:"Sendai, Japón",country:"JP"},
+
+
+
 {value:"serres-cm",col: 78 ,name:"Serres",display:"Serres, Grecia",country:"GR"},
+
+
+
+{value:"shizuoka-szo",col: 93 ,name:"Shizuoka",display:"Shizuoka, Japón",country:"JP"},
 
 
 
@@ -1286,6 +1494,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"takamatsu-kgw",col: 90 ,name:"Takamatsu",display:"Takamatsu, Japón",country:"JP"},
+
+
+
+{value:"takasaki-gum",col: 86 ,name:"Takasaki",display:"Takasaki, Japón",country:"JP"},
+
+
+
 {value:"tallahassee-fl",col: 96.5 ,name:"Tallahassee",display:"Tallahassee, FL, US",country:"US"},
 
 
@@ -1318,6 +1534,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"tokushima-tks",col: 86 ,name:"Tokushima",display:"Tokushima, Japón",country:"JP"},
+
+
+
+{value:"tokyo-tky",col: 130 ,name:"Tokyo",display:"Tokyo, Japón",country:"JP"},
+
+
+
 {value:"toledo-oh",col: 88.5 ,name:"Toledo",display:"Toledo, OH, US",country:"US"},
 
 
@@ -1338,7 +1562,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"tottori-ttr",col: 84 ,name:"Tottori",display:"Tottori, Japón",country:"JP"},
+
+
+
 {value:"townsville-qld",col: 72 ,name:"Townsville",display:"Townsville, Australia",country:"AU"},
+
+
+
+{value:"toyama-tym",col: 90 ,name:"Toyama",display:"Toyama, Japón",country:"JP"},
+
+
+
+{value:"toyonaka-osk",col: 102 ,name:"Toyonaka",display:"Toyonaka, Japón",country:"JP"},
 
 
 
@@ -1347,6 +1583,10 @@ var SALARY_CITIES = [
 
 
 {value:"trikala-th",col: 80 ,name:"Trikala",display:"Trikala, Grecia",country:"GR"},
+
+
+
+{value:"tsu-mie",col: 87 ,name:"Tsu",display:"Tsu, Japón",country:"JP"},
 
 
 
@@ -1363,6 +1603,10 @@ var SALARY_CITIES = [
 
 
 {value:"utrecht-nl",col: 76.5 ,name:"Utrecht",display:"Utrecht, Países Bajos",country:"NL"},
+
+
+
+{value:"utsunomiya-tch",col: 90 ,name:"Utsunomiya",display:"Utsunomiya, Japón",country:"JP"},
 
 
 
@@ -1398,6 +1642,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"wakayama-wky",col: 88 ,name:"Wakayama",display:"Wakayama, Japón",country:"JP"},
+
+
+
 {value:"washington-dc",col: 152.1 ,name:"Washington DC",display:"Washington DC, DC, US",country:"US"},
 
 
@@ -1423,6 +1671,18 @@ var SALARY_CITIES = [
 
 
 {value:"worcester-ma",col: 118.5 ,name:"Worcester",display:"Worcester, MA, US",country:"US"},
+
+
+
+{value:"yamagata-ymt",col: 86 ,name:"Yamagata",display:"Yamagata, Japón",country:"JP"},
+
+
+
+{value:"yamaguchi-ygc",col: 85 ,name:"Yamaguchi",display:"Yamaguchi, Japón",country:"JP"},
+
+
+
+{value:"yokohama-kng",col: 115 ,name:"Yokohama",display:"Yokohama, Japón",country:"JP"},
 
 
 
