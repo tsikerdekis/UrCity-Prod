@@ -848,19 +848,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"aachen-nw",col: 95 ,name:"Aachen",display:"Aachen, Γερμανία",country:"DE"},
+
+
+
+{value:"aalst-vov",col: 88 ,name:"Aalst",display:"Aalst, Belgium",country:"BE"},
+
+
+
 {value:"acapulco-gro",col: 70.5 ,name:"Acapulco",display:"Acapulco, Μεξικό",country:"MX"},
 
 
 
-{value:"adelaide-sa",col: 82 ,name:"Adelaide",display:"Adelaide, Αυστραλία",country:"AU"},
-
-
-
-{value:"agrinio-wg",col: 78 ,name:"Agrinio",display:"Agrinio, Ελλάδα",country:"GR"},
-
-
-
 {value:"aguascalientes-agu",col: 67.5 ,name:"Aguascalientes",display:"Aguascalientes, Μεξικό",country:"MX"},
+
+
+
+{value:"ajaccio-cor",col: 95 ,name:"Ajaccio",display:"Ajaccio, Γαλλία",country:"FR"},
+
+
+
+{value:"akita-akt",col: 85 ,name:"Akita",display:"Akita, Ιαπωνία",country:"JP"},
 
 
 
@@ -876,15 +884,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"alexandroupoli-em",col: 84 ,name:"Alexandroupoli",display:"Alexandroupoli, Ελλάδα",country:"GR"},
-
-
-
-{value:"amsterdam-nl",col: 82.1 ,name:"Amsterdam",display:"Amsterdam, Ολλανδία",country:"NL"},
-
-
-
 {value:"anaheim-ca",col: 148.5 ,name:"Anaheim",display:"Anaheim, CA, US",country:"US"},
+
+
+
+{value:"anapolis-go",col: 90 ,name:"Anápolis",display:"Anápolis, Βραζιλία",country:"BR"},
 
 
 
@@ -892,7 +896,39 @@ var SALARY_CITIES = [
 
 
 
+{value:"ancona-mar",col: 88 ,name:"Ancona",display:"Ancona, Ιταλία",country:"IT"},
+
+
+
+{value:"angers-pdl",col: 87 ,name:"Angers",display:"Angers, Γαλλία",country:"FR"},
+
+
+
 {value:"ann-arbor-mi",col: 108.5 ,name:"Ann Arbor",display:"Ann Arbor, MI, US",country:"US"},
+
+
+
+{value:"antwerp-van",col: 105 ,name:"Antwerp",display:"Antwerp, Belgium",country:"BE"},
+
+
+
+{value:"aomori-aom",col: 85 ,name:"Aomori",display:"Aomori, Ιαπωνία",country:"JP"},
+
+
+
+{value:"aparecida-de-goiania-go",col: 88 ,name:"Aparecida de Goiânia",display:"Aparecida de Goiânia, Βραζιλία",country:"BR"},
+
+
+
+{value:"aracaju-se",col: 88 ,name:"Aracaju",display:"Aracaju, Βραζιλία",country:"BR"},
+
+
+
+{value:"arlon-wlx",col: 88 ,name:"Arlon",display:"Arlon, Belgium",country:"BE"},
+
+
+
+{value:"asahikawa-hkd",col: 88 ,name:"Asahikawa",display:"Asahikawa, Ιαπωνία",country:"JP"},
 
 
 
@@ -900,11 +936,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"athens-att",col: 100 ,name:"Athens",display:"Athens, Ελλάδα",country:"GR"},
-
-
-
-{value:"atlanta-ga",col: 104.7 ,name:"Atlanta",display:"Atlanta, GA, US",country:"US"},
+{value:"augsburg-by",col: 92 ,name:"Augsburg",display:"Augsburg, Γερμανία",country:"DE"},
 
 
 
@@ -920,6 +952,26 @@ var SALARY_CITIES = [
 
 
 
+{value:"aveiro-pt",col: 83 ,name:"Aveiro",display:"Aveiro, Πορτογαλία",country:"PT"},
+
+
+
+{value:"avignon-pac",col: 90 ,name:"Avignon",display:"Avignon, Γαλλία",country:"FR"},
+
+
+
+{value:"azul-ba",col: 62 ,name:"Azul",display:"Azul, Αργεντινή",country:"AR"},
+
+
+
+{value:"baden-ag",col: 105 ,name:"Baden",display:"Baden, Ελβετία",country:"CH"},
+
+
+
+{value:"bahia-blanca-ba",col: 72 ,name:"Bahía Blanca",display:"Bahía Blanca, Αργεντινή",country:"AR"},
+
+
+
 {value:"bakersfield-ca",col: 102.5 ,name:"Bakersfield",display:"Bakersfield, CA, US",country:"US"},
 
 
@@ -928,7 +980,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"baltimore-md",col: 108.4 ,name:"Baltimore",display:"Baltimore, MD, US",country:"US"},
+{value:"bari-apu",col: 82 ,name:"Bari",display:"Bari, Ιταλία",country:"IT"},
+
+
+
+{value:"basel-bs",col: 120 ,name:"Basel",display:"Basel, Ελβετία",country:"CH"},
 
 
 
@@ -936,11 +992,23 @@ var SALARY_CITIES = [
 
 
 
-{value:"belfast-gb",col: 84.1 ,name:"Belfast",display:"Belfast, ΗΒ",country:"GB"},
+{value:"bauru-sp",col: 94 ,name:"Bauru",display:"Bauru, Βραζιλία",country:"BR"},
+
+
+
+{value:"beja-pt",col: 72 ,name:"Beja",display:"Beja, Πορτογαλία",country:"PT"},
+
+
+
+{value:"belem-pa",col: 92 ,name:"Belém",display:"Belém, Βραζιλία",country:"BR"},
 
 
 
 {value:"bellingham-wa",col: 115.2 ,name:"Bellingham",display:"Bellingham, WA, US",country:"US"},
+
+
+
+{value:"belo-horizonte-mg",col: 100 ,name:"Belo Horizonte",display:"Belo Horizonte, Βραζιλία",country:"BR"},
 
 
 
@@ -952,6 +1020,26 @@ var SALARY_CITIES = [
 
 
 
+{value:"bergamo-lom",col: 100 ,name:"Bergamo",display:"Bergamo, Ιταλία",country:"IT"},
+
+
+
+{value:"berlin-be",col: 105 ,name:"Berlin",display:"Berlin, Γερμανία",country:"DE"},
+
+
+
+{value:"bern-be",col: 115 ,name:"Bern",display:"Bern, Ελβετία",country:"CH"},
+
+
+
+{value:"biel-be",col: 100 ,name:"Biel",display:"Biel, Ελβετία",country:"CH"},
+
+
+
+{value:"bielefeld-nw",col: 88 ,name:"Bielefeld",display:"Bielefeld, Γερμανία",country:"DE"},
+
+
+
 {value:"billings-mt",col: 96.5 ,name:"Billings",display:"Billings, MT, US",country:"US"},
 
 
@@ -960,7 +1048,15 @@ var SALARY_CITIES = [
 
 
 
-{value:"birmingham-gb",col: 92.3 ,name:"Birmingham",display:"Birmingham, ΗΒ",country:"GB"},
+{value:"blumenau-sc",col: 97 ,name:"Blumenau",display:"Blumenau, Βραζιλία",country:"BR"},
+
+
+
+{value:"boa-vista-rr",col: 87 ,name:"Boa Vista",display:"Boa Vista, Βραζιλία",country:"BR"},
+
+
+
+{value:"bochum-nw",col: 85 ,name:"Bochum",display:"Bochum, Γερμανία",country:"DE"},
 
 
 
@@ -968,7 +1064,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"boston-ma",col: 153.2 ,name:"Boston",display:"Boston, MA, US",country:"US"},
+{value:"bologna-emr",col: 105 ,name:"Bologna",display:"Bologna, Ιταλία",country:"IT"},
+
+
+
+{value:"bonn-nw",col: 100 ,name:"Bonn",display:"Bonn, Γερμανία",country:"DE"},
 
 
 
@@ -976,19 +1076,47 @@ var SALARY_CITIES = [
 
 
 
+{value:"braga-pt",col: 82 ,name:"Braga",display:"Braga, Πορτογαλία",country:"PT"},
+
+
+
+{value:"braganca-pt",col: 72 ,name:"Bragança",display:"Bragança, Πορτογαλία",country:"PT"},
+
+
+
+{value:"brasilia-df",col: 115 ,name:"Brasília",display:"Brasília, Βραζιλία",country:"BR"},
+
+
+
+{value:"braunschweig-ni",col: 88 ,name:"Braunschweig",display:"Braunschweig, Γερμανία",country:"DE"},
+
+
+
+{value:"bremen-hb",col: 95 ,name:"Bremen",display:"Bremen, Γερμανία",country:"DE"},
+
+
+
+{value:"brescia-lom",col: 90 ,name:"Brescia",display:"Brescia, Ιταλία",country:"IT"},
+
+
+
+{value:"brest-bre",col: 85 ,name:"Brest",display:"Brest, Γαλλία",country:"FR"},
+
+
+
 {value:"bridgeport-ct",col: 118.5 ,name:"Bridgeport",display:"Bridgeport, CT, US",country:"US"},
 
 
 
-{value:"brisbane-qld",col: 88 ,name:"Brisbane",display:"Brisbane, Αυστραλία",country:"AU"},
+{value:"brno-cz",col: 100 ,name:"Brno",display:"Brno, Τσεχία",country:"CZ"},
 
 
 
-{value:"bristol-gb",col: 102.1 ,name:"Bristol",display:"Bristol, ΗΒ",country:"GB"},
+{value:"bruges-vwv",col: 108 ,name:"Bruges",display:"Bruges, Belgium",country:"BE"},
 
 
 
-{value:"buffalo-ny",col: 92.5 ,name:"Buffalo",display:"Buffalo, NY, US",country:"US"},
+{value:"brussels-bru",col: 110 ,name:"Brussels",display:"Brussels, Belgium",country:"BE"},
 
 
 
@@ -1000,7 +1128,15 @@ var SALARY_CITIES = [
 
 
 
-{value:"burlington-vt",col: 112.5 ,name:"Burlington",display:"Burlington, VT, US",country:"US"},
+{value:"cabo-frio-rj",col: 98 ,name:"Cabo Frio",display:"Cabo Frio, Βραζιλία",country:"BR"},
+
+
+
+{value:"caen-nor",col: 86 ,name:"Caen",display:"Caen, Γαλλία",country:"FR"},
+
+
+
+{value:"cagliari-sar",col: 85 ,name:"Cagliari",display:"Cagliari, Ιταλία",country:"IT"},
 
 
 
@@ -1008,11 +1144,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"calgary-ca",col: 105.7 ,name:"Calgary",display:"Calgary, Καναδάς",country:"CA"},
+{value:"campinas-sp",col: 105 ,name:"Campinas",display:"Campinas, Βραζιλία",country:"BR"},
 
 
 
-{value:"canberra-act",col: 90 ,name:"Canberra",display:"Canberra, Αυστραλία",country:"AU"},
+{value:"campo-grande-ms",col: 93 ,name:"Campo Grande",display:"Campo Grande, Βραζιλία",country:"BR"},
 
 
 
@@ -1020,7 +1156,23 @@ var SALARY_CITIES = [
 
 
 
-{value:"cardiff-gb",col: 89.2 ,name:"Cardiff",display:"Cardiff, ΗΒ",country:"GB"},
+{value:"cascais-pt",col: 115 ,name:"Cascais",display:"Cascais, Πορτογαλία",country:"PT"},
+
+
+
+{value:"cascavel-pr",col: 91 ,name:"Cascavel",display:"Cascavel, Βραζιλία",country:"BR"},
+
+
+
+{value:"castelo-branco-pt",col: 74 ,name:"Castelo Branco",display:"Castelo Branco, Πορτογαλία",country:"PT"},
+
+
+
+{value:"catania-sic",col: 78 ,name:"Catania",display:"Catania, Ιταλία",country:"IT"},
+
+
+
+{value:"caxias-do-sul-rs",col: 97 ,name:"Caxias do Sul",display:"Caxias do Sul, Βραζιλία",country:"BR"},
 
 
 
@@ -1028,7 +1180,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"chalcis-cp",col: 90 ,name:"Chalcis",display:"Chalcis, Ελλάδα",country:"GR"},
+{value:"ceske-budejovice-cz",col: 90 ,name:"České Budějovice",display:"České Budějovice, Τσεχία",country:"CZ"},
+
+
+
+{value:"cesky-krumlov-cz",col: 92 ,name:"Český Krumlov",display:"Český Krumlov, Τσεχία",country:"CZ"},
 
 
 
@@ -1036,7 +1192,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"chania-cr",col: 94 ,name:"Chania",display:"Chania, Ελλάδα",country:"GR"},
+{value:"charleroi-wht",col: 78 ,name:"Charleroi",display:"Charleroi, Belgium",country:"BE"},
 
 
 
@@ -1044,11 +1200,15 @@ var SALARY_CITIES = [
 
 
 
-{value:"charlotte-nc",col: 98.2 ,name:"Charlotte",display:"Charlotte, NC, US",country:"US"},
-
-
-
 {value:"chattanooga-tn",col: 92.5 ,name:"Chattanooga",display:"Chattanooga, TN, US",country:"US"},
+
+
+
+{value:"chaves-pt",col: 70 ,name:"Chaves",display:"Chaves, Πορτογαλία",country:"PT"},
+
+
+
+{value:"chemnitz-sn",col: 80 ,name:"Chemnitz",display:"Chemnitz, Γερμανία",country:"DE"},
 
 
 
@@ -1060,7 +1220,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"chicago-il",col: 110.8 ,name:"Chicago",display:"Chicago, IL, US",country:"US"},
+{value:"chiba-chb",col: 96 ,name:"Chiba",display:"Chiba, Ιαπωνία",country:"JP"},
 
 
 
@@ -1068,11 +1228,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"chomutov-cz",col: 78 ,name:"Chomutov",display:"Chomutov, Τσεχία",country:"CZ"},
+
+
+
 {value:"chula-vista-ca",col: 138.5 ,name:"Chula Vista",display:"Chula Vista, CA, US",country:"US"},
 
 
 
-{value:"cincinnati-oh",col: 92.8 ,name:"Cincinnati",display:"Cincinnati, OH, US",country:"US"},
+{value:"chur-gr",col: 100 ,name:"Chur",display:"Chur, Ελβετία",country:"CH"},
 
 
 
@@ -1080,11 +1244,23 @@ var SALARY_CITIES = [
 
 
 
-{value:"cleveland-oh",col: 90.2 ,name:"Cleveland",display:"Cleveland, OH, US",country:"US"},
+{value:"clermont-ferrand-ara",col: 86 ,name:"Clermont-Ferrand",display:"Clermont-Ferrand, Γαλλία",country:"FR"},
+
+
+
+{value:"clervaux-cl",col: 98 ,name:"Clervaux",display:"Clervaux, Λουξεμβούργο",country:"LU"},
 
 
 
 {value:"coatzacoalcos-ver",col: 64 ,name:"Coatzacoalcos",display:"Coatzacoalcos, Μεξικό",country:"MX"},
+
+
+
+{value:"coimbra-pt",col: 85 ,name:"Coimbra",display:"Coimbra, Πορτογαλία",country:"PT"},
+
+
+
+{value:"cologne-nw",col: 105 ,name:"Cologne",display:"Cologne, Γερμανία",country:"DE"},
 
 
 
@@ -1096,11 +1272,19 @@ var SALARY_CITIES = [
 
 
 
-{value:"columbus-oh",col: 92.1 ,name:"Columbus",display:"Columbus, OH, US",country:"US"},
+{value:"comodoro-rivadavia-pz",col: 74 ,name:"Comodoro Rivadavia",display:"Comodoro Rivadavia, Αργεντινή",country:"AR"},
 
 
 
-{value:"corfu-ii",col: 95 ,name:"Corfu",display:"Corfu, Ελλάδα",country:"GR"},
+{value:"concordia-er",col: 64 ,name:"Concordia",display:"Concordia, Αργεντινή",country:"AR"},
+
+
+
+{value:"contagem-mg",col: 94 ,name:"Contagem",display:"Contagem, Βραζιλία",country:"BR"},
+
+
+
+{value:"cordoba-cord",col: 85 ,name:"Córdoba",display:"Córdoba, Αργεντινή",country:"AR"},
 
 
 
@@ -1108,7 +1292,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"corrientes-corr",col: 68 ,name:"Corrientes",display:"Corrientes, Αργεντινή",country:"AR"},
+
+
+
 {value:"cuernavaca-mor",col: 73.2 ,name:"Cuernavaca",display:"Cuernavaca, Μεξικό",country:"MX"},
+
+
+
+{value:"cuiaba-mt",col: 92 ,name:"Cuiabá",display:"Cuiabá, Βραζιλία",country:"BR"},
 
 
 
@@ -1116,23 +1308,15 @@ var SALARY_CITIES = [
 
 
 
-{value:"dallas-tx",col: 101.3 ,name:"Dallas",display:"Dallas, TX, US",country:"US"},
+{value:"curitiba-pr",col: 105 ,name:"Curitiba",display:"Curitiba, Βραζιλία",country:"BR"},
 
 
 
-{value:"darwin-nt",col: 78 ,name:"Darwin",display:"Darwin, Αυστραλία",country:"AU"},
+{value:"davos-gr",col: 120 ,name:"Davos",display:"Davos, Ελβετία",country:"CH"},
 
 
 
-{value:"delft-nl",col: 75 ,name:"Delft",display:"Delft, Ολλανδία",country:"NL"},
-
-
-
-{value:"delphi-cp",col: 85 ,name:"Delphi",display:"Delphi, Ελλάδα",country:"GR"},
-
-
-
-{value:"denver-co",col: 128.5 ,name:"Denver",display:"Denver, CO, US",country:"US"},
+{value:"decin-cz",col: 80 ,name:"Děčín",display:"Děčín, Τσεχία",country:"CZ"},
 
 
 
@@ -1140,7 +1324,43 @@ var SALARY_CITIES = [
 
 
 
-{value:"detroit-mi",col: 92.8 ,name:"Detroit",display:"Detroit, MI, US",country:"US"},
+{value:"diekirch-di",col: 103 ,name:"Diekirch",display:"Diekirch, Λουξεμβούργο",country:"LU"},
+
+
+
+{value:"differdange-es",col: 110 ,name:"Differdange",display:"Differdange, Λουξεμβούργο",country:"LU"},
+
+
+
+{value:"dijon-bfc",col: 88 ,name:"Dijon",display:"Dijon, Γαλλία",country:"FR"},
+
+
+
+{value:"dinant-wna",col: 92 ,name:"Dinant",display:"Dinant, Belgium",country:"BE"},
+
+
+
+{value:"dortmund-nw",col: 90 ,name:"Dortmund",display:"Dortmund, Γερμανία",country:"DE"},
+
+
+
+{value:"dourados-ms",col: 88 ,name:"Dourados",display:"Dourados, Βραζιλία",country:"BR"},
+
+
+
+{value:"dresden-sn",col: 88 ,name:"Dresden",display:"Dresden, Γερμανία",country:"DE"},
+
+
+
+{value:"dudelange-es",col: 108 ,name:"Dudelange",display:"Dudelange, Λουξεμβούργο",country:"LU"},
+
+
+
+{value:"duisburg-nw",col: 85 ,name:"Duisburg",display:"Duisburg, Γερμανία",country:"DE"},
+
+
+
+{value:"duque-de-caxias-rj",col: 92 ,name:"Duque de Caxias",display:"Duque de Caxias, Βραζιλία",country:"BR"},
 
 
 
@@ -1152,19 +1372,15 @@ var SALARY_CITIES = [
 
 
 
-{value:"edinburgh-gb",col: 105.8 ,name:"Edinburgh",display:"Edinburgh, ΗΒ",country:"GB"},
+{value:"duesseldorf-nw",col: 110 ,name:"Düsseldorf",display:"Düsseldorf, Γερμανία",country:"DE"},
 
 
 
-{value:"edmonton-ca",col: 97.4 ,name:"Edmonton",display:"Edmonton, Καναδάς",country:"CA"},
+{value:"echternach-ec",col: 102 ,name:"Echternach",display:"Echternach, Λουξεμβούργο",country:"LU"},
 
 
 
-{value:"eindhoven-nl",col: 74.5 ,name:"Eindhoven",display:"Eindhoven, Ολλανδία",country:"NL"},
-
-
-
-{value:"el-paso-tx",col: 88.5 ,name:"El Paso",display:"El Paso, TX, US",country:"US"},
+{value:"el-calafate-sc",col: 78 ,name:"El Calafate",display:"El Calafate, Αργεντινή",country:"AR"},
 
 
 
@@ -1172,7 +1388,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"erfurt-th",col: 82 ,name:"Erfurt",display:"Erfurt, Γερμανία",country:"DE"},
+
+
+
+{value:"esch-sur-alzette-es",col: 115 ,name:"Esch-sur-Alzette",display:"Esch-sur-Alzette, Λουξεμβούργο",country:"LU"},
+
+
+
+{value:"essen-nw",col: 88 ,name:"Essen",display:"Essen, Γερμανία",country:"DE"},
+
+
+
+{value:"ettelbruck-di",col: 105 ,name:"Ettelbruck",display:"Ettelbruck, Λουξεμβούργο",country:"LU"},
+
+
+
 {value:"eugene-or",col: 104.2 ,name:"Eugene",display:"Eugene, OR, US",country:"US"},
+
+
+
+{value:"evora-pt",col: 80 ,name:"Évora",display:"Évora, Πορτογαλία",country:"PT"},
 
 
 
@@ -1180,7 +1416,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"faro-pt",col: 92 ,name:"Faro",display:"Faro, Πορτογαλία",country:"PT"},
+
+
+
 {value:"fayetteville-nc",col: 90.5 ,name:"Fayetteville",display:"Fayetteville, NC, US",country:"US"},
+
+
+
+{value:"feira-de-santana-ba",col: 86 ,name:"Feira de Santana",display:"Feira de Santana, Βραζιλία",country:"BR"},
+
+
+
+{value:"florence-tus",col: 115 ,name:"Florence",display:"Florence, Ιταλία",country:"IT"},
+
+
+
+{value:"florianopolis-sc",col: 110 ,name:"Florianópolis",display:"Florianópolis, Βραζιλία",country:"BR"},
+
+
+
+{value:"formosa-fsa",col: 60 ,name:"Formosa",display:"Formosa, Αργεντινή",country:"AR"},
 
 
 
@@ -1192,11 +1448,55 @@ var SALARY_CITIES = [
 
 
 
+{value:"fortaleza-ce",col: 93 ,name:"Fortaleza",display:"Fortaleza, Βραζιλία",country:"BR"},
+
+
+
+{value:"foz-do-iguacu-pr",col: 92 ,name:"Foz do Iguaçu",display:"Foz do Iguaçu, Βραζιλία",country:"BR"},
+
+
+
+{value:"frankfurt-he",col: 115 ,name:"Frankfurt",display:"Frankfurt, Γερμανία",country:"DE"},
+
+
+
+{value:"freiburg-bw",col: 105 ,name:"Freiburg",display:"Freiburg, Γερμανία",country:"DE"},
+
+
+
 {value:"fremont-ca",col: 178.5 ,name:"Fremont",display:"Fremont, CA, US",country:"US"},
 
 
 
 {value:"fresno-ca",col: 102.5 ,name:"Fresno",display:"Fresno, CA, US",country:"US"},
+
+
+
+{value:"fribourg-fr",col: 100 ,name:"Fribourg",display:"Fribourg, Ελβετία",country:"CH"},
+
+
+
+{value:"frydek-mistek-cz",col: 82 ,name:"Frýdek-Místek",display:"Frýdek-Místek, Τσεχία",country:"CZ"},
+
+
+
+{value:"fukui-fki",col: 86 ,name:"Fukui",display:"Fukui, Ιαπωνία",country:"JP"},
+
+
+
+{value:"fukushima-fks",col: 87 ,name:"Fukushima",display:"Fukushima, Ιαπωνία",country:"JP"},
+
+
+
+{value:"fukuyama-hrs",col: 88 ,name:"Fukuyama",display:"Fukuyama, Ιαπωνία",country:"JP"},
+
+
+
+{value:"funabashi-chb",col: 92 ,name:"Funabashi",display:"Funabashi, Ιαπωνία",country:"JP"},
+
+
+
+{value:"funchal-pt",col: 88 ,name:"Funchal",display:"Funchal, Πορτογαλία",country:"PT"},
 
 
 
@@ -1208,7 +1508,23 @@ var SALARY_CITIES = [
 
 
 
-{value:"glasgow-gb",col: 88.4 ,name:"Glasgow",display:"Glasgow, ΗΒ",country:"GB"},
+{value:"geneva-ge",col: 125 ,name:"Geneva",display:"Geneva, Ελβετία",country:"CH"},
+
+
+
+{value:"genk-vli",col: 85 ,name:"Genk",display:"Genk, Belgium",country:"BE"},
+
+
+
+{value:"genoa-lig",col: 95 ,name:"Genoa",display:"Genoa, Ιταλία",country:"IT"},
+
+
+
+{value:"ghent-vov",col: 100 ,name:"Ghent",display:"Ghent, Belgium",country:"BE"},
+
+
+
+{value:"gifu-gif",col: 90 ,name:"Gifu",display:"Gifu, Ιαπωνία",country:"JP"},
 
 
 
@@ -1216,7 +1532,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"goiania-go",col: 94 ,name:"Goiânia",display:"Goiânia, Βραζιλία",country:"BR"},
+
+
+
 {value:"gold-coast-qld",col: 86 ,name:"Gold Coast",display:"Gold Coast, Αυστραλία",country:"AU"},
+
+
+
+{value:"governador-valadares-mg",col: 89 ,name:"Governador Valadares",display:"Governador Valadares, Βραζιλία",country:"BR"},
 
 
 
@@ -1232,7 +1556,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"groningen-nl",col: 71 ,name:"Groningen",display:"Groningen, Ολλανδία",country:"NL"},
+{value:"grevenmacher-gr",col: 100 ,name:"Grevenmacher",display:"Grevenmacher, Λουξεμβούργο",country:"LU"},
 
 
 
@@ -1240,15 +1564,55 @@ var SALARY_CITIES = [
 
 
 
-{value:"halifax-ca",col: 93.5 ,name:"Halifax",display:"Halifax, Καναδάς",country:"CA"},
+{value:"gualeguaychu-er",col: 64 ,name:"Gualeguaychú",display:"Gualeguaychú, Αργεντινή",country:"AR"},
+
+
+
+{value:"guarda-pt",col: 72 ,name:"Guarda",display:"Guarda, Πορτογαλία",country:"PT"},
+
+
+
+{value:"guarulhos-sp",col: 98 ,name:"Guarulhos",display:"Guarulhos, Βραζιλία",country:"BR"},
+
+
+
+{value:"guimaraes-pt",col: 78 ,name:"Guimarães",display:"Guimarães, Πορτογαλία",country:"PT"},
+
+
+
+{value:"hachioji-tky",col: 98 ,name:"Hachioji",display:"Hachioji, Ιαπωνία",country:"JP"},
+
+
+
+{value:"hakodate-hkd",col: 87 ,name:"Hakodate",display:"Hakodate, Ιαπωνία",country:"JP"},
+
+
+
+{value:"halle-st",col: 82 ,name:"Halle",display:"Halle, Γερμανία",country:"DE"},
+
+
+
+{value:"hamamatsu-szo",col: 95 ,name:"Hamamatsu",display:"Hamamatsu, Ιαπωνία",country:"JP"},
+
+
+
+{value:"hamburg-hh",col: 108 ,name:"Hamburg",display:"Hamburg, Γερμανία",country:"DE"},
+
+
+
+{value:"hannover-ni",col: 92 ,name:"Hannover",display:"Hannover, Γερμανία",country:"DE"},
+
+
+
+{value:"hasselt-vli",col: 90 ,name:"Hasselt",display:"Hasselt, Belgium",country:"BE"},
+
+
+
+{value:"havirov-cz",col: 80 ,name:"Havířov",display:"Havířov, Τσεχία",country:"CZ"},
 
 
 
 {value:"henderson-nv",col: 108.5 ,name:"Henderson",display:"Henderson, NV, US",country:"US"},
-
-
-
-{value:"heraklion-cr",col: 96 ,name:"Heraklion",display:"Heraklion, Ελλάδα",country:"GR"},
 
 
 
@@ -1264,7 +1628,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"hobart-tas",col: 76 ,name:"Hobart",display:"Hobart, Αυστραλία",country:"AU"},
+{value:"himeji-hyg",col: 90 ,name:"Himeji",display:"Himeji, Ιαπωνία",country:"JP"},
 
 
 
@@ -1272,7 +1636,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"houston-tx",col: 95.8 ,name:"Houston",display:"Houston, TX, US",country:"US"},
+{value:"hradec-kralove-cz",col: 90 ,name:"Hradec Králové",display:"Hradec Králové, Τσεχία",country:"CZ"},
 
 
 
@@ -1280,11 +1644,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"indianapolis-in",col: 91.5 ,name:"Indianapolis",display:"Indianapolis, IN, US",country:"US"},
+{value:"ilheus-ba",col: 86 ,name:"Ilhéus",display:"Ilhéus, Βραζιλία",country:"BR"},
 
 
 
-{value:"ioannina-ep",col: 82 ,name:"Ioannina",display:"Ioannina, Ελλάδα",country:"GR"},
+{value:"interlaken-be",col: 120 ,name:"Interlaken",display:"Interlaken, Ελβετία",country:"CH"},
 
 
 
@@ -1293,6 +1657,14 @@ var SALARY_CITIES = [
 
 
 {value:"irving-tx",col: 100.5 ,name:"Irving",display:"Irving, TX, US",country:"US"},
+
+
+
+{value:"itajai-sc",col: 96 ,name:"Itajaí",display:"Itajaí, Βραζιλία",country:"BR"},
+
+
+
+{value:"iwaki-fks",col: 85 ,name:"Iwaki",display:"Iwaki, Ιαπωνία",country:"JP"},
 
 
 
@@ -1308,7 +1680,31 @@ var SALARY_CITIES = [
 
 
 
-{value:"kalamata-pe",col: 88 ,name:"Kalamata",display:"Kalamata, Ελλάδα",country:"GR"},
+{value:"jihlava-cz",col: 85 ,name:"Jihlava",display:"Jihlava, Τσεχία",country:"CZ"},
+
+
+
+{value:"joao-pessoa-pb",col: 92 ,name:"João Pessoa",display:"João Pessoa, Βραζιλία",country:"BR"},
+
+
+
+{value:"joinville-sc",col: 98 ,name:"Joinville",display:"Joinville, Βραζιλία",country:"BR"},
+
+
+
+{value:"juiz-de-fora-mg",col: 93 ,name:"Juiz de Fora",display:"Juiz de Fora, Βραζιλία",country:"BR"},
+
+
+
+{value:"jundiai-sp",col: 100 ,name:"Jundiaí",display:"Jundiaí, Βραζιλία",country:"BR"},
+
+
+
+{value:"kagoshima-kgs",col: 90 ,name:"Kagoshima",display:"Kagoshima, Ιαπωνία",country:"JP"},
+
+
+
+{value:"kanazawa-isk",col: 95 ,name:"Kanazawa",display:"Kanazawa, Ιαπωνία",country:"JP"},
 
 
 
@@ -1320,11 +1716,19 @@ var SALARY_CITIES = [
 
 
 
-{value:"katerini-cm",col: 80 ,name:"Katerini",display:"Katerini, Ελλάδα",country:"GR"},
+{value:"karlovy-vary-cz",col: 95 ,name:"Karlovy Vary",display:"Karlovy Vary, Τσεχία",country:"CZ"},
 
 
 
-{value:"kavala-em",col: 80 ,name:"Kavala",display:"Kavala, Ελλάδα",country:"GR"},
+{value:"karlsruhe-bw",col: 95 ,name:"Karlsruhe",display:"Karlsruhe, Γερμανία",country:"DE"},
+
+
+
+{value:"kawaguchi-sai",col: 93 ,name:"Kawaguchi",display:"Kawaguchi, Ιαπωνία",country:"JP"},
+
+
+
+{value:"kawasaki-kng",col: 108 ,name:"Kawasaki",display:"Kawasaki, Ιαπωνία",country:"JP"},
 
 
 
@@ -1332,15 +1736,59 @@ var SALARY_CITIES = [
 
 
 
+{value:"kiel-sh",col: 92 ,name:"Kiel",display:"Kiel, Γερμανία",country:"DE"},
+
+
+
+{value:"kitakyushu-fko",col: 90 ,name:"Kitakyushu",display:"Kitakyushu, Ιαπωνία",country:"JP"},
+
+
+
+{value:"kladno-cz",col: 85 ,name:"Kladno",display:"Kladno, Τσεχία",country:"CZ"},
+
+
+
 {value:"knoxville-tn",col: 92.5 ,name:"Knoxville",display:"Knoxville, TN, US",country:"US"},
 
 
 
-{value:"kozani-wm",col: 75 ,name:"Kozani",display:"Kozani, Ελλάδα",country:"GR"},
+{value:"kochi-koc",col: 87 ,name:"Kochi",display:"Kochi, Ιαπωνία",country:"JP"},
 
 
 
-{value:"lamia-cp",col: 82 ,name:"Lamia",display:"Lamia, Ελλάδα",country:"GR"},
+{value:"kofu-ymn",col: 87 ,name:"Kofu",display:"Kofu, Ιαπωνία",country:"JP"},
+
+
+
+{value:"koniz-be",col: 100 ,name:"Köniz",display:"Köniz, Ελβετία",country:"CH"},
+
+
+
+{value:"koriyama-fks",col: 86 ,name:"Koriyama",display:"Koriyama, Ιαπωνία",country:"JP"},
+
+
+
+{value:"kortrijk-vwv",col: 92 ,name:"Kortrijk",display:"Kortrijk, Belgium",country:"BE"},
+
+
+
+{value:"kurashiki-oky",col: 90 ,name:"Kurashiki",display:"Kurashiki, Ιαπωνία",country:"JP"},
+
+
+
+{value:"la-chaux-de-fonds-ne",col: 95 ,name:"La Chaux-de-Fonds",display:"La Chaux-de-Fonds, Ελβετία",country:"CH"},
+
+
+
+{value:"la-louviere-wht",col: 75 ,name:"La Louvière",display:"La Louvière, Belgium",country:"BE"},
+
+
+
+{value:"la-plata-ba",col: 78 ,name:"La Plata",display:"La Plata, Αργεντινή",country:"AR"},
+
+
+
+{value:"la-rioja-lr",col: 62 ,name:"La Rioja",display:"La Rioja, Αργεντινή",country:"AR"},
 
 
 
@@ -1348,23 +1796,27 @@ var SALARY_CITIES = [
 
 
 
-{value:"larissa-th",col: 85 ,name:"Larissa",display:"Larissa, Ελλάδα",country:"GR"},
-
-
-
-{value:"las-vegas-nv",col: 102.4 ,name:"Las Vegas",display:"Las Vegas, NV, US",country:"US"},
-
-
-
 {value:"launceston-tas",col: 65 ,name:"Launceston",display:"Launceston, Αυστραλία",country:"AU"},
 
 
 
-{value:"leeds-gb",col: 91.7 ,name:"Leeds",display:"Leeds, ΗΒ",country:"GB"},
+{value:"lausanne-vd",col: 120 ,name:"Lausanne",display:"Lausanne, Ελβετία",country:"CH"},
 
 
 
-{value:"leiden-nl",col: 76 ,name:"Leiden",display:"Leiden, Ολλανδία",country:"NL"},
+{value:"le-havre-nor",col: 85 ,name:"Le Havre",display:"Le Havre, Γαλλία",country:"FR"},
+
+
+
+{value:"lecce-apu",col: 80 ,name:"Lecce",display:"Lecce, Ιταλία",country:"IT"},
+
+
+
+{value:"leipzig-sn",col: 85 ,name:"Leipzig",display:"Leipzig, Γερμανία",country:"DE"},
+
+
+
+{value:"leiria-pt",col: 80 ,name:"Leiria",display:"Leiria, Πορτογαλία",country:"PT"},
 
 
 
@@ -1372,7 +1824,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"leuven-vbr",col: 102 ,name:"Leuven",display:"Leuven, Belgium",country:"BE"},
+
+
+
 {value:"lexington-ky",col: 94.2 ,name:"Lexington",display:"Lexington, KY, US",country:"US"},
+
+
+
+{value:"liberec-cz",col: 92 ,name:"Liberec",display:"Liberec, Τσεχία",country:"CZ"},
+
+
+
+{value:"liege-wlg",col: 88 ,name:"Liège",display:"Liège, Belgium",country:"BE"},
 
 
 
@@ -1380,15 +1844,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"lisbon-pt",col: 110 ,name:"Lisbon",display:"Lisbon, Πορτογαλία",country:"PT"},
+
+
+
 {value:"little-rock-ar",col: 88.5 ,name:"Little Rock",display:"Little Rock, AR, US",country:"US"},
 
 
 
-{value:"liverpool-gb",col: 86.5 ,name:"Liverpool",display:"Liverpool, ΗΒ",country:"GB"},
-
-
-
-{value:"london-gb",col: 135.2 ,name:"London",display:"London, ΗΒ",country:"GB"},
+{value:"londrina-pr",col: 95 ,name:"Londrina",display:"Londrina, Βραζιλία",country:"BR"},
 
 
 
@@ -1396,11 +1860,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"los-angeles-ca",col: 173.3 ,name:"Los Angeles",display:"Los Angeles, CA, US",country:"US"},
-
-
-
 {value:"louisville-ky",col: 91.2 ,name:"Louisville",display:"Louisville, KY, US",country:"US"},
+
+
+
+{value:"louvain-la-neuve-wbr",col: 95 ,name:"Louvain-la-Neuve",display:"Louvain-la-Neuve, Belgium",country:"BE"},
 
 
 
@@ -1408,7 +1872,27 @@ var SALARY_CITIES = [
 
 
 
-{value:"maastricht-nl",col: 74 ,name:"Maastricht",display:"Maastricht, Ολλανδία",country:"NL"},
+{value:"luebeck-sh",col: 90 ,name:"Lübeck",display:"Lübeck, Γερμανία",country:"DE"},
+
+
+
+{value:"lucerne-lu",col: 118 ,name:"Lucerne",display:"Lucerne, Ελβετία",country:"CH"},
+
+
+
+{value:"lugano-ti",col: 115 ,name:"Lugano",display:"Lugano, Ελβετία",country:"CH"},
+
+
+
+{value:"luxembourg-lu",col: 130 ,name:"Luxembourg City",display:"Luxembourg City, Λουξεμβούργο",country:"LU"},
+
+
+
+{value:"macapa-ap",col: 88 ,name:"Macapá",display:"Macapá, Βραζιλία",country:"BR"},
+
+
+
+{value:"maceio-al",col: 90 ,name:"Maceió",display:"Maceió, Βραζιλία",country:"BR"},
 
 
 
@@ -1420,19 +1904,67 @@ var SALARY_CITIES = [
 
 
 
-{value:"manchester-gb",col: 98.5 ,name:"Manchester",display:"Manchester, ΗΒ",country:"GB"},
+{value:"maebashi-gum",col: 87 ,name:"Maebashi",display:"Maebashi, Ιαπωνία",country:"JP"},
 
 
 
-{value:"manchester-nh",col: 108.5 ,name:"Manchester",display:"Manchester, NH, US",country:"US"},
+{value:"magdeburg-st",col: 82 ,name:"Magdeburg",display:"Magdeburg, Γερμανία",country:"DE"},
 
 
 
-{value:"melbourne-vic",col: 95 ,name:"Melbourne",display:"Melbourne, Αυστραλία",country:"AU"},
+{value:"mainz-rp",col: 98 ,name:"Mainz",display:"Mainz, Γερμανία",country:"DE"},
+
+
+
+{value:"málaga-and",col: 90 ,name:"Málaga",display:"Málaga, Ισπανία",country:"ES"},
+
+
+
+{value:"manaus-am",col: 98.5 ,name:"Manaus",display:"Manaus, Βραζιλία",country:"BR"},
+
+
+
+{value:"mannheim-bw",col: 95 ,name:"Mannheim",display:"Mannheim, Γερμανία",country:"DE"},
+
+
+
+{value:"mar-del-plata-ba",col: 76 ,name:"Mar del Plata",display:"Mar del Plata, Αργεντινή",country:"AR"},
+
+
+
+{value:"marianske-lazne-cz",col: 88 ,name:"Mariánské Lázně",display:"Mariánské Lázně, Τσεχία",country:"CZ"},
+
+
+
+{value:"maringa-pr",col: 96 ,name:"Maringá",display:"Maringá, Βραζιλία",country:"BR"},
+
+
+
+{value:"matera-bas",col: 78 ,name:"Matera",display:"Matera, Ιταλία",country:"IT"},
+
+
+
+{value:"matsue-smn",col: 85 ,name:"Matsue",display:"Matsue, Ιαπωνία",country:"JP"},
+
+
+
+{value:"matsumoto-ngn",col: 88 ,name:"Matsumoto",display:"Matsumoto, Ιαπωνία",country:"JP"},
+
+
+
+{value:"matsuyama-ehm",col: 88 ,name:"Matsuyama",display:"Matsuyama, Ιαπωνία",country:"JP"},
+
+
+
+{value:"mechelen-van",col: 95 ,name:"Mechelen",display:"Mechelen, Belgium",country:"BE"},
 
 
 
 {value:"memphis-tn",col: 88.5 ,name:"Memphis",display:"Memphis, TN, US",country:"US"},
+
+
+
+{value:"mendoza-men",col: 80 ,name:"Mendoza",display:"Mendoza, Αργεντινή",country:"AR"},
 
 
 
@@ -1444,19 +1976,19 @@ var SALARY_CITIES = [
 
 
 
-{value:"mexico-city-cmx",col: 85.3 ,name:"Mexico City",display:"Mexico City, Μεξικό",country:"MX"},
+{value:"metz-ges",col: 87 ,name:"Metz",display:"Metz, Γαλλία",country:"FR"},
 
 
 
-{value:"miami-fl",col: 145.6 ,name:"Miami",display:"Miami, FL, US",country:"US"},
+{value:"milan-lom",col: 130 ,name:"Milan",display:"Milan, Ιταλία",country:"IT"},
 
 
 
-{value:"milwaukee-wi",col: 95.2 ,name:"Milwaukee",display:"Milwaukee, WI, US",country:"US"},
+{value:"mito-ibr",col: 88 ,name:"Mito",display:"Mito, Ιαπωνία",country:"JP"},
 
 
 
-{value:"minneapolis-mn",col: 106.5 ,name:"Minneapolis",display:"Minneapolis, MN, US",country:"US"},
+{value:"miyazaki-myz",col: 86 ,name:"Miyazaki",display:"Miyazaki, Ιαπωνία",country:"JP"},
 
 
 
@@ -1464,7 +1996,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"modena-emr",col: 100 ,name:"Modena",display:"Modena, Ιταλία",country:"IT"},
+
+
+
 {value:"modesto-ca",col: 108.5 ,name:"Modesto",display:"Modesto, CA, US",country:"US"},
+
+
+
+{value:"mogidas-cruzes-sp",col: 95 ,name:"Mogi das Cruzes",display:"Mogi das Cruzes, Βραζιλία",country:"BR"},
+
+
+
+{value:"mons-wht",col: 82 ,name:"Mons",display:"Mons, Belgium",country:"BE"},
 
 
 
@@ -1476,7 +2020,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"montreal-ca",col: 98.3 ,name:"Montreal",display:"Montreal, Καναδάς",country:"CA"},
+{value:"montreux-vd",col: 115 ,name:"Montreux",display:"Montreux, Ελβετία",country:"CH"},
 
 
 
@@ -1484,27 +2028,67 @@ var SALARY_CITIES = [
 
 
 
+{value:"morioka-iwt",col: 86 ,name:"Morioka",display:"Morioka, Ιαπωνία",country:"JP"},
+
+
+
+{value:"most-cz",col: 78 ,name:"Most",display:"Most, Τσεχία",country:"CZ"},
+
+
+
+{value:"mulhouse-ges",col: 85 ,name:"Mulhouse",display:"Mulhouse, Γαλλία",country:"FR"},
+
+
+
+{value:"munich-by",col: 130 ,name:"Munich",display:"Munich, Γερμανία",country:"DE"},
+
+
+
+{value:"münster-nw",col: 100 ,name:"Münster",display:"Münster, Γερμανία",country:"DE"},
+
+
+
 {value:"myrtle-beach-sc",col: 96.5 ,name:"Myrtle Beach",display:"Myrtle Beach, SC, US",country:"US"},
 
 
 
-{value:"mytilene-na",col: 86 ,name:"Mytilene",display:"Mytilene, Ελλάδα",country:"GR"},
+{value:"nagano-ngn",col: 90 ,name:"Nagano",display:"Nagano, Ιαπωνία",country:"JP"},
 
 
 
-{value:"nafplio-pe",col: 92 ,name:"Nafplio",display:"Nafplio, Ελλάδα",country:"GR"},
+{value:"naha-okn",col: 95 ,name:"Naha",display:"Naha, Ιαπωνία",country:"JP"},
 
 
 
-{value:"nashville-tn",col: 100.5 ,name:"Nashville",display:"Nashville, TN, US",country:"US"},
+{value:"namur-wna",col: 90 ,name:"Namur",display:"Namur, Belgium",country:"BE"},
 
 
 
-{value:"new-orleans-la",col: 98.5 ,name:"New Orleans",display:"New Orleans, LA, US",country:"US"},
+{value:"nancy-ges",col: 87 ,name:"Nancy",display:"Nancy, Γαλλία",country:"FR"},
 
 
 
-{value:"nyc",col: 187.2 ,name:"New York City",display:"New York City, NY, US",country:"US",selected:true},
+{value:"naples-cam",col: 85 ,name:"Naples",display:"Naples, Ιταλία",country:"IT"},
+
+
+
+{value:"nara-nar",col: 95 ,name:"Nara",display:"Nara, Ιαπωνία",country:"JP"},
+
+
+
+{value:"natal-rn",col: 91 ,name:"Natal",display:"Natal, Βραζιλία",country:"BR"},
+
+
+
+{value:"necochea-ba",col: 64 ,name:"Necochea",display:"Necochea, Αργεντινή",country:"AR"},
+
+
+
+{value:"neuchatel-ne",col: 100 ,name:"Neuchâtel",display:"Neuchâtel, Ελβετία",country:"CH"},
+
+
+
+{value:"neuquen-nqn",col: 78 ,name:"Neuquén",display:"Neuquén, Αργεντινή",country:"AR"},
 
 
 
@@ -1516,7 +2100,19 @@ var SALARY_CITIES = [
 
 
 
-{value:"norfolk-va",col: 98.5 ,name:"Norfolk",display:"Norfolk, VA, US",country:"US"},
+{value:"niigata-nig",col: 90 ,name:"Niigata",display:"Niigata, Ιαπωνία",country:"JP"},
+
+
+
+{value:"niteroi-rj",col: 110 ,name:"Niterói",display:"Niterói, Βραζιλία",country:"BR"},
+
+
+
+{value:"nova-iguacu-rj",col: 90 ,name:"Nova Iguaçu",display:"Nova Iguaçu, Βραζιλία",country:"BR"},
+
+
+
+{value:"nuremberg-by",col: 95 ,name:"Nuremberg",display:"Nuremberg, Γερμανία",country:"DE"},
 
 
 
@@ -1528,11 +2124,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"oita-oit",col: 88 ,name:"Oita",display:"Oita, Ιαπωνία",country:"JP"},
+
+
+
+{value:"okayama-oky",col: 92 ,name:"Okayama",display:"Okayama, Ιαπωνία",country:"JP"},
+
+
+
 {value:"oklahoma-city-ok",col: 88.2 ,name:"Oklahoma City",display:"Oklahoma City, OK, US",country:"US"},
 
 
 
-{value:"olympia-wg",col: 82 ,name:"Olympia",display:"Olympia, Ελλάδα",country:"GR"},
+{value:"olinda-pe",col: 90 ,name:"Olinda",display:"Olinda, Βραζιλία",country:"BR"},
+
+
+
+{value:"olomouc-cz",col: 90 ,name:"Olomouc",display:"Olomouc, Τσεχία",country:"CZ"},
 
 
 
@@ -1540,11 +2148,27 @@ var SALARY_CITIES = [
 
 
 
-{value:"orlando-fl",col: 98.5 ,name:"Orlando",display:"Orlando, FL, US",country:"US"},
+{value:"opava-cz",col: 85 ,name:"Opava",display:"Opava, Τσεχία",country:"CZ"},
 
 
 
-{value:"ottawa-ca",col: 101.2 ,name:"Ottawa",display:"Ottawa, Καναδάς",country:"CA"},
+{value:"orleans-cvl",col: 86 ,name:"Orléans",display:"Orléans, Γαλλία",country:"FR"},
+
+
+
+{value:"osasco-sp",col: 97 ,name:"Osasco",display:"Osasco, Βραζιλία",country:"BR"},
+
+
+
+{value:"ostend-vwv",col: 95 ,name:"Ostend",display:"Ostend, Belgium",country:"BE"},
+
+
+
+{value:"ostrava-cz",col: 88 ,name:"Ostrava",display:"Ostrava, Τσεχία",country:"CZ"},
+
+
+
+{value:"otsu-sig",col: 92 ,name:"Otsu",display:"Otsu, Ιαπωνία",country:"JP"},
 
 
 
@@ -1552,23 +2176,55 @@ var SALARY_CITIES = [
 
 
 
-{value:"patras-wg",col: 84 ,name:"Patras",display:"Patras, Ελλάδα",country:"GR"},
+{value:"padua-ven",col: 95 ,name:"Padua",display:"Padua, Ιταλία",country:"IT"},
 
 
 
-{value:"perth-wa",col: 85 ,name:"Perth",display:"Perth, Αυστραλία",country:"AU"},
+{value:"palermo-sic",col: 80 ,name:"Palermo",display:"Palermo, Ιταλία",country:"IT"},
 
 
 
-{value:"philadelphia-pa",col: 108.5 ,name:"Philadelphia",display:"Philadelphia, PA, US",country:"US"},
+{value:"palmas-to",col: 91 ,name:"Palmas",display:"Palmas, Βραζιλία",country:"BR"},
 
 
 
-{value:"phoenix-az",col: 108.2 ,name:"Phoenix",display:"Phoenix, AZ, US",country:"US"},
+{value:"parana-er",col: 70 ,name:"Paraná",display:"Paraná, Αργεντινή",country:"AR"},
 
 
 
-{value:"pittsburgh-pa",col: 94.5 ,name:"Pittsburgh",display:"Pittsburgh, PA, US",country:"US"},
+{value:"pardubice-cz",col: 88 ,name:"Pardubice",display:"Pardubice, Τσεχία",country:"CZ"},
+
+
+
+{value:"parma-emr",col: 100 ,name:"Parma",display:"Parma, Ιταλία",country:"IT"},
+
+
+
+{value:"pelotas-rs",col: 90 ,name:"Pelotas",display:"Pelotas, Βραζιλία",country:"BR"},
+
+
+
+{value:"pergamino-ba",col: 62 ,name:"Pergamino",display:"Pergamino, Αργεντινή",country:"AR"},
+
+
+
+{value:"perpignan-occ",col: 87 ,name:"Perpignan",display:"Perpignan, Γαλλία",country:"FR"},
+
+
+
+{value:"perugia-umb",col: 90 ,name:"Perugia",display:"Perugia, Ιταλία",country:"IT"},
+
+
+
+{value:"petropolis-rj",col: 100 ,name:"Petrópolis",display:"Petrópolis, Βραζιλία",country:"BR"},
+
+
+
+{value:"piracicaba-sp",col: 97 ,name:"Piracicaba",display:"Piracicaba, Βραζιλία",country:"BR"},
+
+
+
+{value:"pisa-tus",col: 95 ,name:"Pisa",display:"Pisa, Ιταλία",country:"IT"},
 
 
 
@@ -1576,15 +2232,51 @@ var SALARY_CITIES = [
 
 
 
-{value:"portland-me",col: 112.5 ,name:"Portland",display:"Portland, ME, US",country:"US"},
+{value:"plzen-cz",col: 95 ,name:"Plzeň",display:"Plzeň, Τσεχία",country:"CZ"},
 
 
 
-{value:"portland-or",col: 118.2 ,name:"Portland",display:"Portland, OR, US",country:"US"},
+{value:"ponta-delgada-pt",col: 78 ,name:"Ponta Delgada",display:"Ponta Delgada, Πορτογαλία",country:"PT"},
 
 
 
-{value:"providence-ri",col: 118.5 ,name:"Providence",display:"Providence, RI, US",country:"US"},
+{value:"portalegre-pt",col: 70 ,name:"Portalegre",display:"Portalegre, Πορτογαλία",country:"PT"},
+
+
+
+{value:"portimao-pt",col: 90 ,name:"Portimão",display:"Portimão, Πορτογαλία",country:"PT"},
+
+
+
+{value:"porto-alegre-rs",col: 102 ,name:"Porto Alegre",display:"Porto Alegre, Βραζιλία",country:"BR"},
+
+
+
+{value:"porto-seguro-ba",col: 95 ,name:"Porto Seguro",display:"Porto Seguro, Βραζιλία",country:"BR"},
+
+
+
+{value:"porto-velho-ro",col: 90 ,name:"Porto Velho",display:"Porto Velho, Βραζιλία",country:"BR"},
+
+
+
+{value:"porto-pt",col: 95 ,name:"Porto",display:"Porto, Πορτογαλία",country:"PT"},
+
+
+
+{value:"posadas-mis",col: 66 ,name:"Posadas",display:"Posadas, Αργεντινή",country:"AR"},
+
+
+
+{value:"prague-cz",col: 115 ,name:"Prague",display:"Prague, Τσεχία",country:"CZ"},
+
+
+
+{value:"prerov-cz",col: 80 ,name:"Přerov",display:"Přerov, Τσεχία",country:"CZ"},
+
+
+
+{value:"prostejov-cz",col: 82 ,name:"Prostějov",display:"Prostějov, Τσεχία",country:"CZ"},
 
 
 
@@ -1592,15 +2284,23 @@ var SALARY_CITIES = [
 
 
 
-{value:"quebec-city-ca",col: 87.2 ,name:"Quebec City",display:"Quebec City, Καναδάς",country:"CA"},
-
-
-
 {value:"queretaro-que",col: 76.8 ,name:"Querétaro",display:"Querétaro, Μεξικό",country:"MX"},
 
 
 
-{value:"raleigh-nc",col: 102.4 ,name:"Raleigh",display:"Raleigh, NC, US",country:"US"},
+{value:"rawson-pz",col: 60 ,name:"Rawson",display:"Rawson, Αργεντινή",country:"AR"},
+
+
+
+{value:"recife-pe",col: 96 ,name:"Recife",display:"Recife, Βραζιλία",country:"BR"},
+
+
+
+{value:"reims-ges",col: 88 ,name:"Reims",display:"Reims, Γαλλία",country:"FR"},
+
+
+
+{value:"remich-rm",col: 100 ,name:"Remich",display:"Remich, Λουξεμβούργο",country:"LU"},
 
 
 
@@ -1608,11 +2308,27 @@ var SALARY_CITIES = [
 
 
 
-{value:"rhodes-sa",col: 95 ,name:"Rhodes",display:"Rhodes, Ελλάδα",country:"GR"},
+{value:"resistencia-cha",col: 65 ,name:"Resistencia",display:"Resistencia, Αργεντινή",country:"AR"},
 
 
 
-{value:"richmond-va",col: 98.5 ,name:"Richmond",display:"Richmond, VA, US",country:"US"},
+{value:"ribeirao-preto-sp",col: 103 ,name:"Ribeirão Preto",display:"Ribeirão Preto, Βραζιλία",country:"BR"},
+
+
+
+{value:"rio-branco-ac",col: 86 ,name:"Rio Branco",display:"Rio Branco, Βραζιλία",country:"BR"},
+
+
+
+{value:"rio-cuarto-cord",col: 66 ,name:"Río Cuarto",display:"Río Cuarto, Αργεντινή",country:"AR"},
+
+
+
+{value:"rio-de-janeiro-rj",col: 118 ,name:"Rio de Janeiro",display:"Rio de Janeiro, Βραζιλία",country:"BR"},
+
+
+
+{value:"rio-gallegos-sc",col: 72 ,name:"Río Gallegos",display:"Río Gallegos, Αργεντινή",country:"AR"},
 
 
 
@@ -1620,15 +2336,31 @@ var SALARY_CITIES = [
 
 
 
-{value:"rochester-ny",col: 92.5 ,name:"Rochester",display:"Rochester, NY, US",country:"US"},
-
-
-
 {value:"rockhampton-qld",col: 68 ,name:"Rockhampton",display:"Rockhampton, Αυστραλία",country:"AU"},
 
 
 
-{value:"rotterdam-nl",col: 78.9 ,name:"Rotterdam",display:"Rotterdam, Ολλανδία",country:"NL"},
+{value:"roeselare-vwv",col: 90 ,name:"Roeselare",display:"Roeselare, Belgium",country:"BE"},
+
+
+
+{value:"rome-laz",col: 115 ,name:"Rome",display:"Rome, Ιταλία",country:"IT"},
+
+
+
+{value:"rondonopolis-mt",col: 89 ,name:"Rondonópolis",display:"Rondonópolis, Βραζιλία",country:"BR"},
+
+
+
+{value:"rosario-sf",col: 82 ,name:"Rosario",display:"Rosario, Αργεντινή",country:"AR"},
+
+
+
+{value:"rouen-nor",col: 88 ,name:"Rouen",display:"Rouen, Γαλλία",country:"FR"},
+
+
+
+{value:"rumelange-es",col: 105 ,name:"Rumelange",display:"Rumelange, Λουξεμβούργο",country:"LU"},
 
 
 
@@ -1636,7 +2368,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"saga-sag",col: 85 ,name:"Saga",display:"Saga, Ιαπωνία",country:"JP"},
+
+
+
+{value:"sagamihara-kng",col: 100 ,name:"Sagamihara",display:"Sagamihara, Ιαπωνία",country:"JP"},
+
+
+
 {value:"saint-paul-mn",col: 104.2 ,name:"Saint Paul",display:"Saint Paul, MN, US",country:"US"},
+
+
+
+{value:"saint-etienne-ara",col: 84 ,name:"Saint-Étienne",display:"Saint-Étienne, Γαλλία",country:"FR"},
+
+
+
+{value:"saitama-sai",col: 95 ,name:"Saitama",display:"Saitama, Ιαπωνία",country:"JP"},
+
+
+
+{value:"sakai-osk",col: 100 ,name:"Sakai",display:"Sakai, Ιαπωνία",country:"JP"},
 
 
 
@@ -1648,11 +2400,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"salta-sal",col: 70 ,name:"Salta",display:"Salta, Αργεντινή",country:"AR"},
+
+
+
 {value:"saltillo-coa",col: 69.8 ,name:"Saltillo",display:"Saltillo, Μεξικό",country:"MX"},
 
 
 
-{value:"san-antonio-tx",col: 92.4 ,name:"San Antonio",display:"San Antonio, TX, US",country:"US"},
+{value:"salvador-ba",col: 95 ,name:"Salvador",display:"Salvador, Βραζιλία",country:"BR"},
 
 
 
@@ -1660,15 +2416,15 @@ var SALARY_CITIES = [
 
 
 
-{value:"san-diego-ca",col: 154.2 ,name:"San Diego",display:"San Diego, CA, US",country:"US"},
+{value:"san-carlos-de-bariloche-rn",col: 82 ,name:"San Carlos de Bariloche",display:"San Carlos de Bariloche, Αργεντινή",country:"AR"},
 
 
 
-{value:"san-francisco-ca",col: 269.3 ,name:"San Francisco",display:"San Francisco, CA, US",country:"US"},
+{value:"catamarca-ct",col: 62 ,name:"San Fernando del Valle de Catamarca",display:"San Fernando del Valle de Catamarca, Αργεντινή",country:"AR"},
 
 
 
-{value:"san-jose-ca",col: 214.5 ,name:"San Jose",display:"San Jose, CA, US",country:"US"},
+{value:"san-juan-sj",col: 68 ,name:"San Juan",display:"San Juan, Αργεντινή",country:"AR"},
 
 
 
@@ -1676,7 +2432,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"san-luis-sl",col: 64 ,name:"San Luis",display:"San Luis, Αργεντινή",country:"AR"},
+
+
+
 {value:"san-miguel-de-allende-gua",col: 82 ,name:"San Miguel de Allende",display:"San Miguel de Allende, Μεξικό",country:"MX"},
+
+
+
+{value:"san-miguel-de-tucuman-tuc",col: 72 ,name:"San Miguel de Tucumán",display:"San Miguel de Tucumán, Αργεντινή",country:"AR"},
+
+
+
+{value:"san-rafael-men",col: 66 ,name:"San Rafael",display:"San Rafael, Αργεντινή",country:"AR"},
+
+
+
+{value:"jujuy-juj",col: 64 ,name:"San Salvador de Jujuy",display:"San Salvador de Jujuy, Αργεντινή",country:"AR"},
 
 
 
@@ -1684,7 +2456,55 @@ var SALARY_CITIES = [
 
 
 
-{value:"santa-fe-nm",col: 112.5 ,name:"Santa Fe",display:"Santa Fe, NM, US",country:"US"},
+{value:"santa-fe-sf",col: 74 ,name:"Santa Fe",display:"Santa Fe, Αργεντινή",country:"AR"},
+
+
+
+{value:"santarem-pt",col: 76 ,name:"Santarém",display:"Santarém, Πορτογαλία",country:"PT"},
+
+
+
+{value:"santarem-pa",col: 85 ,name:"Santarém",display:"Santarém, Βραζιλία",country:"BR"},
+
+
+
+{value:"santiago-del-estero-se",col: 62 ,name:"Santiago del Estero",display:"Santiago del Estero, Αργεντινή",country:"AR"},
+
+
+
+{value:"santo-andre-sp",col: 98 ,name:"Santo André",display:"Santo André, Βραζιλία",country:"BR"},
+
+
+
+{value:"santos-sp",col: 108 ,name:"Santos",display:"Santos, Βραζιλία",country:"BR"},
+
+
+
+{value:"sao-bernardo-do-campo-sp",col: 100 ,name:"São Bernardo do Campo",display:"São Bernardo do Campo, Βραζιλία",country:"BR"},
+
+
+
+{value:"sao-caetano-do-sul-sp",col: 112 ,name:"São Caetano do Sul",display:"São Caetano do Sul, Βραζιλία",country:"BR"},
+
+
+
+{value:"sao-goncalo-rj",col: 88 ,name:"São Gonçalo",display:"São Gonçalo, Βραζιλία",country:"BR"},
+
+
+
+{value:"sao-jose-do-rio-preto-sp",col: 98 ,name:"São José do Rio Preto",display:"São José do Rio Preto, Βραζιλία",country:"BR"},
+
+
+
+{value:"sao-jose-dos-campos-sp",col: 104 ,name:"São José dos Campos",display:"São José dos Campos, Βραζιλία",country:"BR"},
+
+
+
+{value:"sao-luis-ma",col: 89 ,name:"São Luís",display:"São Luís, Βραζιλία",country:"BR"},
+
+
+
+{value:"sao-paulo-sp",col: 120 ,name:"São Paulo",display:"São Paulo, Βραζιλία",country:"BR"},
 
 
 
@@ -1692,15 +2512,35 @@ var SALARY_CITIES = [
 
 
 
+{value:"schaffhausen-sh",col: 105 ,name:"Schaffhausen",display:"Schaffhausen, Ελβετία",country:"CH"},
+
+
+
 {value:"scottsdale-az",col: 118.5 ,name:"Scottsdale",display:"Scottsdale, AZ, US",country:"US"},
 
 
 
-{value:"seattle-wa",col: 172.1 ,name:"Seattle",display:"Seattle, WA, US",country:"US"},
+{value:"setubal-pt",col: 88 ,name:"Setúbal",display:"Setúbal, Πορτογαλία",country:"PT"},
 
 
 
-{value:"serres-cm",col: 78 ,name:"Serres",display:"Serres, Ελλάδα",country:"GR"},
+{value:"shizuoka-szo",col: 93 ,name:"Shizuoka",display:"Shizuoka, Ιαπωνία",country:"JP"},
+
+
+
+{value:"siena-tus",col: 100 ,name:"Siena",display:"Siena, Ιταλία",country:"IT"},
+
+
+
+{value:"sint-niklaas-vov",col: 88 ,name:"Sint-Niklaas",display:"Sint-Niklaas, Belgium",country:"BE"},
+
+
+
+{value:"sintra-pt",col: 105 ,name:"Sintra",display:"Sintra, Πορτογαλία",country:"PT"},
+
+
+
+{value:"sion-vs",col: 100 ,name:"Sion",display:"Sion, Ελβετία",country:"CH"},
 
 
 
@@ -1708,11 +2548,19 @@ var SALARY_CITIES = [
 
 
 
-{value:"sparta-pe",col: 80 ,name:"Sparta",display:"Sparta, Ελλάδα",country:"GR"},
+{value:"sorocaba-sp",col: 96 ,name:"Sorocaba",display:"Sorocaba, Βραζιλία",country:"BR"},
 
 
 
 {value:"spokane-wa",col: 98.5 ,name:"Spokane",display:"Spokane, WA, US",country:"US"},
+
+
+
+{value:"st-gallen-sg",col: 105 ,name:"St. Gallen",display:"St. Gallen, Ελβετία",country:"CH"},
+
+
+
+{value:"sankt-moritz-gr",col: 140 ,name:"St. Moritz",display:"St. Moritz, Ελβετία",country:"CH"},
 
 
 
@@ -1724,11 +2572,11 @@ var SALARY_CITIES = [
 
 
 
+{value:"stuttgart-bw",col: 110 ,name:"Stuttgart",display:"Stuttgart, Γερμανία",country:"DE"},
+
+
+
 {value:"sunshine-coast-qld",col: 84 ,name:"Sunshine Coast",display:"Sunshine Coast, Αυστραλία",country:"AU"},
-
-
-
-{value:"sydney-nsw",col: 100 ,name:"Sydney",display:"Sydney, Αυστραλία",country:"AU"},
 
 
 
@@ -1736,11 +2584,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"takamatsu-kgw",col: 90 ,name:"Takamatsu",display:"Takamatsu, Ιαπωνία",country:"JP"},
+
+
+
+{value:"takasaki-gum",col: 86 ,name:"Takasaki",display:"Takasaki, Ιαπωνία",country:"JP"},
+
+
+
 {value:"tallahassee-fl",col: 96.5 ,name:"Tallahassee",display:"Tallahassee, FL, US",country:"US"},
 
 
 
-{value:"tampa-fl",col: 102.8 ,name:"Tampa",display:"Tampa, FL, US",country:"US"},
+{value:"tandil-ba",col: 68 ,name:"Tandil",display:"Tandil, Αργεντινή",country:"AR"},
+
+
+
+{value:"taubate-sp",col: 94 ,name:"Taubaté",display:"Taubaté, Βραζιλία",country:"BR"},
 
 
 
@@ -1748,11 +2608,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"the-hague-nl",col: 75.6 ,name:"The Hague",display:"The Hague, Ολλανδία",country:"NL"},
+{value:"teresina-pi",col: 87 ,name:"Teresina",display:"Teresina, Βραζιλία",country:"BR"},
 
 
 
-{value:"thessaloniki-cm",col: 92 ,name:"Thessaloniki",display:"Thessaloniki, Ελλάδα",country:"GR"},
+{value:"thun-be",col: 100 ,name:"Thun",display:"Thun, Ελβετία",country:"CH"},
 
 
 
@@ -1760,7 +2620,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"tilburg-nl",col: 73 ,name:"Tilburg",display:"Tilburg, Ολλανδία",country:"NL"},
+{value:"tokushima-tks",col: 86 ,name:"Tokushima",display:"Tokushima, Ιαπωνία",country:"JP"},
 
 
 
@@ -1776,11 +2636,23 @@ var SALARY_CITIES = [
 
 
 
-{value:"toronto-ca",col: 128.4 ,name:"Toronto",display:"Toronto, Καναδάς",country:"CA"},
-
-
-
 {value:"torreon-coa",col: 67.8 ,name:"Torreón",display:"Torreón, Μεξικό",country:"MX"},
+
+
+
+{value:"tottori-ttr",col: 84 ,name:"Tottori",display:"Tottori, Ιαπωνία",country:"JP"},
+
+
+
+{value:"toulon-pac",col: 90 ,name:"Toulon",display:"Toulon, Γαλλία",country:"FR"},
+
+
+
+{value:"tournai-wht",col: 85 ,name:"Tournai",display:"Tournai, Belgium",country:"BE"},
+
+
+
+{value:"tours-cvl",col: 88 ,name:"Tours",display:"Tours, Γαλλία",country:"FR"},
 
 
 
@@ -1788,7 +2660,27 @@ var SALARY_CITIES = [
 
 
 
-{value:"trikala-th",col: 80 ,name:"Trikala",display:"Trikala, Ελλάδα",country:"GR"},
+{value:"toyama-tym",col: 90 ,name:"Toyama",display:"Toyama, Ιαπωνία",country:"JP"},
+
+
+
+{value:"toyonaka-osk",col: 102 ,name:"Toyonaka",display:"Toyonaka, Ιαπωνία",country:"JP"},
+
+
+
+{value:"trebic-cz",col: 78 ,name:"Třebíč",display:"Třebíč, Τσεχία",country:"CZ"},
+
+
+
+{value:"trelew-pz",col: 66 ,name:"Trelew",display:"Trelew, Αργεντινή",country:"AR"},
+
+
+
+{value:"trieste-fvg",col: 95 ,name:"Trieste",display:"Trieste, Ιταλία",country:"IT"},
+
+
+
+{value:"tsu-mie",col: 87 ,name:"Tsu",display:"Tsu, Ιαπωνία",country:"JP"},
 
 
 
@@ -1800,11 +2692,35 @@ var SALARY_CITIES = [
 
 
 
-{value:"utrecht-nl",col: 76.5 ,name:"Utrecht",display:"Utrecht, Ολλανδία",country:"NL"},
+{value:"turin-pie",col: 95 ,name:"Turin",display:"Turin, Ιταλία",country:"IT"},
 
 
 
-{value:"vancouver-ca",col: 142.6 ,name:"Vancouver",display:"Vancouver, Καναδάς",country:"CA"},
+{value:"turnhout-van",col: 85 ,name:"Turnhout",display:"Turnhout, Belgium",country:"BE"},
+
+
+
+{value:"uberaba-mg",col: 92 ,name:"Uberaba",display:"Uberaba, Βραζιλία",country:"BR"},
+
+
+
+{value:"uberlandia-mg",col: 95 ,name:"Uberlândia",display:"Uberlândia, Βραζιλία",country:"BR"},
+
+
+
+{value:"ushuaia-tdf",col: 80 ,name:"Ushuaia",display:"Ushuaia, Αργεντινή",country:"AR"},
+
+
+
+{value:"usti-nad-labem-cz",col: 82 ,name:"Ústí nad Labem",display:"Ústí nad Labem, Τσεχία",country:"CZ"},
+
+
+
+{value:"utsunomiya-tch",col: 90 ,name:"Utsunomiya",display:"Utsunomiya, Ιαπωνία",country:"JP"},
+
+
+
+{value:"venice-ven",col: 110 ,name:"Venice",display:"Venice, Ιταλία",country:"IT"},
 
 
 
@@ -1812,7 +2728,27 @@ var SALARY_CITIES = [
 
 
 
-{value:"victoria-ca",col: 112.4 ,name:"Victoria",display:"Victoria, Καναδάς",country:"CA"},
+{value:"verona-ven",col: 100 ,name:"Verona",display:"Verona, Ιταλία",country:"IT"},
+
+
+
+{value:"verviers-wlg",col: 80 ,name:"Verviers",display:"Verviers, Belgium",country:"BE"},
+
+
+
+{value:"viana-do-castelo-pt",col: 75 ,name:"Viana do Castelo",display:"Viana do Castelo, Πορτογαλία",country:"PT"},
+
+
+
+{value:"viedma-rn",col: 64 ,name:"Viedma",display:"Viedma, Αργεντινή",country:"AR"},
+
+
+
+{value:"vila-nova-de-gaia-pt",col: 88 ,name:"Vila Nova de Gaia",display:"Vila Nova de Gaia, Πορτογαλία",country:"PT"},
+
+
+
+{value:"villa-maria-cord",col: 64 ,name:"Villa María",display:"Villa María, Αργεντινή",country:"AR"},
 
 
 
@@ -1820,15 +2756,23 @@ var SALARY_CITIES = [
 
 
 
-{value:"virginia-beach-va",col: 104.2 ,name:"Virginia Beach",display:"Virginia Beach, VA, US",country:"US"},
+{value:"viseu-pt",col: 78 ,name:"Viseu",display:"Viseu, Πορτογαλία",country:"PT"},
 
 
 
-{value:"volos-th",col: 88 ,name:"Volos",display:"Volos, Ελλάδα",country:"GR"},
+{value:"vitoria-es",col: 102 ,name:"Vitória",display:"Vitória, Βραζιλία",country:"BR"},
 
 
 
-{value:"washington-dc",col: 152.1 ,name:"Washington DC",display:"Washington DC, DC, US",country:"US"},
+{value:"volta-redonda-rj",col: 93 ,name:"Volta Redonda",display:"Volta Redonda, Βραζιλία",country:"BR"},
+
+
+
+{value:"wakayama-wky",col: 88 ,name:"Wakayama",display:"Wakayama, Ιαπωνία",country:"JP"},
+
+
+
+{value:"waterloo-wbr",col: 100 ,name:"Waterloo",display:"Waterloo, Belgium",country:"BE"},
 
 
 
@@ -1836,15 +2780,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"wiesbaden-he",col: 100 ,name:"Wiesbaden",display:"Wiesbaden, Γερμανία",country:"DE"},
+
+
+
 {value:"wilmington-nc",col: 98.5 ,name:"Wilmington",display:"Wilmington, NC, US",country:"US"},
 
 
 
-{value:"winnipeg-ca",col: 88.6 ,name:"Winnipeg",display:"Winnipeg, Καναδάς",country:"CA"},
+{value:"wiltz-wi",col: 100 ,name:"Wiltz",display:"Wiltz, Λουξεμβούργο",country:"LU"},
 
 
 
 {value:"winston-salem-nc",col: 92.5 ,name:"Winston-Salem",display:"Winston-Salem, NC, US",country:"US"},
+
+
+
+{value:"winterthur-zh",col: 115 ,name:"Winterthur",display:"Winterthur, Ελβετία",country:"CH"},
 
 
 
@@ -1856,7 +2808,683 @@ var SALARY_CITIES = [
 
 
 
+{value:"yamagata-ymt",col: 86 ,name:"Yamagata",display:"Yamagata, Ιαπωνία",country:"JP"},
+
+
+
+{value:"yamaguchi-ygc",col: 85 ,name:"Yamaguchi",display:"Yamaguchi, Ιαπωνία",country:"JP"},
+
+
+
 {value:"zacatecas-zac",col: 62.5 ,name:"Zacatecas",display:"Zacatecas, Μεξικό",country:"MX"},
+
+
+
+{value:"zermatt-vs",col: 135 ,name:"Zermatt",display:"Zermatt, Ελβετία",country:"CH"},
+
+
+
+{value:"zlin-cz",col: 85 ,name:"Zlín",display:"Zlín, Τσεχία",country:"CZ"},
+
+
+
+{value:"zug-zg",col: 125 ,name:"Zug",display:"Zug, Ελβετία",country:"CH"},
+
+
+
+{value:"zurich-zh",col: 130 ,name:"Zurich",display:"Zurich, Ελβετία",country:"CH"},
+
+
+
+{value:"agrinio-wg",col: 78 ,name:"Αγρίνιο",display:"Αγρίνιο, Ελλάδα",country:"GR"},
+
+
+
+{value:"adelaide-sa",col: 82 ,name:"Αδελαΐδα",display:"Αδελαΐδα, Αυστραλία",country:"AU"},
+
+
+
+{value:"athens-att",col: 100 ,name:"Αθήνα",display:"Αθήνα, Ελλάδα",country:"GR"},
+
+
+
+{value:"eindhoven-nl",col: 74.5 ,name:"Αϊντχόφεν",display:"Αϊντχόφεν, Ολλανδία",country:"NL"},
+
+
+
+{value:"alexandroupoli-em",col: 84 ,name:"Αλεξανδρούπολη",display:"Αλεξανδρούπολη, Ελλάδα",country:"GR"},
+
+
+
+{value:"alicante-val",col: 88 ,name:"Αλικάντε",display:"Αλικάντε, Ισπανία",country:"ES"},
+
+
+
+{value:"amsterdam-nl",col: 82.1 ,name:"Άμστερνταμ",display:"Άμστερνταμ, Ολλανδία",country:"NL"},
+
+
+
+{value:"atlanta-ga",col: 104.7 ,name:"Ατλάντα",display:"Ατλάντα, GA, US",country:"US"},
+
+
+
+{value:"valladolid-cle",col: 82 ,name:"Βαγιαδολίδ",display:"Βαγιαδολίδ, Ισπανία",country:"ES"},
+
+
+
+{value:"valencia-val",col: 95 ,name:"Βαλένθια",display:"Βαλένθια, Ισπανία",country:"ES"},
+
+
+
+{value:"baltimore-md",col: 108.4 ,name:"Βαλτιμόρη",display:"Βαλτιμόρη, MD, US",country:"US"},
+
+
+
+{value:"vancouver-ca",col: 142.6 ,name:"Βανκούβερ",display:"Βανκούβερ, Καναδάς",country:"CA"},
+
+
+
+{value:"barcelona-cat",col: 110 ,name:"Βαρκελώνη",display:"Βαρκελώνη, Ισπανία",country:"ES"},
+
+
+
+{value:"vigo-gal",col: 85 ,name:"Βίγο",display:"Βίγο, Ισπανία",country:"ES"},
+
+
+
+{value:"victoria-ca",col: 112.4 ,name:"Βικτώρια",display:"Βικτώρια, Καναδάς",country:"CA"},
+
+
+
+{value:"virginia-beach-va",col: 104.2 ,name:"Βιρτζίνια Μπιτς",display:"Βιρτζίνια Μπιτς, VA, US",country:"US"},
+
+
+
+{value:"volos-th",col: 88 ,name:"Βόλος",display:"Βόλος, Ελλάδα",country:"GR"},
+
+
+
+{value:"boston-ma",col: 153.2 ,name:"Βοστώνη",display:"Βοστώνη, MA, US",country:"US"},
+
+
+
+{value:"yokohama-kng",col: 115 ,name:"Γιοκοχάμα",display:"Γιοκοχάμα, Ιαπωνία",country:"JP"},
+
+
+
+{value:"grenoble-ara",col: 92 ,name:"Γκρενόμπλ",display:"Γκρενόμπλ, Γαλλία",country:"FR"},
+
+
+
+{value:"glasgow-gb",col: 88.4 ,name:"Γλασκώβη",display:"Γλασκώβη, ΗΒ",country:"GB"},
+
+
+
+{value:"winnipeg-ca",col: 88.6 ,name:"Γουίνιπεγκ",display:"Γουίνιπεγκ, Καναδάς",country:"CA"},
+
+
+
+{value:"granada-and",col: 88 ,name:"Γρανάδα",display:"Γρανάδα, Ισπανία",country:"ES"},
+
+
+
+{value:"delphi-cp",col: 85 ,name:"Δελφοί",display:"Δελφοί, Ελλάδα",country:"GR"},
+
+
+
+{value:"edinburgh-gb",col: 105.8 ,name:"Εδιμβούργο",display:"Εδιμβούργο, ΗΒ",country:"GB"},
+
+
+
+{value:"el-paso-tx",col: 88.5 ,name:"Ελ Πάσο",display:"Ελ Πάσο, TX, US",country:"US"},
+
+
+
+{value:"edmonton-ca",col: 97.4 ,name:"Έντμοντον",display:"Έντμοντον, Καναδάς",country:"CA"},
+
+
+
+{value:"heraklion-cr",col: 96 ,name:"Ηράκλειο",display:"Ηράκλειο, Ελλάδα",country:"GR"},
+
+
+
+{value:"thessaloniki-cm",col: 92 ,name:"Θεσσαλονίκη",display:"Θεσσαλονίκη, Ελλάδα",country:"GR"},
+
+
+
+{value:"indianapolis-in",col: 91.5 ,name:"Ιντιανάπολις",display:"Ιντιανάπολις, IN, US",country:"US"},
+
+
+
+{value:"ioannina-ep",col: 82 ,name:"Ιωάννινα",display:"Ιωάννινα, Ελλάδα",country:"GR"},
+
+
+
+{value:"kavala-em",col: 80 ,name:"Καβάλα",display:"Καβάλα, Ελλάδα",country:"GR"},
+
+
+
+{value:"cádiz-and",col: 85 ,name:"Κάδιθ",display:"Κάδιθ, Ισπανία",country:"ES"},
+
+
+
+{value:"kalamata-pe",col: 88 ,name:"Καλαμάτα",display:"Καλαμάτα, Ελλάδα",country:"GR"},
+
+
+
+{value:"calgary-ca",col: 105.7 ,name:"Κάλγκαρι",display:"Κάλγκαρι, Καναδάς",country:"CA"},
+
+
+
+{value:"canberra-act",col: 90 ,name:"Καμπέρα",display:"Καμπέρα, Αυστραλία",country:"AU"},
+
+
+
+{value:"cardiff-gb",col: 89.2 ,name:"Κάρντιφ",display:"Κάρντιφ, ΗΒ",country:"GB"},
+
+
+
+{value:"katerini-cm",col: 80 ,name:"Κατερίνη",display:"Κατερίνη, Ελλάδα",country:"GR"},
+
+
+
+{value:"quebec-city-ca",col: 87.2 ,name:"Κεμπέκ",display:"Κεμπέκ, Καναδάς",country:"CA"},
+
+
+
+{value:"corfu-ii",col: 95 ,name:"Κέρκυρα",display:"Κέρκυρα, Ελλάδα",country:"GR"},
+
+
+
+{value:"kyoto-kyo",col: 112 ,name:"Κιότο",display:"Κιότο, Ιαπωνία",country:"JP"},
+
+
+
+{value:"cleveland-oh",col: 90.2 ,name:"Κλίβελαντ",display:"Κλίβελαντ, OH, US",country:"US"},
+
+
+
+{value:"kozani-wm",col: 75 ,name:"Κοζάνη",display:"Κοζάνη, Ελλάδα",country:"GR"},
+
+
+
+{value:"columbus-oh",col: 92.1 ,name:"Κολόμπους",display:"Κολόμπους, OH, US",country:"US"},
+
+
+
+{value:"kobe-hyg",col: 108 ,name:"Κόμπε",display:"Κόμπε, Ιαπωνία",country:"JP"},
+
+
+
+{value:"cordoba-and",col: 85 ,name:"Κόρδοβα",display:"Κόρδοβα, Ισπανία",country:"ES"},
+
+
+
+{value:"kumamoto-kmm",col: 92 ,name:"Κουμαμότο",display:"Κουμαμότο, Ιαπωνία",country:"JP"},
+
+
+
+{value:"a-coruna-gal",col: 86 ,name:"Λα Κορούνια",display:"Λα Κορούνια, Ισπανία",country:"ES"},
+
+
+
+{value:"lamia-cp",col: 82 ,name:"Λαμία",display:"Λαμία, Ελλάδα",country:"GR"},
+
+
+
+{value:"larissa-th",col: 85 ,name:"Λάρισα",display:"Λάρισα, Ελλάδα",country:"GR"},
+
+
+
+{value:"las-vegas-nv",col: 102.4 ,name:"Λας Βέγκας",display:"Λας Βέγκας, NV, US",country:"US"},
+
+
+
+{value:"leiden-nl",col: 76 ,name:"Λέιντεν",display:"Λέιντεν, Ολλανδία",country:"NL"},
+
+
+
+{value:"leon-cle",col: 82 ,name:"Λεόν",display:"Λεόν, Ισπανία",country:"ES"},
+
+
+
+{value:"liverpool-gb",col: 86.5 ,name:"Λίβερπουλ",display:"Λίβερπουλ, ΗΒ",country:"GB"},
+
+
+
+{value:"lleida-cat",col: 82 ,name:"Λιέιδα",display:"Λιέιδα, Ισπανία",country:"ES"},
+
+
+
+{value:"lille-hdf",col: 90 ,name:"Λιλ",display:"Λιλ, Γαλλία",country:"FR"},
+
+
+
+{value:"leeds-gb",col: 91.7 ,name:"Λιντς",display:"Λιντς, ΗΒ",country:"GB"},
+
+
+
+{value:"logrono-rio",col: 84 ,name:"Λογρόνιο",display:"Λογρόνιο, Ισπανία",country:"ES"},
+
+
+
+{value:"london-gb",col: 135.2 ,name:"Λονδίνο",display:"Λονδίνο, ΗΒ",country:"GB"},
+
+
+
+{value:"los-angeles-ca",col: 173.3 ,name:"Λος Άντζελες",display:"Λος Άντζελες, CA, US",country:"US"},
+
+
+
+{value:"lyon-ara",col: 100 ,name:"Λυών",display:"Λυών, Γαλλία",country:"FR"},
+
+
+
+{value:"maastricht-nl",col: 74 ,name:"Μάαστριχτ",display:"Μάαστριχτ, Ολλανδία",country:"NL"},
+
+
+
+{value:"madrid-mad",col: 105 ,name:"Μαδρίτη",display:"Μαδρίτη, Ισπανία",country:"ES"},
+
+
+
+{value:"miami-fl",col: 145.6 ,name:"Μαϊάμι",display:"Μαϊάμι, FL, US",country:"US"},
+
+
+
+{value:"manchester-gb",col: 98.5 ,name:"Μάντσεστερ",display:"Μάντσεστερ, ΗΒ",country:"GB"},
+
+
+
+{value:"manchester-nh",col: 108.5 ,name:"Μάντσεστερ",display:"Μάντσεστερ, NH, US",country:"US"},
+
+
+
+{value:"marseille-pac",col: 95 ,name:"Μασσαλία",display:"Μασσαλία, Γαλλία",country:"FR"},
+
+
+
+{value:"melbourne-vic",col: 95 ,name:"Μελβούρνη",display:"Μελβούρνη, Αυστραλία",country:"AU"},
+
+
+
+{value:"milwaukee-wi",col: 95.2 ,name:"Μιλγουόκι",display:"Μιλγουόκι, WI, US",country:"US"},
+
+
+
+{value:"minneapolis-mn",col: 106.5 ,name:"Μινεάπολη",display:"Μινεάπολη, MN, US",country:"US"},
+
+
+
+{value:"montpellier-occ",col: 93 ,name:"Μονπελιέ",display:"Μονπελιέ, Γαλλία",country:"FR"},
+
+
+
+{value:"montreal-ca",col: 98.3 ,name:"Μόντρεαλ",display:"Μόντρεαλ, Καναδάς",country:"CA"},
+
+
+
+{value:"murcia-mur",col: 85 ,name:"Μούρθια",display:"Μούρθια, Ισπανία",country:"ES"},
+
+
+
+{value:"badajoz-ext",col: 80 ,name:"Μπαδαχόθ",display:"Μπαδαχόθ, Ισπανία",country:"ES"},
+
+
+
+{value:"buffalo-ny",col: 92.5 ,name:"Μπάφαλο",display:"Μπάφαλο, NY, US",country:"US"},
+
+
+
+{value:"belfast-gb",col: 84.1 ,name:"Μπέλφαστ",display:"Μπέλφαστ, ΗΒ",country:"GB"},
+
+
+
+{value:"burlington-vt",col: 112.5 ,name:"Μπέρλινγκτον",display:"Μπέρλινγκτον, VT, US",country:"US"},
+
+
+
+{value:"birmingham-gb",col: 92.3 ,name:"Μπέρμιγχαμ",display:"Μπέρμιγχαμ, ΗΒ",country:"GB"},
+
+
+
+{value:"bilbao-pv",col: 98 ,name:"Μπιλμπάο",display:"Μπιλμπάο, Ισπανία",country:"ES"},
+
+
+
+{value:"bordeaux-naq",col: 100 ,name:"Μπορντό",display:"Μπορντό, Γαλλία",country:"FR"},
+
+
+
+{value:"buenos-aires-caba",col: 100 ,name:"Μπουένος Άιρες",display:"Μπουένος Άιρες, Αργεντινή",country:"AR"},
+
+
+
+{value:"burgos-cle",col: 82 ,name:"Μπούργος",display:"Μπούργος, Ισπανία",country:"ES"},
+
+
+
+{value:"brisbane-qld",col: 88 ,name:"Μπρίσμπεϊν",display:"Μπρίσμπεϊν, Αυστραλία",country:"AU"},
+
+
+
+{value:"bristol-gb",col: 102.1 ,name:"Μπρίστολ",display:"Μπρίστολ, ΗΒ",country:"GB"},
+
+
+
+{value:"mytilene-na",col: 86 ,name:"Μυτιλήνη",display:"Μυτιλήνη, Ελλάδα",country:"GR"},
+
+
+
+{value:"nagasaki-ngs",col: 88 ,name:"Ναγκασάκι",display:"Ναγκασάκι, Ιαπωνία",country:"JP"},
+
+
+
+{value:"nagoya-aic",col: 105 ,name:"Ναγκόγια",display:"Ναγκόγια, Ιαπωνία",country:"JP"},
+
+
+
+{value:"nantes-pdl",col: 92 ,name:"Νάντη",display:"Νάντη, Γαλλία",country:"FR"},
+
+
+
+{value:"nashville-tn",col: 100.5 ,name:"Νάσβιλ",display:"Νάσβιλ, TN, US",country:"US"},
+
+
+
+{value:"nafplio-pe",col: 92 ,name:"Ναύπλιο",display:"Ναύπλιο, Ελλάδα",country:"GR"},
+
+
+
+{value:"new-orleans-la",col: 98.5 ,name:"Νέα Ορλεάνη",display:"Νέα Ορλεάνη, LA, US",country:"US"},
+
+
+
+{value:"nyc",col: 187.2 ,name:"Νέα Υόρκη",display:"Νέα Υόρκη, NY, US",country:"US",selected:true},
+
+
+
+{value:"nice-pac",col: 108 ,name:"Νίκαια",display:"Νίκαια, Γαλλία",country:"FR"},
+
+
+
+{value:"norfolk-va",col: 98.5 ,name:"Νόρφολκ",display:"Νόρφολκ, VA, US",country:"US"},
+
+
+
+{value:"dallas-tx",col: 101.3 ,name:"Ντάλας",display:"Ντάλας, TX, US",country:"US"},
+
+
+
+{value:"darwin-nt",col: 78 ,name:"Ντάργουιν",display:"Ντάργουιν, Αυστραλία",country:"AU"},
+
+
+
+{value:"delft-nl",col: 75 ,name:"Ντελφτ",display:"Ντελφτ, Ολλανδία",country:"NL"},
+
+
+
+{value:"denver-co",col: 128.5 ,name:"Ντένβερ",display:"Ντένβερ, CO, US",country:"US"},
+
+
+
+{value:"detroit-mi",col: 92.8 ,name:"Ντιτρόιτ",display:"Ντιτρόιτ, MI, US",country:"US"},
+
+
+
+{value:"oviedo-ast",col: 85 ,name:"Οβιέδο",display:"Οβιέδο, Ισπανία",country:"ES"},
+
+
+
+{value:"olympia-wg",col: 82 ,name:"Ολυμπία",display:"Ολυμπία, Ελλάδα",country:"GR"},
+
+
+
+{value:"orlando-fl",col: 98.5 ,name:"Ορλάντο",display:"Ορλάντο, FL, US",country:"US"},
+
+
+
+{value:"osaka-osk",col: 110 ,name:"Οσάκα",display:"Οσάκα, Ιαπωνία",country:"JP"},
+
+
+
+{value:"ottawa-ca",col: 101.2 ,name:"Οττάβα",display:"Οττάβα, Καναδάς",country:"CA"},
+
+
+
+{value:"washington-dc",col: 152.1 ,name:"Ουάσινγκτον",display:"Ουάσινγκτον, DC, US",country:"US"},
+
+
+
+{value:"huelva-and",col: 80 ,name:"Ουέλβα",display:"Ουέλβα, Ισπανία",country:"ES"},
+
+
+
+{value:"utrecht-nl",col: 76.5 ,name:"Ουτρέχτη",display:"Ουτρέχτη, Ολλανδία",country:"NL"},
+
+
+
+{value:"palma-bal",col: 100 ,name:"Πάλμα",display:"Πάλμα, Ισπανία",country:"ES"},
+
+
+
+{value:"pamplona-nav",col: 90 ,name:"Παμπλόνα",display:"Παμπλόνα, Ισπανία",country:"ES"},
+
+
+
+{value:"paris-idf",col: 120 ,name:"Παρίσι",display:"Παρίσι, Γαλλία",country:"FR"},
+
+
+
+{value:"patras-wg",col: 84 ,name:"Πάτρα",display:"Πάτρα, Ελλάδα",country:"GR"},
+
+
+
+{value:"perth-wa",col: 85 ,name:"Περθ",display:"Περθ, Αυστραλία",country:"AU"},
+
+
+
+{value:"pittsburgh-pa",col: 94.5 ,name:"Πίτσμπουργκ",display:"Πίτσμπουργκ, PA, US",country:"US"},
+
+
+
+{value:"mexico-city-cmx",col: 85.3 ,name:"Πόλη του Μεξικού",display:"Πόλη του Μεξικού, Μεξικό",country:"MX"},
+
+
+
+{value:"portland-me",col: 112.5 ,name:"Πόρτλαντ",display:"Πόρτλαντ, ME, US",country:"US"},
+
+
+
+{value:"portland-or",col: 118.2 ,name:"Πόρτλαντ",display:"Πόρτλαντ, OR, US",country:"US"},
+
+
+
+{value:"providence-ri",col: 118.5 ,name:"Προβίντενς",display:"Προβίντενς, RI, US",country:"US"},
+
+
+
+{value:"raleigh-nc",col: 102.4 ,name:"Ράλεϊ",display:"Ράλεϊ, NC, US",country:"US"},
+
+
+
+{value:"rennes-bre",col: 90 ,name:"Ρεν",display:"Ρεν, Γαλλία",country:"FR"},
+
+
+
+{value:"richmond-va",col: 98.5 ,name:"Ρίτσμοντ",display:"Ρίτσμοντ, VA, US",country:"US"},
+
+
+
+{value:"rhodes-sa",col: 95 ,name:"Ρόδος",display:"Ρόδος, Ελλάδα",country:"GR"},
+
+
+
+{value:"rotterdam-nl",col: 78.9 ,name:"Ρότερνταμ",display:"Ρότερνταμ, Ολλανδία",country:"NL"},
+
+
+
+{value:"rochester-ny",col: 92.5 ,name:"Ρότσεστερ",display:"Ρότσεστερ, NY, US",country:"US"},
+
+
+
+{value:"salamanca-cle",col: 82 ,name:"Σαλαμάνκα",display:"Σαλαμάνκα, Ισπανία",country:"ES"},
+
+
+
+{value:"san-antonio-tx",col: 92.4 ,name:"Σαν Αντόνιο",display:"Σαν Αντόνιο, TX, US",country:"US"},
+
+
+
+{value:"san-diego-ca",col: 154.2 ,name:"Σαν Ντιέγκο",display:"Σαν Ντιέγκο, CA, US",country:"US"},
+
+
+
+{value:"san-sebastián-pv",col: 110 ,name:"Σαν Σεμπαστιάν",display:"Σαν Σεμπαστιάν, Ισπανία",country:"ES"},
+
+
+
+{value:"san-francisco-ca",col: 269.3 ,name:"Σαν Φρανσίσκο",display:"Σαν Φρανσίσκο, CA, US",country:"US"},
+
+
+
+{value:"san-jose-ca",col: 214.5 ,name:"Σαν Χοσέ",display:"Σαν Χοσέ, CA, US",country:"US"},
+
+
+
+{value:"santa-fe-nm",col: 112.5 ,name:"Σάντα Φε",display:"Σάντα Φε, NM, US",country:"US"},
+
+
+
+{value:"santander-cant",col: 88 ,name:"Σανταντέρ",display:"Σανταντέρ, Ισπανία",country:"ES"},
+
+
+
+{value:"sapporo-hkd",col: 95 ,name:"Σαππόρο",display:"Σαππόρο, Ιαπωνία",country:"JP"},
+
+
+
+{value:"zaragoza-ara",col: 88 ,name:"Σαραγόσα",display:"Σαραγόσα, Ισπανία",country:"ES"},
+
+
+
+{value:"charlotte-nc",col: 98.2 ,name:"Σάρλοτ",display:"Σάρλοτ, NC, US",country:"US"},
+
+
+
+{value:"seville-and",col: 92 ,name:"Σεβίλλη",display:"Σεβίλλη, Ισπανία",country:"ES"},
+
+
+
+{value:"sendai-myg",col: 95 ,name:"Σεντάι",display:"Σεντάι, Ιαπωνία",country:"JP"},
+
+
+
+{value:"serres-cm",col: 78 ,name:"Σέρρες",display:"Σέρρες, Ελλάδα",country:"GR"},
+
+
+
+{value:"seattle-wa",col: 172.1 ,name:"Σιάτλ",display:"Σιάτλ, WA, US",country:"US"},
+
+
+
+{value:"sydney-nsw",col: 100 ,name:"Σίδνεϊ",display:"Σίδνεϊ, Αυστραλία",country:"AU"},
+
+
+
+{value:"chicago-il",col: 110.8 ,name:"Σικάγο",display:"Σικάγο, IL, US",country:"US"},
+
+
+
+{value:"cincinnati-oh",col: 92.8 ,name:"Σινσινάτι",display:"Σινσινάτι, OH, US",country:"US"},
+
+
+
+{value:"sparta-pe",col: 80 ,name:"Σπάρτη",display:"Σπάρτη, Ελλάδα",country:"GR"},
+
+
+
+{value:"strasbourg-ges",col: 98 ,name:"Στρασβούργο",display:"Στρασβούργο, Γαλλία",country:"FR"},
+
+
+
+{value:"tampa-fl",col: 102.8 ,name:"Τάμπα",display:"Τάμπα, FL, US",country:"US"},
+
+
+
+{value:"tarragona-cat",col: 88 ,name:"Ταρραγόνα",display:"Ταρραγόνα, Ισπανία",country:"ES"},
+
+
+
+{value:"tilburg-nl",col: 73 ,name:"Τίλμπουργκ",display:"Τίλμπουργκ, Ολλανδία",country:"NL"},
+
+
+
+{value:"tokyo-tky",col: 130 ,name:"Τόκιο",display:"Τόκιο, Ιαπωνία",country:"JP"},
+
+
+
+{value:"toledo-clm",col: 85 ,name:"Τολέδο",display:"Τολέδο, Ισπανία",country:"ES"},
+
+
+
+{value:"toronto-ca",col: 128.4 ,name:"Τορόντο",display:"Τορόντο, Καναδάς",country:"CA"},
+
+
+
+{value:"toulouse-occ",col: 95 ,name:"Τουλούζη",display:"Τουλούζη, Γαλλία",country:"FR"},
+
+
+
+{value:"trikala-th",col: 80 ,name:"Τρίκαλα",display:"Τρίκαλα, Ελλάδα",country:"GR"},
+
+
+
+{value:"philadelphia-pa",col: 108.5 ,name:"Φιλαδέλφεια",display:"Φιλαδέλφεια, PA, US",country:"US"},
+
+
+
+{value:"phoenix-az",col: 108.2 ,name:"Φοίνιξ",display:"Φοίνιξ, AZ, US",country:"US"},
+
+
+
+{value:"fukuoka-fko",col: 100 ,name:"Φουκουόκα",display:"Φουκουόκα, Ιαπωνία",country:"JP"},
+
+
+
+{value:"the-hague-nl",col: 75.6 ,name:"Χάγη",display:"Χάγη, Ολλανδία",country:"NL"},
+
+
+
+{value:"halifax-ca",col: 93.5 ,name:"Χάλιφαξ",display:"Χάλιφαξ, Καναδάς",country:"CA"},
+
+
+
+{value:"chalcis-cp",col: 90 ,name:"Χαλκίδα",display:"Χαλκίδα, Ελλάδα",country:"GR"},
+
+
+
+{value:"chania-cr",col: 94 ,name:"Χανιά",display:"Χανιά, Ελλάδα",country:"GR"},
+
+
+
+{value:"houston-tx",col: 95.8 ,name:"Χιούστον",display:"Χιούστον, TX, US",country:"US"},
+
+
+
+{value:"hiroshima-hrs",col: 98 ,name:"Χιροσίμα",display:"Χιροσίμα, Ιαπωνία",country:"JP"},
+
+
+
+{value:"gijon-ast",col: 84 ,name:"Χιχόν",display:"Χιχόν, Ισπανία",country:"ES"},
+
+
+
+{value:"hobart-tas",col: 76 ,name:"Χόμπαρτ",display:"Χόμπαρτ, Αυστραλία",country:"AU"},
+
+
+
+{value:"groningen-nl",col: 71 ,name:"Χρόνινγκεν",display:"Χρόνινγκεν, Ολλανδία",country:"NL"},
 
 ];
 
