@@ -274,7 +274,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"aalst-vov",col: 88 ,name:"Aalst",display:"Aalst, Belgium",country:"BE"},
+{value:"aalst-vov",col: 88 ,name:"Aalst",display:"Aalst, Belgio",country:"BE"},
 
 
 
@@ -362,7 +362,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"alytus-al",col: 70 ,name:"Alytus",display:"Alytus, Lithuania",country:"LT"},
+{value:"alytus-al",col: 70 ,name:"Alytus",display:"Alytus, Lituania",country:"LT"},
 
 
 
@@ -378,7 +378,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"anapolis-go",col: 90 ,name:"Anápolis",display:"Anápolis, Brazil",country:"BR"},
+{value:"anapolis-go",col: 90 ,name:"Anápolis",display:"Anápolis, Brasile",country:"BR"},
 
 
 
@@ -414,7 +414,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"antwerp-van",col: 105 ,name:"Antwerp",display:"Antwerp, Belgium",country:"BE"},
+{value:"antwerp-van",col: 105 ,name:"Antwerp",display:"Antwerp, Belgio",country:"BE"},
 
 
 
@@ -422,7 +422,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"aparecida-de-goiania-go",col: 88 ,name:"Aparecida de Goiânia",display:"Aparecida de Goiânia, Brazil",country:"BR"},
+{value:"aparecida-de-goiania-go",col: 88 ,name:"Aparecida de Goiânia",display:"Aparecida de Goiânia, Brasile",country:"BR"},
 
 
 
@@ -430,7 +430,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"aracaju-se",col: 88 ,name:"Aracaju",display:"Aracaju, Brazil",country:"BR"},
+{value:"aracaju-se",col: 88 ,name:"Aracaju",display:"Aracaju, Brasile",country:"BR"},
 
 
 
@@ -446,7 +446,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"arlon-wlx",col: 88 ,name:"Arlon",display:"Arlon, Belgium",country:"BE"},
+{value:"arlon-wlx",col: 88 ,name:"Arlon",display:"Arlon, Belgio",country:"BE"},
 
 
 
@@ -486,7 +486,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"athlone-wh",col: 90 ,name:"Athlone",display:"Athlone, Ireland",country:"IE"},
+{value:"athlone-wh",col: 90 ,name:"Athlone",display:"Athlone, Irlanda",country:"IE"},
 
 
 
@@ -570,7 +570,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"banska-bystrica-bc",col: 78 ,name:"Banská Bystrica",display:"Banská Bystrica, Slovakia",country:"SK"},
+{value:"banska-bystrica-bc",col: 78 ,name:"Banská Bystrica",display:"Banská Bystrica, Slovacchia",country:"SK"},
 
 
 
@@ -606,7 +606,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"bauru-sp",col: 94 ,name:"Bauru",display:"Bauru, Brazil",country:"BR"},
+{value:"bauru-sp",col: 94 ,name:"Bauru",display:"Bauru, Brasile",country:"BR"},
 
 
 
@@ -618,11 +618,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"bekescsaba-be",col: 70 ,name:"Békéscsaba",display:"Békéscsaba, Hungary",country:"HU"},
+{value:"bekescsaba-be",col: 70 ,name:"Békéscsaba",display:"Békéscsaba, Ungheria",country:"HU"},
 
 
 
-{value:"belem-pa",col: 92 ,name:"Belém",display:"Belém, Brazil",country:"BR"},
+{value:"belem-pa",col: 92 ,name:"Belém",display:"Belém, Brasile",country:"BR"},
 
 
 
@@ -634,7 +634,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"belo-horizonte-mg",col: 100 ,name:"Belo Horizonte",display:"Belo Horizonte, Brazil",country:"BR"},
+{value:"belo-horizonte-mg",col: 100 ,name:"Belo Horizonte",display:"Belo Horizonte, Brasile",country:"BR"},
 
 
 
@@ -670,7 +670,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"bielsko-biala-sl",col: 82 ,name:"Bielsko-Biała",display:"Bielsko-Biała, Poland",country:"PL"},
+{value:"bielsko-biala-sl",col: 82 ,name:"Bielsko-Biała",display:"Bielsko-Biała, Polonia",country:"PL"},
 
 
 
@@ -710,11 +710,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"blumenau-sc",col: 97 ,name:"Blumenau",display:"Blumenau, Brazil",country:"BR"},
+{value:"blumenau-sc",col: 97 ,name:"Blumenau",display:"Blumenau, Brasile",country:"BR"},
 
 
 
-{value:"boa-vista-rr",col: 87 ,name:"Boa Vista",display:"Boa Vista, Brazil",country:"BR"},
+{value:"boa-vista-rr",col: 87 ,name:"Boa Vista",display:"Boa Vista, Brasile",country:"BR"},
 
 
 
@@ -782,7 +782,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"brasilia-df",col: 115 ,name:"Brasília",display:"Brasília, Brazil",country:"BR"},
+{value:"brasilia-df",col: 115 ,name:"Brasília",display:"Brasília, Brasile",country:"BR"},
 
 
 
@@ -790,7 +790,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"bratislava-bl",col: 100 ,name:"Bratislava",display:"Bratislava, Slovakia",country:"SK"},
+{value:"bratislava-bl",col: 100 ,name:"Bratislava",display:"Bratislava, Slovacchia",country:"SK"},
 
 
 
@@ -830,11 +830,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"bruges-vwv",col: 108 ,name:"Bruges",display:"Bruges, Belgium",country:"BE"},
+{value:"bruges-vwv",col: 108 ,name:"Bruges",display:"Bruges, Belgio",country:"BE"},
 
 
 
-{value:"brussels-bru",col: 110 ,name:"Brussels",display:"Brussels, Belgium",country:"BE"},
+{value:"brussels-bru",col: 110 ,name:"Brussels",display:"Brussels, Belgio",country:"BE"},
 
 
 
@@ -846,7 +846,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"budapest-bu",col: 110 ,name:"Budapest",display:"Budapest, Hungary",country:"HU"},
+{value:"budapest-bu",col: 110 ,name:"Budapest",display:"Budapest, Ungheria",country:"HU"},
 
 
 
@@ -886,7 +886,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"bydgoszcz-kp",col: 82 ,name:"Bydgoszcz",display:"Bydgoszcz, Poland",country:"PL"},
+{value:"bydgoszcz-kp",col: 82 ,name:"Bydgoszcz",display:"Bydgoszcz, Polonia",country:"PL"},
 
 
 
@@ -894,7 +894,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"cabo-frio-rj",col: 98 ,name:"Cabo Frio",display:"Cabo Frio, Brazil",country:"BR"},
+{value:"cabo-frio-rj",col: 98 ,name:"Cabo Frio",display:"Cabo Frio, Brasile",country:"BR"},
 
 
 
@@ -922,7 +922,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"cakovec-cz",col: 75 ,name:"Čakovec",display:"Čakovec, Croatia",country:"HR"},
+{value:"cakovec-cz",col: 75 ,name:"Čakovec",display:"Čakovec, Croazia",country:"HR"},
 
 
 
@@ -942,11 +942,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"campinas-sp",col: 105 ,name:"Campinas",display:"Campinas, Brazil",country:"BR"},
+{value:"campinas-sp",col: 105 ,name:"Campinas",display:"Campinas, Brasile",country:"BR"},
 
 
 
-{value:"campo-grande-ms",col: 93 ,name:"Campo Grande",display:"Campo Grande, Brazil",country:"BR"},
+{value:"campo-grande-ms",col: 93 ,name:"Campo Grande",display:"Campo Grande, Brasile",country:"BR"},
 
 
 
@@ -974,7 +974,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"carlow-cw",col: 85 ,name:"Carlow",display:"Carlow, Ireland",country:"IE"},
+{value:"carlow-cw",col: 85 ,name:"Carlow",display:"Carlow, Irlanda",country:"IE"},
 
 
 
@@ -994,7 +994,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"cascavel-pr",col: 91 ,name:"Cascavel",display:"Cascavel, Brazil",country:"BR"},
+{value:"cascavel-pr",col: 91 ,name:"Cascavel",display:"Cascavel, Brasile",country:"BR"},
 
 
 
@@ -1010,7 +1010,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"caxias-do-sul-rs",col: 97 ,name:"Caxias do Sul",display:"Caxias do Sul, Brazil",country:"BR"},
+{value:"caxias-do-sul-rs",col: 97 ,name:"Caxias do Sul",display:"Caxias do Sul, Brasile",country:"BR"},
 
 
 
@@ -1022,7 +1022,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"cesis-ces",col: 75 ,name:"Cēsis",display:"Cēsis, Latvia",country:"LV"},
+{value:"cesis-ces",col: 75 ,name:"Cēsis",display:"Cēsis, Lettonia",country:"LV"},
 
 
 
@@ -1046,7 +1046,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"charleroi-wht",col: 78 ,name:"Charleroi",display:"Charleroi, Belgium",country:"BE"},
+{value:"charleroi-wht",col: 78 ,name:"Charleroi",display:"Charleroi, Belgio",country:"BE"},
 
 
 
@@ -1238,7 +1238,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"contagem-mg",col: 94 ,name:"Contagem",display:"Contagem, Brazil",country:"BR"},
+{value:"contagem-mg",col: 94 ,name:"Contagem",display:"Contagem, Brasile",country:"BR"},
 
 
 
@@ -1262,7 +1262,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"cork-c",col: 110 ,name:"Cork",display:"Cork, Ireland",country:"IE"},
+{value:"cork-c",col: 110 ,name:"Cork",display:"Cork, Irlanda",country:"IE"},
 
 
 
@@ -1298,7 +1298,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"cuiaba-mt",col: 92 ,name:"Cuiabá",display:"Cuiabá, Brazil",country:"BR"},
+{value:"cuiaba-mt",col: 92 ,name:"Cuiabá",display:"Cuiabá, Brasile",country:"BR"},
 
 
 
@@ -1310,7 +1310,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"curitiba-pr",col: 105 ,name:"Curitiba",display:"Curitiba, Brazil",country:"BR"},
+{value:"curitiba-pr",col: 105 ,name:"Curitiba",display:"Curitiba, Brasile",country:"BR"},
 
 
 
@@ -1318,7 +1318,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"czestochowa-sl",col: 78 ,name:"Częstochowa",display:"Częstochowa, Poland",country:"PL"},
+{value:"czestochowa-sl",col: 78 ,name:"Częstochowa",display:"Częstochowa, Polonia",country:"PL"},
 
 
 
@@ -1342,7 +1342,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"daugavpils-dg",col: 72 ,name:"Daugavpils",display:"Daugavpils, Latvia",country:"LV"},
+{value:"daugavpils-dg",col: 72 ,name:"Daugavpils",display:"Daugavpils, Lettonia",country:"LV"},
 
 
 
@@ -1354,7 +1354,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"debrecen-hb",col: 85 ,name:"Debrecen",display:"Debrecen, Hungary",country:"HU"},
+{value:"debrecen-hb",col: 85 ,name:"Debrecen",display:"Debrecen, Ungheria",country:"HU"},
 
 
 
@@ -1406,7 +1406,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"dinant-wna",col: 92 ,name:"Dinant",display:"Dinant, Belgium",country:"BE"},
+{value:"dinant-wna",col: 92 ,name:"Dinant",display:"Dinant, Belgio",country:"BE"},
 
 
 
@@ -1426,7 +1426,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"dourados-ms",col: 88 ,name:"Dourados",display:"Dourados, Brazil",country:"BR"},
+{value:"dourados-ms",col: 88 ,name:"Dourados",display:"Dourados, Brasile",country:"BR"},
 
 
 
@@ -1438,15 +1438,15 @@ var SALARY_CITIES = [
 
 
 
-{value:"drogheda-lh",col: 92 ,name:"Drogheda",display:"Drogheda, Ireland",country:"IE"},
+{value:"drogheda-lh",col: 92 ,name:"Drogheda",display:"Drogheda, Irlanda",country:"IE"},
 
 
 
-{value:"dublin-d",col: 125 ,name:"Dublin",display:"Dublin, Ireland",country:"IE"},
+{value:"dublin-d",col: 125 ,name:"Dublin",display:"Dublin, Irlanda",country:"IE"},
 
 
 
-{value:"dubrovnik-dn",col: 110 ,name:"Dubrovnik",display:"Dubrovnik, Croatia",country:"HR"},
+{value:"dubrovnik-dn",col: 110 ,name:"Dubrovnik",display:"Dubrovnik, Croazia",country:"HR"},
 
 
 
@@ -1458,15 +1458,15 @@ var SALARY_CITIES = [
 
 
 
-{value:"dunaujvaros-fe",col: 70 ,name:"Dunaújváros",display:"Dunaújváros, Hungary",country:"HU"},
+{value:"dunaujvaros-fe",col: 70 ,name:"Dunaújváros",display:"Dunaújváros, Ungheria",country:"HU"},
 
 
 
-{value:"dundalk-lh",col: 88 ,name:"Dundalk",display:"Dundalk, Ireland",country:"IE"},
+{value:"dundalk-lh",col: 88 ,name:"Dundalk",display:"Dundalk, Irlanda",country:"IE"},
 
 
 
-{value:"duque-de-caxias-rj",col: 92 ,name:"Duque de Caxias",display:"Duque de Caxias, Brazil",country:"BR"},
+{value:"duque-de-caxias-rj",col: 92 ,name:"Duque de Caxias",display:"Duque de Caxias, Brasile",country:"BR"},
 
 
 
@@ -1506,7 +1506,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"eger-he",col: 80 ,name:"Eger",display:"Eger, Hungary",country:"HU"},
+{value:"eger-he",col: 80 ,name:"Eger",display:"Eger, Ungheria",country:"HU"},
 
 
 
@@ -1538,7 +1538,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"elblag-wn",col: 75 ,name:"Elbląg",display:"Elbląg, Poland",country:"PL"},
+{value:"elblag-wn",col: 75 ,name:"Elbląg",display:"Elbląg, Polonia",country:"PL"},
 
 
 
@@ -1550,7 +1550,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"ennis-ce",col: 88 ,name:"Ennis",display:"Ennis, Ireland",country:"IE"},
+{value:"ennis-ce",col: 88 ,name:"Ennis",display:"Ennis, Irlanda",country:"IE"},
 
 
 
@@ -1610,7 +1610,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"famausta-fa",col: 85 ,name:"Famagusta",display:"Famagusta, Cyprus",country:"CY"},
+{value:"famausta-fa",col: 85 ,name:"Famagusta",display:"Famagusta, Cipro",country:"CY"},
 
 
 
@@ -1630,7 +1630,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"feira-de-santana-ba",col: 86 ,name:"Feira de Santana",display:"Feira de Santana, Brazil",country:"BR"},
+{value:"feira-de-santana-ba",col: 86 ,name:"Feira de Santana",display:"Feira de Santana, Brasile",country:"BR"},
 
 
 
@@ -1650,7 +1650,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"florianopolis-sc",col: 110 ,name:"Florianópolis",display:"Florianópolis, Brazil",country:"BR"},
+{value:"florianopolis-sc",col: 110 ,name:"Florianópolis",display:"Florianópolis, Brasile",country:"BR"},
 
 
 
@@ -1670,11 +1670,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"fortaleza-ce",col: 93 ,name:"Fortaleza",display:"Fortaleza, Brazil",country:"BR"},
+{value:"fortaleza-ce",col: 93 ,name:"Fortaleza",display:"Fortaleza, Brasile",country:"BR"},
 
 
 
-{value:"foz-do-iguacu-pr",col: 92 ,name:"Foz do Iguaçu",display:"Foz do Iguaçu, Brazil",country:"BR"},
+{value:"foz-do-iguacu-pr",col: 92 ,name:"Foz do Iguaçu",display:"Foz do Iguaçu, Brasile",country:"BR"},
 
 
 
@@ -1738,7 +1738,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"galway-g",col: 105 ,name:"Galway",display:"Galway, Ireland",country:"IE"},
+{value:"galway-g",col: 105 ,name:"Galway",display:"Galway, Irlanda",country:"IE"},
 
 
 
@@ -1754,7 +1754,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"gdansk-pm",col: 100 ,name:"Gdańsk",display:"Gdańsk, Poland",country:"PL"},
+{value:"gdansk-pm",col: 100 ,name:"Gdańsk",display:"Gdańsk, Polonia",country:"PL"},
 
 
 
@@ -1762,7 +1762,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"genk-vli",col: 85 ,name:"Genk",display:"Genk, Belgium",country:"BE"},
+{value:"genk-vli",col: 85 ,name:"Genk",display:"Genk, Belgio",country:"BE"},
 
 
 
@@ -1774,7 +1774,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"ghent-vov",col: 100 ,name:"Ghent",display:"Ghent, Belgium",country:"BE"},
+{value:"ghent-vov",col: 100 ,name:"Ghent",display:"Ghent, Belgio",country:"BE"},
 
 
 
@@ -1806,11 +1806,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"gliwice-sl",col: 85 ,name:"Gliwice",display:"Gliwice, Poland",country:"PL"},
+{value:"gliwice-sl",col: 85 ,name:"Gliwice",display:"Gliwice, Polonia",country:"PL"},
 
 
 
-{value:"goiania-go",col: 94 ,name:"Goiânia",display:"Goiânia, Brazil",country:"BR"},
+{value:"goiania-go",col: 94 ,name:"Goiânia",display:"Goiânia, Brasile",country:"BR"},
 
 
 
@@ -1818,7 +1818,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"gorzow-wielkopolski-lb",col: 75 ,name:"Gorzów Wielkopolski",display:"Gorzów Wielkopolski, Poland",country:"PL"},
+{value:"gorzow-wielkopolski-lb",col: 75 ,name:"Gorzów Wielkopolski",display:"Gorzów Wielkopolski, Polonia",country:"PL"},
 
 
 
@@ -1826,7 +1826,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"governador-valadares-mg",col: 89 ,name:"Governador Valadares",display:"Governador Valadares, Brazil",country:"BR"},
+{value:"governador-valadares-mg",col: 89 ,name:"Governador Valadares",display:"Governador Valadares, Brasile",country:"BR"},
 
 
 
@@ -1870,7 +1870,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"grudziadz-kp",col: 70 ,name:"Grudziądz",display:"Grudziądz, Poland",country:"PL"},
+{value:"grudziadz-kp",col: 70 ,name:"Grudziądz",display:"Grudziądz, Polonia",country:"PL"},
 
 
 
@@ -1890,7 +1890,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"guarulhos-sp",col: 98 ,name:"Guarulhos",display:"Guarulhos, Brazil",country:"BR"},
+{value:"guarulhos-sp",col: 98 ,name:"Guarulhos",display:"Guarulhos, Brasile",country:"BR"},
 
 
 
@@ -1906,7 +1906,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"gyor-gs",col: 88 ,name:"Győr",display:"Győr, Hungary",country:"HU"},
+{value:"gyor-gs",col: 88 ,name:"Győr",display:"Győr, Ungheria",country:"HU"},
 
 
 
@@ -1962,7 +1962,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"hasselt-vli",col: 90 ,name:"Hasselt",display:"Hasselt, Belgium",country:"BE"},
+{value:"hasselt-vli",col: 90 ,name:"Hasselt",display:"Hasselt, Belgio",country:"BE"},
 
 
 
@@ -2034,7 +2034,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"hodmezovasarhely-cs",col: 68 ,name:"Hódmezővásárhely",display:"Hódmezővásárhely, Hungary",country:"HU"},
+{value:"hodmezovasarhely-cs",col: 68 ,name:"Hódmezővásárhely",display:"Hódmezővásárhely, Ungheria",country:"HU"},
 
 
 
@@ -2082,7 +2082,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"humenne-pv",col: 68 ,name:"Humenné",display:"Humenné, Slovakia",country:"SK"},
+{value:"humenne-pv",col: 68 ,name:"Humenné",display:"Humenné, Slovacchia",country:"SK"},
 
 
 
@@ -2110,7 +2110,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"ilheus-ba",col: 86 ,name:"Ilhéus",display:"Ilhéus, Brazil",country:"BR"},
+{value:"ilheus-ba",col: 86 ,name:"Ilhéus",display:"Ilhéus, Brasile",country:"BR"},
 
 
 
@@ -2154,7 +2154,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"itajai-sc",col: 96 ,name:"Itajaí",display:"Itajaí, Brazil",country:"BR"},
+{value:"itajai-sc",col: 96 ,name:"Itajaí",display:"Itajaí, Brasile",country:"BR"},
 
 
 
@@ -2186,11 +2186,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"jelenia-gora-ds",col: 75 ,name:"Jelenia Góra",display:"Jelenia Góra, Poland",country:"PL"},
+{value:"jelenia-gora-ds",col: 75 ,name:"Jelenia Góra",display:"Jelenia Góra, Polonia",country:"PL"},
 
 
 
-{value:"jelgava-jg",col: 72 ,name:"Jelgava",display:"Jelgava, Latvia",country:"LV"},
+{value:"jelgava-jg",col: 72 ,name:"Jelgava",display:"Jelgava, Lettonia",country:"LV"},
 
 
 
@@ -2206,7 +2206,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"joao-pessoa-pb",col: 92 ,name:"João Pessoa",display:"João Pessoa, Brazil",country:"BR"},
+{value:"joao-pessoa-pb",col: 92 ,name:"João Pessoa",display:"João Pessoa, Brasile",country:"BR"},
 
 
 
@@ -2218,11 +2218,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"joinville-sc",col: 98 ,name:"Joinville",display:"Joinville, Brazil",country:"BR"},
+{value:"joinville-sc",col: 98 ,name:"Joinville",display:"Joinville, Brasile",country:"BR"},
 
 
 
-{value:"juiz-de-fora-mg",col: 93 ,name:"Juiz de Fora",display:"Juiz de Fora, Brazil",country:"BR"},
+{value:"juiz-de-fora-mg",col: 93 ,name:"Juiz de Fora",display:"Juiz de Fora, Brasile",country:"BR"},
 
 
 
@@ -2230,11 +2230,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"jundiai-sp",col: 100 ,name:"Jundiaí",display:"Jundiaí, Brazil",country:"BR"},
+{value:"jundiai-sp",col: 100 ,name:"Jundiaí",display:"Jundiaí, Brasile",country:"BR"},
 
 
 
-{value:"jurmala-jm",col: 90 ,name:"Jūrmala",display:"Jūrmala, Latvia",country:"LV"},
+{value:"jurmala-jm",col: 90 ,name:"Jūrmala",display:"Jūrmala, Lettonia",country:"LV"},
 
 
 
@@ -2258,7 +2258,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"kalisz-wp",col: 72 ,name:"Kalisz",display:"Kalisz, Poland",country:"PL"},
+{value:"kalisz-wp",col: 72 ,name:"Kalisz",display:"Kalisz, Polonia",country:"PL"},
 
 
 
@@ -2278,11 +2278,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"kaposvar-so",col: 72 ,name:"Kaposvár",display:"Kaposvár, Hungary",country:"HU"},
+{value:"kaposvar-so",col: 72 ,name:"Kaposvár",display:"Kaposvár, Ungheria",country:"HU"},
 
 
 
-{value:"karlovac-ka",col: 75 ,name:"Karlovac",display:"Karlovac, Croatia",country:"HR"},
+{value:"karlovac-ka",col: 75 ,name:"Karlovac",display:"Karlovac, Croazia",country:"HR"},
 
 
 
@@ -2302,11 +2302,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"katowice-sl",col: 88 ,name:"Katowice",display:"Katowice, Poland",country:"PL"},
+{value:"katowice-sl",col: 88 ,name:"Katowice",display:"Katowice, Polonia",country:"PL"},
 
 
 
-{value:"kaunas-kn",col: 85 ,name:"Kaunas",display:"Kaunas, Lithuania",country:"LT"},
+{value:"kaunas-kn",col: 85 ,name:"Kaunas",display:"Kaunas, Lituania",country:"LT"},
 
 
 
@@ -2330,7 +2330,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"kecskemet-bk",col: 78 ,name:"Kecskemét",display:"Kecskemét, Hungary",country:"HU"},
+{value:"kecskemet-bk",col: 78 ,name:"Kecskemét",display:"Kecskemét, Ungheria",country:"HU"},
 
 
 
@@ -2354,11 +2354,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"kielce-sk",col: 78 ,name:"Kielce",display:"Kielce, Poland",country:"PL"},
+{value:"kielce-sk",col: 78 ,name:"Kielce",display:"Kielce, Polonia",country:"PL"},
 
 
 
-{value:"kilkenny-kk",col: 95 ,name:"Kilkenny",display:"Kilkenny, Ireland",country:"IE"},
+{value:"kilkenny-kk",col: 95 ,name:"Kilkenny",display:"Kilkenny, Irlanda",country:"IE"},
 
 
 
@@ -2378,7 +2378,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"klaipeda-kl",col: 85 ,name:"Klaipėda",display:"Klaipėda, Lithuania",country:"LT"},
+{value:"klaipeda-kl",col: 85 ,name:"Klaipėda",display:"Klaipėda, Lituania",country:"LT"},
 
 
 
@@ -2418,7 +2418,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"komarno-nr",col: 72 ,name:"Komárno",display:"Komárno, Slovakia",country:"SK"},
+{value:"komarno-nr",col: 72 ,name:"Komárno",display:"Komárno, Slovacchia",country:"SK"},
 
 
 
@@ -2438,7 +2438,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"koprivnica-kc",col: 72 ,name:"Koprivnica",display:"Koprivnica, Croatia",country:"HR"},
+{value:"koprivnica-kc",col: 72 ,name:"Koprivnica",display:"Koprivnica, Croazia",country:"HR"},
 
 
 
@@ -2446,11 +2446,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"kortrijk-vwv",col: 92 ,name:"Kortrijk",display:"Kortrijk, Belgium",country:"BE"},
+{value:"kortrijk-vwv",col: 92 ,name:"Kortrijk",display:"Kortrijk, Belgio",country:"BE"},
 
 
 
-{value:"kosice-ki",col: 85 ,name:"Košice",display:"Košice, Slovakia",country:"SK"},
+{value:"kosice-ki",col: 85 ,name:"Košice",display:"Košice, Slovacchia",country:"SK"},
 
 
 
@@ -2462,7 +2462,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"krakow-ma",col: 100 ,name:"Kraków",display:"Kraków, Poland",country:"PL"},
+{value:"krakow-ma",col: 100 ,name:"Kraków",display:"Kraków, Polonia",country:"PL"},
 
 
 
@@ -2482,7 +2482,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"kuldiga-kl",col: 72 ,name:"Kuldīga",display:"Kuldīga, Latvia",country:"LV"},
+{value:"kuldiga-kl",col: 72 ,name:"Kuldīga",display:"Kuldīga, Lettonia",country:"LV"},
 
 
 
@@ -2506,7 +2506,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"kyrenia-ky",col: 95 ,name:"Kyrenia",display:"Kyrenia, Cyprus",country:"CY"},
+{value:"kyrenia-ky",col: 95 ,name:"Kyrenia",display:"Kyrenia, Cipro",country:"CY"},
 
 
 
@@ -2526,7 +2526,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"la-louviere-wht",col: 75 ,name:"La Louvière",display:"La Louvière, Belgium",country:"BE"},
+{value:"la-louviere-wht",col: 75 ,name:"La Louvière",display:"La Louvière, Belgio",country:"BE"},
 
 
 
@@ -2614,7 +2614,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"legnica-ds",col: 72 ,name:"Legnica",display:"Legnica, Poland",country:"PL"},
+{value:"legnica-ds",col: 72 ,name:"Legnica",display:"Legnica, Polonia",country:"PL"},
 
 
 
@@ -2646,15 +2646,15 @@ var SALARY_CITIES = [
 
 
 
-{value:"letterkenny-dl",col: 85 ,name:"Letterkenny",display:"Letterkenny, Ireland",country:"IE"},
+{value:"letterkenny-dl",col: 85 ,name:"Letterkenny",display:"Letterkenny, Irlanda",country:"IE"},
 
 
 
-{value:"leuven-vbr",col: 102 ,name:"Leuven",display:"Leuven, Belgium",country:"BE"},
+{value:"leuven-vbr",col: 102 ,name:"Leuven",display:"Leuven, Belgio",country:"BE"},
 
 
 
-{value:"levice-nr",col: 70 ,name:"Levice",display:"Levice, Slovakia",country:"SK"},
+{value:"levice-nr",col: 70 ,name:"Levice",display:"Levice, Slovacchia",country:"SK"},
 
 
 
@@ -2670,11 +2670,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"liege-wlg",col: 88 ,name:"Liège",display:"Liège, Belgium",country:"BE"},
+{value:"liege-wlg",col: 88 ,name:"Liège",display:"Liège, Belgio",country:"BE"},
 
 
 
-{value:"liepaja-lp",col: 78 ,name:"Liepāja",display:"Liepāja, Latvia",country:"LV"},
+{value:"liepaja-lp",col: 78 ,name:"Liepāja",display:"Liepāja, Lettonia",country:"LV"},
 
 
 
@@ -2690,11 +2690,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"limassol-li",col: 110 ,name:"Limassol",display:"Limassol, Cyprus",country:"CY"},
+{value:"limassol-li",col: 110 ,name:"Limassol",display:"Limassol, Cipro",country:"CY"},
 
 
 
-{value:"limerick-lk",col: 100 ,name:"Limerick",display:"Limerick, Ireland",country:"IE"},
+{value:"limerick-lk",col: 100 ,name:"Limerick",display:"Limerick, Irlanda",country:"IE"},
 
 
 
@@ -2714,7 +2714,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"liptovsky-mikulas-zc",col: 75 ,name:"Liptovský Mikuláš",display:"Liptovský Mikuláš, Slovakia",country:"SK"},
+{value:"liptovsky-mikulas-zc",col: 75 ,name:"Liptovský Mikuláš",display:"Liptovský Mikuláš, Slovacchia",country:"SK"},
 
 
 
@@ -2738,7 +2738,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"lodz-ld",col: 85 ,name:"Łódź",display:"Łódź, Poland",country:"PL"},
+{value:"lodz-ld",col: 85 ,name:"Łódź",display:"Łódź, Polonia",country:"PL"},
 
 
 
@@ -2754,7 +2754,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"londrina-pr",col: 95 ,name:"Londrina",display:"Londrina, Brazil",country:"BR"},
+{value:"londrina-pr",col: 95 ,name:"Londrina",display:"Londrina, Brasile",country:"BR"},
 
 
 
@@ -2782,7 +2782,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"louvain-la-neuve-wbr",col: 95 ,name:"Louvain-la-Neuve",display:"Louvain-la-Neuve, Belgium",country:"BE"},
+{value:"louvain-la-neuve-wbr",col: 95 ,name:"Louvain-la-Neuve",display:"Louvain-la-Neuve, Belgio",country:"BE"},
 
 
 
@@ -2798,7 +2798,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"lublin-lu",col: 80 ,name:"Lublin",display:"Lublin, Poland",country:"PL"},
+{value:"lublin-lu",col: 80 ,name:"Lublin",display:"Lublin, Polonia",country:"PL"},
 
 
 
@@ -2838,11 +2838,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"macapa-ap",col: 88 ,name:"Macapá",display:"Macapá, Brazil",country:"BR"},
+{value:"macapa-ap",col: 88 ,name:"Macapá",display:"Macapá, Brasile",country:"BR"},
 
 
 
-{value:"maceio-al",col: 90 ,name:"Maceió",display:"Maceió, Brazil",country:"BR"},
+{value:"maceio-al",col: 90 ,name:"Maceió",display:"Maceió, Brasile",country:"BR"},
 
 
 
@@ -2894,7 +2894,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"manaus-am",col: 98.5 ,name:"Manaus",display:"Manaus, Brazil",country:"BR"},
+{value:"manaus-am",col: 98.5 ,name:"Manaus",display:"Manaus, Brasile",country:"BR"},
 
 
 
@@ -2946,11 +2946,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"marijampole-mr",col: 68 ,name:"Marijampolė",display:"Marijampolė, Lithuania",country:"LT"},
+{value:"marijampole-mr",col: 68 ,name:"Marijampolė",display:"Marijampolė, Lituania",country:"LT"},
 
 
 
-{value:"maringa-pr",col: 96 ,name:"Maringá",display:"Maringá, Brazil",country:"BR"},
+{value:"maringa-pr",col: 96 ,name:"Maringá",display:"Maringá, Brasile",country:"BR"},
 
 
 
@@ -2962,7 +2962,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"martin-zc",col: 75 ,name:"Martin",display:"Martin, Slovakia",country:"SK"},
+{value:"martin-zc",col: 75 ,name:"Martin",display:"Martin, Slovacchia",country:"SK"},
 
 
 
@@ -3006,7 +3006,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"mechelen-van",col: 95 ,name:"Mechelen",display:"Mechelen, Belgium",country:"BE"},
+{value:"mechelen-van",col: 95 ,name:"Mechelen",display:"Mechelen, Belgio",country:"BE"},
 
 
 
@@ -3090,7 +3090,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"miskolc-bz",col: 75 ,name:"Miskolc",display:"Miskolc, Hungary",country:"HU"},
+{value:"miskolc-bz",col: 75 ,name:"Miskolc",display:"Miskolc, Ungheria",country:"HU"},
 
 
 
@@ -3122,7 +3122,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"mogidas-cruzes-sp",col: 95 ,name:"Mogi das Cruzes",display:"Mogi das Cruzes, Brazil",country:"BR"},
+{value:"mogidas-cruzes-sp",col: 95 ,name:"Mogi das Cruzes",display:"Mogi das Cruzes, Brasile",country:"BR"},
 
 
 
@@ -3130,7 +3130,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"mons-wht",col: 82 ,name:"Mons",display:"Mons, Belgium",country:"BE"},
+{value:"mons-wht",col: 82 ,name:"Mons",display:"Mons, Belgio",country:"BE"},
 
 
 
@@ -3234,7 +3234,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"namur-wna",col: 90 ,name:"Namur",display:"Namur, Belgium",country:"BE"},
+{value:"namur-wna",col: 90 ,name:"Namur",display:"Namur, Belgio",country:"BE"},
 
 
 
@@ -3266,7 +3266,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"natal-rn",col: 91 ,name:"Natal",display:"Natal, Brazil",country:"BR"},
+{value:"natal-rn",col: 91 ,name:"Natal",display:"Natal, Brasile",country:"BR"},
 
 
 
@@ -3310,7 +3310,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"nicosia-ni",col: 100 ,name:"Nicosia",display:"Nicosia, Cyprus",country:"CY"},
+{value:"nicosia-ni",col: 100 ,name:"Nicosia",display:"Nicosia, Cipro",country:"CY"},
 
 
 
@@ -3322,11 +3322,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"niteroi-rj",col: 110 ,name:"Niterói",display:"Niterói, Brazil",country:"BR"},
+{value:"niteroi-rj",col: 110 ,name:"Niterói",display:"Niterói, Brasile",country:"BR"},
 
 
 
-{value:"nitra-nr",col: 78 ,name:"Nitra",display:"Nitra, Slovakia",country:"SK"},
+{value:"nitra-nr",col: 78 ,name:"Nitra",display:"Nitra, Slovacchia",country:"SK"},
 
 
 
@@ -3338,7 +3338,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"nova-iguacu-rj",col: 90 ,name:"Nova Iguaçu",display:"Nova Iguaçu, Brazil",country:"BR"},
+{value:"nova-iguacu-rj",col: 90 ,name:"Nova Iguaçu",display:"Nova Iguaçu, Brasile",country:"BR"},
 
 
 
@@ -3346,7 +3346,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"nowy-sacz-ma",col: 72 ,name:"Nowy Sącz",display:"Nowy Sącz, Poland",country:"PL"},
+{value:"nowy-sacz-ma",col: 72 ,name:"Nowy Sącz",display:"Nowy Sącz, Polonia",country:"PL"},
 
 
 
@@ -3354,7 +3354,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"nyiregyhaza-sz",col: 72 ,name:"Nyíregyháza",display:"Nyíregyháza, Hungary",country:"HU"},
+{value:"nyiregyhaza-sz",col: 72 ,name:"Nyíregyháza",display:"Nyíregyháza, Ungheria",country:"HU"},
 
 
 
@@ -3382,7 +3382,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"olinda-pe",col: 90 ,name:"Olinda",display:"Olinda, Brazil",country:"BR"},
+{value:"olinda-pe",col: 90 ,name:"Olinda",display:"Olinda, Brasile",country:"BR"},
 
 
 
@@ -3390,7 +3390,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"olsztyn-wn",col: 80 ,name:"Olsztyn",display:"Olsztyn, Poland",country:"PL"},
+{value:"olsztyn-wn",col: 80 ,name:"Olsztyn",display:"Olsztyn, Polonia",country:"PL"},
 
 
 
@@ -3430,11 +3430,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"osasco-sp",col: 97 ,name:"Osasco",display:"Osasco, Brazil",country:"BR"},
+{value:"osasco-sp",col: 97 ,name:"Osasco",display:"Osasco, Brasile",country:"BR"},
 
 
 
-{value:"osijek-ob",col: 78 ,name:"Osijek",display:"Osijek, Croatia",country:"HR"},
+{value:"osijek-ob",col: 78 ,name:"Osijek",display:"Osijek, Croazia",country:"HR"},
 
 
 
@@ -3446,7 +3446,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"ostend-vwv",col: 95 ,name:"Ostend",display:"Ostend, Belgium",country:"BE"},
+{value:"ostend-vwv",col: 95 ,name:"Ostend",display:"Ostend, Belgio",country:"BE"},
 
 
 
@@ -3482,7 +3482,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"palanga-pl",col: 90 ,name:"Palanga",display:"Palanga, Lithuania",country:"LT"},
+{value:"palanga-pl",col: 90 ,name:"Palanga",display:"Palanga, Lituania",country:"LT"},
 
 
 
@@ -3494,7 +3494,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"palmas-to",col: 91 ,name:"Palmas",display:"Palmas, Brazil",country:"BR"},
+{value:"palmas-to",col: 91 ,name:"Palmas",display:"Palmas, Brasile",country:"BR"},
 
 
 
@@ -3506,11 +3506,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"panevezys-pn",col: 72 ,name:"Panevėžys",display:"Panevėžys, Lithuania",country:"LT"},
+{value:"panevezys-pn",col: 72 ,name:"Panevėžys",display:"Panevėžys, Lituania",country:"LT"},
 
 
 
-{value:"paphos-pa",col: 95 ,name:"Paphos",display:"Paphos, Cyprus",country:"CY"},
+{value:"paphos-pa",col: 95 ,name:"Paphos",display:"Paphos, Cipro",country:"CY"},
 
 
 
@@ -3546,7 +3546,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"pecs-ba",col: 82 ,name:"Pécs",display:"Pécs, Hungary",country:"HU"},
+{value:"pecs-ba",col: 82 ,name:"Pécs",display:"Pécs, Ungheria",country:"HU"},
 
 
 
@@ -3554,7 +3554,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"pelotas-rs",col: 90 ,name:"Pelotas",display:"Pelotas, Brazil",country:"BR"},
+{value:"pelotas-rs",col: 90 ,name:"Pelotas",display:"Pelotas, Brasile",country:"BR"},
 
 
 
@@ -3586,7 +3586,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"petropolis-rj",col: 100 ,name:"Petrópolis",display:"Petrópolis, Brazil",country:"BR"},
+{value:"petropolis-rj",col: 100 ,name:"Petrópolis",display:"Petrópolis, Brasile",country:"BR"},
 
 
 
@@ -3606,7 +3606,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"piracicaba-sp",col: 97 ,name:"Piracicaba",display:"Piracicaba, Brazil",country:"BR"},
+{value:"piracicaba-sp",col: 97 ,name:"Piracicaba",display:"Piracicaba, Brasile",country:"BR"},
 
 
 
@@ -3634,7 +3634,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"plock-mz",col: 80 ,name:"Płock",display:"Płock, Poland",country:"PL"},
+{value:"plock-mz",col: 80 ,name:"Płock",display:"Płock, Polonia",country:"PL"},
 
 
 
@@ -3662,7 +3662,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"poprad-pv",col: 78 ,name:"Poprad",display:"Poprad, Slovakia",country:"SK"},
+{value:"poprad-pv",col: 78 ,name:"Poprad",display:"Poprad, Slovacchia",country:"SK"},
 
 
 
@@ -3694,15 +3694,15 @@ var SALARY_CITIES = [
 
 
 
-{value:"porto-alegre-rs",col: 102 ,name:"Porto Alegre",display:"Porto Alegre, Brazil",country:"BR"},
+{value:"porto-alegre-rs",col: 102 ,name:"Porto Alegre",display:"Porto Alegre, Brasile",country:"BR"},
 
 
 
-{value:"porto-seguro-ba",col: 95 ,name:"Porto Seguro",display:"Porto Seguro, Brazil",country:"BR"},
+{value:"porto-seguro-ba",col: 95 ,name:"Porto Seguro",display:"Porto Seguro, Brasile",country:"BR"},
 
 
 
-{value:"porto-velho-ro",col: 90 ,name:"Porto Velho",display:"Porto Velho, Brazil",country:"BR"},
+{value:"porto-velho-ro",col: 90 ,name:"Porto Velho",display:"Porto Velho, Brasile",country:"BR"},
 
 
 
@@ -3722,11 +3722,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"povazska-bystrica-tc",col: 72 ,name:"Považská Bystrica",display:"Považská Bystrica, Slovakia",country:"SK"},
+{value:"povazska-bystrica-tc",col: 72 ,name:"Považská Bystrica",display:"Považská Bystrica, Slovacchia",country:"SK"},
 
 
 
-{value:"poznan-wp",col: 95 ,name:"Poznań",display:"Poznań, Poland",country:"PL"},
+{value:"poznan-wp",col: 95 ,name:"Poznań",display:"Poznań, Polonia",country:"PL"},
 
 
 
@@ -3738,7 +3738,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"presov-pv",col: 78 ,name:"Prešov",display:"Prešov, Slovakia",country:"SK"},
+{value:"presov-pv",col: 78 ,name:"Prešov",display:"Prešov, Slovacchia",country:"SK"},
 
 
 
@@ -3782,7 +3782,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"pula-is",col: 90 ,name:"Pula",display:"Pula, Croatia",country:"HR"},
+{value:"pula-is",col: 90 ,name:"Pula",display:"Pula, Croazia",country:"HR"},
 
 
 
@@ -3834,7 +3834,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"radom-mz",col: 75 ,name:"Radom",display:"Radom, Poland",country:"PL"},
+{value:"radom-mz",col: 75 ,name:"Radom",display:"Radom, Polonia",country:"PL"},
 
 
 
@@ -3858,7 +3858,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"recife-pe",col: 96 ,name:"Recife",display:"Recife, Brazil",country:"BR"},
+{value:"recife-pe",col: 96 ,name:"Recife",display:"Recife, Brasile",country:"BR"},
 
 
 
@@ -3886,7 +3886,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"rezekne-rz",col: 65 ,name:"Rēzekne",display:"Rēzekne, Latvia",country:"LV"},
+{value:"rezekne-rz",col: 65 ,name:"Rēzekne",display:"Rēzekne, Lettonia",country:"LV"},
 
 
 
@@ -3894,7 +3894,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"ribeirao-preto-sp",col: 103 ,name:"Ribeirão Preto",display:"Ribeirão Preto, Brazil",country:"BR"},
+{value:"ribeirao-preto-sp",col: 103 ,name:"Ribeirão Preto",display:"Ribeirão Preto, Brasile",country:"BR"},
 
 
 
@@ -3906,15 +3906,15 @@ var SALARY_CITIES = [
 
 
 
-{value:"riga-ri",col: 95 ,name:"Riga",display:"Riga, Latvia",country:"LV"},
+{value:"riga-ri",col: 95 ,name:"Riga",display:"Riga, Lettonia",country:"LV"},
 
 
 
-{value:"rijeka-pg",col: 88 ,name:"Rijeka",display:"Rijeka, Croatia",country:"HR"},
+{value:"rijeka-pg",col: 88 ,name:"Rijeka",display:"Rijeka, Croazia",country:"HR"},
 
 
 
-{value:"rio-branco-ac",col: 86 ,name:"Rio Branco",display:"Rio Branco, Brazil",country:"BR"},
+{value:"rio-branco-ac",col: 86 ,name:"Rio Branco",display:"Rio Branco, Brasile",country:"BR"},
 
 
 
@@ -3922,7 +3922,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"rio-de-janeiro-rj",col: 118 ,name:"Rio de Janeiro",display:"Rio de Janeiro, Brazil",country:"BR"},
+{value:"rio-de-janeiro-rj",col: 118 ,name:"Rio de Janeiro",display:"Rio de Janeiro, Brasile",country:"BR"},
 
 
 
@@ -3954,7 +3954,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"roeselare-vwv",col: 90 ,name:"Roeselare",display:"Roeselare, Belgium",country:"BE"},
+{value:"roeselare-vwv",col: 90 ,name:"Roeselare",display:"Roeselare, Belgio",country:"BE"},
 
 
 
@@ -3962,7 +3962,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"rondonopolis-mt",col: 89 ,name:"Rondonópolis",display:"Rondonópolis, Brazil",country:"BR"},
+{value:"rondonopolis-mt",col: 89 ,name:"Rondonópolis",display:"Rondonópolis, Brasile",country:"BR"},
 
 
 
@@ -3998,7 +3998,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"rzeszow-pk",col: 78 ,name:"Rzeszów",display:"Rzeszów, Poland",country:"PL"},
+{value:"rzeszow-pk",col: 78 ,name:"Rzeszów",display:"Rzeszów, Polonia",country:"PL"},
 
 
 
@@ -4058,7 +4058,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"salvador-ba",col: 95 ,name:"Salvador",display:"Salvador, Brazil",country:"BR"},
+{value:"salvador-ba",col: 95 ,name:"Salvador",display:"Salvador, Brasile",country:"BR"},
 
 
 
@@ -4238,7 +4238,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"santarem-pa",col: 85 ,name:"Santarém",display:"Santarém, Brazil",country:"BR"},
+{value:"santarem-pa",col: 85 ,name:"Santarém",display:"Santarém, Brasile",country:"BR"},
 
 
 
@@ -4262,7 +4262,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"santo-andre-sp",col: 98 ,name:"Santo André",display:"Santo André, Brazil",country:"BR"},
+{value:"santo-andre-sp",col: 98 ,name:"Santo André",display:"Santo André, Brasile",country:"BR"},
 
 
 
@@ -4274,35 +4274,35 @@ var SALARY_CITIES = [
 
 
 
-{value:"santos-sp",col: 108 ,name:"Santos",display:"Santos, Brazil",country:"BR"},
+{value:"santos-sp",col: 108 ,name:"Santos",display:"Santos, Brasile",country:"BR"},
 
 
 
-{value:"sao-bernardo-do-campo-sp",col: 100 ,name:"São Bernardo do Campo",display:"São Bernardo do Campo, Brazil",country:"BR"},
+{value:"sao-bernardo-do-campo-sp",col: 100 ,name:"São Bernardo do Campo",display:"São Bernardo do Campo, Brasile",country:"BR"},
 
 
 
-{value:"sao-caetano-do-sul-sp",col: 112 ,name:"São Caetano do Sul",display:"São Caetano do Sul, Brazil",country:"BR"},
+{value:"sao-caetano-do-sul-sp",col: 112 ,name:"São Caetano do Sul",display:"São Caetano do Sul, Brasile",country:"BR"},
 
 
 
-{value:"sao-goncalo-rj",col: 88 ,name:"São Gonçalo",display:"São Gonçalo, Brazil",country:"BR"},
+{value:"sao-goncalo-rj",col: 88 ,name:"São Gonçalo",display:"São Gonçalo, Brasile",country:"BR"},
 
 
 
-{value:"sao-jose-do-rio-preto-sp",col: 98 ,name:"São José do Rio Preto",display:"São José do Rio Preto, Brazil",country:"BR"},
+{value:"sao-jose-do-rio-preto-sp",col: 98 ,name:"São José do Rio Preto",display:"São José do Rio Preto, Brasile",country:"BR"},
 
 
 
-{value:"sao-jose-dos-campos-sp",col: 104 ,name:"São José dos Campos",display:"São José dos Campos, Brazil",country:"BR"},
+{value:"sao-jose-dos-campos-sp",col: 104 ,name:"São José dos Campos",display:"São José dos Campos, Brasile",country:"BR"},
 
 
 
-{value:"sao-luis-ma",col: 89 ,name:"São Luís",display:"São Luís, Brazil",country:"BR"},
+{value:"sao-luis-ma",col: 89 ,name:"São Luís",display:"São Luís, Brasile",country:"BR"},
 
 
 
-{value:"sao-paulo-sp",col: 120 ,name:"São Paulo",display:"São Paulo, Brazil",country:"BR"},
+{value:"sao-paulo-sp",col: 120 ,name:"São Paulo",display:"São Paulo, Brasile",country:"BR"},
 
 
 
@@ -4366,11 +4366,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"siauliai-sa",col: 75 ,name:"Šiauliai",display:"Šiauliai, Lithuania",country:"LT"},
+{value:"siauliai-sa",col: 75 ,name:"Šiauliai",display:"Šiauliai, Lituania",country:"LT"},
 
 
 
-{value:"sibenik-si",col: 82 ,name:"Šibenik",display:"Šibenik, Croatia",country:"HR"},
+{value:"sibenik-si",col: 82 ,name:"Šibenik",display:"Šibenik, Croazia",country:"HR"},
 
 
 
@@ -4398,7 +4398,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"silute-sl",col: 65 ,name:"Šilutė",display:"Šilutė, Lithuania",country:"LT"},
+{value:"silute-sl",col: 65 ,name:"Šilutė",display:"Šilutė, Lituania",country:"LT"},
 
 
 
@@ -4406,7 +4406,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"sint-niklaas-vov",col: 88 ,name:"Sint-Niklaas",display:"Sint-Niklaas, Belgium",country:"BE"},
+{value:"sint-niklaas-vov",col: 88 ,name:"Sint-Niklaas",display:"Sint-Niklaas, Belgio",country:"BE"},
 
 
 
@@ -4430,7 +4430,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"slavonski-brod-sb",col: 72 ,name:"Slavonski Brod",display:"Slavonski Brod, Croatia",country:"HR"},
+{value:"slavonski-brod-sb",col: 72 ,name:"Slavonski Brod",display:"Slavonski Brod, Croazia",country:"HR"},
 
 
 
@@ -4438,11 +4438,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"sligo-so",col: 90 ,name:"Sligo",display:"Sligo, Ireland",country:"IE"},
+{value:"sligo-so",col: 90 ,name:"Sligo",display:"Sligo, Irlanda",country:"IE"},
 
 
 
-{value:"slupsk-pm",col: 72 ,name:"Słupsk",display:"Słupsk, Poland",country:"PL"},
+{value:"slupsk-pm",col: 72 ,name:"Słupsk",display:"Słupsk, Polonia",country:"PL"},
 
 
 
@@ -4454,7 +4454,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"solin-sd",col: 82 ,name:"Solin",display:"Solin, Croatia",country:"HR"},
+{value:"solin-sd",col: 82 ,name:"Solin",display:"Solin, Croazia",country:"HR"},
 
 
 
@@ -4466,11 +4466,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"sopron-gs",col: 88 ,name:"Sopron",display:"Sopron, Hungary",country:"HU"},
+{value:"sopron-gs",col: 88 ,name:"Sopron",display:"Sopron, Ungheria",country:"HU"},
 
 
 
-{value:"sorocaba-sp",col: 96 ,name:"Sorocaba",display:"Sorocaba, Brazil",country:"BR"},
+{value:"sorocaba-sp",col: 96 ,name:"Sorocaba",display:"Sorocaba, Brasile",country:"BR"},
 
 
 
@@ -4486,7 +4486,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"split-sd",col: 95 ,name:"Split",display:"Split, Croatia",country:"HR"},
+{value:"split-sd",col: 95 ,name:"Split",display:"Split, Croazia",country:"HR"},
 
 
 
@@ -4562,23 +4562,23 @@ var SALARY_CITIES = [
 
 
 
-{value:"szczecin-zp",col: 88 ,name:"Szczecin",display:"Szczecin, Poland",country:"PL"},
+{value:"szczecin-zp",col: 88 ,name:"Szczecin",display:"Szczecin, Polonia",country:"PL"},
 
 
 
-{value:"szeged-cs",col: 82 ,name:"Szeged",display:"Szeged, Hungary",country:"HU"},
+{value:"szeged-cs",col: 82 ,name:"Szeged",display:"Szeged, Ungheria",country:"HU"},
 
 
 
-{value:"szekesfehervar-fe",col: 82 ,name:"Székesfehérvár",display:"Székesfehérvár, Hungary",country:"HU"},
+{value:"szekesfehervar-fe",col: 82 ,name:"Székesfehérvár",display:"Székesfehérvár, Ungheria",country:"HU"},
 
 
 
-{value:"szolnok-jn",col: 72 ,name:"Szolnok",display:"Szolnok, Hungary",country:"HU"},
+{value:"szolnok-jn",col: 72 ,name:"Szolnok",display:"Szolnok, Ungheria",country:"HU"},
 
 
 
-{value:"szombathely-va",col: 78 ,name:"Szombathely",display:"Szombathely, Hungary",country:"HU"},
+{value:"szombathely-va",col: 78 ,name:"Szombathely",display:"Szombathely, Ungheria",country:"HU"},
 
 
 
@@ -4650,7 +4650,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"tarnów-ma",col: 75 ,name:"Tarnów",display:"Tarnów, Poland",country:"PL"},
+{value:"tarnów-ma",col: 75 ,name:"Tarnów",display:"Tarnów, Polonia",country:"PL"},
 
 
 
@@ -4662,15 +4662,15 @@ var SALARY_CITIES = [
 
 
 
-{value:"tatabanya-ke",col: 75 ,name:"Tatabánya",display:"Tatabánya, Hungary",country:"HU"},
+{value:"tatabanya-ke",col: 75 ,name:"Tatabánya",display:"Tatabánya, Ungheria",country:"HU"},
 
 
 
-{value:"taubate-sp",col: 94 ,name:"Taubaté",display:"Taubaté, Brazil",country:"BR"},
+{value:"taubate-sp",col: 94 ,name:"Taubaté",display:"Taubaté, Brasile",country:"BR"},
 
 
 
-{value:"taurage-tr",col: 65 ,name:"Tauragė",display:"Tauragė, Lithuania",country:"LT"},
+{value:"taurage-tr",col: 65 ,name:"Tauragė",display:"Tauragė, Lituania",country:"LT"},
 
 
 
@@ -4682,7 +4682,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"telsiai-te",col: 65 ,name:"Telšiai",display:"Telšiai, Lithuania",country:"LT"},
+{value:"telsiai-te",col: 65 ,name:"Telšiai",display:"Telšiai, Lituania",country:"LT"},
 
 
 
@@ -4694,7 +4694,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"teresina-pi",col: 87 ,name:"Teresina",display:"Teresina, Brazil",country:"BR"},
+{value:"teresina-pi",col: 87 ,name:"Teresina",display:"Teresina, Brasile",country:"BR"},
 
 
 
@@ -4766,7 +4766,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"torun-kp",col: 85 ,name:"Toruń",display:"Toruń, Poland",country:"PL"},
+{value:"torun-kp",col: 85 ,name:"Toruń",display:"Toruń, Polonia",country:"PL"},
 
 
 
@@ -4782,7 +4782,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"tournai-wht",col: 85 ,name:"Tournai",display:"Tournai, Belgium",country:"BE"},
+{value:"tournai-wht",col: 85 ,name:"Tournai",display:"Tournai, Belgio",country:"BE"},
 
 
 
@@ -4806,7 +4806,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"tralee-ky",col: 85 ,name:"Tralee",display:"Tralee, Ireland",country:"IE"},
+{value:"tralee-ky",col: 85 ,name:"Tralee",display:"Tralee, Irlanda",country:"IE"},
 
 
 
@@ -4826,7 +4826,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"trencin-tc",col: 80 ,name:"Trenčín",display:"Trenčín, Slovakia",country:"SK"},
+{value:"trencin-tc",col: 80 ,name:"Trenčín",display:"Trenčín, Slovacchia",country:"SK"},
 
 
 
@@ -4842,7 +4842,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"trnava-ta",col: 80 ,name:"Trnava",display:"Trnava, Slovakia",country:"SK"},
+{value:"trnava-ta",col: 80 ,name:"Trnava",display:"Trnava, Slovacchia",country:"SK"},
 
 
 
@@ -4878,15 +4878,15 @@ var SALARY_CITIES = [
 
 
 
-{value:"turnhout-van",col: 85 ,name:"Turnhout",display:"Turnhout, Belgium",country:"BE"},
+{value:"turnhout-van",col: 85 ,name:"Turnhout",display:"Turnhout, Belgio",country:"BE"},
 
 
 
-{value:"uberaba-mg",col: 92 ,name:"Uberaba",display:"Uberaba, Brazil",country:"BR"},
+{value:"uberaba-mg",col: 92 ,name:"Uberaba",display:"Uberaba, Brasile",country:"BR"},
 
 
 
-{value:"uberlandia-mg",col: 95 ,name:"Uberlândia",display:"Uberlândia, Brazil",country:"BR"},
+{value:"uberlandia-mg",col: 95 ,name:"Uberlândia",display:"Uberlândia, Brasile",country:"BR"},
 
 
 
@@ -4910,7 +4910,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"utena-ut",col: 68 ,name:"Utena",display:"Utena, Lithuania",country:"LT"},
+{value:"utena-ut",col: 68 ,name:"Utena",display:"Utena, Lituania",country:"LT"},
 
 
 
@@ -4954,7 +4954,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"valmiera-vm",col: 72 ,name:"Valmiera",display:"Valmiera, Latvia",country:"LV"},
+{value:"valmiera-vm",col: 72 ,name:"Valmiera",display:"Valmiera, Lettonia",country:"LV"},
 
 
 
@@ -4974,7 +4974,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"varazdin-vz",col: 80 ,name:"Varaždin",display:"Varaždin, Croatia",country:"HR"},
+{value:"varazdin-vz",col: 80 ,name:"Varaždin",display:"Varaždin, Croazia",country:"HR"},
 
 
 
@@ -4994,7 +4994,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"velika-gorica-zg",col: 80 ,name:"Velika Gorica",display:"Velika Gorica, Croatia",country:"HR"},
+{value:"velika-gorica-zg",col: 80 ,name:"Velika Gorica",display:"Velika Gorica, Croazia",country:"HR"},
 
 
 
@@ -5006,7 +5006,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"ventspils-vn",col: 78 ,name:"Ventspils",display:"Ventspils, Latvia",country:"LV"},
+{value:"ventspils-vn",col: 78 ,name:"Ventspils",display:"Ventspils, Lettonia",country:"LV"},
 
 
 
@@ -5022,11 +5022,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"verviers-wlg",col: 80 ,name:"Verviers",display:"Verviers, Belgium",country:"BE"},
+{value:"verviers-wlg",col: 80 ,name:"Verviers",display:"Verviers, Belgio",country:"BE"},
 
 
 
-{value:"veszprem-ve",col: 82 ,name:"Veszprém",display:"Veszprém, Hungary",country:"HU"},
+{value:"veszprem-ve",col: 82 ,name:"Veszprém",display:"Veszprém, Ungheria",country:"HU"},
 
 
 
@@ -5086,7 +5086,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"vilnius-vl",col: 95 ,name:"Vilnius",display:"Vilnius, Lithuania",country:"LT"},
+{value:"vilnius-vl",col: 95 ,name:"Vilnius",display:"Vilnius, Lituania",country:"LT"},
 
 
 
@@ -5098,7 +5098,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"vitoria-es",col: 102 ,name:"Vitória",display:"Vitória, Brazil",country:"BR"},
+{value:"vitoria-es",col: 102 ,name:"Vitória",display:"Vitória, Brasile",country:"BR"},
 
 
 
@@ -5106,7 +5106,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"volta-redonda-rj",col: 93 ,name:"Volta Redonda",display:"Volta Redonda, Brazil",country:"BR"},
+{value:"volta-redonda-rj",col: 93 ,name:"Volta Redonda",display:"Volta Redonda, Brasile",country:"BR"},
 
 
 
@@ -5118,11 +5118,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"walbrzych-ds",col: 72 ,name:"Wałbrzych",display:"Wałbrzych, Poland",country:"PL"},
+{value:"walbrzych-ds",col: 72 ,name:"Wałbrzych",display:"Wałbrzych, Polonia",country:"PL"},
 
 
 
-{value:"warsaw-mz",col: 115 ,name:"Warsaw",display:"Warsaw, Poland",country:"PL"},
+{value:"warsaw-mz",col: 115 ,name:"Warsaw",display:"Warsaw, Polonia",country:"PL"},
 
 
 
@@ -5130,11 +5130,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"waterford-wd",col: 95 ,name:"Waterford",display:"Waterford, Ireland",country:"IE"},
+{value:"waterford-wd",col: 95 ,name:"Waterford",display:"Waterford, Irlanda",country:"IE"},
 
 
 
-{value:"waterloo-wbr",col: 100 ,name:"Waterloo",display:"Waterloo, Belgium",country:"BE"},
+{value:"waterloo-wbr",col: 100 ,name:"Waterloo",display:"Waterloo, Belgio",country:"BE"},
 
 
 
@@ -5150,7 +5150,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"wicklow-ww",col: 95 ,name:"Wicklow",display:"Wicklow, Ireland",country:"IE"},
+{value:"wicklow-ww",col: 95 ,name:"Wicklow",display:"Wicklow, Irlanda",country:"IE"},
 
 
 
@@ -5178,7 +5178,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"wloclawek-kp",col: 72 ,name:"Włocławek",display:"Włocławek, Poland",country:"PL"},
+{value:"wloclawek-kp",col: 72 ,name:"Włocławek",display:"Włocławek, Polonia",country:"PL"},
 
 
 
@@ -5190,7 +5190,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"wroclaw-ds",col: 100 ,name:"Wrocław",display:"Wrocław, Poland",country:"PL"},
+{value:"wroclaw-ds",col: 100 ,name:"Wrocław",display:"Wrocław, Polonia",country:"PL"},
 
 
 
@@ -5206,7 +5206,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"zabrze-sl",col: 78 ,name:"Zabrze",display:"Zabrze, Poland",country:"PL"},
+{value:"zabrze-sl",col: 78 ,name:"Zabrze",display:"Zabrze, Polonia",country:"PL"},
 
 
 
@@ -5218,7 +5218,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"zadar-zd",col: 88 ,name:"Zadar",display:"Zadar, Croatia",country:"HR"},
+{value:"zadar-zd",col: 88 ,name:"Zadar",display:"Zadar, Croazia",country:"HR"},
 
 
 
@@ -5226,11 +5226,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"zagreb-gz",col: 95 ,name:"Zagreb",display:"Zagreb, Croatia",country:"HR"},
+{value:"zagreb-gz",col: 95 ,name:"Zagreb",display:"Zagreb, Croazia",country:"HR"},
 
 
 
-{value:"zalaegerszeg-za",col: 72 ,name:"Zalaegerszeg",display:"Zalaegerszeg, Hungary",country:"HU"},
+{value:"zalaegerszeg-za",col: 72 ,name:"Zalaegerszeg",display:"Zalaegerszeg, Ungheria",country:"HU"},
 
 
 
@@ -5242,7 +5242,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"zilina-zi",col: 80 ,name:"Žilina",display:"Žilina, Slovakia",country:"SK"},
+{value:"zilina-zi",col: 80 ,name:"Žilina",display:"Žilina, Slovacchia",country:"SK"},
 
 
 
