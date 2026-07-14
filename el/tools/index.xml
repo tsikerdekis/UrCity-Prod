@@ -1116,7 +1116,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"banja-luka-ba",col: 68 ,name:"Banja Luka",display:"Banja Luka, Βοσνία και Ερζεγοβίνη",country:"BA"},
+
+
+
 {value:"banska-bystrica-bc",col: 78 ,name:"Banská Bystrica",display:"Banská Bystrica, Σλοβακία",country:"SK"},
+
+
+
+{value:"bar-me",col: 68 ,name:"Bar",display:"Bar, Μαυροβούνιο",country:"ME"},
 
 
 
@@ -1168,6 +1176,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"belgrade-rs",col: 85 ,name:"Belgrade",display:"Belgrade, Σερβία",country:"RS"},
+
+
+
 {value:"bellingham-wa",col: 115.2 ,name:"Bellingham",display:"Bellingham, WA, US",country:"US"},
 
 
@@ -1185,6 +1197,10 @@ var SALARY_CITIES = [
 
 
 {value:"beni-mellal-ma",col: 72 ,name:"Beni Mellal",display:"Beni Mellal, Morocco",country:"MA"},
+
+
+
+{value:"berat-al",col: 48 ,name:"Berat",display:"Berat, Αλβανία",country:"AL"},
 
 
 
@@ -1216,6 +1232,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"bihac-ba",col: 63 ,name:"Bihać",display:"Bihać, Βοσνία και Ερζεγοβίνη",country:"BA"},
+
+
+
+{value:"bijeljina-ba",col: 62 ,name:"Bijeljina",display:"Bijeljina, Βοσνία και Ερζεγοβίνη",country:"BA"},
+
+
+
 {value:"billings-mt",col: 96.5 ,name:"Billings",display:"Billings, MT, US",country:"US"},
 
 
@@ -1225,6 +1249,10 @@ var SALARY_CITIES = [
 
 
 {value:"birmingham-al",col: 90.5 ,name:"Birmingham",display:"Birmingham, AL, US",country:"US"},
+
+
+
+{value:"bitola-mk",col: 55 ,name:"Bitola",display:"Bitola, Βόρεια Μακεδονία",country:"MK"},
 
 
 
@@ -1320,6 +1348,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"brcko-ba",col: 61 ,name:"Brčko",display:"Brčko, Βοσνία και Ερζεγοβίνη",country:"BA"},
+
+
+
 {value:"bregenz-vb",col: 100 ,name:"Bregenz",display:"Bregenz, Αυστρία",country:"AT"},
 
 
@@ -1364,6 +1396,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"budva-me",col: 80 ,name:"Budva",display:"Budva, Μαυροβούνιο",country:"ME"},
+
+
+
 {value:"bunbury-wa",col: 70 ,name:"Bunbury",display:"Bunbury, Αυστραλία",country:"AU"},
 
 
@@ -1393,6 +1429,10 @@ var SALARY_CITIES = [
 
 
 {value:"cabo-frio-rj",col: 98 ,name:"Cabo Frio",display:"Cabo Frio, Βραζιλία",country:"BR"},
+
+
+
+{value:"cacak-rs",col: 65 ,name:"Čačak",display:"Čačak, Σερβία",country:"RS"},
 
 
 
@@ -1904,6 +1944,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"durres-al",col: 52 ,name:"Durrës",display:"Durrës, Αλβανία",country:"AL"},
+
+
+
 {value:"duesseldorf-nw",col: 110 ,name:"Düsseldorf",display:"Düsseldorf, Γερμανία",country:"DE"},
 
 
@@ -1941,6 +1985,10 @@ var SALARY_CITIES = [
 
 
 {value:"el-progreso-hn",col: 88 ,name:"El Progreso",display:"El Progreso, Honduras",country:"HN"},
+
+
+
+{value:"elbasan-al",col: 50 ,name:"Elbasan",display:"Elbasan, Αλβανία",country:"AL"},
 
 
 
@@ -2044,11 +2092,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"ferizaj-xk",col: 50 ,name:"Ferizaj",display:"Ferizaj, Κόσοβο",country:"XK"},
+
+
+
 {value:"fernando-de-la-mora-py",col: 90 ,name:"Fernando de la Mora",display:"Fernando de la Mora, Paraguay",country:"PY"},
 
 
 
 {value:"fes-ma",col: 85 ,name:"Fes",display:"Fes, Morocco",country:"MA"},
+
+
+
+{value:"fier-al",col: 49 ,name:"Fier",display:"Fier, Αλβανία",country:"AL"},
 
 
 
@@ -2192,6 +2248,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"gjakova-xk",col: 50 ,name:"Gjakova",display:"Gjakova, Κόσοβο",country:"XK"},
+
+
+
+{value:"gilan-xk",col: 49 ,name:"Gjilan",display:"Gjilan, Κόσοβο",country:"XK"},
+
+
+
 {value:"gjøvik-no",col: 98 ,name:"Gjøvik",display:"Gjøvik, Norway",country:"NO"},
 
 
@@ -2221,6 +2285,10 @@ var SALARY_CITIES = [
 
 
 {value:"governador-valadares-mg",col: 89 ,name:"Governador Valadares",display:"Governador Valadares, Βραζιλία",country:"BR"},
+
+
+
+{value:"gradacac-ba",col: 60 ,name:"Gradačac",display:"Gradačac, Βοσνία και Ερζεγοβίνη",country:"BA"},
 
 
 
@@ -2652,6 +2720,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"kavadarci-mk",col: 48 ,name:"Kavadarci",display:"Kavadarci, Βόρεια Μακεδονία",country:"MK"},
+
+
+
+{value:"kavaje-al",col: 48 ,name:"Kavajë",display:"Kavajë, Αλβανία",country:"AL"},
+
+
+
 {value:"kawaguchi-sai",col: 93 ,name:"Kawaguchi",display:"Kawaguchi, Ιαπωνία",country:"JP"},
 
 
@@ -2693,6 +2769,10 @@ var SALARY_CITIES = [
 
 
 {value:"kielce-sk",col: 78 ,name:"Kielce",display:"Kielce, Πολωνία",country:"PL"},
+
+
+
+{value:"kikinda-rs",col: 62 ,name:"Kikinda",display:"Kikinda, Σερβία",country:"RS"},
 
 
 
@@ -2776,6 +2856,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"korce-al",col: 50 ,name:"Korçë",display:"Korçë, Αλβανία",country:"AL"},
+
+
+
 {value:"koriyama-fks",col: 86 ,name:"Koriyama",display:"Koriyama, Ιαπωνία",country:"JP"},
 
 
@@ -2792,7 +2876,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"kotor-me",col: 78 ,name:"Kotor",display:"Kotor, Μαυροβούνιο",country:"ME"},
+
+
+
+{value:"kragujevac-rs",col: 70 ,name:"Kragujevac",display:"Kragujevac, Σερβία",country:"RS"},
+
+
+
 {value:"krakow-ma",col: 100 ,name:"Kraków",display:"Kraków, Πολωνία",country:"PL"},
+
+
+
+{value:"kraljevo-rs",col: 66 ,name:"Kraljevo",display:"Kraljevo, Σερβία",country:"RS"},
 
 
 
@@ -2813,6 +2909,10 @@ var SALARY_CITIES = [
 
 
 {value:"kuldiga-kl",col: 72 ,name:"Kuldīga",display:"Kuldīga, Λετονία",country:"LV"},
+
+
+
+{value:"kumanovo-mk",col: 52 ,name:"Kumanovo",display:"Kumanovo, Βόρεια Μακεδονία",country:"MK"},
 
 
 
@@ -2948,6 +3048,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"leskovac-rs",col: 63 ,name:"Leskovac",display:"Leskovac, Σερβία",country:"RS"},
+
+
+
 {value:"letterkenny-dl",col: 85 ,name:"Letterkenny",display:"Letterkenny, Ιρλανδία",country:"IE"},
 
 
@@ -3024,6 +3128,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"livno-ba",col: 60 ,name:"Livno",display:"Livno, Βοσνία και Ερζεγοβίνη",country:"BA"},
+
+
+
 {value:"ljubljana-lj",col: 100 ,name:"Ljubljana",display:"Ljubljana, Σλοβενία",country:"SI"},
 
 
@@ -3093,6 +3201,10 @@ var SALARY_CITIES = [
 
 
 {value:"luque-py",col: 90 ,name:"Luque",display:"Luque, Paraguay",country:"PY"},
+
+
+
+{value:"lushnje-al",col: 47 ,name:"Lushnjë",display:"Lushnjë, Αλβανία",country:"AL"},
 
 
 
@@ -3328,6 +3440,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"mitrovica-xk",col: 48 ,name:"Mitrovica",display:"Mitrovica, Κόσοβο",country:"XK"},
+
+
+
 {value:"mixco-gt",col: 95 ,name:"Mixco",display:"Mixco, Guatemala",country:"GT"},
 
 
@@ -3401,6 +3517,10 @@ var SALARY_CITIES = [
 
 
 {value:"mosta-mo",col: 100 ,name:"Mosta",display:"Mosta, Μάλτα",country:"MT"},
+
+
+
+{value:"mostar-ba",col: 70 ,name:"Mostar",display:"Mostar, Βοσνία και Ερζεγοβίνη",country:"BA"},
 
 
 
@@ -3504,6 +3624,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"niksic-me",col: 65 ,name:"Nikšić",display:"Nikšić, Μαυροβούνιο",country:"ME"},
+
+
+
+{value:"nis-rs",col: 72 ,name:"Niš",display:"Niš, Σερβία",country:"RS"},
+
+
+
 {value:"niteroi-rj",col: 110 ,name:"Niterói",display:"Niterói, Βραζιλία",country:"BR"},
 
 
@@ -3517,6 +3645,14 @@ var SALARY_CITIES = [
 
 
 {value:"nova-iguacu-rj",col: 90 ,name:"Nova Iguaçu",display:"Nova Iguaçu, Βραζιλία",country:"BR"},
+
+
+
+{value:"novi-pazar-rs",col: 64 ,name:"Novi Pazar",display:"Novi Pazar, Σερβία",country:"RS"},
+
+
+
+{value:"novi-sad-rs",col: 78 ,name:"Novi Sad",display:"Novi Sad, Σερβία",country:"RS"},
 
 
 
@@ -3545,6 +3681,10 @@ var SALARY_CITIES = [
 
 
 {value:"odense-dk",col: 110 ,name:"Odense",display:"Odense, Denmark",country:"DK"},
+
+
+
+{value:"ohrid-mk",col: 58 ,name:"Ohrid",display:"Ohrid, Βόρεια Μακεδονία",country:"MK"},
 
 
 
@@ -3656,6 +3796,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"pancevo-rs",col: 67 ,name:"Pančevo",display:"Pančevo, Σερβία",country:"RS"},
+
+
+
 {value:"panevezys-pn",col: 72 ,name:"Panevėžys",display:"Panevėžys, Λιθουανία",country:"LT"},
 
 
@@ -3693,6 +3837,10 @@ var SALARY_CITIES = [
 
 
 {value:"pedro-juan-caballero-py",col: 88 ,name:"Pedro Juan Caballero",display:"Pedro Juan Caballero, Paraguay",country:"PY"},
+
+
+
+{value:"peja-xk",col: 51 ,name:"Peja",display:"Peja, Κόσοβο",country:"XK"},
 
 
 
@@ -3776,6 +3924,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"podgorica-me",col: 70 ,name:"Podgorica",display:"Podgorica, Μαυροβούνιο",country:"ME"},
+
+
+
 {value:"polokwane-za",col: 82 ,name:"Polokwane",display:"Polokwane, South Africa",country:"ZA"},
 
 
@@ -3844,6 +3996,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"pozarevac-rs",col: 63 ,name:"Požarevac",display:"Požarevac, Σερβία",country:"RS"},
+
+
+
 {value:"poznan-wp",col: 95 ,name:"Poznań",display:"Poznań, Πολωνία",country:"PL"},
 
 
@@ -3861,6 +4017,22 @@ var SALARY_CITIES = [
 
 
 {value:"pretoria-za",col: 105 ,name:"Pretoria",display:"Pretoria, South Africa",country:"ZA"},
+
+
+
+{value:"prijedor-ba",col: 61 ,name:"Prijedor",display:"Prijedor, Βοσνία και Ερζεγοβίνη",country:"BA"},
+
+
+
+{value:"prilep-mk",col: 50 ,name:"Prilep",display:"Prilep, Βόρεια Μακεδονία",country:"MK"},
+
+
+
+{value:"pristina-xk",col: 55 ,name:"Pristina",display:"Pristina, Κόσοβο",country:"XK"},
+
+
+
+{value:"prizren-xk",col: 52 ,name:"Prizren",display:"Prizren, Κόσοβο",country:"XK"},
 
 
 
@@ -4085,6 +4257,10 @@ var SALARY_CITIES = [
 
 
 {value:"rzeszow-pk",col: 78 ,name:"Rzeszów",display:"Rzeszów, Πολωνία",country:"PL"},
+
+
+
+{value:"sabac-rs",col: 64 ,name:"Šabac",display:"Šabac, Σερβία",country:"RS"},
 
 
 
@@ -4352,6 +4528,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"sarajevo-ba",col: 72 ,name:"Sarajevo",display:"Sarajevo, Βοσνία και Ερζεγοβίνη",country:"BA"},
+
+
+
 {value:"satu-mare-sm",col: 72 ,name:"Satu Mare",display:"Satu Mare, Ρουμανία",country:"RO"},
 
 
@@ -4385,6 +4565,10 @@ var SALARY_CITIES = [
 
 
 {value:"shizuoka-szo",col: 93 ,name:"Shizuoka",display:"Shizuoka, Ιαπωνία",country:"JP"},
+
+
+
+{value:"shkoder-al",col: 51 ,name:"Shkodër",display:"Shkodër, Αλβανία",country:"AL"},
 
 
 
@@ -4448,6 +4632,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"skopje-mk",col: 60 ,name:"Skopje",display:"Skopje, Βόρεια Μακεδονία",country:"MK"},
+
+
+
 {value:"skovde-se",col: 92 ,name:"Skövde",display:"Skövde, Sweden",country:"SE"},
 
 
@@ -4472,6 +4660,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"smederevo-rs",col: 65 ,name:"Smederevo",display:"Smederevo, Σερβία",country:"RS"},
+
+
+
 {value:"sofia-g",col: 95 ,name:"Sofia",display:"Sofia, Βουλγαρία",country:"BG"},
 
 
@@ -4485,6 +4677,10 @@ var SALARY_CITIES = [
 
 
 {value:"solola-gt",col: 85 ,name:"Sololá",display:"Sololá, Guatemala",country:"GT"},
+
+
+
+{value:"sombor-rs",col: 63 ,name:"Sombor",display:"Sombor, Σερβία",country:"RS"},
 
 
 
@@ -4544,6 +4740,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"stip-mk",col: 49 ,name:"Štip",display:"Štip, Βόρεια Μακεδονία",country:"MK"},
+
+
+
 {value:"stockholm-se",col: 125 ,name:"Stockholm",display:"Stockholm, Sweden",country:"SE"},
 
 
@@ -4552,7 +4752,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"strumica-mk",col: 47 ,name:"Strumica",display:"Strumica, Βόρεια Μακεδονία",country:"MK"},
+
+
+
 {value:"stuttgart-bw",col: 110 ,name:"Stuttgart",display:"Stuttgart, Γερμανία",country:"DE"},
+
+
+
+{value:"subotica-rs",col: 68 ,name:"Subotica",display:"Subotica, Σερβία",country:"RS"},
 
 
 
@@ -4716,6 +4924,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"tetovo-mk",col: 51 ,name:"Tetovo",display:"Tetovo, Βόρεια Μακεδονία",country:"MK"},
+
+
+
 {value:"thun-be",col: 100 ,name:"Thun",display:"Thun, Ελβετία",country:"CH"},
 
 
@@ -4725,6 +4937,10 @@ var SALARY_CITIES = [
 
 
 {value:"timisoara-tm",col: 90 ,name:"Timișoara",display:"Timișoara, Ρουμανία",country:"RO"},
+
+
+
+{value:"tirana-al",col: 55 ,name:"Tirana",display:"Tirana, Αλβανία",country:"AL"},
 
 
 
@@ -4804,6 +5020,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"trebinje-ba",col: 66 ,name:"Trebinje",display:"Trebinje, Βοσνία και Ερζεγοβίνη",country:"BA"},
+
+
+
 {value:"trelew-pz",col: 66 ,name:"Trelew",display:"Trelew, Αργεντινή",country:"AR"},
 
 
@@ -4864,6 +5084,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"tuzla-ba",col: 65 ,name:"Tuzla",display:"Tuzla, Βοσνία και Ερζεγοβίνη",country:"BA"},
+
+
+
 {value:"uberaba-mg",col: 92 ,name:"Uberaba",display:"Uberaba, Βραζιλία",country:"BR"},
 
 
@@ -4900,6 +5124,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"uzice-rs",col: 64 ,name:"Užice",display:"Užice, Σερβία",country:"RS"},
+
+
+
 {value:"vaasa-fi",col: 95 ,name:"Vaasa",display:"Vaasa, Finland",country:"FI"},
 
 
@@ -4913,6 +5141,10 @@ var SALARY_CITIES = [
 
 
 {value:"valga-val",col: 68 ,name:"Valga",display:"Valga, Εσθονία",country:"EE"},
+
+
+
+{value:"valjevo-rs",col: 65 ,name:"Valjevo",display:"Valjevo, Σερβία",country:"RS"},
 
 
 
@@ -4957,6 +5189,10 @@ var SALARY_CITIES = [
 
 
 {value:"velenje-ve",col: 75 ,name:"Velenje",display:"Velenje, Σλοβενία",country:"SI"},
+
+
+
+{value:"veles-mk",col: 48 ,name:"Veles",display:"Veles, Βόρεια Μακεδονία",country:"MK"},
 
 
 
@@ -5056,11 +5292,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"vlore-al",col: 53 ,name:"Vlorë",display:"Vlorë, Αλβανία",country:"AL"},
+
+
+
 {value:"volta-redonda-rj",col: 93 ,name:"Volta Redonda",display:"Volta Redonda, Βραζιλία",country:"BR"},
 
 
 
+{value:"vranje-rs",col: 62 ,name:"Vranje",display:"Vranje, Σερβία",country:"RS"},
+
+
+
 {value:"vratsa-vr",col: 68 ,name:"Vratsa",display:"Vratsa, Βουλγαρία",country:"BG"},
+
+
+
+{value:"vrsac-rs",col: 62 ,name:"Vršac",display:"Vršac, Σερβία",country:"RS"},
+
+
+
+{value:"vushtrri-xk",col: 47 ,name:"Vushtrri",display:"Vushtrri, Κόσοβο",country:"XK"},
 
 
 
@@ -5172,6 +5424,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"zenica-ba",col: 64 ,name:"Zenica",display:"Zenica, Βοσνία και Ερζεγοβίνη",country:"BA"},
+
+
+
 {value:"zermatt-vs",col: 135 ,name:"Zermatt",display:"Zermatt, Ελβετία",country:"CH"},
 
 
@@ -5181,6 +5437,10 @@ var SALARY_CITIES = [
 
 
 {value:"zlin-cz",col: 85 ,name:"Zlín",display:"Zlín, Τσεχία",country:"CZ"},
+
+
+
+{value:"zrenjanin-rs",col: 66 ,name:"Zrenjanin",display:"Zrenjanin, Σερβία",country:"RS"},
 
 
 
