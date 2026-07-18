@@ -71,14 +71,14 @@
 
  &lt;div class="city-cards"&gt;
  &lt;div class="city-card" id="city-card-a"&gt;
- &lt;div class="city-card-name" id="col-a-name"&gt;City A&lt;/div&gt;
+ &lt;div class="city-card-name" id="col-a-name"&gt;Ville A&lt;/div&gt;
  &lt;div class="city-card-country" id="col-a-country"&gt;&lt;/div&gt;
  &lt;div class="city-card-col" id="col-a-value"&gt;100&lt;/div&gt;
  &lt;div class="city-card-label"&gt;Indice du coût de la vie&lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="city-card-vs"&gt;VS&lt;/div&gt;
  &lt;div class="city-card" id="city-card-b"&gt;
- &lt;div class="city-card-name" id="col-b-name"&gt;Ville A&lt;/div&gt;
+ &lt;div class="city-card-name" id="col-b-name"&gt;Ville B&lt;/div&gt;
  &lt;div class="city-card-country" id="col-b-country"&gt;&lt;/div&gt;
  &lt;div class="city-card-col" id="col-b-value"&gt;100&lt;/div&gt;
  &lt;div class="city-card-label"&gt;Indice du coût de la vie&lt;/div&gt;
@@ -89,7 +89,7 @@
  &lt;div class="comp-bar-section"&gt;
  &lt;div class="comp-bar-section-title"&gt;Coût de la vie global&lt;/div&gt;
  &lt;div class="comp-bar-row"&gt;
- &lt;span class="comp-bar-city" id="bar-label-a-col"&gt;City A&lt;/span&gt;
+ &lt;span class="comp-bar-city" id="bar-label-a-col"&gt;Ville A&lt;/span&gt;
  &lt;div class="comp-bar-track"&gt;
  &lt;div class="comp-bar-fill" id="bar-a-col"&gt;&lt;/div&gt;
  &lt;div class="comp-bar-baseline" style="left:50%"&gt;&lt;/div&gt;
@@ -98,7 +98,7 @@
  &lt;/div&gt;
  &lt;div class="comp-bar-ctx" id="bar-ctx-a-col"&gt;&lt;/div&gt;
  &lt;div class="comp-bar-row"&gt;
- &lt;span class="comp-bar-city" id="bar-label-b-col"&gt;City B&lt;/span&gt;
+ &lt;span class="comp-bar-city" id="bar-label-b-col"&gt;Ville B&lt;/span&gt;
  &lt;div class="comp-bar-track"&gt;
  &lt;div class="comp-bar-fill" id="bar-b-col"&gt;&lt;/div&gt;
  &lt;div class="comp-bar-baseline" style="left:50%"&gt;&lt;/div&gt;
@@ -110,7 +110,7 @@
  &lt;div class="comp-bar-section"&gt;
  &lt;div class="comp-bar-section-title"&gt;Indice du logement&lt;/div&gt;
  &lt;div class="comp-bar-row"&gt;
- &lt;span class="comp-bar-city" id="bar-label-a-housing"&gt;City A&lt;/span&gt;
+ &lt;span class="comp-bar-city" id="bar-label-a-housing"&gt;Ville A&lt;/span&gt;
  &lt;div class="comp-bar-track"&gt;
  &lt;div class="comp-bar-fill" id="bar-a-housing"&gt;&lt;/div&gt;
  &lt;div class="comp-bar-baseline" style="left:50%"&gt;&lt;/div&gt;
@@ -119,7 +119,7 @@
  &lt;/div&gt;
  &lt;div class="comp-bar-ctx" id="bar-ctx-a-housing"&gt;&lt;/div&gt;
  &lt;div class="comp-bar-row"&gt;
- &lt;span class="comp-bar-city" id="bar-label-b-housing"&gt;City B&lt;/span&gt;
+ &lt;span class="comp-bar-city" id="bar-label-b-housing"&gt;Ville B&lt;/span&gt;
  &lt;div class="comp-bar-track"&gt;
  &lt;div class="comp-bar-fill" id="bar-b-housing"&gt;&lt;/div&gt;
  &lt;div class="comp-bar-baseline" style="left:50%"&gt;&lt;/div&gt;
@@ -1303,6 +1303,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"baotou-nm",col: 90 ,name:"Baotou",display:"Baotou, Chine",country:"CN"},
+
+
+
 {value:"bar-me",col: 68 ,name:"Bar",display:"Bar, Monténégro",country:"ME"},
 
 
@@ -1340,6 +1344,10 @@ var SALARY_CITIES = [
 
 
 {value:"bayamo-cu",col: 85 ,name:"Bayamo",display:"Bayamo, Cuba",country:"CU"},
+
+
+
+{value:"beijing-bj",col: 145 ,name:"Beijing",display:"Beijing, Chine",country:"CN"},
 
 
 
@@ -1803,6 +1811,18 @@ var SALARY_CITIES = [
 
 
 
+{value:"changchun-jl",col: 95 ,name:"Changchun",display:"Changchun, Chine",country:"CN"},
+
+
+
+{value:"changsha-hn",col: 105 ,name:"Changsha",display:"Changsha, Chine",country:"CN"},
+
+
+
+{value:"changzhou-js",col: 108 ,name:"Changzhou",display:"Changzhou, Chine",country:"CN"},
+
+
+
 {value:"chania-cr",col: 94 ,name:"Chania",display:"Chania, Grèce",country:"GR"},
 
 
@@ -1832,6 +1852,10 @@ var SALARY_CITIES = [
 
 
 {value:"chemnitz-sn",col: 80 ,name:"Chemnitz",display:"Chemnitz, Allemagne",country:"DE"},
+
+
+
+{value:"chengdu-sc",col: 108 ,name:"Chengdu",display:"Chengdu, Chine",country:"CN"},
 
 
 
@@ -1884,6 +1908,10 @@ var SALARY_CITIES = [
 
 
 {value:"chomutov-cz",col: 78 ,name:"Chomutov",display:"Chomutov, République tchèque",country:"CZ"},
+
+
+
+{value:"chongqing-cq",col: 105 ,name:"Chongqing",display:"Chongqing, Chine",country:"CN"},
 
 
 
@@ -2087,6 +2115,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"dalian-ln",col: 108 ,name:"Dalian",display:"Dalian, Chine",country:"CN"},
+
+
+
 {value:"dallas-tx",col: 101.3 ,name:"Dallas",display:"Dallas, TX, US",country:"US"},
 
 
@@ -2180,6 +2212,10 @@ var SALARY_CITIES = [
 
 
 {value:"dobrich-dx",col: 70 ,name:"Dobrich",display:"Dobrich, Bulgarie",country:"BG"},
+
+
+
+{value:"dongguan-gd",col: 108 ,name:"Dongguan",display:"Dongguan, Chine",country:"CN"},
 
 
 
@@ -2455,6 +2491,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"foshan-gd",col: 105 ,name:"Foshan",display:"Foshan, Chine",country:"CN"},
+
+
+
 {value:"foz-do-iguacu-pr",col: 92 ,name:"Foz do Iguaçu",display:"Foz do Iguaçu, Brésil",country:"BR"},
 
 
@@ -2508,6 +2548,10 @@ var SALARY_CITIES = [
 
 
 {value:"funchal-pt",col: 88 ,name:"Funchal",display:"Funchal, Portugal",country:"PT"},
+
+
+
+{value:"fuzhou-fj",col: 108 ,name:"Fuzhou",display:"Fuzhou, Chine",country:"CN"},
 
 
 
@@ -2675,6 +2719,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"guangzhou-gd",col: 125 ,name:"Guangzhou",display:"Guangzhou, Chine",country:"CN"},
+
+
+
 {value:"guantanamo-cu",col: 85 ,name:"Guantánamo",display:"Guantánamo, Cuba",country:"CU"},
 
 
@@ -2695,7 +2743,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"guiilin-gx",col: 95 ,name:"Guilin",display:"Guilin, Chine",country:"CN"},
+
+
+
 {value:"guimaraes-pt",col: 78 ,name:"Guimarães",display:"Guimarães, Portugal",country:"PT"},
+
+
+
+{value:"guiyang-gz",col: 98 ,name:"Guiyang",display:"Guiyang, Chine",country:"CN"},
 
 
 
@@ -2708,6 +2764,10 @@ var SALARY_CITIES = [
 
 
 {value:"hachioji-tky",col: 98 ,name:"Hachioji",display:"Hachioji, Japon",country:"JP"},
+
+
+
+{value:"haikou-hi",col: 108 ,name:"Haikou",display:"Haikou, Chine",country:"CN"},
 
 
 
@@ -2747,7 +2807,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"hangzhou-zj",col: 120 ,name:"Hangzhou",display:"Hangzhou, Chine",country:"CN"},
+
+
+
 {value:"hannover-ni",col: 92 ,name:"Hanovre",display:"Hanovre, Allemagne",country:"DE"},
+
+
+
+{value:"harbin-hl",col: 95 ,name:"Harbin",display:"Harbin, Chine",country:"CN"},
 
 
 
@@ -2768,6 +2836,10 @@ var SALARY_CITIES = [
 
 
 {value:"havirov-cz",col: 80 ,name:"Havířov",display:"Havířov, République tchèque",country:"CZ"},
+
+
+
+{value:"hefei-ah",col: 102 ,name:"Hefei",display:"Hefei, Chine",country:"CN"},
 
 
 
@@ -2831,6 +2903,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"hohhot-nm",col: 92 ,name:"Hohhot",display:"Hohhot, Chine",country:"CN"},
+
+
+
 {value:"holguin-cu",col: 88 ,name:"Holguín",display:"Holguín, Cuba",country:"CU"},
 
 
@@ -2872,6 +2948,10 @@ var SALARY_CITIES = [
 
 
 {value:"huelva-and",col: 80 ,name:"Huelva",display:"Huelva, Espagne",country:"ES"},
+
+
+
+{value:"huizhou-gd",col: 102 ,name:"Huizhou",display:"Huizhou, Chine",country:"CN"},
 
 
 
@@ -2992,6 +3072,10 @@ var SALARY_CITIES = [
 
 
 {value:"jihlava-cz",col: 85 ,name:"Jihlava",display:"Jihlava, République tchèque",country:"CZ"},
+
+
+
+{value:"jinan-sd",col: 105 ,name:"Jinan",display:"Jinan, Chine",country:"CN"},
 
 
 
@@ -3311,6 +3395,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"kunming-yn",col: 102 ,name:"Kunming",display:"Kunming, Chine",country:"CN"},
+
+
+
 {value:"kuopio-fi",col: 100 ,name:"Kuopio",display:"Kuopio, Finland",country:"FI"},
 
 
@@ -3392,6 +3480,10 @@ var SALARY_CITIES = [
 
 
 {value:"lamia-cp",col: 82 ,name:"Lamia",display:"Lamia, Grèce",country:"GR"},
+
+
+
+{value:"lanzhou-gs",col: 95 ,name:"Lanzhou",display:"Lanzhou, Chine",country:"CN"},
 
 
 
@@ -3488,6 +3580,10 @@ var SALARY_CITIES = [
 
 
 {value:"lexington-ky",col: 94.2 ,name:"Lexington",display:"Lexington, KY, US",country:"US"},
+
+
+
+{value:"lasa-xz",col: 105 ,name:"Lhasa",display:"Lhasa, Chine",country:"CN"},
 
 
 
@@ -3648,6 +3744,10 @@ var SALARY_CITIES = [
 
 
 {value:"lund-se",col: 108 ,name:"Lund",display:"Lund, Sweden",country:"SE"},
+
+
+
+{value:"luoyang-ha",col: 95 ,name:"Luoyang",display:"Luoyang, Chine",country:"CN"},
 
 
 
@@ -4083,7 +4183,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"nanchang-jx",col: 100 ,name:"Nanchang",display:"Nanchang, Chine",country:"CN"},
+
+
+
 {value:"nancy-ges",col: 87 ,name:"Nancy",display:"Nancy, France",country:"FR"},
+
+
+
+{value:"nanjing-js",col: 115 ,name:"Nanjing",display:"Nanjing, Chine",country:"CN"},
+
+
+
+{value:"nanning-gx",col: 100 ,name:"Nanning",display:"Nanning, Chine",country:"CN"},
 
 
 
@@ -4168,6 +4280,10 @@ var SALARY_CITIES = [
 
 
 {value:"niksic-me",col: 65 ,name:"Nikšić",display:"Nikšić, Monténégro",country:"ME"},
+
+
+
+{value:"ningbo-zj",col: 112 ,name:"Ningbo",display:"Ningbo, Chine",country:"CN"},
 
 
 
@@ -4699,6 +4815,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"qingdao-sd",col: 108 ,name:"Qingdao",display:"Qingdao, Chine",country:"CN"},
+
+
+
 {value:"quebec-city-ca",col: 87.2 ,name:"Québec",display:"Québec, Canada",country:"CA"},
 
 
@@ -5183,6 +5303,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"sanya-hi",col: 120 ,name:"Sanya",display:"Sanya, Chine",country:"CN"},
+
+
+
 {value:"sao-bernardo-do-campo-sp",col: 100 ,name:"São Bernardo do Campo",display:"São Bernardo do Campo, Brésil",country:"BR"},
 
 
@@ -5263,7 +5387,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"shanghai-sh",col: 150 ,name:"Shanghai",display:"Shanghai, Chine",country:"CN"},
+
+
+
+{value:"shaoxing-zj",col: 105 ,name:"Shaoxing",display:"Shaoxing, Chine",country:"CN"},
+
+
+
 {value:"sharm-el-sheikh-eg",col: 90 ,name:"Sharm El Sheikh",display:"Sharm El Sheikh, Egypt",country:"EG"},
+
+
+
+{value:"shenyang-ln",col: 100 ,name:"Shenyang",display:"Shenyang, Chine",country:"CN"},
+
+
+
+{value:"shenzhen-gd",col: 135 ,name:"Shenzhen",display:"Shenzhen, Chine",country:"CN"},
+
+
+
+{value:"shijiazhuang-he",col: 98 ,name:"Shijiazhuang",display:"Shijiazhuang, Chine",country:"CN"},
 
 
 
@@ -5487,6 +5631,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"suzhou-js",col: 112 ,name:"Suzhou",display:"Suzhou, Chine",country:"CN"},
+
+
+
 {value:"svendborg-dk",col: 98 ,name:"Svendborg",display:"Svendborg, Denmark",country:"DK"},
 
 
@@ -5524,6 +5672,10 @@ var SALARY_CITIES = [
 
 
 {value:"tacuarembo-uy",col: 85 ,name:"Tacuarembó",display:"Tacuarembó, Uruguay",country:"UY"},
+
+
+
+{value:"taiyuan-sx",col: 95 ,name:"Taiyuan",display:"Taiyuan, Chine",country:"CN"},
 
 
 
@@ -5644,6 +5796,10 @@ var SALARY_CITIES = [
 
 
 {value:"thun-be",col: 100 ,name:"Thoune",display:"Thoune, Suisse",country:"CH"},
+
+
+
+{value:"tianjin-tj",col: 110 ,name:"Tianjin",display:"Tianjin, Chine",country:"CN"},
 
 
 
@@ -5844,6 +6000,10 @@ var SALARY_CITIES = [
 
 
 {value:"uppsala-se",col: 108 ,name:"Uppsala",display:"Uppsala, Sweden",country:"SE"},
+
+
+
+{value:"urumqi-xj",col: 95 ,name:"Ürümqi",display:"Ürümqi, Chine",country:"CN"},
 
 
 
@@ -6111,11 +6271,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"weihai-sd",col: 100 ,name:"Weihai",display:"Weihai, Chine",country:"CN"},
+
+
+
 {value:"welkom-za",col: 78 ,name:"Welkom",display:"Welkom, South Africa",country:"ZA"},
 
 
 
 {value:"wels-ooe",col: 88 ,name:"Wels",display:"Wels, Autriche",country:"AT"},
+
+
+
+{value:"wenzhou-zj",col: 108 ,name:"Wenzhou",display:"Wenzhou, Chine",country:"CN"},
 
 
 
@@ -6167,11 +6335,43 @@ var SALARY_CITIES = [
 
 
 
+{value:"wuhan-hb",col: 110 ,name:"Wuhan",display:"Wuhan, Chine",country:"CN"},
+
+
+
+{value:"wuxi-js",col: 110 ,name:"Wuxi",display:"Wuxi, Chine",country:"CN"},
+
+
+
+{value:"xian-sn",col: 105 ,name:"Xi\u0027an",display:"Xi\u0027an, Chine",country:"CN"},
+
+
+
+{value:"xiamen-fj",col: 115 ,name:"Xiamen",display:"Xiamen, Chine",country:"CN"},
+
+
+
+{value:"xining-qh",col: 90 ,name:"Xining",display:"Xining, Chine",country:"CN"},
+
+
+
+{value:"xuzhou-js",col: 100 ,name:"Xuzhou",display:"Xuzhou, Chine",country:"CN"},
+
+
+
 {value:"yamagata-ymt",col: 86 ,name:"Yamagata",display:"Yamagata, Japon",country:"JP"},
 
 
 
 {value:"yamaguchi-ygc",col: 85 ,name:"Yamaguchi",display:"Yamaguchi, Japon",country:"JP"},
+
+
+
+{value:"yantai-sd",col: 102 ,name:"Yantai",display:"Yantai, Chine",country:"CN"},
+
+
+
+{value:"yinchuan-nx",col: 90 ,name:"Yinchuan",display:"Yinchuan, Chine",country:"CN"},
 
 
 
@@ -6216,6 +6416,18 @@ var SALARY_CITIES = [
 
 
 {value:"zermatt-vs",col: 135 ,name:"Zermatt",display:"Zermatt, Suisse",country:"CH"},
+
+
+
+{value:"zhengzhou-ha",col: 102 ,name:"Zhengzhou",display:"Zhengzhou, Chine",country:"CN"},
+
+
+
+{value:"zhongshan-gd",col: 105 ,name:"Zhongshan",display:"Zhongshan, Chine",country:"CN"},
+
+
+
+{value:"zhuhai-gd",col: 115 ,name:"Zhuhai",display:"Zhuhai, Chine",country:"CN"},
 
 
 
