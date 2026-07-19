@@ -999,6 +999,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"aberdeen-sd",col: 88 ,name:"Aberdeen",display:"Aberdeen, SD, US",country:"US"},
+
+
+
+{value:"abilene-tx",col: 88 ,name:"Abilene",display:"Abilene, TX, US",country:"US"},
+
+
+
 {value:"acapulco-gro",col: 70.5 ,name:"Acapulco",display:"Acapulco, Mexique",country:"MX"},
 
 
@@ -1071,6 +1079,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"albany-ga",col: 82 ,name:"Albany",display:"Albany, GA, US",country:"US"},
+
+
+
+{value:"albany-ny",col: 105 ,name:"Albany",display:"Albany, NY, US",country:"US"},
+
+
+
 {value:"albuquerque-nm",col: 94.5 ,name:"Albuquerque",display:"Albuquerque, NM, US",country:"US"},
 
 
@@ -1087,11 +1103,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"alexandria-va",col: 145 ,name:"Alexandria",display:"Alexandria, VA, US",country:"US"},
+
+
+
 {value:"alexandroupoli-em",col: 84 ,name:"Alexandroupoli",display:"Alexandroupoli, Grèce",country:"GR"},
 
 
 
 {value:"alicante-val",col: 88 ,name:"Alicante",display:"Alicante, Espagne",country:"ES"},
+
+
+
+{value:"allentown-pa",col: 95 ,name:"Allentown",display:"Allentown, PA, US",country:"US"},
 
 
 
@@ -1103,7 +1127,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"amarillo-tx",col: 88 ,name:"Amarillo",display:"Amarillo, TX, US",country:"US"},
+
+
+
 {value:"ambato-ec",col: 88 ,name:"Ambato",display:"Ambato, Ecuador",country:"EC"},
+
+
+
+{value:"ames-ia",col: 92 ,name:"Ames",display:"Ames, IA, US",country:"US"},
 
 
 
@@ -1143,6 +1175,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"annapolis-md",col: 125 ,name:"Annapolis",display:"Annapolis, MD, US",country:"US"},
+
+
+
 {value:"antalya-tr",col: 98 ,name:"Antalya",display:"Antalya, Turkey",country:"TR"},
 
 
@@ -1171,6 +1207,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"appleton-wi",col: 95 ,name:"Appleton",display:"Appleton, WI, US",country:"US"},
+
+
+
 {value:"aracaju-se",col: 88 ,name:"Aracaju",display:"Aracaju, Brésil",country:"BR"},
 
 
@@ -1184,6 +1224,14 @@ var SALARY_CITIES = [
 
 
 {value:"arica-cl",col: 98 ,name:"Arica",display:"Arica, Chile",country:"CL"},
+
+
+
+{value:"arlington-tx",col: 100 ,name:"Arlington",display:"Arlington, TX, US",country:"US"},
+
+
+
+{value:"arlington-va",col: 160 ,name:"Arlington",display:"Arlington, VA, US",country:"US"},
 
 
 
@@ -1231,11 +1279,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"athens-ga",col: 92 ,name:"Athens",display:"Athens, GA, US",country:"US"},
+
+
+
 {value:"athlone-wh",col: 90 ,name:"Athlone",display:"Athlone, Irlande",country:"IE"},
 
 
 
 {value:"atlanta-ga",col: 104.7 ,name:"Atlanta",display:"Atlanta, GA, US",country:"US"},
+
+
+
+{value:"auburn-al",col: 88.5 ,name:"Auburn",display:"Auburn, AL, US",country:"US"},
 
 
 
@@ -1252,6 +1308,10 @@ var SALARY_CITIES = [
 
 
 {value:"aurora-co",col: 108.5 ,name:"Aurora",display:"Aurora, CO, US",country:"US"},
+
+
+
+{value:"aurora-il",col: 100 ,name:"Aurora",display:"Aurora, IL, US",country:"US"},
 
 
 
@@ -1323,6 +1383,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"bangor-me",col: 95 ,name:"Bangor",display:"Bangor, ME, US",country:"US"},
+
+
+
 {value:"bani-do",col: 85 ,name:"Baní",display:"Baní, Dominican Republic",country:"DO"},
 
 
@@ -1383,6 +1447,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"beaumont-tx",col: 88 ,name:"Beaumont",display:"Beaumont, TX, US",country:"US"},
+
+
+
+{value:"beaverton-or",col: 110 ,name:"Beaverton",display:"Beaverton, OR, US",country:"US"},
+
+
+
 {value:"beijing-bj",col: 145 ,name:"Beijing",display:"Beijing, Chine",country:"CN"},
 
 
@@ -1407,6 +1479,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"bellevue-ne",col: 92 ,name:"Bellevue",display:"Bellevue, NE, US",country:"US"},
+
+
+
+{value:"bellevue-wa",col: 170 ,name:"Bellevue",display:"Bellevue, WA, US",country:"US"},
+
+
+
 {value:"bellingham-wa",col: 115.2 ,name:"Bellingham",display:"Bellingham, WA, US",country:"US"},
 
 
@@ -1427,6 +1507,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"bentonville-ar",col: 100 ,name:"Bentonville",display:"Bentonville, AR, US",country:"US"},
+
+
+
 {value:"berat-al",col: 48 ,name:"Berat",display:"Berat, Albanie",country:"AL"},
 
 
@@ -1439,11 +1523,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"berkeley-ca",col: 175 ,name:"Berkeley",display:"Berkeley, CA, US",country:"US"},
+
+
+
 {value:"berlin-be",col: 105 ,name:"Berlin",display:"Berlin, Allemagne",country:"DE"},
 
 
 
 {value:"bern-be",col: 115 ,name:"Berne",display:"Berne, Suisse",country:"CH"},
+
+
+
+{value:"bethlehem-pa",col: 95 ,name:"Bethlehem",display:"Bethlehem, PA, US",country:"US"},
 
 
 
@@ -1487,6 +1579,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"biloxi-ms",col: 90 ,name:"Biloxi",display:"Biloxi, MS, US",country:"US"},
+
+
+
+{value:"binghamton-ny",col: 90 ,name:"Binghamton",display:"Binghamton, NY, US",country:"US"},
+
+
+
 {value:"birkirkara-bk",col: 100 ,name:"Birkirkara",display:"Birkirkara, Malte",country:"MT"},
 
 
@@ -1499,7 +1599,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"bismarck-nd",col: 95 ,name:"Bismarck",display:"Bismarck, ND, US",country:"US"},
+
+
+
 {value:"bitola-mk",col: 55 ,name:"Bitola",display:"Bitola, Macédoine du Nord",country:"MK"},
+
+
+
+{value:"blacksburg-va",col: 100 ,name:"Blacksburg",display:"Blacksburg, VA, US",country:"US"},
 
 
 
@@ -1508,6 +1616,14 @@ var SALARY_CITIES = [
 
 
 {value:"bloemfontein-za",col: 88 ,name:"Bloemfontein",display:"Bloemfontein, South Africa",country:"ZA"},
+
+
+
+{value:"bloomington-in",col: 95 ,name:"Bloomington",display:"Bloomington, IN, US",country:"US"},
+
+
+
+{value:"bloomington-mn",col: 108 ,name:"Bloomington",display:"Bloomington, MN, US",country:"US"},
 
 
 
@@ -1567,6 +1683,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"bossier-city-la",col: 90 ,name:"Bossier City",display:"Bossier City, LA, US",country:"US"},
+
+
+
 {value:"boston-ma",col: 153.2 ,name:"Boston",display:"Boston, MA, US",country:"US"},
 
 
@@ -1575,7 +1695,15 @@ var SALARY_CITIES = [
 
 
 
-{value:"boulder-co",col: 148.5 ,name:"Boulder",display:"Boulder, CO, US",country:"US"},
+{value:"boulder-co",col: 145 ,name:"Boulder",display:"Boulder, CO, US",country:"US"},
+
+
+
+{value:"bowling-green-ky",col: 90 ,name:"Bowling Green",display:"Bowling Green, KY, US",country:"US"},
+
+
+
+{value:"bozeman-mt",col: 115 ,name:"Bozeman",display:"Bozeman, MT, US",country:"US"},
 
 
 
@@ -1639,6 +1767,22 @@ var SALARY_CITIES = [
 
 
 
+{value:"broken-arrow-ok",col: 90 ,name:"Broken Arrow",display:"Broken Arrow, OK, US",country:"US"},
+
+
+
+{value:"brookings-sd",col: 92 ,name:"Brookings",display:"Brookings, SD, US",country:"US"},
+
+
+
+{value:"brooklyn-park-mn",col: 100 ,name:"Brooklyn Park",display:"Brooklyn Park, MN, US",country:"US"},
+
+
+
+{value:"brownsville-tx",col: 85 ,name:"Brownsville",display:"Brownsville, TX, US",country:"US"},
+
+
+
 {value:"bruges-vwv",col: 108 ,name:"Bruges",display:"Bruges, Belgique",country:"BE"},
 
 
@@ -1687,11 +1831,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"burlington-nc",col: 88 ,name:"Burlington",display:"Burlington, NC, US",country:"US"},
+
+
+
 {value:"burlington-vt",col: 112.5 ,name:"Burlington",display:"Burlington, VT, US",country:"US"},
 
 
 
 {value:"bursa-tr",col: 92 ,name:"Bursa",display:"Bursa, Turkey",country:"TR"},
+
+
+
+{value:"butte-mt",col: 90 ,name:"Butte",display:"Butte, MT, US",country:"US"},
 
 
 
@@ -1759,6 +1911,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"cambridge-ma",col: 170 ,name:"Cambridge",display:"Cambridge, MA, US",country:"US"},
+
+
+
+{value:"camden-nj",col: 95 ,name:"Camden",display:"Camden, NJ, US",country:"US"},
+
+
+
 {value:"campinas-sp",col: 105 ,name:"Campinas",display:"Campinas, Brésil",country:"BR"},
 
 
@@ -1772,6 +1932,10 @@ var SALARY_CITIES = [
 
 
 {value:"cancun-roo",col: 88.5 ,name:"Cancún",display:"Cancún, Mexique",country:"MX"},
+
+
+
+{value:"canton-oh",col: 85 ,name:"Canton",display:"Canton, OH, US",country:"US"},
 
 
 
@@ -1795,11 +1959,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"carson-city-nv",col: 100 ,name:"Carson City",display:"Carson City, NV, US",country:"US"},
+
+
+
 {value:"cartagena-co",col: 115 ,name:"Cartagena",display:"Cartagena, Colombia",country:"CO"},
 
 
 
 {value:"cartago-cr",col: 95 ,name:"Cartago",display:"Cartago, Costa Rica",country:"CR"},
+
+
+
+{value:"cary-nc",col: 108 ,name:"Cary",display:"Cary, NC, US",country:"US"},
 
 
 
@@ -1831,6 +2003,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"cedar-rapids-ia",col: 90 ,name:"Cedar Rapids",display:"Cedar Rapids, IA, US",country:"US"},
+
+
+
 {value:"celaya-gua",col: 65.5 ,name:"Celaya",display:"Celaya, Mexique",country:"MX"},
 
 
@@ -1852,6 +2028,10 @@ var SALARY_CITIES = [
 
 
 {value:"chalcis-cp",col: 90 ,name:"Chalcis",display:"Chalcis, Grèce",country:"GR"},
+
+
+
+{value:"champaign-il",col: 95 ,name:"Champaign",display:"Champaign, IL, US",country:"US"},
 
 
 
@@ -1887,7 +2067,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"charleston-wv",col: 88 ,name:"Charleston",display:"Charleston, WV, US",country:"US"},
+
+
+
 {value:"charlotte-nc",col: 98.2 ,name:"Charlotte",display:"Charlotte, NC, US",country:"US"},
+
+
+
+{value:"charlottesville-va",col: 115 ,name:"Charlottesville",display:"Charlottesville, VA, US",country:"US"},
 
 
 
@@ -2011,6 +2199,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"clarksville-tn",col: 90 ,name:"Clarksville",display:"Clarksville, TN, US",country:"US"},
+
+
+
 {value:"clermont-ferrand-ara",col: 86 ,name:"Clermont-Ferrand",display:"Clermont-Ferrand, France",country:"FR"},
 
 
@@ -2043,6 +2235,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"cody-wy",col: 105 ,name:"Cody",display:"Cody, WY, US",country:"US"},
+
+
+
+{value:"coeur-d-alene-id",col: 110 ,name:"Coeur d\u0027Alene",display:"Coeur d\u0027Alene, ID, US",country:"US"},
+
+
+
 {value:"coimbatore-tn",col: 95 ,name:"Coimbatore",display:"Coimbatore, India",country:"IN"},
 
 
@@ -2063,11 +2263,23 @@ var SALARY_CITIES = [
 
 
 
-{value:"colorado-springs-co",col: 105.2 ,name:"Colorado Springs",display:"Colorado Springs, CO, US",country:"US"},
+{value:"colorado-springs-co",col: 105 ,name:"Colorado Springs",display:"Colorado Springs, CO, US",country:"US"},
+
+
+
+{value:"columbia-md",col: 120 ,name:"Columbia",display:"Columbia, MD, US",country:"US"},
+
+
+
+{value:"columbia-mo",col: 92 ,name:"Columbia",display:"Columbia, MO, US",country:"US"},
 
 
 
 {value:"columbia-sc",col: 94.5 ,name:"Columbia",display:"Columbia, SC, US",country:"US"},
+
+
+
+{value:"columbus-ga",col: 88 ,name:"Columbus",display:"Columbus, GA, US",country:"US"},
 
 
 
@@ -2087,6 +2299,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"concord-nc",col: 95 ,name:"Concord",display:"Concord, NC, US",country:"US"},
+
+
+
+{value:"concord-nh",col: 105 ,name:"Concord",display:"Concord, NH, US",country:"US"},
+
+
+
 {value:"concordia-er",col: 64 ,name:"Concordia",display:"Concordia, Argentine",country:"AR"},
 
 
@@ -2099,11 +2319,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"conway-ar",col: 88 ,name:"Conway",display:"Conway, AR, US",country:"US"},
+
+
+
+{value:"cookeville-tn",col: 88 ,name:"Cookeville",display:"Cookeville, TN, US",country:"US"},
+
+
+
 {value:"copenhagen-dk",col: 128 ,name:"Copenhagen",display:"Copenhagen, Denmark",country:"DK"},
 
 
 
 {value:"copiapo-cl",col: 92 ,name:"Copiapó",display:"Copiapó, Chile",country:"CL"},
+
+
+
+{value:"coral-springs-fl",col: 105 ,name:"Coral Springs",display:"Coral Springs, FL, US",country:"US"},
 
 
 
@@ -2135,7 +2367,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"corvallis-or",col: 108 ,name:"Corvallis",display:"Corvallis, OR, US",country:"US"},
+
+
+
 {value:"kortrijk-vwv",col: 92 ,name:"Courtrai",display:"Courtrai, Belgique",country:"BE"},
+
+
+
+{value:"covington-ky",col: 95 ,name:"Covington",display:"Covington, KY, US",country:"US"},
 
 
 
@@ -2144,6 +2384,10 @@ var SALARY_CITIES = [
 
 
 {value:"craiova-dj",col: 78 ,name:"Craiova",display:"Craiova, Roumanie",country:"RO"},
+
+
+
+{value:"cranston-ri",col: 108 ,name:"Cranston",display:"Cranston, RI, US",country:"US"},
 
 
 
@@ -2207,6 +2451,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"danbury-ct",col: 120 ,name:"Danbury",display:"Danbury, CT, US",country:"US"},
+
+
+
 {value:"danli-hn",col: 85 ,name:"Danlí",display:"Danlí, Honduras",country:"HN"},
 
 
@@ -2219,6 +2467,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"davenport-ia",col: 88 ,name:"Davenport",display:"Davenport, IA, US",country:"US"},
+
+
+
 {value:"david-pa",col: 95 ,name:"David",display:"David, Panama",country:"PA"},
 
 
@@ -2227,7 +2479,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"dayton-oh",col: 88 ,name:"Dayton",display:"Dayton, OH, US",country:"US"},
+
+
+
+{value:"daytona-beach-fl",col: 95 ,name:"Daytona Beach",display:"Daytona Beach, FL, US",country:"US"},
+
+
+
 {value:"debrecen-hb",col: 85 ,name:"Debrecen",display:"Debrecen, Hongrie",country:"HU"},
+
+
+
+{value:"decatur-al",col: 86 ,name:"Decatur",display:"Decatur, AL, US",country:"US"},
 
 
 
@@ -2311,7 +2575,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"dothan-al",col: 85 ,name:"Dothan",display:"Dothan, AL, US",country:"US"},
+
+
+
 {value:"dourados-ms",col: 88 ,name:"Dourados",display:"Dourados, Brésil",country:"BR"},
+
+
+
+{value:"dover-de",col: 95 ,name:"Dover",display:"Dover, DE, US",country:"US"},
 
 
 
@@ -2343,6 +2615,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"duluth-mn",col: 98 ,name:"Duluth",display:"Duluth, MN, US",country:"US"},
+
+
+
 {value:"dunaujvaros-fe",col: 70 ,name:"Dunaújváros",display:"Dunaújváros, Hongrie",country:"HU"},
 
 
@@ -2352,6 +2628,10 @@ var SALARY_CITIES = [
 
 
 {value:"duque-de-caxias-rj",col: 92 ,name:"Duque de Caxias",display:"Duque de Caxias, Brésil",country:"BR"},
+
+
+
+{value:"durango-co",col: 110 ,name:"Durango",display:"Durango, CO, US",country:"US"},
 
 
 
@@ -2379,6 +2659,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"eau-claire-wi",col: 92 ,name:"Eau Claire",display:"Eau Claire, WI, US",country:"US"},
+
+
+
 {value:"echternach-ec",col: 102 ,name:"Echternach",display:"Echternach, Luxembourg",country:"LU"},
 
 
@@ -2388,6 +2672,10 @@ var SALARY_CITIES = [
 
 
 {value:"edirne-tr",col: 80 ,name:"Edirne",display:"Edirne, Turkey",country:"TR"},
+
+
+
+{value:"edmond-ok",col: 95 ,name:"Edmond",display:"Edmond, OK, US",country:"US"},
 
 
 
@@ -2435,11 +2723,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"elizabeth-nj",col: 110 ,name:"Elizabeth",display:"Elizabeth, NJ, US",country:"US"},
+
+
+
 {value:"elk-grove-ca",col: 128.5 ,name:"Elk Grove",display:"Elk Grove, CA, US",country:"US"},
 
 
 
+{value:"elko-nv",col: 95 ,name:"Elko",display:"Elko, NV, US",country:"US"},
+
+
+
 {value:"encarnacion-py",col: 92 ,name:"Encarnación",display:"Encarnación, Paraguay",country:"PY"},
+
+
+
+{value:"enid-ok",col: 85 ,name:"Enid",display:"Enid, OK, US",country:"US"},
 
 
 
@@ -2448,6 +2748,10 @@ var SALARY_CITIES = [
 
 
 {value:"erfurt-th",col: 82 ,name:"Erfurt",display:"Erfurt, Allemagne",country:"DE"},
+
+
+
+{value:"erie-pa",col: 88 ,name:"Erie",display:"Erie, PA, US",country:"US"},
 
 
 
@@ -2487,6 +2791,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"essex-vt",col: 105 ,name:"Essex",display:"Essex, VT, US",country:"US"},
+
+
+
 {value:"esteli-ni",col: 85 ,name:"Estelí",display:"Estelí, Nicaragua",country:"NI"},
 
 
@@ -2499,7 +2807,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"evansville-in",col: 85 ,name:"Evansville",display:"Evansville, IN, US",country:"US"},
+
+
+
+{value:"everett-wa",col: 115 ,name:"Everett",display:"Everett, WA, US",country:"US"},
+
+
+
 {value:"evora-pt",col: 80 ,name:"Évora",display:"Évora, Portugal",country:"PT"},
+
+
+
+{value:"fairbanks-ak",col: 130 ,name:"Fairbanks",display:"Fairbanks, AK, US",country:"US"},
 
 
 
@@ -2515,7 +2835,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"farmington-nm",col: 90 ,name:"Farmington",display:"Farmington, NM, US",country:"US"},
+
+
+
 {value:"faro-pt",col: 92 ,name:"Faro",display:"Faro, Portugal",country:"PT"},
+
+
+
+{value:"fayetteville-ar",col: 95 ,name:"Fayetteville",display:"Fayetteville, AR, US",country:"US"},
 
 
 
@@ -2551,6 +2879,22 @@ var SALARY_CITIES = [
 
 
 
+{value:"flagstaff-az",col: 108 ,name:"Flagstaff",display:"Flagstaff, AZ, US",country:"US"},
+
+
+
+{value:"flint-mi",col: 82 ,name:"Flint",display:"Flint, MI, US",country:"US"},
+
+
+
+{value:"florence-al",col: 84 ,name:"Florence",display:"Florence, AL, US",country:"US"},
+
+
+
+{value:"florence-sc",col: 88 ,name:"Florence",display:"Florence, SC, US",country:"US"},
+
+
+
 {value:"florence-tus",col: 115 ,name:"Florence",display:"Florence, Italie",country:"IT"},
 
 
@@ -2564,6 +2908,18 @@ var SALARY_CITIES = [
 
 
 {value:"formosa-fsa",col: 60 ,name:"Formosa",display:"Formosa, Argentine",country:"AR"},
+
+
+
+{value:"fort-collins-co",col: 110 ,name:"Fort Collins",display:"Fort Collins, CO, US",country:"US"},
+
+
+
+{value:"fort-lauderdale-fl",col: 120 ,name:"Fort Lauderdale",display:"Fort Lauderdale, FL, US",country:"US"},
+
+
+
+{value:"fort-smith-ar",col: 85 ,name:"Fort Smith",display:"Fort Smith, AR, US",country:"US"},
 
 
 
@@ -2591,6 +2947,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"franklin-tn",col: 115 ,name:"Franklin",display:"Franklin, TN, US",country:"US"},
+
+
+
+{value:"frederick-md",col: 110 ,name:"Frederick",display:"Frederick, MD, US",country:"US"},
+
+
+
 {value:"fredrikstad-no",col: 108 ,name:"Fredrikstad",display:"Fredrikstad, Norway",country:"NO"},
 
 
@@ -2603,11 +2967,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"fremont-ne",col: 85 ,name:"Fremont",display:"Fremont, NE, US",country:"US"},
+
+
+
 {value:"fresno-ca",col: 102.5 ,name:"Fresno",display:"Fresno, CA, US",country:"US"},
 
 
 
 {value:"fribourg-fr",col: 100 ,name:"Fribourg",display:"Fribourg, Suisse",country:"CH"},
+
+
+
+{value:"frisco-tx",col: 108 ,name:"Frisco",display:"Frisco, TX, US",country:"US"},
 
 
 
@@ -2647,6 +3019,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"gainesville-fl",col: 95 ,name:"Gainesville",display:"Gainesville, FL, US",country:"US"},
+
+
+
+{value:"gaithersburg-md",col: 125 ,name:"Gaithersburg",display:"Gaithersburg, MD, US",country:"US"},
+
+
+
 {value:"galati-gl",col: 75 ,name:"Galați",display:"Galați, Roumanie",country:"RO"},
 
 
@@ -2664,6 +3044,10 @@ var SALARY_CITIES = [
 
 
 {value:"garland-tx",col: 96.5 ,name:"Garland",display:"Garland, TX, US",country:"US"},
+
+
+
+{value:"gastonia-nc",col: 88 ,name:"Gastonia",display:"Gastonia, NC, US",country:"US"},
 
 
 
@@ -2707,6 +3091,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"gillette-wy",col: 100 ,name:"Gillette",display:"Gillette, WY, US",country:"US"},
+
+
+
 {value:"giza-eg",col: 98 ,name:"Giza",display:"Giza, Egypt",country:"EG"},
 
 
@@ -2728,6 +3116,10 @@ var SALARY_CITIES = [
 
 
 {value:"glendale-az",col: 98.5 ,name:"Glendale",display:"Glendale, AZ, US",country:"US"},
+
+
+
+{value:"glendale-ca",col: 160 ,name:"Glendale",display:"Glendale, CA, US",country:"US"},
 
 
 
@@ -2767,11 +3159,39 @@ var SALARY_CITIES = [
 
 
 
+{value:"grand-forks-nd",col: 92 ,name:"Grand Forks",display:"Grand Forks, ND, US",country:"US"},
+
+
+
+{value:"grand-island-ne",col: 85 ,name:"Grand Island",display:"Grand Island, NE, US",country:"US"},
+
+
+
+{value:"grand-junction-co",col: 95 ,name:"Grand Junction",display:"Grand Junction, CO, US",country:"US"},
+
+
+
+{value:"grand-prairie-tx",col: 98 ,name:"Grand Prairie",display:"Grand Prairie, TX, US",country:"US"},
+
+
+
 {value:"grand-rapids-mi",col: 94.5 ,name:"Grand Rapids",display:"Grand Rapids, MI, US",country:"US"},
 
 
 
 {value:"graz-st",col: 100 ,name:"Graz",display:"Graz, Autriche",country:"AT"},
+
+
+
+{value:"great-falls-mt",col: 95 ,name:"Great Falls",display:"Great Falls, MT, US",country:"US"},
+
+
+
+{value:"greeley-co",col: 95 ,name:"Greeley",display:"Greeley, CO, US",country:"US"},
+
+
+
+{value:"green-bay-wi",col: 92 ,name:"Green Bay",display:"Green Bay, WI, US",country:"US"},
 
 
 
@@ -2784,6 +3204,10 @@ var SALARY_CITIES = [
 
 
 {value:"grenoble-ara",col: 92 ,name:"Grenoble",display:"Grenoble, France",country:"FR"},
+
+
+
+{value:"gresham-or",col: 105 ,name:"Gresham",display:"Gresham, OR, US",country:"US"},
 
 
 
@@ -2847,6 +3271,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"gulfport-ms",col: 88 ,name:"Gulfport",display:"Gulfport, MS, US",country:"US"},
+
+
+
 {value:"gurugram-hr",col: 125 ,name:"Gurugram",display:"Gurugram, India",country:"IN"},
 
 
@@ -2907,6 +3335,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"hamilton-oh",col: 88 ,name:"Hamilton",display:"Hamilton, OH, US",country:"US"},
+
+
+
+{value:"hampton-va",col: 95 ,name:"Hampton",display:"Hampton, VA, US",country:"US"},
+
+
+
 {value:"hangzhou-zj",col: 120 ,name:"Hangzhou",display:"Hangzhou, Chine",country:"CN"},
 
 
@@ -2919,11 +3355,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"harrisburg-pa",col: 92 ,name:"Harrisburg",display:"Harrisburg, PA, US",country:"US"},
+
+
+
 {value:"harstad-no",col: 102 ,name:"Harstad",display:"Harstad, Norway",country:"NO"},
 
 
 
+{value:"hartford-ct",col: 105 ,name:"Hartford",display:"Hartford, CT, US",country:"US"},
+
+
+
 {value:"hasselt-vli",col: 90 ,name:"Hasselt",display:"Hasselt, Belgique",country:"BE"},
+
+
+
+{value:"hattiesburg-ms",col: 85 ,name:"Hattiesburg",display:"Hattiesburg, MS, US",country:"US"},
 
 
 
@@ -2940,6 +3388,10 @@ var SALARY_CITIES = [
 
 
 {value:"hefei-ah",col: 102 ,name:"Hefei",display:"Hefei, Chine",country:"CN"},
+
+
+
+{value:"helena-mt",col: 100 ,name:"Helena",display:"Helena, MT, US",country:"US"},
 
 
 
@@ -2979,11 +3431,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"high-point-nc",col: 90 ,name:"High Point",display:"High Point, NC, US",country:"US"},
+
+
+
 {value:"higuey-do",col: 90 ,name:"Higüey",display:"Higüey, Dominican Republic",country:"DO"},
 
 
 
 {value:"hillerod-dk",col: 105 ,name:"Hillerød",display:"Hillerød, Denmark",country:"DK"},
+
+
+
+{value:"hillsboro-or",col: 115 ,name:"Hillsboro",display:"Hillsboro, OR, US",country:"US"},
 
 
 
@@ -3063,6 +3523,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"huntington-wv",col: 85 ,name:"Huntington",display:"Huntington, WV, US",country:"US"},
+
+
+
 {value:"huntsville-al",col: 94.5 ,name:"Huntsville",display:"Huntsville, AL, US",country:"US"},
 
 
@@ -3091,11 +3555,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"idaho-falls-id",col: 95 ,name:"Idaho Falls",display:"Idaho Falls, ID, US",country:"US"},
+
+
+
 {value:"ilheus-ba",col: 86 ,name:"Ilhéus",display:"Ilhéus, Brésil",country:"BR"},
 
 
 
 {value:"imphal-mn",col: 88 ,name:"Imphal",display:"Imphal, India",country:"IN"},
+
+
+
+{value:"independence-mo",col: 88 ,name:"Independence",display:"Independence, MO, US",country:"US"},
 
 
 
@@ -3116,6 +3588,10 @@ var SALARY_CITIES = [
 
 
 {value:"ioannina-ep",col: 82 ,name:"Ioannina",display:"Ioannina, Grèce",country:"GR"},
+
+
+
+{value:"iowa-city-ia",col: 95 ,name:"Iowa City",display:"Iowa City, IA, US",country:"US"},
 
 
 
@@ -3155,6 +3631,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"ithaca-ny",col: 110 ,name:"Ithaca",display:"Ithaca, NY, US",country:"US"},
+
+
+
 {value:"iwaki-fks",col: 85 ,name:"Iwaki",display:"Iwaki, Japon",country:"JP"},
 
 
@@ -3175,7 +3655,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"jackson-wy",col: 180 ,name:"Jackson",display:"Jackson, WY, US",country:"US"},
+
+
+
 {value:"jacksonville-fl",col: 96.8 ,name:"Jacksonville",display:"Jacksonville, FL, US",country:"US"},
+
+
+
+{value:"jacksonville-nc",col: 92 ,name:"Jacksonville",display:"Jacksonville, NC, US",country:"US"},
 
 
 
@@ -3196,6 +3684,10 @@ var SALARY_CITIES = [
 
 
 {value:"jarabacoa-do",col: 90 ,name:"Jarabacoa",display:"Jarabacoa, Dominican Republic",country:"DO"},
+
+
+
+{value:"jefferson-city-mo",col: 88 ,name:"Jefferson City",display:"Jefferson City, MO, US",country:"US"},
 
 
 
@@ -3239,6 +3731,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"johnson-city-tn",col: 90 ,name:"Johnson City",display:"Johnson City, TN, US",country:"US"},
+
+
+
 {value:"joinville-sc",col: 98 ,name:"Joinville",display:"Joinville, Brésil",country:"BR"},
 
 
@@ -3252,6 +3748,10 @@ var SALARY_CITIES = [
 
 
 {value:"jundiai-sp",col: 100 ,name:"Jundiaí",display:"Jundiaí, Brésil",country:"BR"},
+
+
+
+{value:"juneau-ak",col: 135 ,name:"Juneau",display:"Juneau, AK, US",country:"US"},
 
 
 
@@ -3271,11 +3771,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"kailua-kona-hi",col: 180 ,name:"Kailua-Kona",display:"Kailua-Kona, HI, US",country:"US"},
+
+
+
 {value:"kajaani-fi",col: 90 ,name:"Kajaani",display:"Kajaani, Finland",country:"FI"},
 
 
 
 {value:"kalamata-pe",col: 88 ,name:"Kalamata",display:"Kalamata, Grèce",country:"GR"},
+
+
+
+{value:"kalamazoo-mi",col: 90 ,name:"Kalamazoo",display:"Kalamazoo, MI, US",country:"US"},
 
 
 
@@ -3371,6 +3879,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"kearney-ne",col: 88 ,name:"Kearney",display:"Kearney, NE, US",country:"US"},
+
+
+
 {value:"kecskemet-bk",col: 78 ,name:"Kecskemét",display:"Kecskemét, Hongrie",country:"HU"},
 
 
@@ -3384,6 +3896,14 @@ var SALARY_CITIES = [
 
 
 {value:"kenitra-ma",col: 76 ,name:"Kenitra",display:"Kenitra, Morocco",country:"MA"},
+
+
+
+{value:"kenosha-wi",col: 95 ,name:"Kenosha",display:"Kenosha, WI, US",country:"US"},
+
+
+
+{value:"kent-wa",col: 110 ,name:"Kent",display:"Kent, WA, US",country:"US"},
 
 
 
@@ -3407,6 +3927,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"kihei-hi",col: 175 ,name:"Kihei",display:"Kihei, HI, US",country:"US"},
+
+
+
 {value:"kikinda-rs",col: 62 ,name:"Kikinda",display:"Kikinda, Serbie",country:"RS"},
 
 
@@ -3415,7 +3939,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"killeen-tx",col: 90 ,name:"Killeen",display:"Killeen, TX, US",country:"US"},
+
+
+
 {value:"kimberley-za",col: 80 ,name:"Kimberley",display:"Kimberley, South Africa",country:"ZA"},
+
+
+
+{value:"kingsport-tn",col: 88 ,name:"Kingsport",display:"Kingsport, TN, US",country:"US"},
 
 
 
@@ -3663,7 +4195,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"lafayette-in",col: 90 ,name:"Lafayette",display:"Lafayette, IN, US",country:"US"},
+
+
+
+{value:"lafayette-la",col: 92 ,name:"Lafayette",display:"Lafayette, LA, US",country:"US"},
+
+
+
 {value:"lahti-fi",col: 100 ,name:"Lahti",display:"Lahti, Finland",country:"FI"},
+
+
+
+{value:"lake-charles-la",col: 88 ,name:"Lake Charles",display:"Lake Charles, LA, US",country:"US"},
+
+
+
+{value:"lake-havasu-city-az",col: 100 ,name:"Lake Havasu City",display:"Lake Havasu City, AZ, US",country:"US"},
 
 
 
@@ -3675,6 +4223,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"lancaster-pa",col: 95 ,name:"Lancaster",display:"Lancaster, PA, US",country:"US"},
+
+
+
+{value:"lansing-mi",col: 90 ,name:"Lansing",display:"Lansing, MI, US",country:"US"},
+
+
+
 {value:"lanzhou-gs",col: 95 ,name:"Lanzhou",display:"Lanzhou, Chine",country:"CN"},
 
 
@@ -3683,11 +4239,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"laramie-wy",col: 95 ,name:"Laramie",display:"Laramie, WY, US",country:"US"},
+
+
+
 {value:"laredo-tx",col: 88.5 ,name:"Laredo",display:"Laredo, TX, US",country:"US"},
 
 
 
 {value:"larissa-th",col: 85 ,name:"Larissa",display:"Larissa, Grèce",country:"GR"},
+
+
+
+{value:"las-cruces-nm",col: 92 ,name:"Las Cruces",display:"Las Cruces, NM, US",country:"US"},
 
 
 
@@ -3712,6 +4276,18 @@ var SALARY_CITIES = [
 
 
 {value:"lausanne-vd",col: 120 ,name:"Lausanne",display:"Lausanne, Suisse",country:"CH"},
+
+
+
+{value:"lawrence-ks",col: 95 ,name:"Lawrence",display:"Lawrence, KS, US",country:"US"},
+
+
+
+{value:"lawton-ok",col: 85 ,name:"Lawton",display:"Lawton, OK, US",country:"US"},
+
+
+
+{value:"layton-ut",col: 100 ,name:"Layton",display:"Layton, UT, US",country:"US"},
 
 
 
@@ -3768,6 +4344,10 @@ var SALARY_CITIES = [
 
 
 {value:"levice-nr",col: 70 ,name:"Levice",display:"Levice, Slovaquie",country:"SK"},
+
+
+
+{value:"lewiston-me",col: 92 ,name:"Lewiston",display:"Lewiston, ME, US",country:"US"},
 
 
 
@@ -3887,6 +4467,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"lorain-oh",col: 85 ,name:"Lorain",display:"Lorain, OH, US",country:"US"},
+
+
+
 {value:"los-angeles-cl",col: 90 ,name:"Los Ángeles",display:"Los Ángeles, Chile",country:"CL"},
 
 
@@ -3912,6 +4496,10 @@ var SALARY_CITIES = [
 
 
 {value:"lovech-lv",col: 68 ,name:"Lovech",display:"Lovech, Bulgarie",country:"BG"},
+
+
+
+{value:"lowell-ma",col: 105 ,name:"Lowell",display:"Lowell, MA, US",country:"US"},
 
 
 
@@ -3971,6 +4559,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"lynchburg-va",col: 92 ,name:"Lynchburg",display:"Lynchburg, VA, US",country:"US"},
+
+
+
 {value:"lyon-ara",col: 100 ,name:"Lyon",display:"Lyon, France",country:"FR"},
 
 
@@ -3992,6 +4584,10 @@ var SALARY_CITIES = [
 
 
 {value:"mackay-qld",col: 72 ,name:"Mackay",display:"Mackay, Australie",country:"AU"},
+
+
+
+{value:"macon-ga",col: 85 ,name:"Macon",display:"Macon, GA, US",country:"US"},
 
 
 
@@ -4063,7 +4659,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"manhattan-ks",col: 92 ,name:"Manhattan",display:"Manhattan, KS, US",country:"US"},
+
+
+
 {value:"manizales-co",col: 90 ,name:"Manizales",display:"Manizales, Colombia",country:"CO"},
+
+
+
+{value:"mankato-mn",col: 92 ,name:"Mankato",display:"Mankato, MN, US",country:"US"},
 
 
 
@@ -4163,7 +4767,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"mckinney-tx",col: 105 ,name:"McKinney",display:"McKinney, TX, US",country:"US"},
+
+
+
 {value:"medellin-co",col: 105 ,name:"Medellín",display:"Medellín, Colombia",country:"CO"},
+
+
+
+{value:"medford-or",col: 100 ,name:"Medford",display:"Medford, OR, US",country:"US"},
 
 
 
@@ -4172,6 +4784,10 @@ var SALARY_CITIES = [
 
 
 {value:"meknes-ma",col: 80 ,name:"Meknes",display:"Meknes, Morocco",country:"MA"},
+
+
+
+{value:"melbourne-fl",col: 98 ,name:"Melbourne",display:"Melbourne, FL, US",country:"US"},
 
 
 
@@ -4203,6 +4819,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"meridian-id",col: 105 ,name:"Meridian",display:"Meridian, ID, US",country:"US"},
+
+
+
+{value:"meridian-ms",col: 82 ,name:"Meridian",display:"Meridian, MS, US",country:"US"},
+
+
+
 {value:"mersin-tr",col: 85 ,name:"Mersin",display:"Mersin, Turkey",country:"TR"},
 
 
@@ -4223,6 +4847,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"midland-tx",col: 100 ,name:"Midland",display:"Midland, TX, US",country:"US"},
+
+
+
 {value:"mikkeli-fi",col: 92 ,name:"Mikkeli",display:"Mikkeli, Finland",country:"FI"},
 
 
@@ -4239,11 +4867,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"minot-nd",col: 90 ,name:"Minot",display:"Minot, ND, US",country:"US"},
+
+
+
 {value:"minya-eg",col: 72 ,name:"Minya",display:"Minya, Egypt",country:"EG"},
 
 
 
 {value:"miskolc-bz",col: 75 ,name:"Miskolc",display:"Miskolc, Hongrie",country:"HU"},
+
+
+
+{value:"missoula-mt",col: 105 ,name:"Missoula",display:"Missoula, MT, US",country:"US"},
 
 
 
@@ -4287,11 +4923,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"monroe-la",col: 85 ,name:"Monroe",display:"Monroe, LA, US",country:"US"},
+
+
+
 {value:"mons-wht",col: 82 ,name:"Mons",display:"Mons, Belgique",country:"BE"},
 
 
 
 {value:"montana-m",col: 65 ,name:"Montana",display:"Montana, Bulgarie",country:"BG"},
+
+
+
+{value:"monterey-ca",col: 165 ,name:"Monterey",display:"Monterey, CA, US",country:"US"},
 
 
 
@@ -4327,6 +4971,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"morgantown-wv",col: 95 ,name:"Morgantown",display:"Morgantown, WV, US",country:"US"},
+
+
+
 {value:"morioka-iwt",col: 86 ,name:"Morioka",display:"Morioka, Japon",country:"JP"},
 
 
@@ -4347,11 +4995,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"mount-pleasant-sc",col: 115 ,name:"Mount Pleasant",display:"Mount Pleasant, SC, US",country:"US"},
+
+
+
+{value:"mount-vernon-ny",col: 120 ,name:"Mount Vernon",display:"Mount Vernon, NY, US",country:"US"},
+
+
+
+{value:"mountain-view-ca",col: 200 ,name:"Mountain View",display:"Mountain View, CA, US",country:"US"},
+
+
+
 {value:"mulhouse-ges",col: 85 ,name:"Mulhouse",display:"Mulhouse, France",country:"FR"},
 
 
 
 {value:"mumbai-mh",col: 130 ,name:"Mumbai",display:"Mumbai, India",country:"IN"},
+
+
+
+{value:"muncie-in",col: 82 ,name:"Muncie",display:"Muncie, IN, US",country:"US"},
 
 
 
@@ -4364,6 +5028,10 @@ var SALARY_CITIES = [
 
 
 {value:"murcia-mur",col: 85 ,name:"Murcia",display:"Murcia, Espagne",country:"ES"},
+
+
+
+{value:"murfreesboro-tn",col: 95 ,name:"Murfreesboro",display:"Murfreesboro, TN, US",country:"US"},
 
 
 
@@ -4415,6 +5083,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"nampa-id",col: 100 ,name:"Nampa",display:"Nampa, ID, US",country:"US"},
+
+
+
 {value:"namur-wna",col: 90 ,name:"Namur",display:"Namur, Belgique",country:"BE"},
 
 
@@ -4439,7 +5111,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"napa-ca",col: 160 ,name:"Napa",display:"Napa, CA, US",country:"US"},
+
+
+
+{value:"n aperville-il",col: 115 ,name:"Naperville",display:"Naperville, IL, US",country:"US"},
+
+
+
 {value:"naples-cam",col: 85 ,name:"Naples",display:"Naples, Italie",country:"IT"},
+
+
+
+{value:"naples-fl",col: 135 ,name:"Naples",display:"Naples, FL, US",country:"US"},
 
 
 
@@ -4456,6 +5140,10 @@ var SALARY_CITIES = [
 
 
 {value:"nashik-mh",col: 88 ,name:"Nashik",display:"Nashik, India",country:"IN"},
+
+
+
+{value:"nashua-nh",col: 110 ,name:"Nashua",display:"Nashua, NH, US",country:"US"},
 
 
 
@@ -4487,11 +5175,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"new-bedford-ma",col: 100 ,name:"New Bedford",display:"New Bedford, MA, US",country:"US"},
+
+
+
+{value:"new-haven-ct",col: 110 ,name:"New Haven",display:"New Haven, CT, US",country:"US"},
+
+
+
 {value:"new-orleans-la",col: 98.5 ,name:"New Orleans",display:"New Orleans, LA, US",country:"US"},
 
 
 
+{value:"new-rochelle-ny",col: 135 ,name:"New Rochelle",display:"New Rochelle, NY, US",country:"US"},
+
+
+
 {value:"nyc",col: 187.2 ,name:"New York City",display:"New York City, NY, US",country:"US",selected:true},
+
+
+
+{value:"newark-de",col: 100 ,name:"Newark",display:"Newark, DE, US",country:"US"},
 
 
 
@@ -4500,6 +5204,10 @@ var SALARY_CITIES = [
 
 
 {value:"newcastle-nsw",col: 80 ,name:"Newcastle",display:"Newcastle, Australie",country:"AU"},
+
+
+
+{value:"newport-news-va",col: 95 ,name:"Newport News",display:"Newport News, VA, US",country:"US"},
 
 
 
@@ -4551,7 +5259,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"norman-ok",col: 92 ,name:"Norman",display:"Norman, OK, US",country:"US"},
+
+
+
 {value:"norrkoping-se",col: 100 ,name:"Norrköping",display:"Norrköping, Sweden",country:"SE"},
+
+
+
+{value:"north-charleston-sc",col: 95 ,name:"North Charleston",display:"North Charleston, SC, US",country:"US"},
+
+
+
+{value:"norwalk-ct",col: 130 ,name:"Norwalk",display:"Norwalk, CT, US",country:"US"},
 
 
 
@@ -4603,6 +5323,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"odessa-tx",col: 95 ,name:"Odessa",display:"Odessa, TX, US",country:"US"},
+
+
+
+{value:"ogden-ut",col: 98 ,name:"Ogden",display:"Ogden, UT, US",country:"US"},
+
+
+
 {value:"ohrid-mk",col: 58 ,name:"Ohrid",display:"Ohrid, Macédoine du Nord",country:"MK"},
 
 
@@ -4619,6 +5347,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"olathe-ks",col: 100 ,name:"Olathe",display:"Olathe, KS, US",country:"US"},
+
+
+
 {value:"olinda-pe",col: 90 ,name:"Olinda",display:"Olinda, Brésil",country:"BR"},
 
 
@@ -4628,6 +5360,10 @@ var SALARY_CITIES = [
 
 
 {value:"olsztyn-wn",col: 80 ,name:"Olsztyn",display:"Olsztyn, Pologne",country:"PL"},
+
+
+
+{value:"olympia-wa",col: 110 ,name:"Olympia",display:"Olympia, WA, US",country:"US"},
 
 
 
@@ -4675,6 +5411,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"oshkosh-wi",col: 88 ,name:"Oshkosh",display:"Oshkosh, WI, US",country:"US"},
+
+
+
 {value:"osijek-ob",col: 78 ,name:"Osijek",display:"Osijek, Croatie",country:"HR"},
 
 
@@ -4711,7 +5451,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"overland-park-ks",col: 105 ,name:"Overland Park",display:"Overland Park, KS, US",country:"US"},
+
+
+
 {value:"oviedo-ast",col: 85 ,name:"Oviedo",display:"Oviedo, Espagne",country:"ES"},
+
+
+
+{value:"owensboro-ky",col: 85 ,name:"Owensboro",display:"Owensboro, KY, US",country:"US"},
 
 
 
@@ -4731,11 +5479,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"palm-bay-fl",col: 95 ,name:"Palm Bay",display:"Palm Bay, FL, US",country:"US"},
+
+
+
 {value:"palma-bal",col: 100 ,name:"Palma",display:"Palma, Espagne",country:"ES"},
 
 
 
 {value:"palmas-to",col: 91 ,name:"Palmas",display:"Palmas, Brésil",country:"BR"},
+
+
+
+{value:"palo-alto-ca",col: 220 ,name:"Palo Alto",display:"Palo Alto, CA, US",country:"US"},
 
 
 
@@ -4775,7 +5531,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"parkersburg-wv",col: 84 ,name:"Parkersburg",display:"Parkersburg, WV, US",country:"US"},
+
+
+
 {value:"parma-emr",col: 100 ,name:"Parma",display:"Parma, Italie",country:"IT"},
+
+
+
+{value:"parma-oh",col: 90 ,name:"Parma",display:"Parma, OH, US",country:"US"},
 
 
 
@@ -4783,7 +5547,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"pasadena-ca",col: 160 ,name:"Pasadena",display:"Pasadena, CA, US",country:"US"},
+
+
+
 {value:"pasto-co",col: 85 ,name:"Pasto",display:"Pasto, Colombia",country:"CO"},
+
+
+
+{value:"paterson-nj",col: 105 ,name:"Paterson",display:"Paterson, NJ, US",country:"US"},
 
 
 
@@ -4792,6 +5564,10 @@ var SALARY_CITIES = [
 
 
 {value:"patras-wg",col: 84 ,name:"Patras",display:"Patras, Grèce",country:"GR"},
+
+
+
+{value:"pawtucket-ri",col: 100 ,name:"Pawtucket",display:"Pawtucket, RI, US",country:"US"},
 
 
 
@@ -4819,7 +5595,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"pensacola-fl",col: 92 ,name:"Pensacola",display:"Pensacola, FL, US",country:"US"},
+
+
+
 {value:"penza-pnz",col: 78 ,name:"Penza",display:"Penza, Russia",country:"RU"},
+
+
+
+{value:"peoria-il",col: 90 ,name:"Peoria",display:"Peoria, IL, US",country:"US"},
 
 
 
@@ -4855,7 +5639,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"philadelphia-pa",col: 108.5 ,name:"Philadelphia",display:"Philadelphia, PA, US",country:"US"},
+{value:"philadelphia-pa",col: 105 ,name:"Philadelphia",display:"Philadelphia, PA, US",country:"US"},
 
 
 
@@ -4883,7 +5667,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"pittsburgh-pa",col: 94.5 ,name:"Pittsburgh",display:"Pittsburgh, PA, US",country:"US"},
+{value:"pittsburgh-pa",col: 95 ,name:"Pittsburgh",display:"Pittsburgh, PA, US",country:"US"},
 
 
 
@@ -4908,6 +5692,10 @@ var SALARY_CITIES = [
 
 
 {value:"plovdiv-pv",col: 82 ,name:"Plovdiv",display:"Plovdiv, Bulgarie",country:"BG"},
+
+
+
+{value:"plymouth-mn",col: 110 ,name:"Plymouth",display:"Plymouth, MN, US",country:"US"},
 
 
 
@@ -4951,6 +5739,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"port-st-lucie-fl",col: 100 ,name:"Port St. Lucie",display:"Port St. Lucie, FL, US",country:"US"},
+
+
+
 {value:"portalegre-pt",col: 70 ,name:"Portalegre",display:"Portalegre, Portugal",country:"PT"},
 
 
@@ -4987,6 +5779,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"portsmouth-nh",col: 125 ,name:"Portsmouth",display:"Portsmouth, NH, US",country:"US"},
+
+
+
 {value:"posadas-mis",col: 66 ,name:"Posadas",display:"Posadas, Argentine",country:"AR"},
 
 
@@ -5012,6 +5808,10 @@ var SALARY_CITIES = [
 
 
 {value:"prerov-cz",col: 80 ,name:"Přerov",display:"Přerov, République tchèque",country:"CZ"},
+
+
+
+{value:"prescott-az",col: 105 ,name:"Prescott",display:"Prescott, AZ, US",country:"US"},
 
 
 
@@ -5047,6 +5847,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"provo-ut",col: 105 ,name:"Provo",display:"Provo, UT, US",country:"US"},
+
+
+
 {value:"ptuj-pt",col: 80 ,name:"Ptuj",display:"Ptuj, Slovénie",country:"SI"},
 
 
@@ -5056,6 +5860,10 @@ var SALARY_CITIES = [
 
 
 {value:"puebla-pue",col: 72.1 ,name:"Puebla",display:"Puebla, Mexique",country:"MX"},
+
+
+
+{value:"pueblo-co",col: 88 ,name:"Pueblo",display:"Pueblo, CO, US",country:"US"},
 
 
 
@@ -5127,11 +5935,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"quincy-ma",col: 130 ,name:"Quincy",display:"Quincy, MA, US",country:"US"},
+
+
+
 {value:"quito-ec",col: 108 ,name:"Quito",display:"Quito, Ecuador",country:"EC"},
 
 
 
 {value:"rabat-ma",col: 90 ,name:"Rabat",display:"Rabat, Morocco",country:"MA"},
+
+
+
+{value:"racine-wi",col: 90 ,name:"Racine",display:"Racine, WI, US",country:"US"},
 
 
 
@@ -5167,11 +5983,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"rapid-city-sd",col: 98 ,name:"Rapid City",display:"Rapid City, SD, US",country:"US"},
+
+
+
 {value:"rawson-pz",col: 60 ,name:"Rawson",display:"Rawson, Argentine",country:"AR"},
 
 
 
+{value:"reading-pa",col: 90 ,name:"Reading",display:"Reading, PA, US",country:"US"},
+
+
+
 {value:"recife-pe",col: 96 ,name:"Recife",display:"Recife, Brésil",country:"BR"},
+
+
+
+{value:"redmond-wa",col: 175 ,name:"Redmond",display:"Redmond, WA, US",country:"US"},
 
 
 
@@ -5215,6 +6043,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"richmond-ky",col: 88 ,name:"Richmond",display:"Richmond, KY, US",country:"US"},
+
+
+
 {value:"richmond-va",col: 98.5 ,name:"Richmond",display:"Richmond, VA, US",country:"US"},
 
 
@@ -5243,6 +6075,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"rio-rancho-nm",col: 95 ,name:"Rio Rancho",display:"Rio Rancho, NM, US",country:"US"},
+
+
+
 {value:"riobamba-ec",col: 85 ,name:"Riobamba",display:"Riobamba, Ecuador",country:"EC"},
 
 
@@ -5259,11 +6095,43 @@ var SALARY_CITIES = [
 
 
 
+{value:"roanoke-va",col: 90 ,name:"Roanoke",display:"Roanoke, VA, US",country:"US"},
+
+
+
+{value:"rochester-mn",col: 100 ,name:"Rochester",display:"Rochester, MN, US",country:"US"},
+
+
+
+{value:"rochester-nh",col: 100 ,name:"Rochester",display:"Rochester, NH, US",country:"US"},
+
+
+
 {value:"rochester-ny",col: 92.5 ,name:"Rochester",display:"Rochester, NY, US",country:"US"},
 
 
 
+{value:"rock-hill-sc",col: 92 ,name:"Rock Hill",display:"Rock Hill, SC, US",country:"US"},
+
+
+
+{value:"rock-springs-wy",col: 95 ,name:"Rock Springs",display:"Rock Springs, WY, US",country:"US"},
+
+
+
+{value:"rockford-il",col: 88 ,name:"Rockford",display:"Rockford, IL, US",country:"US"},
+
+
+
 {value:"rockhampton-qld",col: 68 ,name:"Rockhampton",display:"Rockhampton, Australie",country:"AU"},
+
+
+
+{value:"rocky-mount-nc",col: 85 ,name:"Rocky Mount",display:"Rocky Mount, NC, US",country:"US"},
+
+
+
+{value:"rome-ga",col: 88 ,name:"Rome",display:"Rome, GA, US",country:"US"},
 
 
 
@@ -5284,6 +6152,10 @@ var SALARY_CITIES = [
 
 
 {value:"rostov-on-don-ros",col: 90 ,name:"Rostov-on-Don",display:"Rostov-on-Don, Russia",country:"RU"},
+
+
+
+{value:"roswell-nm",col: 88 ,name:"Roswell",display:"Roswell, NM, US",country:"US"},
 
 
 
@@ -5312,6 +6184,10 @@ var SALARY_CITIES = [
 
 
 {value:"rustenburg-za",col: 85 ,name:"Rustenburg",display:"Rustenburg, South Africa",country:"ZA"},
+
+
+
+{value:"rutland-vt",col: 95 ,name:"Rutland",display:"Rutland, VT, US",country:"US"},
 
 
 
@@ -5419,6 +6295,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"san-angelo-tx",col: 88 ,name:"San Angelo",display:"San Angelo, TX, US",country:"US"},
+
+
+
 {value:"san-antonio-tx",col: 92.4 ,name:"San Antonio",display:"San Antonio, TX, US",country:"US"},
 
 
@@ -5472,6 +6352,10 @@ var SALARY_CITIES = [
 
 
 {value:"san-lorenzo-py",col: 92 ,name:"San Lorenzo",display:"San Lorenzo, Paraguay",country:"PY"},
+
+
+
+{value:"san-luis-obispo-ca",col: 155 ,name:"San Luis Obispo",display:"San Luis Obispo, CA, US",country:"US"},
 
 
 
@@ -5531,6 +6415,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"sandy-ut",col: 110 ,name:"Sandy",display:"Sandy, UT, US",country:"US"},
+
+
+
 {value:"sankt-polten-noe",col: 88 ,name:"Sankt Pölten",display:"Sankt Pölten, Autriche",country:"AT"},
 
 
@@ -5543,7 +6431,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"santa-barbara-ca",col: 180 ,name:"Santa Barbara",display:"Santa Barbara, CA, US",country:"US"},
+
+
+
 {value:"santa-clara-cu",col: 90 ,name:"Santa Clara",display:"Santa Clara, Cuba",country:"CU"},
+
+
+
+{value:"santa-clarita-ca",col: 140 ,name:"Santa Clarita",display:"Santa Clarita, CA, US",country:"US"},
+
+
+
+{value:"santa-cruz-ca",col: 175 ,name:"Santa Cruz",display:"Santa Cruz, CA, US",country:"US"},
 
 
 
@@ -5659,6 +6559,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"sarasota-fl",col: 115 ,name:"Sarasota",display:"Sarasota, FL, US",country:"US"},
+
+
+
 {value:"saratov-sar",col: 82 ,name:"Saratov",display:"Saratov, Russia",country:"RU"},
 
 
@@ -5675,7 +6579,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"schenectady-ny",col: 95 ,name:"Schenectady",display:"Schenectady, NY, US",country:"US"},
+
+
+
 {value:"scottsdale-az",col: 118.5 ,name:"Scottsdale",display:"Scottsdale, AZ, US",country:"US"},
+
+
+
+{value:"scranton-pa",col: 88 ,name:"Scranton",display:"Scranton, PA, US",country:"US"},
 
 
 
@@ -5719,6 +6631,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"sheboygan-wi",col: 88 ,name:"Sheboygan",display:"Sheboygan, WI, US",country:"US"},
+
+
+
 {value:"shenyang-ln",col: 100 ,name:"Shenyang",display:"Shenyang, Chine",country:"CN"},
 
 
@@ -5747,6 +6663,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"shreveport-la",col: 88 ,name:"Shreveport",display:"Shreveport, LA, US",country:"US"},
+
+
+
 {value:"shumen-sh",col: 70 ,name:"Shumen",display:"Shumen, Bulgarie",country:"BG"},
 
 
@@ -5764,6 +6684,10 @@ var SALARY_CITIES = [
 
 
 {value:"siena-tus",col: 100 ,name:"Siena",display:"Siena, Italie",country:"IT"},
+
+
+
+{value:"sierra-vista-az",col: 92 ,name:"Sierra Vista",display:"Sierra Vista, AZ, US",country:"US"},
 
 
 
@@ -5787,6 +6711,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"silver-spring-md",col: 135 ,name:"Silver Spring",display:"Silver Spring, MD, US",country:"US"},
+
+
+
+{value:"simi-valley-ca",col: 145 ,name:"Simi Valley",display:"Simi Valley, CA, US",country:"US"},
+
+
+
 {value:"sincelejo-co",col: 85 ,name:"Sincelejo",display:"Sincelejo, Colombia",country:"CO"},
 
 
@@ -5796,6 +6728,10 @@ var SALARY_CITIES = [
 
 
 {value:"sion-vs",col: 100 ,name:"Sion",display:"Sion, Suisse",country:"CH"},
+
+
+
+{value:"sioux-city-ia",col: 85 ,name:"Sioux City",display:"Sioux City, IA, US",country:"US"},
 
 
 
@@ -5875,11 +6811,35 @@ var SALARY_CITIES = [
 
 
 
+{value:"south-bend-in",col: 88 ,name:"South Bend",display:"South Bend, IN, US",country:"US"},
+
+
+
+{value:"south-burlington-vt",col: 108 ,name:"South Burlington",display:"South Burlington, VT, US",country:"US"},
+
+
+
+{value:"south-portland-me",col: 105 ,name:"South Portland",display:"South Portland, ME, US",country:"US"},
+
+
+
+{value:"southaven-ms",col: 90 ,name:"Southaven",display:"Southaven, MS, US",country:"US"},
+
+
+
 {value:"soyapango-sv",col: 88 ,name:"Soyapango",display:"Soyapango, El Salvador",country:"SV"},
 
 
 
+{value:"sparks-nv",col: 105 ,name:"Sparks",display:"Sparks, NV, US",country:"US"},
+
+
+
 {value:"sparta-pe",col: 80 ,name:"Sparta",display:"Sparta, Grèce",country:"GR"},
+
+
+
+{value:"spartanburg-sc",col: 88 ,name:"Spartanburg",display:"Spartanburg, SC, US",country:"US"},
 
 
 
@@ -5891,11 +6851,51 @@ var SALARY_CITIES = [
 
 
 
+{value:"springdale-ar",col: 92 ,name:"Springdale",display:"Springdale, AR, US",country:"US"},
+
+
+
+{value:"springfield-il",col: 90 ,name:"Springfield",display:"Springfield, IL, US",country:"US"},
+
+
+
+{value:"springfield-ma",col: 95 ,name:"Springfield",display:"Springfield, MA, US",country:"US"},
+
+
+
+{value:"springfield-mo",col: 88 ,name:"Springfield",display:"Springfield, MO, US",country:"US"},
+
+
+
+{value:"springfield-oh",col: 84 ,name:"Springfield",display:"Springfield, OH, US",country:"US"},
+
+
+
+{value:"springfield-or",col: 98 ,name:"Springfield",display:"Springfield, OR, US",country:"US"},
+
+
+
 {value:"srinagar-jk",col: 95 ,name:"Srinagar",display:"Srinagar, India",country:"IN"},
 
 
 
+{value:"st-george-ut",col: 105 ,name:"St. George",display:"St. George, UT, US",country:"US"},
+
+
+
+{value:"st-joseph-mo",col: 85 ,name:"St. Joseph",display:"St. Joseph, MO, US",country:"US"},
+
+
+
+{value:"st-louis-mo",col: 95 ,name:"St. Louis",display:"St. Louis, MO, US",country:"US"},
+
+
+
 {value:"st-petersburg-fl",col: 102.5 ,name:"St. Petersburg",display:"St. Petersburg, FL, US",country:"US"},
+
+
+
+{value:"stamford-ct",col: 135 ,name:"Stamford",display:"Stamford, CT, US",country:"US"},
 
 
 
@@ -5911,7 +6911,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"sterling-heights-mi",col: 95 ,name:"Sterling Heights",display:"Sterling Heights, MI, US",country:"US"},
+
+
+
 {value:"steyr-ooe",col: 85 ,name:"Steyr",display:"Steyr, Autriche",country:"AT"},
+
+
+
+{value:"stillwater-ok",col: 90 ,name:"Stillwater",display:"Stillwater, OK, US",country:"US"},
 
 
 
@@ -5959,7 +6967,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"summerville-sc",col: 95 ,name:"Summerville",display:"Summerville, SC, US",country:"US"},
+
+
+
 {value:"sundsvall-se",col: 92 ,name:"Sundsvall",display:"Sundsvall, Sweden",country:"SE"},
+
+
+
+{value:"sunnyvale-ca",col: 195 ,name:"Sunnyvale",display:"Sunnyvale, CA, US",country:"US"},
 
 
 
@@ -5980,6 +6996,10 @@ var SALARY_CITIES = [
 
 
 {value:"sydney-nsw",col: 100 ,name:"Sydney",display:"Sydney, Australie",country:"AU"},
+
+
+
+{value:"syracuse-ny",col: 95 ,name:"Syracuse",display:"Syracuse, NY, US",country:"US"},
 
 
 
@@ -6123,6 +7143,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"terre-haute-in",col: 84 ,name:"Terre Haute",display:"Terre Haute, IN, US",country:"US"},
+
+
+
 {value:"tetouan-ma",col: 78 ,name:"Tetouan",display:"Tetouan, Morocco",country:"MA"},
 
 
@@ -6144,6 +7168,10 @@ var SALARY_CITIES = [
 
 
 {value:"thun-be",col: 100 ,name:"Thoune",display:"Thoune, Suisse",country:"CH"},
+
+
+
+{value:"thousand-oaks-ca",col: 150 ,name:"Thousand Oaks",display:"Thousand Oaks, CA, US",country:"US"},
 
 
 
@@ -6207,7 +7235,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"topeka-ks",col: 88 ,name:"Topeka",display:"Topeka, KS, US",country:"US"},
+
+
+
 {value:"toronto-ca",col: 128.4 ,name:"Toronto",display:"Toronto, Canada",country:"CA"},
+
+
+
+{value:"torrance-ca",col: 155 ,name:"Torrance",display:"Torrance, CA, US",country:"US"},
 
 
 
@@ -6263,6 +7299,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"traverse-city-mi",col: 105 ,name:"Traverse City",display:"Traverse City, MI, US",country:"US"},
+
+
+
 {value:"trbovlje-tr",col: 72 ,name:"Trbovlje",display:"Trbovlje, Slovénie",country:"SI"},
 
 
@@ -6280,6 +7320,10 @@ var SALARY_CITIES = [
 
 
 {value:"trencin-tc",col: 80 ,name:"Trenčín",display:"Trenčín, Slovaquie",country:"SK"},
+
+
+
+{value:"trenton-nj",col: 100 ,name:"Trenton",display:"Trenton, NJ, US",country:"US"},
 
 
 
@@ -6343,7 +7387,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"tuscaloosa-al",col: 90 ,name:"Tuscaloosa",display:"Tuscaloosa, AL, US",country:"US"},
+
+
+
 {value:"tuzla-ba",col: 65 ,name:"Tuzla",display:"Tuzla, Bosnie-Herzégovine",country:"BA"},
+
+
+
+{value:"twin-falls-id",col: 92 ,name:"Twin Falls",display:"Twin Falls, ID, US",country:"US"},
+
+
+
+{value:"tyler-tx",col: 90 ,name:"Tyler",display:"Tyler, TX, US",country:"US"},
 
 
 
@@ -6464,6 +7520,10 @@ var SALARY_CITIES = [
 
 
 {value:"vancouver-ca",col: 142.6 ,name:"Vancouver",display:"Vancouver, Canada",country:"CA"},
+
+
+
+{value:"vancouver-wa",col: 108 ,name:"Vancouver",display:"Vancouver, WA, US",country:"US"},
 
 
 
@@ -6655,6 +7715,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"waco-tx",col: 92 ,name:"Waco",display:"Waco, TX, US",country:"US"},
+
+
+
 {value:"wakayama-wky",col: 88 ,name:"Wakayama",display:"Wakayama, Japon",country:"JP"},
 
 
@@ -6663,7 +7727,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"warner-robins-ga",col: 88 ,name:"Warner Robins",display:"Warner Robins, GA, US",country:"US"},
+
+
+
+{value:"warren-mi",col: 92 ,name:"Warren",display:"Warren, MI, US",country:"US"},
+
+
+
 {value:"warsaw-mz",col: 115 ,name:"Warsaw",display:"Warsaw, Pologne",country:"PL"},
+
+
+
+{value:"warwick-ri",col: 110 ,name:"Warwick",display:"Warwick, RI, US",country:"US"},
 
 
 
@@ -6675,7 +7751,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"waterloo-ia",col: 84 ,name:"Waterloo",display:"Waterloo, IA, US",country:"US"},
+
+
+
 {value:"waterloo-wbr",col: 100 ,name:"Waterloo",display:"Waterloo, Belgique",country:"BE"},
+
+
+
+{value:"wausau-wi",col: 90 ,name:"Wausau",display:"Wausau, WI, US",country:"US"},
 
 
 
@@ -6695,6 +7779,18 @@ var SALARY_CITIES = [
 
 
 
+{value:"west-valley-city-ut",col: 100 ,name:"West Valley City",display:"West Valley City, UT, US",country:"US"},
+
+
+
+{value:"wheeling-wv",col: 82 ,name:"Wheeling",display:"Wheeling, WV, US",country:"US"},
+
+
+
+{value:"wichita-falls-tx",col: 85 ,name:"Wichita Falls",display:"Wichita Falls, TX, US",country:"US"},
+
+
+
 {value:"wichita-ks",col: 86.8 ,name:"Wichita",display:"Wichita, KS, US",country:"US"},
 
 
@@ -6704,6 +7800,10 @@ var SALARY_CITIES = [
 
 
 {value:"wiesbaden-he",col: 100 ,name:"Wiesbaden",display:"Wiesbaden, Allemagne",country:"DE"},
+
+
+
+{value:"wilmington-de",col: 105 ,name:"Wilmington",display:"Wilmington, DE, US",country:"US"},
 
 
 
@@ -6732,6 +7832,10 @@ var SALARY_CITIES = [
 
 
 {value:"wollongong-nsw",col: 78 ,name:"Wollongong",display:"Wollongong, Australie",country:"AU"},
+
+
+
+{value:"woodbridge-nj",col: 115 ,name:"Woodbridge",display:"Woodbridge, NJ, US",country:"US"},
 
 
 
@@ -6767,6 +7871,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"yakima-wa",col: 95 ,name:"Yakima",display:"Yakima, WA, US",country:"US"},
+
+
+
 {value:"yamagata-ymt",col: 86 ,name:"Yamagata",display:"Yamagata, Japon",country:"JP"},
 
 
@@ -6792,6 +7900,22 @@ var SALARY_CITIES = [
 
 
 {value:"yokohama-kng",col: 115 ,name:"Yokohama",display:"Yokohama, Japon",country:"JP"},
+
+
+
+{value:"yonkers-ny",col: 125 ,name:"Yonkers",display:"Yonkers, NY, US",country:"US"},
+
+
+
+{value:"york-pa",col: 88 ,name:"York",display:"York, PA, US",country:"US"},
+
+
+
+{value:"youngstown-oh",col: 82 ,name:"Youngstown",display:"Youngstown, OH, US",country:"US"},
+
+
+
+{value:"yuma-az",col: 95 ,name:"Yuma",display:"Yuma, AZ, US",country:"US"},
 
 
 
