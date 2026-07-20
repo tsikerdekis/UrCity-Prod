@@ -442,6 +442,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"ayutthaya-th",col: 35 ,name:"Ayutthaya",display:"Ayutthaya, Thailand",country:"TH"},
+
+
+
 {value:"azua-do",col: 82 ,name:"Azua",display:"Azua, Dominican Republic",country:"DO"},
 
 
@@ -487,6 +491,10 @@ var SALARY_CITIES = [
 
 
 {value:"bangalore-ka",col: 115 ,name:"Bangalore",display:"Bangalore, India",country:"IN"},
+
+
+
+{value:"bangkok-th",col: 55 ,name:"Bangkok",display:"Bangkok, Thailand",country:"TH"},
 
 
 
@@ -671,6 +679,10 @@ var SALARY_CITIES = [
 
 
 {value:"bielsko-biala-sl",col: 82 ,name:"Bielsko-Biała",display:"Bielsko-Biała, ポーランド",country:"PL"},
+
+
+
+{value:"bien-hoa-vn",col: 32 ,name:"Bien Hoa",display:"Bien Hoa, Vietnam",country:"VN"},
 
 
 
@@ -1038,6 +1050,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"can-tho-vn",col: 30 ,name:"Can Tho",display:"Can Tho, Vietnam",country:"VN"},
+
+
+
 {value:"canberra-act",col: 90 ,name:"Canberra",display:"Canberra, オーストラリア",country:"AU"},
 
 
@@ -1227,6 +1243,14 @@ var SALARY_CITIES = [
 
 
 {value:"cheyenne-wy",col: 96.5 ,name:"Cheyenne",display:"Cheyenne, WY, US",country:"US"},
+
+
+
+{value:"chiang-mai-th",col: 42 ,name:"Chiang Mai",display:"Chiang Mai, Thailand",country:"TH"},
+
+
+
+{value:"chiang-rai-th",col: 38 ,name:"Chiang Rai",display:"Chiang Rai, Thailand",country:"TH"},
 
 
 
@@ -1531,6 +1555,14 @@ var SALARY_CITIES = [
 
 
 {value:"czestochowa-sl",col: 78 ,name:"Częstochowa",display:"Częstochowa, ポーランド",country:"PL"},
+
+
+
+{value:"da-lat-vn",col: 32 ,name:"Da Lat",display:"Da Lat, Vietnam",country:"VN"},
+
+
+
+{value:"da-nang-vn",col: 35 ,name:"Da Nang",display:"Da Nang, Vietnam",country:"VN"},
 
 
 
@@ -2374,6 +2406,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"haiphong-vn",col: 33 ,name:"Haiphong",display:"Haiphong, Vietnam",country:"VN"},
+
+
+
 {value:"halifax-ca",col: 93.5 ,name:"Halifax",display:"Halifax, カナダ",country:"CA"},
 
 
@@ -2418,6 +2454,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"hanoi-vn",col: 40 ,name:"Hanoi",display:"Hanoi, Vietnam",country:"VN"},
+
+
+
 {value:"harbin-hl",col: 95 ,name:"Harbin",display:"Harbin, 中国",country:"CN"},
 
 
@@ -2435,6 +2475,10 @@ var SALARY_CITIES = [
 
 
 {value:"hasselt-vli",col: 90 ,name:"Hasselt",display:"Hasselt, ベルギー",country:"BE"},
+
+
+
+{value:"hat-yai-th",col: 37 ,name:"Hat Yai",display:"Hat Yai, Thailand",country:"TH"},
 
 
 
@@ -2514,6 +2558,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"ho-chi-minh-city-vn",col: 42 ,name:"Ho Chi Minh City",display:"Ho Chi Minh City, Vietnam",country:"VN"},
+
+
+
 {value:"hobart-tas",col: 76 ,name:"Hobart",display:"Hobart, オーストラリア",country:"AU"},
 
 
@@ -2523,6 +2571,10 @@ var SALARY_CITIES = [
 
 
 {value:"hohhot-nm",col: 92 ,name:"Hohhot",display:"Hohhot, 中国",country:"CN"},
+
+
+
+{value:"hoi-an-vn",col: 36 ,name:"Hoi An",display:"Hoi An, Vietnam",country:"VN"},
 
 
 
@@ -2550,6 +2602,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"hua-hin-th",col: 48 ,name:"Hua Hin",display:"Hua Hin, Thailand",country:"TH"},
+
+
+
 {value:"huancayo-pe",col: 90 ,name:"Huancayo",display:"Huancayo, Peru",country:"PE"},
 
 
@@ -2563,6 +2619,10 @@ var SALARY_CITIES = [
 
 
 {value:"hubli-ka",col: 82 ,name:"Hubli",display:"Hubli, India",country:"IN"},
+
+
+
+{value:"hue-vn",col: 30 ,name:"Hue",display:"Hue, Vietnam",country:"VN"},
 
 
 
@@ -2954,6 +3014,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"khon-kaen-th",col: 36 ,name:"Khon Kaen",display:"Khon Kaen, Thailand",country:"TH"},
+
+
+
 {value:"khouribga-ma",col: 70 ,name:"Khouribga",display:"Khouribga, Morocco",country:"MA"},
 
 
@@ -3091,6 +3155,10 @@ var SALARY_CITIES = [
 
 
 {value:"kozhikode-kl",col: 95 ,name:"Kozhikode",display:"Kozhikode, India",country:"IN"},
+
+
+
+{value:"krabi-th",col: 44 ,name:"Krabi",display:"Krabi, Thailand",country:"TH"},
 
 
 
@@ -3475,6 +3543,10 @@ var SALARY_CITIES = [
 
 
 {value:"long-beach-ca",col: 142.5 ,name:"Long Beach",display:"Long Beach, CA, US",country:"US"},
+
+
+
+{value:"long-xuyen-vn",col: 27 ,name:"Long Xuyen",display:"Long Xuyen, Vietnam",country:"VN"},
 
 
 
@@ -4046,6 +4118,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"nakhon-ratchasima-th",col: 35 ,name:"Nakhon Ratchasima",display:"Nakhon Ratchasima, Thailand",country:"TH"},
+
+
+
+{value:"nakhon-si-thammarat-th",col: 32 ,name:"Nakhon Si Thammarat",display:"Nakhon Si Thammarat, Thailand",country:"TH"},
+
+
+
 {value:"nampa-id",col: 100 ,name:"Nampa",display:"Nampa, ID, US",country:"US"},
 
 
@@ -4170,6 +4250,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"nha-trang-vn",col: 34 ,name:"Nha Trang",display:"Nha Trang, Vietnam",country:"VN"},
+
+
+
 {value:"nice-pac",col: 108 ,name:"Nice",display:"Nice, フランス",country:"FR"},
 
 
@@ -4207,6 +4291,10 @@ var SALARY_CITIES = [
 
 
 {value:"noida-up",col: 115 ,name:"Noida",display:"Noida, India",country:"IN"},
+
+
+
+{value:"nonthaburi-th",col: 48 ,name:"Nonthaburi",display:"Nonthaburi, Thailand",country:"TH"},
 
 
 
@@ -4506,6 +4594,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"pattaya-th",col: 45 ,name:"Pattaya",display:"Pattaya, Thailand",country:"TH"},
+
+
+
 {value:"pawtucket-ri",col: 100 ,name:"Pawtucket",display:"Pawtucket, RI, US",country:"US"},
 
 
@@ -4578,11 +4670,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"phan-thiet-vn",col: 31 ,name:"Phan Thiet",display:"Phan Thiet, Vietnam",country:"VN"},
+
+
+
 {value:"philadelphia-pa",col: 105 ,name:"Philadelphia",display:"Philadelphia, PA, US",country:"US"},
 
 
 
 {value:"phoenix-az",col: 108.2 ,name:"Phoenix",display:"Phoenix, AZ, US",country:"US"},
+
+
+
+{value:"phuket-th",col: 50 ,name:"Phuket",display:"Phuket, Thailand",country:"TH"},
 
 
 
@@ -4882,7 +4982,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"quy-nhon-vn",col: 30 ,name:"Quy Nhon",display:"Quy Nhon, Vietnam",country:"VN"},
+
+
+
 {value:"rabat-ma",col: 90 ,name:"Rabat",display:"Rabat, Morocco",country:"MA"},
+
+
+
+{value:"rach-gia-vn",col: 28 ,name:"Rach Gia",display:"Rach Gia, Vietnam",country:"VN"},
 
 
 
@@ -5894,6 +6002,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"surat-thani-th",col: 33 ,name:"Surat Thani",display:"Surat Thani, Thailand",country:"TH"},
+
+
+
 {value:"surat-gj",col: 95 ,name:"Surat",display:"Surat, India",country:"IN"},
 
 
@@ -6302,6 +6414,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"udon-thani-th",col: 34 ,name:"Udon Thani",display:"Udon Thani, Thailand",country:"TH"},
+
+
+
 {value:"ufa-ba",col: 88 ,name:"Ufa",display:"Ufa, Russia",country:"RU"},
 
 
@@ -6587,6 +6703,10 @@ var SALARY_CITIES = [
 
 
 {value:"vrsac-rs",col: 62 ,name:"Vršac",display:"Vršac, セルビア",country:"RS"},
+
+
+
+{value:"vung-tau-vn",col: 33 ,name:"Vung Tau",display:"Vung Tau, Vietnam",country:"VN"},
 
 
 
