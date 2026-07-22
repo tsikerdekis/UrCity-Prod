@@ -1007,6 +1007,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"abu-dhabi-ae",col: 72 ,name:"Abu Dhabi",display:"Abu Dhabi, United Arab Emirates",country:"AE"},
+
+
+
 {value:"acapulco-gro",col: 70.5 ,name:"Acapulco",display:"Acapulco, Mexique",country:"MX"},
 
 
@@ -1063,11 +1067,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"ajman-ae",col: 55 ,name:"Ajman",display:"Ajman, United Arab Emirates",country:"AE"},
+
+
+
 {value:"akita-akt",col: 85 ,name:"Akita",display:"Akita, Japon",country:"JP"},
 
 
 
 {value:"akron-oh",col: 88.5 ,name:"Akron",display:"Akron, OH, US",country:"US"},
+
+
+
+{value:"akureyri-is",col: 88 ,name:"Akureyri",display:"Akureyri, Iceland",country:"IS"},
 
 
 
@@ -1367,6 +1379,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"baguio-ph",col: 36 ,name:"Baguio",display:"Baguio, Philippines",country:"PH"},
+
+
+
 {value:"bahia-blanca-ba",col: 72 ,name:"Bahía Blanca",display:"Bahía Blanca, Argentine",country:"AR"},
 
 
@@ -1388,6 +1404,10 @@ var SALARY_CITIES = [
 
 
 {value:"baltimore-md",col: 108.4 ,name:"Baltimore",display:"Baltimore, MD, US",country:"US"},
+
+
+
+{value:"bandung-id",col: 40 ,name:"Bandung",display:"Bandung, ",country:"ID"},
 
 
 
@@ -1448,6 +1468,10 @@ var SALARY_CITIES = [
 
 
 {value:"barranquilla-co",col: 98 ,name:"Barranquilla",display:"Barranquilla, Colombia",country:"CO"},
+
+
+
+{value:"batam-id",col: 42 ,name:"Batam",display:"Batam, ",country:"ID"},
 
 
 
@@ -2031,6 +2055,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"cebu-ph",col: 38 ,name:"Cebu City",display:"Cebu City, Philippines",country:"PH"},
+
+
+
 {value:"cedar-rapids-ia",col: 90 ,name:"Cedar Rapids",display:"Cedar Rapids, IA, US",country:"US"},
 
 
@@ -2535,6 +2563,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"davao-ph",col: 35 ,name:"Davao City",display:"Davao City, Philippines",country:"PH"},
+
+
+
 {value:"davenport-ia",col: 88 ,name:"Davenport",display:"Davenport, IA, US",country:"US"},
 
 
@@ -2588,6 +2620,10 @@ var SALARY_CITIES = [
 
 
 {value:"denizli-tr",col: 82 ,name:"Denizli",display:"Denizli, Turkey",country:"TR"},
+
+
+
+{value:"bali-id",col: 45 ,name:"Denpasar",display:"Denpasar, ",country:"ID"},
 
 
 
@@ -2664,6 +2700,10 @@ var SALARY_CITIES = [
 
 
 {value:"drogheda-lh",col: 92 ,name:"Drogheda",display:"Drogheda, Irlande",country:"IE"},
+
+
+
+{value:"dubai-ae",col: 75 ,name:"Dubai",display:"Dubai, United Arab Emirates",country:"AE"},
 
 
 
@@ -3151,6 +3191,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"penang-my",col: 45 ,name:"George Town",display:"George Town, Malaysia",country:"MY"},
+
+
+
 {value:"george-za",col: 95 ,name:"George",display:"George, South Africa",country:"ZA"},
 
 
@@ -3567,6 +3611,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"hofn-is",col: 80 ,name:"Höfn",display:"Höfn, Iceland",country:"IS"},
+
+
+
 {value:"hohhot-nm",col: 92 ,name:"Hohhot",display:"Hohhot, Chine",country:"CN"},
 
 
@@ -3683,6 +3731,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"iloilo-ph",col: 34 ,name:"Iloilo City",display:"Iloilo City, Philippines",country:"PH"},
+
+
+
 {value:"imphal-mn",col: 88 ,name:"Imphal",display:"Imphal, India",country:"IN"},
 
 
@@ -3716,6 +3768,10 @@ var SALARY_CITIES = [
 
 
 {value:"iowa-city-ia",col: 95 ,name:"Iowa City",display:"Iowa City, IA, US",country:"US"},
+
+
+
+{value:"ipoh-my",col: 38 ,name:"Ipoh",display:"Ipoh, Malaysia",country:"MY"},
 
 
 
@@ -3795,6 +3851,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"jakarta-id",col: 55 ,name:"Jakarta",display:"Jakarta, ",country:"ID"},
+
+
+
 {value:"jalapa-gt",col: 82 ,name:"Jalapa",display:"Jalapa, Guatemala",country:"GT"},
 
 
@@ -3864,6 +3924,10 @@ var SALARY_CITIES = [
 
 
 {value:"johnson-city-tn",col: 90 ,name:"Johnson City",display:"Johnson City, TN, US",country:"US"},
+
+
+
+{value:"johor-bahru-my",col: 42 ,name:"Johor Bahru",display:"Johor Bahru, Malaysia",country:"MY"},
 
 
 
@@ -4016,6 +4080,10 @@ var SALARY_CITIES = [
 
 
 {value:"kecskemet-bk",col: 78 ,name:"Kecskemét",display:"Kecskemét, Hongrie",country:"HU"},
+
+
+
+{value:"keflavik-is",col: 85 ,name:"Keflavik",display:"Keflavik, Iceland",country:"IS"},
 
 
 
@@ -4191,6 +4259,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"kota-kinabalu-my",col: 44 ,name:"Kota Kinabalu",display:"Kota Kinabalu, Malaysia",country:"MY"},
+
+
+
 {value:"kotka-fi",col: 92 ,name:"Kotka",display:"Kotka, Finland",country:"FI"},
 
 
@@ -4244,6 +4316,14 @@ var SALARY_CITIES = [
 
 
 {value:"kristianstad-se",col: 95 ,name:"Kristianstad",display:"Kristianstad, Sweden",country:"SE"},
+
+
+
+{value:"kuala-lumpur-my",col: 48 ,name:"Kuala Lumpur",display:"Kuala Lumpur, Malaysia",country:"MY"},
+
+
+
+{value:"kuching-my",col: 40 ,name:"Kuching",display:"Kuching, Malaysia",country:"MY"},
 
 
 
@@ -4759,7 +4839,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"makassar-id",col: 40 ,name:"Makassar",display:"Makassar, ",country:"ID"},
+
+
+
 {value:"makhachkala-da",col: 78 ,name:"Makhachkala",display:"Makhachkala, Russia",country:"RU"},
+
+
+
+{value:"malacca-my",col: 40 ,name:"Malacca City",display:"Malacca City, Malaysia",country:"MY"},
 
 
 
@@ -4804,6 +4892,10 @@ var SALARY_CITIES = [
 
 
 {value:"manhattan-ks",col: 92 ,name:"Manhattan",display:"Manhattan, KS, US",country:"US"},
+
+
+
+{value:"manila-ph",col: 42 ,name:"Manila",display:"Manila, Philippines",country:"PH"},
 
 
 
@@ -4912,6 +5004,10 @@ var SALARY_CITIES = [
 
 
 {value:"mckinney-tx",col: 105 ,name:"McKinney",display:"McKinney, TX, US",country:"US"},
+
+
+
+{value:"medan-id",col: 38 ,name:"Medan",display:"Medan, ",country:"ID"},
 
 
 
@@ -5643,6 +5739,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"palembang-id",col: 36 ,name:"Palembang",display:"Palembang, ",country:"ID"},
+
+
+
 {value:"palermo-sic",col: 80 ,name:"Palermo",display:"Palermo, Italie",country:"IT"},
 
 
@@ -6123,6 +6223,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"quezon-city-ph",col: 40 ,name:"Quezon City",display:"Quezon City, Philippines",country:"PH"},
+
+
+
 {value:"quillota-cl",col: 85 ,name:"Quillota",display:"Quillota, Chile",country:"CL"},
 
 
@@ -6187,6 +6291,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"ras-al-khaimah-ae",col: 52 ,name:"Ras Al Khaimah",display:"Ras Al Khaimah, United Arab Emirates",country:"AE"},
+
+
+
 {value:"rawson-pz",col: 60 ,name:"Rawson",display:"Rawson, Argentine",country:"AR"},
 
 
@@ -6224,6 +6332,10 @@ var SALARY_CITIES = [
 
 
 {value:"retalhuleu-gt",col: 85 ,name:"Retalhuleu",display:"Retalhuleu, Guatemala",country:"GT"},
+
+
+
+{value:"reykjavik-is",col: 95 ,name:"Reykjavik",display:"Reykjavik, Iceland",country:"IS"},
 
 
 
@@ -6799,6 +6911,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"selfoss-is",col: 82 ,name:"Selfoss",display:"Selfoss, Iceland",country:"IS"},
+
+
+
+{value:"semarang-id",col: 38 ,name:"Semarang",display:"Semarang, ",country:"ID"},
+
+
+
 {value:"sendai-myg",col: 95 ,name:"Sendai",display:"Sendai, Japon",country:"JP"},
 
 
@@ -6832,6 +6952,10 @@ var SALARY_CITIES = [
 
 
 {value:"shaoxing-zj",col: 105 ,name:"Shaoxing",display:"Shaoxing, Chine",country:"CN"},
+
+
+
+{value:"sharjah-ae",col: 60 ,name:"Sharjah",display:"Sharjah, United Arab Emirates",country:"AE"},
 
 
 
@@ -7192,6 +7316,10 @@ var SALARY_CITIES = [
 
 
 {value:"sunshine-coast-qld",col: 84 ,name:"Sunshine Coast",display:"Sunshine Coast, Australie",country:"AU"},
+
+
+
+{value:"surabaya-id",col: 42 ,name:"Surabaya",display:"Surabaya, ",country:"ID"},
 
 
 
@@ -8140,6 +8268,10 @@ var SALARY_CITIES = [
 
 
 {value:"yinchuan-nx",col: 90 ,name:"Yinchuan",display:"Yinchuan, Chine",country:"CN"},
+
+
+
+{value:"yogyakarta-id",col: 35 ,name:"Yogyakarta",display:"Yogyakarta, ",country:"ID"},
 
 
 
