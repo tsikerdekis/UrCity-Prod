@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "schema_version": "1.0",
+  "generated": "2026-07-26",
+  "compatible": true,
+  "min_app_version": "1.0.0",
+  "city_count": 2126,
+  "country_count": 91,
+  "content_hash": "1ee49bf3564d8447"
+}

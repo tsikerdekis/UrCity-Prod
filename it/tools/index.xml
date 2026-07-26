@@ -290,6 +290,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"aberdeen-gb",col: 110 ,name:"Aberdeen",display:"Aberdeen, Regno Unito",country:"GB"},
+
+
+
 {value:"aberdeen-sd",col: 88 ,name:"Aberdeen",display:"Aberdeen, SD, US",country:"US"},
 
 
@@ -546,7 +550,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"ansan-kr",col: 72 ,name:"Ansan",display:"Ansan, ",country:"KR"},
+{value:"ansan-kr",col: 72 ,name:"Ansan",display:"Ansan, Corea del Sud",country:"KR"},
 
 
 
@@ -682,7 +686,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"auckland-nz",col: 105 ,name:"Auckland",display:"Auckland, ",country:"NZ"},
+{value:"auckland-nz",col: 105 ,name:"Auckland",display:"Auckland, Nuova Zelanda",country:"NZ"},
 
 
 
@@ -778,6 +782,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"balikpapan-id",col: 49 ,name:"Balikpapan",display:"Balikpapan, ",country:"ID"},
+
+
+
 {value:"ballarat-vic",col: 68 ,name:"Ballarat",display:"Ballarat, Australia",country:"AU"},
 
 
@@ -807,6 +815,10 @@ var SALARY_CITIES = [
 
 
 {value:"banja-luka-ba",col: 68 ,name:"Banja Luka",display:"Banja Luka, Bosnia ed Erzegovina",country:"BA"},
+
+
+
+{value:"banjarmasin-id",col: 43 ,name:"Banjarmasin",display:"Banjarmasin, ",country:"ID"},
 
 
 
@@ -855,6 +867,10 @@ var SALARY_CITIES = [
 
 
 {value:"barranquilla-co",col: 98 ,name:"Barranquilla",display:"Barranquilla, Colombia",country:"CO"},
+
+
+
+{value:"barrie-ca",col: 115 ,name:"Barrie",display:"Barrie, Canada",country:"CA"},
 
 
 
@@ -1106,6 +1122,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"bogor-id",col: 48 ,name:"Bogor",display:"Bogor, ",country:"ID"},
+
+
+
 {value:"bogota-co",col: 110 ,name:"Bogotá",display:"Bogotá, Colombia",country:"CO"},
 
 
@@ -1294,6 +1314,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"burlington-ca",col: 120 ,name:"Burlington",display:"Burlington, Canada",country:"CA"},
+
+
+
 {value:"burlington-vt",col: 112.5 ,name:"Burlington",display:"Burlington, VT, US",country:"US"},
 
 
@@ -1302,7 +1326,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"busan-kr",col: 82 ,name:"Busan",display:"Busan, ",country:"KR"},
+{value:"busan-kr",col: 82 ,name:"Busan",display:"Busan, Corea del Sud",country:"KR"},
 
 
 
@@ -1379,6 +1403,10 @@ var SALARY_CITIES = [
 
 
 {value:"camaguey-cu",col: 90 ,name:"Camagüey",display:"Camagüey, Cuba",country:"CU"},
+
+
+
+{value:"cambridge-gb",col: 120 ,name:"Cambridge",display:"Cambridge, Regno Unito",country:"GB"},
 
 
 
@@ -1542,7 +1570,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"changwon-kr",col: 70 ,name:"Changwon",display:"Changwon, ",country:"KR"},
+{value:"changwon-kr",col: 70 ,name:"Changwon",display:"Changwon, Corea del Sud",country:"KR"},
 
 
 
@@ -1606,7 +1634,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"cheongju-kr",col: 69 ,name:"Cheongju",display:"Cheongju, ",country:"KR"},
+{value:"cheongju-kr",col: 69 ,name:"Cheongju",display:"Cheongju, Corea del Sud",country:"KR"},
 
 
 
@@ -1690,11 +1718,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"chon-buri-th",col: 44 ,name:"Chon Buri",display:"Chon Buri, Thailand",country:"TH"},
+
+
+
 {value:"chongqing-cq",col: 105 ,name:"Chongqing",display:"Chongqing, Cina",country:"CN"},
 
 
 
-{value:"christchurch-nz",col: 90 ,name:"Christchurch",display:"Christchurch, ",country:"NZ"},
+{value:"christchurch-nz",col: 90 ,name:"Christchurch",display:"Christchurch, Nuova Zelanda",country:"NZ"},
 
 
 
@@ -1702,7 +1734,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"chuncheon-kr",col: 64 ,name:"Chuncheon",display:"Chuncheon, ",country:"KR"},
+{value:"chuncheon-kr",col: 64 ,name:"Chuncheon",display:"Chuncheon, Corea del Sud",country:"KR"},
 
 
 
@@ -1910,6 +1942,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"coventry-gb",col: 100 ,name:"Coventry",display:"Coventry, Regno Unito",country:"GB"},
+
+
+
 {value:"covington-ky",col: 95 ,name:"Covington",display:"Covington, KY, US",country:"US"},
 
 
@@ -1978,11 +2014,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"daegu-kr",col: 75 ,name:"Daegu",display:"Daegu, ",country:"KR"},
+{value:"daegu-kr",col: 75 ,name:"Daegu",display:"Daegu, Corea del Sud",country:"KR"},
 
 
 
-{value:"daejeon-kr",col: 73 ,name:"Daejeon",display:"Daejeon, ",country:"KR"},
+{value:"daejeon-kr",col: 73 ,name:"Daejeon",display:"Daejeon, Corea del Sud",country:"KR"},
 
 
 
@@ -2095,6 +2131,10 @@ var SALARY_CITIES = [
 
 
 {value:"bali-id",col: 45 ,name:"Denpasar",display:"Denpasar, ",country:"ID"},
+
+
+
+{value:"denpasar-id",col: 50 ,name:"Denpasar",display:"Denpasar, ",country:"ID"},
 
 
 
@@ -2234,7 +2274,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"dunedin-nz",col: 82 ,name:"Dunedin",display:"Dunedin, ",country:"NZ"},
+{value:"dundee-gb",col: 105 ,name:"Dundee",display:"Dundee, Regno Unito",country:"GB"},
+
+
+
+{value:"dunedin-nz",col: 82 ,name:"Dunedin",display:"Dunedin, Nuova Zelanda",country:"NZ"},
 
 
 
@@ -2439,6 +2483,10 @@ var SALARY_CITIES = [
 
 
 {value:"evora-pt",col: 80 ,name:"Évora",display:"Évora, Portogallo",country:"PT"},
+
+
+
+{value:"exeter-gb",col: 108 ,name:"Exeter",display:"Exeter, Regno Unito",country:"GB"},
 
 
 
@@ -2750,7 +2798,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"gimhae-kr",col: 70 ,name:"Gimhae",display:"Gimhae, ",country:"KR"},
+{value:"gimhae-kr",col: 70 ,name:"Gimhae",display:"Gimhae, Corea del Sud",country:"KR"},
 
 
 
@@ -2814,7 +2862,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"goyang-kr",col: 76 ,name:"Goyang",display:"Goyang, ",country:"KR"},
+{value:"goyang-kr",col: 76 ,name:"Goyang",display:"Goyang, Corea del Sud",country:"KR"},
 
 
 
@@ -2930,6 +2978,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"guelph-ca",col: 112 ,name:"Guelph",display:"Guelph, Canada",country:"CA"},
+
+
+
 {value:"guiilin-gx",col: 95 ,name:"Guilin",display:"Guilin, Cina",country:"CN"},
 
 
@@ -2962,7 +3014,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"gwangju-kr",col: 72 ,name:"Gwangju",display:"Gwangju, ",country:"KR"},
+{value:"gwangju-kr",col: 72 ,name:"Gwangju",display:"Gwangju, Corea del Sud",country:"KR"},
 
 
 
@@ -3034,7 +3086,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"hamilton-nz",col: 88 ,name:"Hamilton",display:"Hamilton, ",country:"NZ"},
+{value:"hamilton-ca",col: 110 ,name:"Hamilton",display:"Hamilton, Canada",country:"CA"},
+
+
+
+{value:"hamilton-nz",col: 88 ,name:"Hamilton",display:"Hamilton, Nuova Zelanda",country:"NZ"},
 
 
 
@@ -3218,7 +3274,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"hong-kong-hk",col: 130 ,name:"Hong Kong",display:"Hong Kong, ",country:"HK"},
+{value:"hong-kong-hk",col: 130 ,name:"Hong Kong",display:"Hong Kong, Hong Kong",country:"HK"},
 
 
 
@@ -3346,7 +3402,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"incheon-kr",col: 80 ,name:"Incheon",display:"Incheon, ",country:"KR"},
+{value:"incheon-kr",col: 80 ,name:"Incheon",display:"Incheon, Corea del Sud",country:"KR"},
 
 
 
@@ -3510,7 +3566,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"jeju-city-kr",col: 78 ,name:"Jeju City",display:"Jeju City, ",country:"KR"},
+{value:"jeju-city-kr",col: 78 ,name:"Jeju City",display:"Jeju City, Corea del Sud",country:"KR"},
 
 
 
@@ -3522,7 +3578,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"jeonju-kr",col: 68 ,name:"Jeonju",display:"Jeonju, ",country:"KR"},
+{value:"jeonju-kr",col: 68 ,name:"Jeonju",display:"Jeonju, Corea del Sud",country:"KR"},
 
 
 
@@ -3666,6 +3722,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"kanchanaburi-th",col: 38 ,name:"Kanchanaburi",display:"Kanchanaburi, Thailand",country:"TH"},
+
+
+
 {value:"kano-kn",col: 75 ,name:"Kano",display:"Kano, Nigeria",country:"NG"},
 
 
@@ -3778,6 +3838,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"kelowna-ca",col: 118 ,name:"Kelowna",display:"Kelowna, Canada",country:"CA"},
+
+
+
 {value:"kemerovo-kem",col: 80 ,name:"Kemerovo",display:"Kemerovo, Russia",country:"RU"},
 
 
@@ -3874,6 +3938,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"hull-gb",col: 95 ,name:"Kingston upon Hull",display:"Kingston upon Hull, Regno Unito",country:"GB"},
+
+
+
+{value:"kingston-ca",col: 110 ,name:"Kingston",display:"Kingston, Canada",country:"CA"},
+
+
+
 {value:"kirov-kir",col: 76 ,name:"Kirov",display:"Kirov, Russia",country:"RU"},
 
 
@@ -3939,6 +4011,14 @@ var SALARY_CITIES = [
 
 
 {value:"koge-dk",col: 100 ,name:"Køge",display:"Køge, Denmark",country:"DK"},
+
+
+
+{value:"koh-phangan-th",col: 48 ,name:"Koh Phangan",display:"Koh Phangan, Thailand",country:"TH"},
+
+
+
+{value:"koh-samui-th",col: 50 ,name:"Koh Samui",display:"Koh Samui, Thailand",country:"TH"},
 
 
 
@@ -4234,6 +4314,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"lampang-th",col: 33 ,name:"Lampang",display:"Lampang, Thailand",country:"TH"},
+
+
+
 {value:"lancaster-pa",col: 95 ,name:"Lancaster",display:"Lancaster, PA, US",country:"US"},
 
 
@@ -4315,6 +4399,10 @@ var SALARY_CITIES = [
 
 
 {value:"legnica-ds",col: 72 ,name:"Legnica",display:"Legnica, Polonia",country:"PL"},
+
+
+
+{value:"leicester-gb",col: 98 ,name:"Leicester",display:"Leicester, Regno Unito",country:"GB"},
 
 
 
@@ -4475,6 +4563,10 @@ var SALARY_CITIES = [
 
 
 {value:"london-gb",col: 135.2 ,name:"London",display:"London, Regno Unito",country:"GB"},
+
+
+
+{value:"london-ca",col: 108 ,name:"London",display:"London, Canada",country:"CA"},
 
 
 
@@ -4642,6 +4734,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"mae-sot-th",col: 32 ,name:"Mae Sot",display:"Mae Sot, Thailand",country:"TH"},
+
+
+
 {value:"maebashi-gum",col: 87 ,name:"Maebashi",display:"Maebashi, Giappone",country:"JP"},
 
 
@@ -4674,6 +4770,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"malang-id",col: 45 ,name:"Malang",display:"Malang, ",country:"ID"},
+
+
+
 {value:"malatya-tr",col: 76 ,name:"Malatya",display:"Malatya, Turkey",country:"TR"},
 
 
@@ -4687,6 +4787,10 @@ var SALARY_CITIES = [
 
 
 {value:"malmo-se",col: 112 ,name:"Malmö",display:"Malmö, Sweden",country:"SE"},
+
+
+
+{value:"manado-id",col: 48 ,name:"Manado",display:"Manado, ",country:"ID"},
 
 
 
@@ -4971,6 +5075,10 @@ var SALARY_CITIES = [
 
 
 {value:"miskolc-bz",col: 75 ,name:"Miskolc",display:"Miskolc, Ungheria",country:"HU"},
+
+
+
+{value:"mississauga-ca",col: 122 ,name:"Mississauga",display:"Mississauga, Canada",country:"CA"},
 
 
 
@@ -5270,7 +5378,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"napier-nz",col: 85 ,name:"Napier",display:"Napier, ",country:"NZ"},
+{value:"napier-nz",col: 85 ,name:"Napier",display:"Napier, Nuova Zelanda",country:"NZ"},
 
 
 
@@ -5326,7 +5434,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"nelson-nz",col: 84 ,name:"Nelson",display:"Nelson, ",country:"NZ"},
+{value:"nelson-nz",col: 84 ,name:"Nelson",display:"Nelson, Nuova Zelanda",country:"NZ"},
 
 
 
@@ -5374,6 +5482,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"newcastle-gb",col: 102 ,name:"Newcastle upon Tyne",display:"Newcastle upon Tyne, Regno Unito",country:"GB"},
+
+
+
 {value:"newcastle-nsw",col: 80 ,name:"Newcastle",display:"Newcastle, Australia",country:"AU"},
 
 
@@ -5383,6 +5495,10 @@ var SALARY_CITIES = [
 
 
 {value:"nha-trang-vn",col: 34 ,name:"Nha Trang",display:"Nha Trang, Vietnam",country:"VN"},
+
+
+
+{value:"niagara-falls-ca",col: 108 ,name:"Niagara Falls",display:"Niagara Falls, Canada",country:"CA"},
 
 
 
@@ -5462,6 +5578,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"norwich-gb",col: 106 ,name:"Norwich",display:"Norwich, Regno Unito",country:"GB"},
+
+
+
+{value:"nottingham-gb",col: 100 ,name:"Nottingham",display:"Nottingham, Regno Unito",country:"GB"},
+
+
+
 {value:"nova-iguacu-rj",col: 90 ,name:"Nova Iguaçu",display:"Nova Iguaçu, Brasile",country:"BR"},
 
 
@@ -5499,6 +5623,10 @@ var SALARY_CITIES = [
 
 
 {value:"oakland-ca",col: 158.4 ,name:"Oakland",display:"Oakland, CA, US",country:"US"},
+
+
+
+{value:"oakville-ca",col: 125 ,name:"Oakville",display:"Oakville, Canada",country:"CA"},
 
 
 
@@ -5674,11 +5802,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"oxford-gb",col: 125 ,name:"Oxford",display:"Oxford, Regno Unito",country:"GB"},
+
+
+
 {value:"oxnard-ca",col: 138.5 ,name:"Oxnard",display:"Oxnard, CA, US",country:"US"},
 
 
 
 {value:"pabna-bd",col: 76 ,name:"Pabna",display:"Pabna, Bangladesh",country:"BD"},
+
+
+
+{value:"padang-id",col: 46 ,name:"Padang",display:"Padang, ",country:"ID"},
 
 
 
@@ -5710,7 +5846,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"palmerston-north-nz",col: 80 ,name:"Palmerston North",display:"Palmerston North, ",country:"NZ"},
+{value:"palmerston-north-nz",col: 80 ,name:"Palmerston North",display:"Palmerston North, Nuova Zelanda",country:"NZ"},
 
 
 
@@ -5822,6 +5958,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"pekanbaru-id",col: 47 ,name:"Pekanbaru",display:"Pekanbaru, ",country:"ID"},
+
+
+
 {value:"pelotas-rs",col: 90 ,name:"Pelotas",display:"Pelotas, Brasile",country:"BR"},
 
 
@@ -5902,6 +6042,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"phitsanulok-th",col: 35 ,name:"Phitsanulok",display:"Phitsanulok, Thailand",country:"TH"},
+
+
+
 {value:"phoenix-az",col: 108.2 ,name:"Phoenix",display:"Phoenix, AZ, US",country:"US"},
 
 
@@ -5974,7 +6118,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"pohang-kr",col: 68 ,name:"Pohang",display:"Pohang, ",country:"KR"},
+{value:"pohang-kr",col: 68 ,name:"Pohang",display:"Pohang, Corea del Sud",country:"KR"},
 
 
 
@@ -5991,6 +6135,10 @@ var SALARY_CITIES = [
 
 
 {value:"ponta-delgada-pt",col: 78 ,name:"Ponta Delgada",display:"Ponta Delgada, Portogallo",country:"PT"},
+
+
+
+{value:"pontianak-id",col: 44 ,name:"Pontianak",display:"Pontianak, ",country:"ID"},
 
 
 
@@ -6055,6 +6203,10 @@ var SALARY_CITIES = [
 
 
 {value:"portoviejo-ec",col: 90 ,name:"Portoviejo",display:"Portoviejo, Ecuador",country:"EC"},
+
+
+
+{value:"portsmouth-gb",col: 105 ,name:"Portsmouth",display:"Portsmouth, Regno Unito",country:"GB"},
 
 
 
@@ -6194,7 +6346,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"queenstown-nz",col: 115 ,name:"Queenstown",display:"Queenstown, ",country:"NZ"},
+{value:"queenstown-nz",col: 115 ,name:"Queenstown",display:"Queenstown, Nuova Zelanda",country:"NZ"},
 
 
 
@@ -6310,6 +6462,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"rayong-th",col: 42 ,name:"Rayong",display:"Rayong, Thailand",country:"TH"},
+
+
+
 {value:"reading-pa",col: 90 ,name:"Reading",display:"Reading, PA, US",country:"US"},
 
 
@@ -6319,6 +6475,10 @@ var SALARY_CITIES = [
 
 
 {value:"redmond-wa",col: 175 ,name:"Redmond",display:"Redmond, WA, US",country:"US"},
+
+
+
+{value:"regina-ca",col: 100 ,name:"Regina",display:"Regina, Canada",country:"CA"},
 
 
 
@@ -6926,6 +7086,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"saskatoon-ca",col: 102 ,name:"Saskatoon",display:"Saskatoon, Canada",country:"CA"},
+
+
+
 {value:"satu-mare-sm",col: 72 ,name:"Satu Mare",display:"Satu Mare, Romania",country:"RO"},
 
 
@@ -6986,11 +7150,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"seongnam-kr",col: 80 ,name:"Seongnam",display:"Seongnam, ",country:"KR"},
+{value:"seongnam-kr",col: 80 ,name:"Seongnam",display:"Seongnam, Corea del Sud",country:"KR"},
 
 
 
-{value:"seoul-kr",col: 95 ,name:"Seoul",display:"Seoul, ",country:"KR"},
+{value:"seoul-kr",col: 95 ,name:"Seoul",display:"Seoul, Corea del Sud",country:"KR"},
 
 
 
@@ -7047,6 +7211,10 @@ var SALARY_CITIES = [
 
 
 {value:"shenzhen-gd",col: 135 ,name:"Shenzhen",display:"Shenzhen, Cina",country:"CN"},
+
+
+
+{value:"sherbrooke-ca",col: 105 ,name:"Sherbrooke",display:"Sherbrooke, Canada",country:"CA"},
 
 
 
@@ -7138,7 +7306,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"singapore-sg",col: 120 ,name:"Singapore",display:"Singapore, ",country:"SG"},
+{value:"singapore-sg",col: 120 ,name:"Singapore",display:"Singapore, Singapore",country:"SG"},
 
 
 
@@ -7258,6 +7426,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"southampton-gb",col: 103 ,name:"Southampton",display:"Southampton, Regno Unito",country:"GB"},
+
+
+
 {value:"southaven-ms",col: 90 ,name:"Southaven",display:"Southaven, MS, US",country:"US"},
 
 
@@ -7318,6 +7490,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"st-johns-ca",col: 105 ,name:"St. John\u0027s",display:"St. John\u0027s, Canada",country:"CA"},
+
+
+
 {value:"st-joseph-mo",col: 85 ,name:"St. Joseph",display:"St. Joseph, MO, US",country:"US"},
 
 
@@ -7370,6 +7546,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"stoke-gb",col: 92 ,name:"Stoke-on-Trent",display:"Stoke-on-Trent, Regno Unito",country:"GB"},
+
+
+
 {value:"strasbourg-ges",col: 98 ,name:"Strasbourg",display:"Strasbourg, Francia",country:"FR"},
 
 
@@ -7399,6 +7579,10 @@ var SALARY_CITIES = [
 
 
 {value:"suhareka-xk",col: 47 ,name:"Suhareka",display:"Suhareka, Kosovo",country:"XK"},
+
+
+
+{value:"sukhothai-th",col: 32 ,name:"Sukhothai",display:"Sukhothai, Thailand",country:"TH"},
 
 
 
@@ -7442,6 +7626,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"solo-id",col: 44 ,name:"Surakarta",display:"Surakarta, ",country:"ID"},
+
+
+
 {value:"surat-thani-th",col: 33 ,name:"Surat Thani",display:"Surat Thani, Thailand",country:"TH"},
 
 
@@ -7450,7 +7638,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"suwon-kr",col: 78 ,name:"Suwon",display:"Suwon, ",country:"KR"},
+{value:"suwon-kr",col: 78 ,name:"Suwon",display:"Suwon, Corea del Sud",country:"KR"},
 
 
 
@@ -7634,7 +7822,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"tauranga-nz",col: 92 ,name:"Tauranga",display:"Tauranga, ",country:"NZ"},
+{value:"tauranga-nz",col: 92 ,name:"Tauranga",display:"Tauranga, Nuova Zelanda",country:"NZ"},
 
 
 
@@ -7842,6 +8030,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"trang-th",col: 34 ,name:"Trang",display:"Trang, Thailand",country:"TH"},
+
+
+
 {value:"traun-ooe",col: 85 ,name:"Traun",display:"Traun, Austria",country:"AT"},
 
 
@@ -7978,7 +8170,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"ulsan-kr",col: 74 ,name:"Ulsan",display:"Ulsan, ",country:"KR"},
+{value:"ulsan-kr",col: 74 ,name:"Ulsan",display:"Ulsan, Corea del Sud",country:"KR"},
 
 
 
@@ -8370,7 +8562,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"wellington-nz",col: 98 ,name:"Wellington",display:"Wellington, ",country:"NZ"},
+{value:"wellington-nz",col: 98 ,name:"Wellington",display:"Wellington, Nuova Zelanda",country:"NZ"},
 
 
 
@@ -8418,6 +8610,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"windsor-ca",col: 100 ,name:"Windsor",display:"Windsor, Canada",country:"CA"},
+
+
+
 {value:"winnipeg-ca",col: 88.6 ,name:"Winnipeg",display:"Winnipeg, Canada",country:"CA"},
 
 
@@ -8438,7 +8634,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"wonju-kr",col: 65 ,name:"Wonju",display:"Wonju, ",country:"KR"},
+{value:"wonju-kr",col: 65 ,name:"Wonju",display:"Wonju, Corea del Sud",country:"KR"},
 
 
 
@@ -8518,11 +8714,15 @@ var SALARY_CITIES = [
 
 
 
-{value:"yongin-kr",col: 77 ,name:"Yongin",display:"Yongin, ",country:"KR"},
+{value:"yongin-kr",col: 77 ,name:"Yongin",display:"Yongin, Corea del Sud",country:"KR"},
 
 
 
 {value:"yonkers-ny",col: 125 ,name:"Yonkers",display:"Yonkers, NY, US",country:"US"},
+
+
+
+{value:"york-gb",col: 112 ,name:"York",display:"York, Regno Unito",country:"GB"},
 
 
 
