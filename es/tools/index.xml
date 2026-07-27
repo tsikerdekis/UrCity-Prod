@@ -286,6 +286,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"abeche-td",col: 65 ,name:"Abeche",display:"Abeche, Chad",country:"TD"},
+
+
+
+{value:"abengourou-ci",col: 62 ,name:"Abengourou",display:"Abengourou, Côte d\u0027Ivoire",country:"CI"},
+
+
+
 {value:"aberdeen-gb",col: 110 ,name:"Aberdeen",display:"Aberdeen, Reino Unido",country:"GB"},
 
 
@@ -295,6 +303,10 @@ var SALARY_CITIES = [
 
 
 {value:"abha",col: 90 ,name:"Abha",display:"Abha, Saudi Arabia",country:"SA"},
+
+
+
+{value:"abidjan-ci",col: 100 ,name:"Abidjan",display:"Abidjan, Côte d\u0027Ivoire",country:"CI"},
 
 
 
@@ -334,7 +346,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"addu-city-mv",col: 82 ,name:"Addu City",display:"Addu City, Maldives",country:"MV"},
+
+
+
 {value:"adelaide-sa",col: 82 ,name:"Adelaida",display:"Adelaida, Australia",country:"AU"},
+
+
+
+{value:"aden-ye",col: 88 ,name:"Aden",display:"Aden, Yemen",country:"YE"},
+
+
+
+{value:"agadez-ne",col: 65 ,name:"Agadez",display:"Agadez, Niger",country:"NE"},
 
 
 
@@ -374,6 +398,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"ahvaz-ir",col: 80 ,name:"Ahvaz",display:"Ahvaz, Iran",country:"IR"},
+
+
+
 {value:"aizawl-mz",col: 90 ,name:"Aizawl",display:"Aizawl, India",country:"IN"},
 
 
@@ -387,6 +415,10 @@ var SALARY_CITIES = [
 
 
 {value:"akita-akt",col: 85 ,name:"Akita",display:"Akita, Japón",country:"JP"},
+
+
+
+{value:"akordat-er",col: 60 ,name:"Akordat",display:"Akordat, Eritrea",country:"ER"},
 
 
 
@@ -422,6 +454,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"al-khums-ly",col: 72 ,name:"Al Khums",display:"Al Khums, Libya",country:"LY"},
+
+
+
+{value:"al-mahwit-ye",col: 62 ,name:"Al Mahwit",display:"Al Mahwit, Yemen",country:"YE"},
+
+
+
 {value:"al-rayyan-qa",col: 115 ,name:"Al Rayyan",display:"Al Rayyan, Qatar",country:"QA"},
 
 
@@ -446,6 +486,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"albina-sr",col: 65 ,name:"Albina",display:"Albina, Suriname",country:"SR"},
+
+
+
 {value:"albuquerque-nm",col: 94.5 ,name:"Albuquerque",display:"Albuquerque, NM, US",country:"US"},
 
 
@@ -458,6 +502,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"aleppo-sy",col: 88 ,name:"Aleppo",display:"Aleppo, Syria",country:"SY"},
+
+
+
 {value:"alesund-no",col: 110 ,name:"Ålesund",display:"Ålesund, Norway",country:"NO"},
 
 
@@ -467,6 +515,14 @@ var SALARY_CITIES = [
 
 
 {value:"alexandria-va",col: 145 ,name:"Alexandria",display:"Alexandria, VA, US",country:"US"},
+
+
+
+{value:"algiers-dz",col: 100 ,name:"Algiers",display:"Algiers, Algeria",country:"DZ"},
+
+
+
+{value:"ali-sabieh-dj",col: 72 ,name:"Ali Sabieh",display:"Ali Sabieh, Djibouti",country:"DJ"},
 
 
 
@@ -490,7 +546,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"am-timan-td",col: 55 ,name:"Am Timan",display:"Am Timan, Chad",country:"TD"},
+
+
+
+{value:"amarah-iq",col: 72 ,name:"Amarah",display:"Amarah, Iraq",country:"IQ"},
+
+
+
 {value:"amarillo-tx",col: 88 ,name:"Amarillo",display:"Amarillo, TX, US",country:"US"},
+
+
+
+{value:"ambanja-mg",col: 65 ,name:"Ambanja",display:"Ambanja, Madagascar",country:"MG"},
 
 
 
@@ -498,7 +566,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"ambatondrazaka-mg",col: 62 ,name:"Ambatondrazaka",display:"Ambatondrazaka, Madagascar",country:"MG"},
+
+
+
+{value:"ambositra-mg",col: 65 ,name:"Ambositra",display:"Ambositra, Madagascar",country:"MG"},
+
+
+
 {value:"ames-ia",col: 92 ,name:"Ames",display:"Ames, IA, US",country:"US"},
+
+
+
+{value:"amman-jo",col: 100 ,name:"Amman",display:"Amman, Jordan",country:"JO"},
 
 
 
@@ -518,11 +598,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"anau-tm",col: 65 ,name:"Anau",display:"Anau, Turkmenistan",country:"TM"},
+
+
+
+{value:"ancho-tg",col: 62 ,name:"Ancho",display:"Ancho, Togo",country:"TG"},
+
+
+
 {value:"anchorage-ak",col: 118.5 ,name:"Anchorage",display:"Anchorage, AK, US",country:"US"},
 
 
 
 {value:"ancona-mar",col: 88 ,name:"Ancona",display:"Ancona, Italia",country:"IT"},
+
+
+
+{value:"andijan-uz",col: 72 ,name:"Andijan",display:"Andijan, Uzbekistan",country:"UZ"},
+
+
+
+{value:"andorra-la-vella-ad",col: 100 ,name:"Andorra la Vella",display:"Andorra la Vella, Andorra",country:"AD"},
 
 
 
@@ -542,6 +638,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"anna-regina-gy",col: 65 ,name:"Anna Regina",display:"Anna Regina, Guyana",country:"GY"},
+
+
+
+{value:"annaba-dz",col: 80 ,name:"Annaba",display:"Annaba, Algeria",country:"DZ"},
+
+
+
 {value:"annapolis-md",col: 125 ,name:"Annapolis",display:"Annapolis, MD, US",country:"US"},
 
 
@@ -554,6 +658,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"antananarivo-mg",col: 100 ,name:"Antananarivo",display:"Antananarivo, Madagascar",country:"MG"},
+
+
+
 {value:"antigua-guatemala-gt",col: 115 ,name:"Antigua Guatemala",display:"Antigua Guatemala, Guatemala",country:"GT"},
 
 
@@ -562,7 +670,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"antsirabe-mg",col: 72 ,name:"Antsirabe",display:"Antsirabe, Madagascar",country:"MG"},
+
+
+
+{value:"antsiranana-mg",col: 72 ,name:"Antsiranana",display:"Antsiranana, Madagascar",country:"MG"},
+
+
+
 {value:"antwerp-van",col: 105 ,name:"Antwerp",display:"Antwerp, Bélgica",country:"BE"},
+
+
+
+{value:"anuradhapura-lk",col: 65 ,name:"Anuradhapura",display:"Anuradhapura, Sri Lanka",country:"LK"},
 
 
 
@@ -574,11 +694,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"apia-ws",col: 100 ,name:"Apia",display:"Apia, Samoa",country:"WS"},
+
+
+
 {value:"apopa-sv",col: 85 ,name:"Apopa",display:"Apopa, El Salvador",country:"SV"},
 
 
 
 {value:"appleton-wi",col: 95 ,name:"Appleton",display:"Appleton, WI, US",country:"US"},
+
+
+
+{value:"aqaba-jo",col: 85 ,name:"Aqaba",display:"Aqaba, Jordan",country:"JO"},
 
 
 
@@ -590,7 +718,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"arak-ir",col: 72 ,name:"Arak",display:"Arak, Iran",country:"IR"},
+
+
+
 {value:"arba-minch-et",col: 78 ,name:"Arba Minch",display:"Arba Minch, Ethiopia",country:"ET"},
+
+
+
+{value:"ardabil-ir",col: 70 ,name:"Ardabil",display:"Ardabil, Iran",country:"IR"},
 
 
 
@@ -598,7 +734,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"ariana-tn",col: 85 ,name:"Ariana",display:"Ariana, Tunisia",country:"TN"},
+
+
+
 {value:"arica-cl",col: 98 ,name:"Arica",display:"Arica, Chile",country:"CL"},
+
+
+
+{value:"arima-tt",col: 78 ,name:"Arima",display:"Arima, Trinidad and Tobago",country:"TT"},
 
 
 
@@ -610,7 +754,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"arlit-ne",col: 62 ,name:"Arlit",display:"Arlit, Niger",country:"NE"},
+
+
+
 {value:"arlon-wlx",col: 88 ,name:"Arlon",display:"Arlon, Bélgica",country:"BE"},
+
+
+
+{value:"armavir-am",col: 60 ,name:"Armavir",display:"Armavir, Armenia",country:"AM"},
 
 
 
@@ -618,7 +770,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"arhiba-dj",col: 65 ,name:"Arta",display:"Arta, Djibouti",country:"DJ"},
+
+
+
+{value:"artashat-am",col: 60 ,name:"Artashat",display:"Artashat, Armenia",country:"AM"},
+
+
+
 {value:"artemisa-cu",col: 85 ,name:"Artemisa",display:"Artemisa, Cuba",country:"CU"},
+
+
+
+{value:"arak-ug",col: 68 ,name:"Arua",display:"Arua, Uganda",country:"UG"},
+
+
+
+{value:"arusha-tz",col: 88 ,name:"Arusha",display:"Arusha, Tanzania",country:"TZ"},
 
 
 
@@ -638,7 +806,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"ashgabat-tm",col: 100 ,name:"Ashgabat",display:"Ashgabat, Turkmenistan",country:"TM"},
+
+
+
+{value:"asmara-er",col: 100 ,name:"Asmara",display:"Asmara, Eritrea",country:"ER"},
+
+
+
+{value:"assab-er",col: 72 ,name:"Assab",display:"Assab, Eritrea",country:"ER"},
+
+
+
 {value:"assiut-eg",col: 74 ,name:"Assiut",display:"Assiut, Egypt",country:"EG"},
+
+
+
+{value:"assomada-cv",col: 65 ,name:"Assomada",display:"Assomada, Cabo Verde",country:"CV"},
 
 
 
@@ -655,6 +839,14 @@ var SALARY_CITIES = [
 
 
 {value:"aswan-eg",col: 80 ,name:"Aswan",display:"Aswan, Egypt",country:"EG"},
+
+
+
+{value:"atakpame-tg",col: 65 ,name:"Atakpame",display:"Atakpame, Togo",country:"TG"},
+
+
+
+{value:"atar-mr",col: 65 ,name:"Atar",display:"Atar, Mauritania",country:"MR"},
 
 
 
@@ -694,6 +886,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"auki-sb",col: 72 ,name:"Auki",display:"Auki, Solomon Islands",country:"SB"},
+
+
+
 {value:"aurangabad-mh",col: 85 ,name:"Aurangabad",display:"Aurangabad, India",country:"IN"},
 
 
@@ -718,6 +914,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"awiel-ss",col: 62 ,name:"Aweil",display:"Aweil, South Sudan",country:"SS"},
+
+
+
 {value:"ayacucho-pe",col: 85 ,name:"Ayacucho",display:"Ayacucho, Peru",country:"PE"},
 
 
@@ -731,6 +931,10 @@ var SALARY_CITIES = [
 
 
 {value:"azul-ba",col: 62 ,name:"Azul",display:"Azul, Argentina",country:"AR"},
+
+
+
+{value:"baalbek-lb",col: 65 ,name:"Baalbek",display:"Baalbek, Lebanon",country:"LB"},
 
 
 
@@ -754,6 +958,30 @@ var SALARY_CITIES = [
 
 
 
+{value:"badulla-lk",col: 62 ,name:"Badulla",display:"Badulla, Sri Lanka",country:"LK"},
+
+
+
+{value:"bafata-gw",col: 65 ,name:"Bafata",display:"Bafata, Guinea-Bissau",country:"GW"},
+
+
+
+{value:"bafoussam-cm",col: 70 ,name:"Bafoussam",display:"Bafoussam, Cameroon",country:"CM"},
+
+
+
+{value:"baghdad-iq",col: 100 ,name:"Baghdad",display:"Baghdad, Iraq",country:"IQ"},
+
+
+
+{value:"baghlan-af",col: 72 ,name:"Baghlan",display:"Baghlan, Afghanistan",country:"AF"},
+
+
+
+{value:"bago-mm",col: 72 ,name:"Bago",display:"Bago, Myanmar",country:"MM"},
+
+
+
 {value:"baguio-ph",col: 36 ,name:"Baguio",display:"Baguio, Philippines",country:"PH"},
 
 
@@ -774,11 +1002,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"baidoa-so",col: 65 ,name:"Baidoa",display:"Baidoa, Somalia",country:"SO"},
+
+
+
 {value:"bakersfield-ca",col: 102.5 ,name:"Bakersfield",display:"Bakersfield, CA, US",country:"US"},
 
 
 
-{value:"balikpapan-id",col: 49 ,name:"Balikpapan",display:"Balikpapan, ",country:"ID"},
+{value:"baku-az",col: 100 ,name:"Baku",display:"Baku, Azerbaijan",country:"AZ"},
+
+
+
+{value:"balikpapan-idn",col: 49 ,name:"Balikpapan",display:"Balikpapan, Indonesia",country:"IDN"},
+
+
+
+{value:"balkanabat-tm",col: 68 ,name:"Balkanabat",display:"Balkanabat, Turkmenistan",country:"TM"},
+
+
+
+{value:"balkh-af",col: 72 ,name:"Balkh",display:"Balkh, Afghanistan",country:"AF"},
 
 
 
@@ -786,11 +1030,39 @@ var SALARY_CITIES = [
 
 
 
+{value:"balti-md",col: 72 ,name:"Balti",display:"Balti, Moldova",country:"MD"},
+
+
+
 {value:"baltimore-md",col: 108.4 ,name:"Baltimore",display:"Baltimore, MD, US",country:"US"},
 
 
 
-{value:"bandung-id",col: 40 ,name:"Bandung",display:"Bandung, ",country:"ID"},
+{value:"bamako-ml",col: 100 ,name:"Bamako",display:"Bamako, Mali",country:"ML"},
+
+
+
+{value:"bambari-cf",col: 60 ,name:"Bambari",display:"Bambari, Central African Republic",country:"CF"},
+
+
+
+{value:"bamenda-cm",col: 72 ,name:"Bamenda",display:"Bamenda, Cameroon",country:"CM"},
+
+
+
+{value:"bandar-abbas-ir",col: 78 ,name:"Bandar Abbas",display:"Bandar Abbas, Iran",country:"IR"},
+
+
+
+{value:"bandar-seri-begawan-bn",col: 100 ,name:"Bandar Seri Begawan",display:"Bandar Seri Begawan, Brunei",country:"BN"},
+
+
+
+{value:"bandung-idn",col: 40 ,name:"Bandung",display:"Bandung, Indonesia",country:"IDN"},
+
+
+
+{value:"banfora-bf",col: 65 ,name:"Banfora",display:"Banfora, Burkina Faso",country:"BF"},
 
 
 
@@ -806,6 +1078,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"bangui-cf",col: 100 ,name:"Bangui",display:"Bangui, Central African Republic",country:"CF"},
+
+
+
 {value:"bani-do",col: 85 ,name:"Baní",display:"Baní, Dominican Republic",country:"DO"},
 
 
@@ -814,7 +1090,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"banjarmasin-id",col: 43 ,name:"Banjarmasin",display:"Banjarmasin, ",country:"ID"},
+{value:"banjarmasin-idn",col: 43 ,name:"Banjarmasin",display:"Banjarmasin, Indonesia",country:"IDN"},
+
+
+
+{value:"banjul-gm",col: 100 ,name:"Banjul",display:"Banjul, Gambia",country:"GM"},
 
 
 
@@ -830,11 +1110,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"baranovichi-by",col: 65 ,name:"Baranovichi",display:"Baranovichi, Belarus",country:"BY"},
+
+
+
 {value:"barcelona-cat",col: 110 ,name:"Barcelona",display:"Barcelona, España",country:"ES"},
 
 
 
 {value:"barcelona-ve",col: 90 ,name:"Barcelona",display:"Barcelona, Venezuela",country:"VE"},
+
+
+
+{value:"barentu-er",col: 60 ,name:"Barentu",display:"Barentu, Eritrea",country:"ER"},
 
 
 
@@ -870,15 +1158,59 @@ var SALARY_CITIES = [
 
 
 
+{value:"bartica-gy",col: 68 ,name:"Bartica",display:"Bartica, Guyana",country:"GY"},
+
+
+
 {value:"basel-bs",col: 120 ,name:"Basel",display:"Basel, Suiza",country:"CH"},
 
 
 
-{value:"batam-id",col: 42 ,name:"Batam",display:"Batam, ",country:"ID"},
+{value:"basra-iq",col: 88 ,name:"Basra",display:"Basra, Iraq",country:"IQ"},
+
+
+
+{value:"basse-santa-su-gm",col: 58 ,name:"Basse Santa Su",display:"Basse Santa Su, Gambia",country:"GM"},
+
+
+
+{value:"basseterre-kn",col: 100 ,name:"Basseterre",display:"Basseterre, Saint Kitts and Nevis",country:"KN"},
+
+
+
+{value:"bata-gq",col: 88 ,name:"Bata",display:"Bata, Equatorial Guinea",country:"GQ"},
+
+
+
+{value:"batam-idn",col: 42 ,name:"Batam",display:"Batam, Indonesia",country:"IDN"},
+
+
+
+{value:"batken-kg",col: 60 ,name:"Batken",display:"Batken, Kyrgyzstan",country:"KG"},
+
+
+
+{value:"batna-dz",col: 70 ,name:"Batna",display:"Batna, Algeria",country:"DZ"},
 
 
 
 {value:"baton-rouge-la",col: 94.5 ,name:"Baton Rouge",display:"Baton Rouge, LA, US",country:"US"},
+
+
+
+{value:"battambang-kh",col: 72 ,name:"Battambang",display:"Battambang, Cambodia",country:"KH"},
+
+
+
+{value:"batticaloa-lk",col: 68 ,name:"Batticaloa",display:"Batticaloa, Sri Lanka",country:"LK"},
+
+
+
+{value:"batumi-ge",col: 85 ,name:"Batumi",display:"Batumi, Georgia",country:"GE"},
+
+
+
+{value:"baucau-tl",col: 72 ,name:"Baucau",display:"Baucau, Timor-Leste",country:"TL"},
 
 
 
@@ -887,6 +1219,10 @@ var SALARY_CITIES = [
 
 
 {value:"bayamo-cu",col: 85 ,name:"Bayamo",display:"Bayamo, Cuba",country:"CU"},
+
+
+
+{value:"beau-bassin-mu",col: 88 ,name:"Beau Bassin-Rose Hill",display:"Beau Bassin-Rose Hill, Mauritius",country:"MU"},
 
 
 
@@ -906,7 +1242,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"beira-mz",col: 82 ,name:"Beira",display:"Beira, Mozambique",country:"MZ"},
+
+
+
+{value:"beirut-lb",col: 100 ,name:"Beirut",display:"Beirut, Lebanon",country:"LB"},
+
+
+
 {value:"beja-pt",col: 72 ,name:"Beja",display:"Beja, Portugal",country:"PT"},
+
+
+
+{value:"bejaia-dz",col: 72 ,name:"Béjaïa",display:"Béjaïa, Algeria",country:"DZ"},
 
 
 
@@ -926,6 +1274,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"belize-city-bz",col: 95 ,name:"Belize City",display:"Belize City, Belize",country:"BZ"},
+
+
+
 {value:"bellevue-ne",col: 92 ,name:"Bellevue",display:"Bellevue, NE, US",country:"US"},
 
 
@@ -938,6 +1290,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"belmopan-bz",col: 100 ,name:"Belmopan",display:"Belmopan, Belize",country:"BZ"},
+
+
+
 {value:"belo-horizonte-mg",col: 100 ,name:"Belo Horizonte",display:"Belo Horizonte, Brasil",country:"BR"},
 
 
@@ -946,7 +1302,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"bender-md",col: 65 ,name:"Bender",display:"Bender, Moldova",country:"MD"},
+
+
+
 {value:"bendigo-vic",col: 68 ,name:"Bendigo",display:"Bendigo, Australia",country:"AU"},
+
+
+
+{value:"benghazi-ly",col: 85 ,name:"Benghazi",display:"Benghazi, Libya",country:"LY"},
+
+
+
+{value:"benguela-ao",col: 78 ,name:"Benguela",display:"Benguela, Angola",country:"AO"},
 
 
 
@@ -958,11 +1326,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"bentiu-ss",col: 65 ,name:"Bentiu",display:"Bentiu, South Sudan",country:"SS"},
+
+
+
 {value:"bentonville-ar",col: 100 ,name:"Bentonville",display:"Bentonville, AR, US",country:"US"},
 
 
 
 {value:"berat-al",col: 48 ,name:"Berat",display:"Berat, Albania",country:"AL"},
+
+
+
+{value:"berbera-so",col: 72 ,name:"Berbera",display:"Berbera, Somalia",country:"SO"},
+
+
+
+{value:"berberati-cf",col: 65 ,name:"Berberati",display:"Berberati, Central African Republic",country:"CF"},
 
 
 
@@ -986,7 +1366,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"bertoua-cm",col: 62 ,name:"Bertoua",display:"Bertoua, Cameroon",country:"CM"},
+
+
+
 {value:"bethlehem-pa",col: 95 ,name:"Bethlehem",display:"Bethlehem, PA, US",country:"US"},
+
+
+
+{value:"bharatpur-np",col: 75 ,name:"Bharatpur",display:"Bharatpur, Nepal",country:"NP"},
 
 
 
@@ -1018,6 +1406,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"big-bend-sz",col: 72 ,name:"Big Bend",display:"Big Bend, Eswatini",country:"SZ"},
+
+
+
 {value:"bihac-ba",col: 63 ,name:"Bihać",display:"Bihać, Bosnia y Herzegovina",country:"BA"},
 
 
@@ -1034,11 +1426,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"bilma-ne",col: 55 ,name:"Bilma",display:"Bilma, Niger",country:"NE"},
+
+
+
 {value:"biloxi-ms",col: 90 ,name:"Biloxi",display:"Biloxi, MS, US",country:"US"},
 
 
 
+{value:"bimbo-cf",col: 72 ,name:"Bimbo",display:"Bimbo, Central African Republic",country:"CF"},
+
+
+
 {value:"binghamton-ny",col: 90 ,name:"Binghamton",display:"Binghamton, NY, US",country:"US"},
+
+
+
+{value:"birgunj-np",col: 72 ,name:"Birgunj",display:"Birgunj, Nepal",country:"NP"},
 
 
 
@@ -1058,11 +1462,31 @@ var SALARY_CITIES = [
 
 
 
+{value:"birtamod-np",col: 68 ,name:"Birtamod",display:"Birtamod, Nepal",country:"NP"},
+
+
+
+{value:"bishkek-kg",col: 100 ,name:"Bishkek",display:"Bishkek, Kyrgyzstan",country:"KG"},
+
+
+
+{value:"biskra-dz",col: 68 ,name:"Biskra",display:"Biskra, Algeria",country:"DZ"},
+
+
+
 {value:"bismarck-nd",col: 95 ,name:"Bismarck",display:"Bismarck, ND, US",country:"US"},
 
 
 
+{value:"bissau-gw",col: 100 ,name:"Bissau",display:"Bissau, Guinea-Bissau",country:"GW"},
+
+
+
 {value:"bitola-mk",col: 55 ,name:"Bitola",display:"Bitola, Macedonia del Norte",country:"MK"},
+
+
+
+{value:"bizerte-tn",col: 75 ,name:"Bizerte",display:"Bizerte, Tunisia",country:"TN"},
 
 
 
@@ -1071,6 +1495,14 @@ var SALARY_CITIES = [
 
 
 {value:"blagoevgrad-bl",col: 72 ,name:"Blagoevgrad",display:"Blagoevgrad, Bulgaria",country:"BG"},
+
+
+
+{value:"blantyre-mw",col: 95 ,name:"Blantyre",display:"Blantyre, Malawi",country:"MW"},
+
+
+
+{value:"blida-dz",col: 78 ,name:"Blida",display:"Blida, Algeria",country:"DZ"},
 
 
 
@@ -1094,7 +1526,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"bo-sl",col: 72 ,name:"Bo",display:"Bo, Sierra Leone",country:"SL"},
+
+
+
 {value:"boa-vista-rr",col: 87 ,name:"Boa Vista",display:"Boa Vista, Brasil",country:"BR"},
+
+
+
+{value:"bobo-dioulasso-bf",col: 82 ,name:"Bobo-Dioulasso",display:"Bobo-Dioulasso, Burkina Faso",country:"BF"},
+
+
+
+{value:"bobruisk-by",col: 65 ,name:"Bobruisk",display:"Bobruisk, Belarus",country:"BY"},
 
 
 
@@ -1118,7 +1562,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"bogor-id",col: 48 ,name:"Bogor",display:"Bogor, ",country:"ID"},
+{value:"bogor-idn",col: 48 ,name:"Bogor",display:"Bogor, Indonesia",country:"IDN"},
 
 
 
@@ -1134,6 +1578,18 @@ var SALARY_CITIES = [
 
 
 
+{value:"boke-gn",col: 65 ,name:"Boke",display:"Boke, Guinea",country:"GN"},
+
+
+
+{value:"bokhtar-tj",col: 65 ,name:"Bokhtar",display:"Bokhtar, Tajikistan",country:"TJ"},
+
+
+
+{value:"bolama-gw",col: 60 ,name:"Bolama",display:"Bolama, Guinea-Bissau",country:"GW"},
+
+
+
 {value:"bolgatanga-gh",col: 78 ,name:"Bolgatanga",display:"Bolgatanga, Ghana",country:"GH"},
 
 
@@ -1142,11 +1598,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"bondoukou-ci",col: 60 ,name:"Bondoukou",display:"Bondoukou, Côte d\u0027Ivoire",country:"CI"},
+
+
+
 {value:"bonn-nw",col: 100 ,name:"Bonn",display:"Bonn, Alemania",country:"DE"},
 
 
 
+{value:"bor-ss",col: 65 ,name:"Bor",display:"Bor, South Sudan",country:"SS"},
+
+
+
 {value:"boras-se",col: 95 ,name:"Borås",display:"Borås, Sweden",country:"SE"},
+
+
+
+{value:"bossangoa-cf",col: 58 ,name:"Bossangoa",display:"Bossangoa, Central African Republic",country:"CF"},
+
+
+
+{value:"bossaso-so",col: 75 ,name:"Bossaso",display:"Bossaso, Somalia",country:"SO"},
 
 
 
@@ -1159,6 +1631,14 @@ var SALARY_CITIES = [
 
 
 {value:"botosani-bt",col: 68 ,name:"Botoșani",display:"Botoșani, Rumania",country:"RO"},
+
+
+
+{value:"bouake-ci",col: 75 ,name:"Bouaké",display:"Bouaké, Côte d\u0027Ivoire",country:"CI"},
+
+
+
+{value:"bouar-cf",col: 60 ,name:"Bouar",display:"Bouar, Central African Republic",country:"CF"},
 
 
 
@@ -1198,6 +1678,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"brazzaville-cg",col: 100 ,name:"Brazzaville",display:"Brazzaville, Congo",country:"CG"},
+
+
+
 {value:"brcko-ba",col: 61 ,name:"Brčko",display:"Brčko, Bosnia y Herzegovina",country:"BA"},
 
 
@@ -1214,11 +1698,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"brest-by",col: 70 ,name:"Brest",display:"Brest, Belarus",country:"BY"},
+
+
+
 {value:"brest-bre",col: 85 ,name:"Brest",display:"Brest, Francia",country:"FR"},
 
 
 
+{value:"bria-cf",col: 55 ,name:"Bria",display:"Bria, Central African Republic",country:"CF"},
+
+
+
 {value:"bridgeport-ct",col: 118.5 ,name:"Bridgeport",display:"Bridgeport, CT, US",country:"US"},
+
+
+
+{value:"bridgetown-bb",col: 100 ,name:"Bridgetown",display:"Bridgetown, Barbados",country:"BB"},
+
+
+
+{value:"brikama-gm",col: 72 ,name:"Brikama",display:"Brikama, Gambia",country:"GM"},
 
 
 
@@ -1258,7 +1758,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"bubaque-gw",col: 62 ,name:"Bubaque",display:"Bubaque, Guinea-Bissau",country:"GW"},
+
+
+
 {value:"bucaramanga-co",col: 95 ,name:"Bucaramanga",display:"Bucaramanga, Colombia",country:"CO"},
+
+
+
+{value:"buchanan-lr",col: 68 ,name:"Buchanan",display:"Buchanan, Liberia",country:"LR"},
 
 
 
@@ -1274,11 +1782,31 @@ var SALARY_CITIES = [
 
 
 
+{value:"buea-cm",col: 72 ,name:"Buea",display:"Buea, Cameroon",country:"CM"},
+
+
+
 {value:"buenos-aires-caba",col: 100 ,name:"Buenos Aires",display:"Buenos Aires, Argentina",country:"AR"},
 
 
 
 {value:"buffalo-ny",col: 92.5 ,name:"Buffalo",display:"Buffalo, NY, US",country:"US"},
+
+
+
+{value:"bujumbura-bi",col: 100 ,name:"Bujumbura",display:"Bujumbura, Burundi",country:"BI"},
+
+
+
+{value:"bukhara-uz",col: 78 ,name:"Bukhara",display:"Bukhara, Uzbekistan",country:"UZ"},
+
+
+
+{value:"bukoba-tz",col: 68 ,name:"Bukoba",display:"Bukoba, Tanzania",country:"TZ"},
+
+
+
+{value:"bulawayo-zw",col: 85 ,name:"Bulawayo",display:"Bulawayo, Zimbabwe",country:"ZW"},
 
 
 
@@ -1322,11 +1850,31 @@ var SALARY_CITIES = [
 
 
 
+{value:"bururi-bi",col: 58 ,name:"Bururi",display:"Bururi, Burundi",country:"BI"},
+
+
+
 {value:"busan-kr",col: 82 ,name:"Busan",display:"Busan, Corea del Sur",country:"KR"},
 
 
 
+{value:"busia-ug",col: 65 ,name:"Busia",display:"Busia, Uganda",country:"UG"},
+
+
+
+{value:"butare-rw",col: 72 ,name:"Butare",display:"Butare, Rwanda",country:"RW"},
+
+
+
+{value:"butha-buthe-ls",col: 60 ,name:"Butha-Buthe",display:"Butha-Buthe, Lesotho",country:"LS"},
+
+
+
 {value:"butte-mt",col: 90 ,name:"Butte",display:"Butte, MT, US",country:"US"},
+
+
+
+{value:"butwal-np",col: 72 ,name:"Butwal",display:"Butwal, Nepal",country:"NP"},
 
 
 
@@ -1342,11 +1890,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"cabinda-ao",col: 72 ,name:"Cabinda",display:"Cabinda, Angola",country:"AO"},
+
+
+
 {value:"cabo-frio-rj",col: 98 ,name:"Cabo Frio",display:"Cabo Frio, Brasil",country:"BR"},
 
 
 
 {value:"cacak-rs",col: 65 ,name:"Čačak",display:"Čačak, Serbia",country:"RS"},
+
+
+
+{value:"cacheu-gw",col: 62 ,name:"Cacheu",display:"Cacheu, Guinea-Bissau",country:"GW"},
 
 
 
@@ -1363,6 +1919,10 @@ var SALARY_CITIES = [
 
 
 {value:"cagliari-sar",col: 85 ,name:"Cagliari",display:"Cagliari, Italia",country:"IT"},
+
+
+
+{value:"cahul-md",col: 62 ,name:"Cahul",display:"Cahul, Moldova",country:"MD"},
 
 
 
@@ -1446,6 +2006,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"cap-haitien-ht",col: 78 ,name:"Cap-Haitien",display:"Cap-Haitien, Haiti",country:"HT"},
+
+
+
 {value:"cape-coast-gh",col: 88 ,name:"Cape Coast",display:"Cape Coast, Ghana",country:"GH"},
 
 
@@ -1502,11 +2066,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"castries-lc",col: 100 ,name:"Castries",display:"Castries, Saint Lucia",country:"LC"},
+
+
+
 {value:"catacamas-hn",col: 80 ,name:"Catacamas",display:"Catacamas, Honduras",country:"HN"},
 
 
 
 {value:"catania-sic",col: 78 ,name:"Catania",display:"Catania, Italia",country:"IT"},
+
+
+
+{value:"cati-gw",col: 55 ,name:"Cati",display:"Cati, Guinea-Bissau",country:"GW"},
 
 
 
@@ -1547,6 +2119,10 @@ var SALARY_CITIES = [
 
 
 {value:"cetinje-me",col: 65 ,name:"Cetinje",display:"Cetinje, Montenegro",country:"ME"},
+
+
+
+{value:"chaguanas-tt",col: 82 ,name:"Chaguanas",display:"Chaguanas, Trinidad and Tobago",country:"TT"},
 
 
 
@@ -1698,7 +2274,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"chimoio-mz",col: 70 ,name:"Chimoio",display:"Chimoio, Mozambique",country:"MZ"},
+
+
+
 {value:"chinandega-ni",col: 88 ,name:"Chinandega",display:"Chinandega, Nicaragua",country:"NI"},
+
+
+
+{value:"chingola-zm",col: 75 ,name:"Chingola",display:"Chingola, Zambia",country:"ZM"},
+
+
+
+{value:"chipata-zm",col: 65 ,name:"Chipata",display:"Chipata, Zambia",country:"ZM"},
+
+
+
+{value:"chisinau-md",col: 100 ,name:"Chisinau",display:"Chisinau, Moldova",country:"MD"},
 
 
 
@@ -1707,6 +2299,14 @@ var SALARY_CITIES = [
 
 
 {value:"chittagong-bd",col: 95 ,name:"Chittagong",display:"Chittagong, Bangladesh",country:"BD"},
+
+
+
+{value:"chitungwiza-zw",col: 78 ,name:"Chitungwiza",display:"Chitungwiza, Zimbabwe",country:"ZW"},
+
+
+
+{value:"choibalsan-mn",col: 68 ,name:"Choibalsan",display:"Choibalsan, Mongolia",country:"MN"},
 
 
 
@@ -1826,6 +2426,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"colombo-lk",col: 100 ,name:"Colombo",display:"Colombo, Sri Lanka",country:"LK"},
+
+
+
 {value:"colon-pa",col: 100 ,name:"Colón",display:"Colón, Panama",country:"PA"},
 
 
@@ -1866,6 +2470,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"conakry-gn",col: 100 ,name:"Conakry",display:"Conakry, Guinea",country:"GN"},
+
+
+
 {value:"concepcion-cl",col: 100 ,name:"Concepción",display:"Concepción, Chile",country:"CL"},
 
 
@@ -1883,6 +2491,10 @@ var SALARY_CITIES = [
 
 
 {value:"constanta-ct",col: 88 ,name:"Constanța",display:"Constanța, Rumania",country:"RO"},
+
+
+
+{value:"constantine-dz",col: 82 ,name:"Constantine",display:"Constantine, Algeria",country:"DZ"},
 
 
 
@@ -1990,6 +2602,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"curepipe-mu",col: 85 ,name:"Curepipe",display:"Curepipe, Mauritius",country:"MU"},
+
+
+
 {value:"curitiba-pr",col: 105 ,name:"Curitiba",display:"Curitiba, Brasil",country:"BR"},
 
 
@@ -1999,6 +2615,10 @@ var SALARY_CITIES = [
 
 
 {value:"cuttack-or",col: 82 ,name:"Cuttack",display:"Cuttack, India",country:"IN"},
+
+
+
+{value:"cyangugu-rw",col: 65 ,name:"Cyangugu",display:"Cyangugu, Rwanda",country:"RW"},
 
 
 
@@ -2022,6 +2642,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"dakar-sn",col: 100 ,name:"Dakar",display:"Dakar, Senegal",country:"SN"},
+
+
+
 {value:"dalian-ln",col: 108 ,name:"Dalian",display:"Dalian, China",country:"CN"},
 
 
@@ -2030,11 +2654,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"daloa-ci",col: 68 ,name:"Daloa",display:"Daloa, Côte d\u0027Ivoire",country:"CI"},
+
+
+
 {value:"daman-dn",col: 90 ,name:"Daman",display:"Daman, India",country:"IN"},
 
 
 
 {value:"damanhur-eg",col: 72 ,name:"Damanhur",display:"Damanhur, Egypt",country:"EG"},
+
+
+
+{value:"damascus-sy",col: 100 ,name:"Damascus",display:"Damascus, Syria",country:"SY"},
+
+
+
+{value:"damazin-sd",col: 65 ,name:"Damazin",display:"Damazin, Sudan",country:"SD"},
 
 
 
@@ -2054,7 +2690,31 @@ var SALARY_CITIES = [
 
 
 
+{value:"dapaong-tg",col: 60 ,name:"Dapaong",display:"Dapaong, Togo",country:"TG"},
+
+
+
+{value:"dar-es-salaam-tz",col: 100 ,name:"Dar es Salaam",display:"Dar es Salaam, Tanzania",country:"TZ"},
+
+
+
+{value:"daraa-sy",col: 65 ,name:"Daraa",display:"Daraa, Syria",country:"SY"},
+
+
+
+{value:"darkhan-mn",col: 75 ,name:"Darkhan",display:"Darkhan, Mongolia",country:"MN"},
+
+
+
+{value:"daru-pg",col: 65 ,name:"Daru",display:"Daru, Papua New Guinea",country:"PG"},
+
+
+
 {value:"darwin-nt",col: 78 ,name:"Darwin",display:"Darwin, Australia",country:"AU"},
+
+
+
+{value:"dashoguz-tm",col: 70 ,name:"Dashoguz",display:"Dashoguz, Turkmenistan",country:"TM"},
 
 
 
@@ -2075,6 +2735,10 @@ var SALARY_CITIES = [
 
 
 {value:"davos-gr",col: 120 ,name:"Davos",display:"Davos, Suiza",country:"CH"},
+
+
+
+{value:"dawei-mm",col: 72 ,name:"Dawei",display:"Dawei, Myanmar",country:"MM"},
 
 
 
@@ -2106,7 +2770,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"dedougou-bf",col: 58 ,name:"Dédougou",display:"Dédougou, Burkina Faso",country:"BF"},
+
+
+
+{value:"dedza-mw",col: 60 ,name:"Dedza",display:"Dedza, Malawi",country:"MW"},
+
+
+
 {value:"dehradun-uk",col: 95 ,name:"Dehradun",display:"Dehradun, India",country:"IN"},
+
+
+
+{value:"deir-ez-zor-sy",col: 65 ,name:"Deir ez-Zor",display:"Deir ez-Zor, Syria",country:"SY"},
 
 
 
@@ -2130,11 +2806,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"bali-id",col: 45 ,name:"Denpasar",display:"Denpasar, ",country:"ID"},
+{value:"bali-idn",col: 45 ,name:"Denpasar",display:"Denpasar, Indonesia",country:"IDN"},
 
 
 
-{value:"denpasar-id",col: 50 ,name:"Denpasar",display:"Denpasar, ",country:"ID"},
+{value:"denpasar-idn",col: 50 ,name:"Denpasar",display:"Denpasar, Indonesia",country:"IDN"},
 
 
 
@@ -2166,11 +2842,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"dhamar-ye",col: 68 ,name:"Dhamar",display:"Dhamar, Yemen",country:"YE"},
+
+
+
+{value:"dharan-np",col: 70 ,name:"Dharan",display:"Dharan, Nepal",country:"NP"},
+
+
+
 {value:"dibba-al-hisn-ae",col: 60 ,name:"Dibba Al-Hisn",display:"Dibba Al-Hisn, United Arab Emirates",country:"AE"},
 
 
 
 {value:"diekirch-di",col: 103 ,name:"Diekirch",display:"Diekirch, Luxemburgo",country:"LU"},
+
+
+
+{value:"diffa-ne",col: 58 ,name:"Diffa",display:"Diffa, Niger",country:"NE"},
 
 
 
@@ -2182,7 +2870,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"dikhil-dj",col: 62 ,name:"Dikhil",display:"Dikhil, Djibouti",country:"DJ"},
+
+
+
+{value:"dili-tl",col: 100 ,name:"Dili",display:"Dili, Timor-Leste",country:"TL"},
+
+
+
+{value:"dimbokro-ci",col: 62 ,name:"Dimbokro",display:"Dimbokro, Côte d\u0027Ivoire",country:"CI"},
+
+
+
 {value:"dinant-wna",col: 92 ,name:"Dinant",display:"Dinant, Bélgica",country:"BE"},
+
+
+
+{value:"diourbel-sn",col: 62 ,name:"Diourbel",display:"Diourbel, Senegal",country:"SN"},
 
 
 
@@ -2194,6 +2898,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"djelfa-dz",col: 65 ,name:"Djelfa",display:"Djelfa, Algeria",country:"DZ"},
+
+
+
+{value:"djibouti-city-dj",col: 100 ,name:"Djibouti City",display:"Djibouti City, Djibouti",country:"DJ"},
+
+
+
 {value:"dnipro-ua",col: 88 ,name:"Dnipro",display:"Dnipro, Ukraine",country:"UA"},
 
 
@@ -2202,11 +2914,35 @@ var SALARY_CITIES = [
 
 
 
+{value:"dodoma-tz",col: 78 ,name:"Dodoma",display:"Dodoma, Tanzania",country:"TZ"},
+
+
+
 {value:"doha-qa",col: 120 ,name:"Doha",display:"Doha, Qatar",country:"QA"},
 
 
 
+{value:"dohuk-iq",col: 78 ,name:"Dohuk",display:"Dohuk, Iraq",country:"IQ"},
+
+
+
+{value:"dolisie-cg",col: 72 ,name:"Dolisie",display:"Dolisie, Congo",country:"CG"},
+
+
+
+{value:"domoni-km",col: 68 ,name:"Domoni",display:"Domoni, Comoros",country:"KM"},
+
+
+
 {value:"dongguan-gd",col: 108 ,name:"Dongguan",display:"Dongguan, China",country:"CN"},
+
+
+
+{value:"dongola-sd",col: 65 ,name:"Dongola",display:"Dongola, Sudan",country:"SD"},
+
+
+
+{value:"dori-bf",col: 55 ,name:"Dori",display:"Dori, Burkina Faso",country:"BF"},
 
 
 
@@ -2218,7 +2954,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"dosso-ne",col: 60 ,name:"Dosso",display:"Dosso, Niger",country:"NE"},
+
+
+
 {value:"dothan-al",col: 85 ,name:"Dothan",display:"Dothan, AL, US",country:"US"},
+
+
+
+{value:"douala-cm",col: 100 ,name:"Douala",display:"Douala, Cameroon",country:"CM"},
 
 
 
@@ -2306,6 +3050,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"dushanbe-tj",col: 100 ,name:"Dushanbe",display:"Dushanbe, Tajikistan",country:"TJ"},
+
+
+
 {value:"duesseldorf-nw",col: 110 ,name:"Düsseldorf",display:"Düsseldorf, Alemania",country:"DE"},
 
 
@@ -2318,7 +3066,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"ebebiyin-gq",col: 72 ,name:"Ebebiyin",display:"Ebebiyin, Equatorial Guinea",country:"GQ"},
+
+
+
 {value:"echternach-ec",col: 102 ,name:"Echternach",display:"Echternach, Luxemburgo",country:"LU"},
+
+
+
+{value:"ed-daein-sd",col: 62 ,name:"Ed Daein",display:"Ed Daein, Sudan",country:"SD"},
+
+
+
+{value:"edea-cm",col: 68 ,name:"Edéa",display:"Edéa, Cameroon",country:"CM"},
 
 
 
@@ -2362,7 +3122,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"el-fasher-sd",col: 65 ,name:"El Fasher",display:"El Fasher, Sudan",country:"SD"},
+
+
+
+{value:"el-gadarif-sd",col: 68 ,name:"El Gadarif",display:"El Gadarif, Sudan",country:"SD"},
+
+
+
 {value:"el-jadida-ma",col: 76 ,name:"El Jadida",display:"El Jadida, Morocco",country:"MA"},
+
+
+
+{value:"el-obeid-sd",col: 68 ,name:"El Obeid",display:"El Obeid, Sudan",country:"SD"},
 
 
 
@@ -2410,7 +3182,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"entebbe-ug",col: 85 ,name:"Entebbe",display:"Entebbe, Uganda",country:"UG"},
+
+
+
 {value:"enugu-en",col: 82 ,name:"Enugu",display:"Enugu, Nigeria",country:"NG"},
+
+
+
+{value:"erbil-iq",col: 90 ,name:"Erbil",display:"Erbil, Iraq",country:"IQ"},
+
+
+
+{value:"erdener-mn",col: 78 ,name:"Erdenet",display:"Erdenet, Mongolia",country:"MN"},
 
 
 
@@ -2490,11 +3274,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"evinayong-gq",col: 65 ,name:"Evinayong",display:"Evinayong, Equatorial Guinea",country:"GQ"},
+
+
+
 {value:"evora-pt",col: 80 ,name:"Évora",display:"Évora, Portugal",country:"PT"},
 
 
 
 {value:"exeter-gb",col: 108 ,name:"Exeter",display:"Exeter, Reino Unido",country:"GB"},
+
+
+
+{value:"fada-ngourma-bf",col: 58 ,name:"Fada N\u0027Gourma",display:"Fada N\u0027Gourma, Burkina Faso",country:"BF"},
 
 
 
@@ -2518,11 +3310,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"faraffenni-gm",col: 60 ,name:"Farafenni",display:"Farafenni, Gambia",country:"GM"},
+
+
+
 {value:"fargo-nd",col: 90.5 ,name:"Fargo",display:"Fargo, ND, US",country:"US"},
 
 
 
 {value:"faridabad-hr",col: 100 ,name:"Faridabad",display:"Faridabad, India",country:"IN"},
+
+
+
+{value:"farim-gw",col: 55 ,name:"Farim",display:"Farim, Guinea-Bissau",country:"GW"},
 
 
 
@@ -2546,11 +3346,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"fayzabad-af",col: 68 ,name:"Fayzabad",display:"Fayzabad, Afghanistan",country:"AF"},
+
+
+
 {value:"feira-de-santana-ba",col: 86 ,name:"Feira de Santana",display:"Feira de Santana, Brasil",country:"BR"},
 
 
 
 {value:"feldkirch-vb",col: 95 ,name:"Feldkirch",display:"Feldkirch, Austria",country:"AT"},
+
+
+
+{value:"fergana-uz",col: 70 ,name:"Fergana",display:"Fergana, Uzbekistan",country:"UZ"},
 
 
 
@@ -2563,6 +3371,10 @@ var SALARY_CITIES = [
 
 
 {value:"fes-ma",col: 85 ,name:"Fes",display:"Fes, Morocco",country:"MA"},
+
+
+
+{value:"fianarantsoa-mg",col: 70 ,name:"Fianarantsoa",display:"Fianarantsoa, Madagascar",country:"MG"},
 
 
 
@@ -2598,6 +3410,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"fomboni-km",col: 72 ,name:"Fomboni",display:"Fomboni, Comoros",country:"KM"},
+
+
+
 {value:"formosa-fsa",col: 60 ,name:"Formosa",display:"Formosa, Argentina",country:"AR"},
 
 
@@ -2607,6 +3423,10 @@ var SALARY_CITIES = [
 
 
 {value:"fort-lauderdale-fl",col: 120 ,name:"Fort Lauderdale",display:"Fort Lauderdale, FL, US",country:"US"},
+
+
+
+{value:"fort-portal-ug",col: 72 ,name:"Fort Portal",display:"Fort Portal, Uganda",country:"UG"},
 
 
 
@@ -2634,6 +3454,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"franceville-ga",col: 78 ,name:"Franceville",display:"Franceville, Gabon",country:"GA"},
+
+
+
+{value:"francistown-bw",col: 82 ,name:"Francistown",display:"Francistown, Botswana",country:"BW"},
+
+
+
 {value:"frankfurt-he",col: 115 ,name:"Frankfurt",display:"Frankfurt, Alemania",country:"DE"},
 
 
@@ -2647,6 +3475,10 @@ var SALARY_CITIES = [
 
 
 {value:"fredrikstad-no",col: 108 ,name:"Fredrikstad",display:"Fredrikstad, Norway",country:"NO"},
+
+
+
+{value:"freetown-sl",col: 100 ,name:"Freetown",display:"Freetown, Sierra Leone",country:"SL"},
 
 
 
@@ -2702,7 +3534,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"funafuti-tv",col: 100 ,name:"Funafuti",display:"Funafuti, Tuvalu",country:"TV"},
+
+
+
 {value:"funchal-pt",col: 88 ,name:"Funchal",display:"Funchal, Portugal",country:"PT"},
+
+
+
+{value:"fuvahmulah-mv",col: 75 ,name:"Fuvahmulah",display:"Fuvahmulah, Maldives",country:"MV"},
 
 
 
@@ -2710,7 +3550,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"gabes-tn",col: 68 ,name:"Gabes",display:"Gabes, Tunisia",country:"TN"},
+
+
+
+{value:"gaborone-bw",col: 100 ,name:"Gaborone",display:"Gaborone, Botswana",country:"BW"},
+
+
+
 {value:"gabrovo-gb",col: 70 ,name:"Gabrovo",display:"Gabrovo, Bulgaria",country:"BG"},
+
+
+
+{value:"gabu-gw",col: 62 ,name:"Gabu",display:"Gabu, Guinea-Bissau",country:"GW"},
+
+
+
+{value:"gagnoa-ci",col: 65 ,name:"Gagnoa",display:"Gagnoa, Côte d\u0027Ivoire",country:"CI"},
 
 
 
@@ -2726,6 +3582,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"galle-lk",col: 78 ,name:"Galle",display:"Galle, Sri Lanka",country:"LK"},
+
+
+
 {value:"galway-g",col: 105 ,name:"Galway",display:"Galway, Irlanda",country:"IE"},
 
 
@@ -2738,7 +3598,35 @@ var SALARY_CITIES = [
 
 
 
+{value:"ganja-az",col: 72 ,name:"Ganja",display:"Ganja, Azerbaijan",country:"AZ"},
+
+
+
+{value:"ganta-lr",col: 65 ,name:"Ganta",display:"Ganta, Liberia",country:"LR"},
+
+
+
+{value:"gao-ml",col: 58 ,name:"Gao",display:"Gao, Mali",country:"ML"},
+
+
+
+{value:"gaoua-bf",col: 55 ,name:"Gaoua",display:"Gaoua, Burkina Faso",country:"BF"},
+
+
+
+{value:"gardez-af",col: 68 ,name:"Gardez",display:"Gardez, Afghanistan",country:"AF"},
+
+
+
 {value:"garland-tx",col: 96.5 ,name:"Garland",display:"Garland, TX, US",country:"US"},
+
+
+
+{value:"garoua-cm",col: 68 ,name:"Garoua",display:"Garoua, Cameroon",country:"CM"},
+
+
+
+{value:"garowe-so",col: 68 ,name:"Garowe",display:"Garowe, Somalia",country:"SO"},
 
 
 
@@ -2750,6 +3638,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"gaya-ne",col: 58 ,name:"Gaya",display:"Gaya, Niger",country:"NE"},
+
+
+
 {value:"gaziantep-tr",col: 85 ,name:"Gaziantep",display:"Gaziantep, Turkey",country:"TR"},
 
 
@@ -2758,11 +3650,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"gbarnga-lr",col: 62 ,name:"Gbarnga",display:"Gbarnga, Liberia",country:"LR"},
+
+
+
 {value:"gdansk-pm",col: 100 ,name:"Gdańsk",display:"Gdańsk, Polonia",country:"PL"},
 
 
 
 {value:"geelong-vic",col: 75 ,name:"Geelong",display:"Geelong, Australia",country:"AU"},
+
+
+
+{value:"geneina-sd",col: 65 ,name:"Geneina",display:"Geneina, Sudan",country:"SD"},
 
 
 
@@ -2790,6 +3690,22 @@ var SALARY_CITIES = [
 
 
 
+{value:"georgetown-gm",col: 58 ,name:"Georgetown",display:"Georgetown, Gambia",country:"GM"},
+
+
+
+{value:"georgetown-gy",col: 100 ,name:"Georgetown",display:"Georgetown, Guyana",country:"GY"},
+
+
+
+{value:"gharyan-ly",col: 65 ,name:"Gharyan",display:"Gharyan, Libya",country:"LY"},
+
+
+
+{value:"ghazni-af",col: 70 ,name:"Ghazni",display:"Ghazni, Afghanistan",country:"AF"},
+
+
+
 {value:"ghent-vov",col: 100 ,name:"Ghent",display:"Ghent, Bélgica",country:"BE"},
 
 
@@ -2814,7 +3730,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"gisenyi-rw",col: 70 ,name:"Gisenyi",display:"Gisenyi, Rwanda",country:"RW"},
+
+
+
+{value:"gitega-bi",col: 75 ,name:"Gitega",display:"Gitega, Burundi",country:"BI"},
+
+
+
 {value:"giza-eg",col: 98 ,name:"Giza",display:"Giza, Egypt",country:"EG"},
+
+
+
+{value:"gizo-sb",col: 82 ,name:"Gizo",display:"Gizo, Solomon Islands",country:"SB"},
 
 
 
@@ -2854,7 +3782,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"gomel-by",col: 75 ,name:"Gomel",display:"Gomel, Belarus",country:"BY"},
+
+
+
+{value:"gonaiives-ht",col: 65 ,name:"Gonaives",display:"Gonaives, Haiti",country:"HT"},
+
+
+
 {value:"gondar-et",col: 82 ,name:"Gondar",display:"Gondar, Ethiopia",country:"ET"},
+
+
+
+{value:"gori-ge",col: 65 ,name:"Gori",display:"Gori, Georgia",country:"GE"},
+
+
+
+{value:"goroka-pg",col: 72 ,name:"Goroka",display:"Goroka, Papua New Guinea",country:"PG"},
 
 
 
@@ -2946,7 +3890,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"grodno-by",col: 72 ,name:"Grodno",display:"Grodno, Belarus",country:"BY"},
+
+
+
 {value:"groningen-nl",col: 71 ,name:"Groninga",display:"Groninga, Países Bajos",country:"NL"},
+
+
+
+{value:"groningen-sr",col: 62 ,name:"Groningen",display:"Groningen, Suriname",country:"SR"},
+
+
+
+{value:"grootfontein-na",col: 65 ,name:"Grootfontein",display:"Grootfontein, Namibia",country:"NA"},
 
 
 
@@ -3010,6 +3966,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"gulu-ug",col: 75 ,name:"Gulu",display:"Gulu, Uganda",country:"UG"},
+
+
+
 {value:"gurugram-hr",col: 125 ,name:"Gurugram",display:"Gurugram, India",country:"IN"},
 
 
@@ -3026,7 +3986,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"gweru-zw",col: 68 ,name:"Gweru",display:"Gweru, Zimbabwe",country:"ZW"},
+
+
+
 {value:"gyor-gs",col: 88 ,name:"Győr",display:"Győr, Hungría",country:"HU"},
+
+
+
+{value:"gyumri-am",col: 72 ,name:"Gyumri",display:"Gyumri, Armenia",country:"AM"},
 
 
 
@@ -3054,6 +4022,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"hajjah-ye",col: 65 ,name:"Hajjah",display:"Hajjah, Yemen",country:"YE"},
+
+
+
 {value:"hakodate-hkd",col: 87 ,name:"Hakodate",display:"Hakodate, Japón",country:"JP"},
 
 
@@ -3074,6 +4046,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"hama-sy",col: 75 ,name:"Hama",display:"Hama, Syria",country:"SY"},
+
+
+
+{value:"hamad-town-bh",col: 78 ,name:"Hamad Town",display:"Hamad Town, Bahrain",country:"BH"},
+
+
+
 {value:"hamamatsu-szo",col: 95 ,name:"Hamamatsu",display:"Hamamatsu, Japón",country:"JP"},
 
 
@@ -3083,6 +4063,10 @@ var SALARY_CITIES = [
 
 
 {value:"hamburg-hh",col: 108 ,name:"Hamburg",display:"Hamburg, Alemania",country:"DE"},
+
+
+
+{value:"hamedan-ir",col: 70 ,name:"Hamedan",display:"Hamedan, Iran",country:"IR"},
 
 
 
@@ -3122,7 +4106,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"harare-zw",col: 100 ,name:"Harare",display:"Harare, Zimbabwe",country:"ZW"},
+
+
+
 {value:"harbin-hl",col: 95 ,name:"Harbin",display:"Harbin, China",country:"CN"},
+
+
+
+{value:"hargeisa-so",col: 85 ,name:"Hargeisa",display:"Hargeisa, Somalia",country:"SO"},
+
+
+
+{value:"harper-lr",col: 60 ,name:"Harper",display:"Harper, Liberia",country:"LR"},
 
 
 
@@ -3135,6 +4131,10 @@ var SALARY_CITIES = [
 
 
 {value:"hartford-ct",col: 105 ,name:"Hartford",display:"Hartford, CT, US",country:"US"},
+
+
+
+{value:"hasakah-sy",col: 62 ,name:"Hasakah",display:"Hasakah, Syria",country:"SY"},
 
 
 
@@ -3194,6 +4194,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"herat-af",col: 88 ,name:"Herat",display:"Herat, Afghanistan",country:"AF"},
+
+
+
 {value:"herceg-novi-me",col: 68 ,name:"Herceg Novi",display:"Herceg Novi, Montenegro",country:"ME"},
 
 
@@ -3214,6 +4218,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"hetauda-np",col: 70 ,name:"Hetauda",display:"Hetauda, Nepal",country:"NP"},
+
+
+
 {value:"hialeah-fl",col: 108.5 ,name:"Hialeah",display:"Hialeah, FL, US",country:"US"},
 
 
@@ -3226,6 +4234,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"hillah-iq",col: 75 ,name:"Hillah",display:"Hillah, Iraq",country:"IQ"},
+
+
+
 {value:"hillerod-dk",col: 105 ,name:"Hillerød",display:"Hillerød, Denmark",country:"DK"},
 
 
@@ -3235,6 +4247,10 @@ var SALARY_CITIES = [
 
 
 {value:"himeji-hyg",col: 90 ,name:"Himeji",display:"Himeji, Japón",country:"JP"},
+
+
+
+{value:"hinche-ht",col: 60 ,name:"Hinche",display:"Hinche, Haiti",country:"HT"},
 
 
 
@@ -3251,6 +4267,10 @@ var SALARY_CITIES = [
 
 
 {value:"hobart-tas",col: 76 ,name:"Hobart",display:"Hobart, Australia",country:"AU"},
+
+
+
+{value:"hodeidah-ye",col: 75 ,name:"Hodeidah",display:"Hodeidah, Yemen",country:"YE"},
 
 
 
@@ -3282,7 +4302,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"homs-sy",col: 78 ,name:"Homs",display:"Homs, Syria",country:"SY"},
+
+
+
 {value:"hong-kong-hk",col: 130 ,name:"Hong Kong",display:"Hong Kong, Hong Kong",country:"HK"},
+
+
+
+{value:"honiara-sb",col: 100 ,name:"Honiara",display:"Honiara, Solomon Islands",country:"SB"},
 
 
 
@@ -3298,7 +4326,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"hpa-an-mm",col: 68 ,name:"Hpa-An",display:"Hpa-An, Myanmar",country:"MM"},
+
+
+
 {value:"hradec-kralove-cz",col: 90 ,name:"Hradec Králové",display:"Hradec Králové, República Checa",country:"CZ"},
+
+
+
+{value:"hrazdan-am",col: 62 ,name:"Hrazdan",display:"Hrazdan, Armenia",country:"AM"},
 
 
 
@@ -3307,6 +4343,10 @@ var SALARY_CITIES = [
 
 
 {value:"hua-hin-th",col: 48 ,name:"Hua Hin",display:"Hua Hin, Thailand",country:"TH"},
+
+
+
+{value:"huambo-ao",col: 75 ,name:"Huambo",display:"Huambo, Angola",country:"AO"},
 
 
 
@@ -3382,6 +4422,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"ibb-ye",col: 72 ,name:"Ibb",display:"Ibb, Yemen",country:"YE"},
+
+
+
 {value:"ibri-om",col: 85 ,name:"Ibri",display:"Ibri, Oman",country:"OM"},
 
 
@@ -3394,6 +4438,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"idlib-sy",col: 65 ,name:"Idlib",display:"Idlib, Syria",country:"SY"},
+
+
+
 {value:"ilheus-ba",col: 86 ,name:"Ilhéus",display:"Ilhéus, Brasil",country:"BR"},
 
 
@@ -3403,6 +4451,10 @@ var SALARY_CITIES = [
 
 
 {value:"ilorin-kw",col: 78 ,name:"Ilorin",display:"Ilorin, Nigeria",country:"NG"},
+
+
+
+{value:"impfondo-cg",col: 58 ,name:"Impfondo",display:"Impfondo, Congo",country:"CG"},
 
 
 
@@ -3423,6 +4475,10 @@ var SALARY_CITIES = [
 
 
 {value:"indore-mp",col: 88 ,name:"Indore",display:"Indore, India",country:"IN"},
+
+
+
+{value:"inhambane-mz",col: 68 ,name:"Inhambane",display:"Inhambane, Mozambique",country:"MZ"},
 
 
 
@@ -3454,6 +4510,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"irbid-jo",col: 75 ,name:"Irbid",display:"Irbid, Jordan",country:"JO"},
+
+
+
+{value:"iringa-tz",col: 70 ,name:"Iringa",display:"Iringa, Tanzania",country:"TZ"},
+
+
+
 {value:"irkutsk-irk",col: 88 ,name:"Irkutsk",display:"Irkutsk, Russia",country:"RU"},
 
 
@@ -3466,7 +4530,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"isa-town-bh",col: 80 ,name:"Isa Town",display:"Isa Town, Bahrain",country:"BH"},
+
+
+
 {value:"isafjordur-is",col: 87 ,name:"Ísafjörður",display:"Ísafjörður, Iceland",country:"IS"},
+
+
+
+{value:"isfahan-ir",col: 88 ,name:"Isfahan",display:"Isfahan, Iran",country:"IR"},
 
 
 
@@ -3479,6 +4551,10 @@ var SALARY_CITIES = [
 
 
 {value:"istanbul-tr",col: 110 ,name:"Istanbul",display:"Istanbul, Turkey",country:"TR"},
+
+
+
+{value:"istravshan-tj",col: 62 ,name:"Istaravshan",display:"Istaravshan, Tajikistan",country:"TJ"},
 
 
 
@@ -3495,6 +4571,10 @@ var SALARY_CITIES = [
 
 
 {value:"ithaca-ny",col: 110 ,name:"Ithaca",display:"Ithaca, NY, US",country:"US"},
+
+
+
+{value:"itsandra-km",col: 72 ,name:"Itsandra",display:"Itsandra, Comoros",country:"KM"},
 
 
 
@@ -3534,6 +4614,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"jacmel-ht",col: 72 ,name:"Jacmel",display:"Jacmel, Haiti",country:"HT"},
+
+
+
+{value:"jaffna-lk",col: 72 ,name:"Jaffna",display:"Jaffna, Sri Lanka",country:"LK"},
+
+
+
 {value:"jahra-kw",col: 105 ,name:"Jahra",display:"Jahra, Kuwait",country:"KW"},
 
 
@@ -3542,7 +4630,15 @@ var SALARY_CITIES = [
 
 
 
-{value:"jakarta-id",col: 55 ,name:"Jakarta",display:"Jakarta, ",country:"ID"},
+{value:"jakarta-idn",col: 55 ,name:"Jakarta",display:"Jakarta, Indonesia",country:"IDN"},
+
+
+
+{value:"jalal-abad-kg",col: 68 ,name:"Jalal-Abad",display:"Jalal-Abad, Kyrgyzstan",country:"KG"},
+
+
+
+{value:"jalalabad-af",col: 78 ,name:"Jalalabad",display:"Jalalabad, Afghanistan",country:"AF"},
 
 
 
@@ -3555,6 +4651,10 @@ var SALARY_CITIES = [
 
 
 {value:"jamshedpur-jh",col: 85 ,name:"Jamshedpur",display:"Jamshedpur, India",country:"IN"},
+
+
+
+{value:"janakpur-np",col: 68 ,name:"Janakpur",display:"Janakpur, Nepal",country:"NP"},
 
 
 
@@ -3590,6 +4690,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"jeremie-ht",col: 62 ,name:"Jeremie",display:"Jeremie, Haiti",country:"HT"},
+
+
+
 {value:"jersey-city-nj",col: 142.5 ,name:"Jersey City",display:"Jersey City, NJ, US",country:"US"},
 
 
@@ -3618,7 +4722,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"jinja-ug",col: 78 ,name:"Jinja",display:"Jinja, Uganda",country:"UG"},
+
+
+
 {value:"jinotega-ni",col: 85 ,name:"Jinotega",display:"Jinotega, Nicaragua",country:"NI"},
+
+
+
+{value:"jizzakh-uz",col: 68 ,name:"Jizzakh",display:"Jizzakh, Uzbekistan",country:"UZ"},
 
 
 
@@ -3654,6 +4766,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"jounieh-lb",col: 82 ,name:"Jounieh",display:"Jounieh, Lebanon",country:"LB"},
+
+
+
+{value:"juba-ss",col: 100 ,name:"Juba",display:"Juba, South Sudan",country:"SS"},
+
+
+
 {value:"jubail",col: 100 ,name:"Jubail",display:"Jubail, Saudi Arabia",country:"SA"},
 
 
@@ -3686,7 +4806,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"kabale-ug",col: 68 ,name:"Kabale",display:"Kabale, Uganda",country:"UG"},
+
+
+
+{value:"kabul-af",col: 100 ,name:"Kabul",display:"Kabul, Afghanistan",country:"AF"},
+
+
+
+{value:"kabwe-zm",col: 72 ,name:"Kabwe",display:"Kabwe, Zambia",country:"ZM"},
+
+
+
 {value:"kaduna-kd",col: 78 ,name:"Kaduna",display:"Kaduna, Nigeria",country:"NG"},
+
+
+
+{value:"kaedi-mr",col: 62 ,name:"Kaedi",display:"Kaedi, Mauritania",country:"MR"},
 
 
 
@@ -3694,11 +4830,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"kailahun-sl",col: 58 ,name:"Kailahun",display:"Kailahun, Sierra Leone",country:"SL"},
+
+
+
 {value:"kailua-kona-hi",col: 180 ,name:"Kailua-Kona",display:"Kailua-Kona, HI, US",country:"US"},
 
 
 
+{value:"kairouan-tn",col: 72 ,name:"Kairouan",display:"Kairouan, Tunisia",country:"TN"},
+
+
+
 {value:"kajaani-fi",col: 90 ,name:"Kajaani",display:"Kajaani, Finland",country:"FI"},
+
+
+
+{value:"kakata-lr",col: 60 ,name:"Kakata",display:"Kakata, Liberia",country:"LR"},
 
 
 
@@ -3718,7 +4866,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"kambia-sl",col: 58 ,name:"Kambia",display:"Kambia, Sierra Leone",country:"SL"},
+
+
+
 {value:"kamenica-xk",col: 44 ,name:"Kamenica",display:"Kamenica, Kosovo",country:"XK"},
+
+
+
+{value:"kampala-ug",col: 100 ,name:"Kampala",display:"Kampala, Uganda",country:"UG"},
+
+
+
+{value:"kampot-kh",col: 68 ,name:"Kampot",display:"Kampot, Cambodia",country:"KH"},
 
 
 
@@ -3727,6 +4887,22 @@ var SALARY_CITIES = [
 
 
 {value:"kanchanaburi-th",col: 38 ,name:"Kanchanaburi",display:"Kanchanaburi, Thailand",country:"TH"},
+
+
+
+{value:"kandahar-af",col: 85 ,name:"Kandahar",display:"Kandahar, Afghanistan",country:"AF"},
+
+
+
+{value:"kandy-lk",col: 82 ,name:"Kandy",display:"Kandy, Sri Lanka",country:"LK"},
+
+
+
+{value:"kanibadam-tj",col: 60 ,name:"Kanibadam",display:"Kanibadam, Tajikistan",country:"TJ"},
+
+
+
+{value:"kankan-gn",col: 72 ,name:"Kankan",display:"Kankan, Guinea",country:"GN"},
 
 
 
@@ -3742,11 +4918,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"kanye-bw",col: 62 ,name:"Kanye",display:"Kanye, Botswana",country:"BW"},
+
+
+
 {value:"kaohsiung",col: 105 ,name:"Kaohsiung",display:"Kaohsiung, Taiwan",country:"TW"},
 
 
 
+{value:"kaolack-sn",col: 68 ,name:"Kaolack",display:"Kaolack, Senegal",country:"SN"},
+
+
+
+{value:"kapan-am",col: 60 ,name:"Kapan",display:"Kapan, Armenia",country:"AM"},
+
+
+
 {value:"kaposvar-so",col: 72 ,name:"Kaposvár",display:"Kaposvár, Hungría",country:"HU"},
+
+
+
+{value:"kara-tg",col: 68 ,name:"Kara",display:"Kara, Togo",country:"TG"},
 
 
 
@@ -3755,6 +4947,22 @@ var SALARY_CITIES = [
 
 
 {value:"karaganda-kz",col: 82 ,name:"Karaganda",display:"Karaganda, Kazakhstan",country:"KZ"},
+
+
+
+{value:"karaj-ir",col: 90 ,name:"Karaj",display:"Karaj, Iran",country:"IR"},
+
+
+
+{value:"kerek-jo",col: 68 ,name:"Karak",display:"Karak, Jordan",country:"JO"},
+
+
+
+{value:"karakol-kg",col: 70 ,name:"Karakol",display:"Karakol, Kyrgyzstan",country:"KG"},
+
+
+
+{value:"karbala-iq",col: 82 ,name:"Karbala",display:"Karbala, Iraq",country:"IQ"},
 
 
 
@@ -3778,7 +4986,31 @@ var SALARY_CITIES = [
 
 
 
+{value:"karonga-mw",col: 62 ,name:"Karonga",display:"Karonga, Malawi",country:"MW"},
+
+
+
+{value:"karshi-uz",col: 68 ,name:"Karshi",display:"Karshi, Uzbekistan",country:"UZ"},
+
+
+
+{value:"kasama-zm",col: 65 ,name:"Kasama",display:"Kasama, Zambia",country:"ZM"},
+
+
+
+{value:"kassala-sd",col: 72 ,name:"Kassala",display:"Kassala, Sudan",country:"SD"},
+
+
+
 {value:"katerini-cm",col: 80 ,name:"Katerini",display:"Katerini, Grecia",country:"GR"},
+
+
+
+{value:"kathmandu-np",col: 100 ,name:"Kathmandu",display:"Kathmandu, Nepal",country:"NP"},
+
+
+
+{value:"kati-ml",col: 68 ,name:"Kati",display:"Kati, Mali",country:"ML"},
 
 
 
@@ -3810,6 +5042,18 @@ var SALARY_CITIES = [
 
 
 
+{value:"kaya-bf",col: 60 ,name:"Kaya",display:"Kaya, Burkina Faso",country:"BF"},
+
+
+
+{value:"kayanza-bi",col: 60 ,name:"Kayanza",display:"Kayanza, Burundi",country:"BI"},
+
+
+
+{value:"kayes-ml",col: 65 ,name:"Kayes",display:"Kayes, Mali",country:"ML"},
+
+
+
 {value:"kayseri-tr",col: 82 ,name:"Kayseri",display:"Kayseri, Turkey",country:"TR"},
 
 
@@ -3834,7 +5078,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"keetmanshoop-na",col: 65 ,name:"Keetmanshoop",display:"Keetmanshoop, Namibia",country:"NA"},
+
+
+
 {value:"keflavik-is",col: 85 ,name:"Keflavik",display:"Keflavik, Iceland",country:"IS"},
+
+
+
+{value:"kelo-td",col: 60 ,name:"Kelo",display:"Kelo, Chad",country:"TD"},
 
 
 
@@ -3850,6 +5102,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"kenema-sl",col: 68 ,name:"Kenema",display:"Kenema, Sierra Leone",country:"SL"},
+
+
+
 {value:"kenitra-ma",col: 76 ,name:"Kenitra",display:"Kenitra, Morocco",country:"MA"},
 
 
@@ -3862,6 +5118,26 @@ var SALARY_CITIES = [
 
 
 
+{value:"krong-kep-kh",col: 72 ,name:"Kep",display:"Kep, Cambodia",country:"KH"},
+
+
+
+{value:"keren-er",col: 72 ,name:"Keren",display:"Keren, Eritrea",country:"ER"},
+
+
+
+{value:"kerewan-gm",col: 60 ,name:"Kerewan",display:"Kerewan, Gambia",country:"GM"},
+
+
+
+{value:"kerman-ir",col: 72 ,name:"Kerman",display:"Kerman, Iran",country:"IR"},
+
+
+
+{value:"kermanshah-ir",col: 72 ,name:"Kermanshah",display:"Kermanshah, Iran",country:"IR"},
+
+
+
 {value:"key-west-fl",col: 158.5 ,name:"Key West",display:"Key West, FL, US",country:"US"},
 
 
@@ -3871,6 +5147,10 @@ var SALARY_CITIES = [
 
 
 {value:"kharkiv-ua",col: 88 ,name:"Kharkiv",display:"Kharkiv, Ukraine",country:"UA"},
+
+
+
+{value:"khartoum-sd",col: 100 ,name:"Khartoum",display:"Khartoum, Sudan",country:"SD"},
 
 
 
@@ -3894,7 +5174,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"khorog-tj",col: 65 ,name:"Khorog",display:"Khorog, Tajikistan",country:"TJ"},
+
+
+
 {value:"khouribga-ma",col: 70 ,name:"Khouribga",display:"Khouribga, Morocco",country:"MA"},
+
+
+
+{value:"kobdo-mn",col: 65 ,name:"Khovd",display:"Khovd, Mongolia",country:"MN"},
+
+
+
+{value:"khujand-tj",col: 78 ,name:"Khujand",display:"Khujand, Tajikistan",country:"TJ"},
 
 
 
@@ -3906,11 +5198,35 @@ var SALARY_CITIES = [
 
 
 
+{value:"kibungo-rw",col: 62 ,name:"Kibungo",display:"Kibungo, Rwanda",country:"RW"},
+
+
+
+{value:"kibuye-rw",col: 68 ,name:"Kibuye",display:"Kibuye, Rwanda",country:"RW"},
+
+
+
+{value:"kidal-ml",col: 55 ,name:"Kidal",display:"Kidal, Mali",country:"ML"},
+
+
+
 {value:"kiel-sh",col: 92 ,name:"Kiel",display:"Kiel, Alemania",country:"DE"},
 
 
 
 {value:"kielce-sk",col: 78 ,name:"Kielce",display:"Kielce, Polonia",country:"PL"},
+
+
+
+{value:"kiffa-mr",col: 65 ,name:"Kiffa",display:"Kiffa, Mauritania",country:"MR"},
+
+
+
+{value:"kigali-rw",col: 100 ,name:"Kigali",display:"Kigali, Rwanda",country:"RW"},
+
+
+
+{value:"kigoma-tz",col: 68 ,name:"Kigoma",display:"Kigoma, Tanzania",country:"TZ"},
 
 
 
@@ -3934,6 +5250,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"kindia-gn",col: 65 ,name:"Kindia",display:"Kindia, Guinea",country:"GN"},
+
+
+
 {value:"kingsport-tn",col: 88 ,name:"Kingsport",display:"Kingsport, TN, US",country:"US"},
 
 
@@ -3942,7 +5262,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"kingston-jm",col: 100 ,name:"Kingston",display:"Kingston, Jamaica",country:"JM"},
+
+
+
 {value:"kingston-ca",col: 110 ,name:"Kingston",display:"Kingston, Canadá",country:"CA"},
+
+
+
+{value:"kingstown-vc",col: 100 ,name:"Kingstown",display:"Kingstown, Saint Vincent and the Grenadines",country:"VC"},
 
 
 
@@ -3950,7 +5278,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"kirakira-sb",col: 68 ,name:"Kirakira",display:"Kirakira, Solomon Islands",country:"SB"},
+
+
+
+{value:"kirkuk-iq",col: 78 ,name:"Kirkuk",display:"Kirkuk, Iraq",country:"IQ"},
+
+
+
 {value:"kirov-kir",col: 76 ,name:"Kirov",display:"Kirov, Russia",country:"RU"},
+
+
+
+{value:"kismayo-so",col: 70 ,name:"Kismayo",display:"Kismayo, Somalia",country:"SO"},
 
 
 
@@ -3963,6 +5303,10 @@ var SALARY_CITIES = [
 
 
 {value:"kitale",col: 80 ,name:"Kitale",display:"Kitale, Kenya",country:"KE"},
+
+
+
+{value:"kitwe-zm",col: 82 ,name:"Kitwe",display:"Kitwe, Zambia",country:"ZM"},
 
 
 
@@ -4034,6 +5378,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"koidu-sl",col: 62 ,name:"Koidu",display:"Koidu, Sierra Leone",country:"SL"},
+
+
+
+{value:"kokopo-pg",col: 70 ,name:"Kokopo",display:"Kokopo, Papua New Guinea",country:"PG"},
+
+
+
 {value:"kokshetau-kz",col: 76 ,name:"Kokshetau",display:"Kokshetau, Kazakhstan",country:"KZ"},
 
 
@@ -4051,6 +5403,10 @@ var SALARY_CITIES = [
 
 
 {value:"kongsberg-no",col: 102 ,name:"Kongsberg",display:"Kongsberg, Norway",country:"NO"},
+
+
+
+{value:"konibodom-tj",col: 60 ,name:"Konibodom",display:"Konibodom, Tajikistan",country:"TJ"},
 
 
 
@@ -4074,6 +5430,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"korhogo-ci",col: 65 ,name:"Korhogo",display:"Korhogo, Côte d\u0027Ivoire",country:"CI"},
+
+
+
 {value:"koriyama-fks",col: 86 ,name:"Koriyama",display:"Koriyama, Japón",country:"JP"},
 
 
@@ -4087,6 +5447,10 @@ var SALARY_CITIES = [
 
 
 {value:"kostanay-kz",col: 78 ,name:"Kostanay",display:"Kostanay, Kazakhstan",country:"KZ"},
+
+
+
+{value:"kosti-sd",col: 68 ,name:"Kosti",display:"Kosti, Sudan",country:"SD"},
 
 
 
@@ -4106,11 +5470,35 @@ var SALARY_CITIES = [
 
 
 
+{value:"koudougou-bf",col: 68 ,name:"Koudougou",display:"Koudougou, Burkina Faso",country:"BF"},
+
+
+
+{value:"koulamoutou-ga",col: 60 ,name:"Koulamoutou",display:"Koulamoutou, Gabon",country:"GA"},
+
+
+
+{value:"koulikoro-ml",col: 60 ,name:"Koulikoro",display:"Koulikoro, Mali",country:"ML"},
+
+
+
+{value:"kournari-td",col: 58 ,name:"Koumra",display:"Koumra, Chad",country:"TD"},
+
+
+
+{value:"koutiala-ml",col: 62 ,name:"Koutiala",display:"Koutiala, Mali",country:"ML"},
+
+
+
 {value:"kozani-wm",col: 75 ,name:"Kozani",display:"Kozani, Grecia",country:"GR"},
 
 
 
 {value:"kozhikode-kl",col: 95 ,name:"Kozhikode",display:"Kozhikode, India",country:"IN"},
+
+
+
+{value:"kpalime-tg",col: 72 ,name:"Kpalime",display:"Kpalime, Togo",country:"TG"},
 
 
 
@@ -4142,7 +5530,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"kratie-kh",col: 62 ,name:"Kratie",display:"Kratie, Cambodia",country:"KH"},
+
+
+
 {value:"krems-noe",col: 90 ,name:"Krems an der Donau",display:"Krems an der Donau, Austria",country:"AT"},
+
+
+
+{value:"kribi-cm",col: 72 ,name:"Kribi",display:"Kribi, Cameroon",country:"CM"},
 
 
 
@@ -4174,7 +5570,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"kuito-ao",col: 65 ,name:"Kuito",display:"Kuito, Angola",country:"AO"},
+
+
+
 {value:"kuldiga-kl",col: 72 ,name:"Kuldīga",display:"Kuldīga, Letonia",country:"LV"},
+
+
+
+{value:"kulhudhuffushi-mv",col: 72 ,name:"Kulhudhuffushi",display:"Kulhudhuffushi, Maldives",country:"MV"},
+
+
+
+{value:"kulob-tj",col: 68 ,name:"Kulob",display:"Kulob, Tajikistan",country:"TJ"},
 
 
 
@@ -4187,6 +5595,10 @@ var SALARY_CITIES = [
 
 
 {value:"kumasi-gh",col: 88 ,name:"Kumasi",display:"Kumasi, Ghana",country:"GH"},
+
+
+
+{value:"kunduz-af",col: 75 ,name:"Kunduz",display:"Kunduz, Afghanistan",country:"AF"},
 
 
 
@@ -4206,11 +5618,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"kurunegala-lk",col: 65 ,name:"Kurunegala",display:"Kurunegala, Sri Lanka",country:"LK"},
+
+
+
 {value:"kushtia-bd",col: 76 ,name:"Kushtia",display:"Kushtia, Bangladesh",country:"BD"},
 
 
 
+{value:"kut-iq",col: 72 ,name:"Kut",display:"Kut, Iraq",country:"IQ"},
+
+
+
+{value:"kutaisi-ge",col: 72 ,name:"Kutaisi",display:"Kutaisi, Georgia",country:"GE"},
+
+
+
 {value:"kuwait-city-kw",col: 110 ,name:"Kuwait City",display:"Kuwait City, Kuwait",country:"KW"},
+
+
+
+{value:"kwekwe-zw",col: 65 ,name:"Kwekwe",display:"Kwekwe, Zimbabwe",country:"ZW"},
 
 
 
@@ -4290,6 +5718,18 @@ var SALARY_CITIES = [
 
 
 
+{value:"labasa-fj",col: 72 ,name:"Labasa",display:"Labasa, Fiji",country:"FJ"},
+
+
+
+{value:"labe-gn",col: 68 ,name:"Labe",display:"Labe, Guinea",country:"GN"},
+
+
+
+{value:"lae-pg",col: 82 ,name:"Lae",display:"Lae, Papua New Guinea",country:"PG"},
+
+
+
 {value:"lafayette-in",col: 90 ,name:"Lafayette",display:"Lafayette, IN, US",country:"US"},
 
 
@@ -4318,7 +5758,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"lalitpur-np",col: 95 ,name:"Lalitpur",display:"Lalitpur, Nepal",country:"NP"},
+
+
+
 {value:"lambare-py",col: 88 ,name:"Lambaré",display:"Lambaré, Paraguay",country:"PY"},
+
+
+
+{value:"lambarene-ga",col: 68 ,name:"Lambarene",display:"Lambarene, Gabon",country:"GA"},
 
 
 
@@ -4331,6 +5779,10 @@ var SALARY_CITIES = [
 
 
 {value:"lancaster-pa",col: 95 ,name:"Lancaster",display:"Lancaster, PA, US",country:"US"},
+
+
+
+{value:"lenkaran-az",col: 65 ,name:"Lankaran",display:"Lankaran, Azerbaijan",country:"AZ"},
 
 
 
@@ -4378,7 +5830,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"laskhar-gah-af",col: 70 ,name:"Lashkar Gah",display:"Lashkar Gah, Afghanistan",country:"AF"},
+
+
+
+{value:"lata-sb",col: 68 ,name:"Lata",display:"Lata, Solomon Islands",country:"SB"},
+
+
+
 {value:"latacunga-ec",col: 85 ,name:"Latacunga",display:"Latacunga, Ecuador",country:"EC"},
+
+
+
+{value:"latakia-sy",col: 82 ,name:"Latakia",display:"Latakia, Syria",country:"SY"},
 
 
 
@@ -4387,6 +5851,10 @@ var SALARY_CITIES = [
 
 
 {value:"lausanne-vd",col: 120 ,name:"Lausanne",display:"Lausanne, Suiza",country:"CH"},
+
+
+
+{value:"lautoka-fj",col: 82 ,name:"Lautoka",display:"Lautoka, Fiji",country:"FJ"},
 
 
 
@@ -4434,6 +5902,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"lelydorp-sr",col: 78 ,name:"Lelydorp",display:"Lelydorp, Suriname",country:"SR"},
+
+
+
 {value:"leoben-st",col: 85 ,name:"Leoben",display:"Leoben, Austria",country:"AT"},
 
 
@@ -4450,11 +5922,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"leribe-ls",col: 62 ,name:"Leribe",display:"Leribe, Lesotho",country:"LS"},
+
+
+
 {value:"lleida-cat",col: 82 ,name:"Lérida",display:"Lérida, España",country:"ES"},
 
 
 
+{value:"les-cayes-ht",col: 68 ,name:"Les Cayes",display:"Les Cayes, Haiti",country:"HT"},
+
+
+
 {value:"leskovac-rs",col: 63 ,name:"Leskovac",display:"Leskovac, Serbia",country:"RS"},
+
+
+
+{value:"lethem-gy",col: 65 ,name:"Lethem",display:"Lethem, Guyana",country:"GY"},
 
 
 
@@ -4467,6 +5951,10 @@ var SALARY_CITIES = [
 
 
 {value:"levice-nr",col: 70 ,name:"Levice",display:"Levice, Eslovaquia",country:"SK"},
+
+
+
+{value:"levuka-fj",col: 72 ,name:"Levuka",display:"Levuka, Fiji",country:"FJ"},
 
 
 
@@ -4490,6 +5978,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"libreville-ga",col: 100 ,name:"Libreville",display:"Libreville, Gabon",country:"GA"},
+
+
+
+{value:"lichinga-mz",col: 65 ,name:"Lichinga",display:"Lichinga, Mozambique",country:"MZ"},
+
+
+
 {value:"liege-wlg",col: 88 ,name:"Liège",display:"Liège, Bélgica",country:"BE"},
 
 
@@ -4506,6 +6002,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"lilongwe-mw",col: 100 ,name:"Lilongwe",display:"Lilongwe, Malawi",country:"MW"},
+
+
+
 {value:"lima-pe",col: 110 ,name:"Lima",display:"Lima, Peru",country:"PE"},
 
 
@@ -4518,6 +6018,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"limbe-cm",col: 75 ,name:"Limbe",display:"Limbe, Cameroon",country:"CM"},
+
+
+
 {value:"limerick-lk",col: 100 ,name:"Limerick",display:"Limerick, Irlanda",country:"IE"},
 
 
@@ -4527,6 +6031,10 @@ var SALARY_CITIES = [
 
 
 {value:"lincoln-ne",col: 92.5 ,name:"Lincoln",display:"Lincoln, NE, US",country:"US"},
+
+
+
+{value:"linden-gy",col: 72 ,name:"Linden",display:"Linden, Guyana",country:"GY"},
 
 
 
@@ -4546,6 +6054,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"lira-ug",col: 65 ,name:"Lira",display:"Lira, Uganda",country:"UG"},
+
+
+
 {value:"lisbon-pt",col: 110 ,name:"Lisbon",display:"Lisbon, Portugal",country:"PT"},
 
 
@@ -4555,6 +6067,10 @@ var SALARY_CITIES = [
 
 
 {value:"liverpool-gb",col: 86.5 ,name:"Liverpool",display:"Liverpool, Reino Unido",country:"GB"},
+
+
+
+{value:"livingstone-zm",col: 78 ,name:"Livingstone",display:"Livingstone, Zambia",country:"ZM"},
 
 
 
@@ -4575,6 +6091,10 @@ var SALARY_CITIES = [
 
 
 {value:"loja-ec",col: 92 ,name:"Loja",display:"Loja, Ecuador",country:"EC"},
+
+
+
+{value:"lome-tg",col: 100 ,name:"Lome",display:"Lome, Togo",country:"TG"},
 
 
 
@@ -4614,6 +6134,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"lospalos-tl",col: 60 ,name:"Lospalos",display:"Lospalos, Timor-Leste",country:"TL"},
+
+
+
+{value:"louga-sn",col: 60 ,name:"Louga",display:"Louga, Senegal",country:"SN"},
+
+
+
 {value:"louisville-ky",col: 91.2 ,name:"Louisville",display:"Louisville, KY, US",country:"US"},
 
 
@@ -4627,6 +6155,26 @@ var SALARY_CITIES = [
 
 
 {value:"lowell-ma",col: 105 ,name:"Lowell",display:"Lowell, MA, US",country:"US"},
+
+
+
+{value:"luanda-ao",col: 100 ,name:"Luanda",display:"Luanda, Angola",country:"AO"},
+
+
+
+{value:"luang-namtha-la",col: 65 ,name:"Luang Namtha",display:"Luang Namtha, Laos",country:"LA"},
+
+
+
+{value:"luang-prabang-la",col: 78 ,name:"Luang Prabang",display:"Luang Prabang, Laos",country:"LA"},
+
+
+
+{value:"luanshya-zm",col: 70 ,name:"Luanshya",display:"Luanshya, Zambia",country:"ZM"},
+
+
+
+{value:"lubango-ao",col: 72 ,name:"Lubango",display:"Lubango, Angola",country:"AO"},
 
 
 
@@ -4678,6 +6226,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"lusaka-zm",col: 100 ,name:"Lusaka",display:"Lusaka, Zambia",country:"ZM"},
+
+
+
 {value:"lushnje-al",col: 47 ,name:"Lushnjë",display:"Lushnjë, Albania",country:"AL"},
 
 
@@ -4706,6 +6258,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"maan-jo",col: 65 ,name:"Ma\u0027an",display:"Ma\u0027an, Jordan",country:"JO"},
+
+
+
 {value:"maastricht-nl",col: 74 ,name:"Maastricht",display:"Maastricht, Países Bajos",country:"NL"},
 
 
@@ -4726,11 +6282,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"machinga-mw",col: 60 ,name:"Machinga",display:"Machinga, Malawi",country:"MW"},
+
+
+
 {value:"mackay-qld",col: 72 ,name:"Mackay",display:"Mackay, Australia",country:"AU"},
 
 
 
 {value:"macon-ga",col: 85 ,name:"Macon",display:"Macon, GA, US",country:"US"},
+
+
+
+{value:"madang-pg",col: 72 ,name:"Madang",display:"Madang, Papua New Guinea",country:"PG"},
+
+
+
+{value:"madingou-cg",col: 60 ,name:"Madingou",display:"Madingou, Congo",country:"CG"},
 
 
 
@@ -4754,7 +6322,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"mafeteng-ls",col: 65 ,name:"Mafeteng",display:"Mafeteng, Lesotho",country:"LS"},
+
+
+
+{value:"mafraq-jo",col: 65 ,name:"Mafraq",display:"Mafraq, Jordan",country:"JO"},
+
+
+
 {value:"magdeburg-st",col: 82 ,name:"Magdeburg",display:"Magdeburg, Alemania",country:"DE"},
+
+
+
+{value:"mahajanga-mg",col: 72 ,name:"Mahajanga",display:"Mahajanga, Madagascar",country:"MG"},
+
+
+
+{value:"mahebourg-mu",col: 78 ,name:"Mahebourg",display:"Mahebourg, Mauritius",country:"MU"},
 
 
 
@@ -4766,11 +6350,27 @@ var SALARY_CITIES = [
 
 
 
-{value:"makassar-id",col: 40 ,name:"Makassar",display:"Makassar, ",country:"ID"},
+{value:"majuro-mh",col: 100 ,name:"Majuro",display:"Majuro, Marshall Islands",country:"MH"},
+
+
+
+{value:"makamba-bi",col: 58 ,name:"Makamba",display:"Makamba, Burundi",country:"BI"},
+
+
+
+{value:"makassar-idn",col: 40 ,name:"Makassar",display:"Makassar, Indonesia",country:"IDN"},
+
+
+
+{value:"makeni-sl",col: 65 ,name:"Makeni",display:"Makeni, Sierra Leone",country:"SL"},
 
 
 
 {value:"makhachkala-da",col: 78 ,name:"Makhachkala",display:"Makhachkala, Russia",country:"RU"},
+
+
+
+{value:"malabo-gq",col: 100 ,name:"Malabo",display:"Malabo, Equatorial Guinea",country:"GQ"},
 
 
 
@@ -4782,7 +6382,15 @@ var SALARY_CITIES = [
 
 
 
-{value:"malang-id",col: 45 ,name:"Malang",display:"Malang, ",country:"ID"},
+{value:"malakal-ss",col: 72 ,name:"Malakal",display:"Malakal, South Sudan",country:"SS"},
+
+
+
+{value:"malang-idn",col: 45 ,name:"Malang",display:"Malang, Indonesia",country:"IDN"},
+
+
+
+{value:"malanje-ao",col: 68 ,name:"Malanje",display:"Malanje, Angola",country:"AO"},
 
 
 
@@ -4794,7 +6402,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"male-mv",col: 100 ,name:"Male",display:"Male, Maldives",country:"MV"},
+
+
+
+{value:"maliana-tl",col: 62 ,name:"Maliana",display:"Maliana, Timor-Leste",country:"TL"},
+
+
+
 {value:"malindi",col: 95 ,name:"Malindi",display:"Malindi, Kenya",country:"KE"},
+
+
+
+{value:"malkerns-sz",col: 72 ,name:"Malkerns",display:"Malkerns, Eswatini",country:"SZ"},
 
 
 
@@ -4802,11 +6422,27 @@ var SALARY_CITIES = [
 
 
 
-{value:"manado-id",col: 48 ,name:"Manado",display:"Manado, ",country:"ID"},
+{value:"mamou-gn",col: 60 ,name:"Mamou",display:"Mamou, Guinea",country:"GN"},
+
+
+
+{value:"man-ci",col: 65 ,name:"Man",display:"Man, Côte d\u0027Ivoire",country:"CI"},
+
+
+
+{value:"manado-idn",col: 48 ,name:"Manado",display:"Manado, Indonesia",country:"IDN"},
 
 
 
 {value:"managua-ni",col: 105 ,name:"Managua",display:"Managua, Nicaragua",country:"NI"},
+
+
+
+{value:"manakara-mg",col: 65 ,name:"Manakara",display:"Manakara, Madagascar",country:"MG"},
+
+
+
+{value:"manama-bh",col: 100 ,name:"Manama",display:"Manama, Bahrain",country:"BH"},
 
 
 
@@ -4822,7 +6458,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"mandalay-mm",col: 85 ,name:"Mandalay",display:"Mandalay, Myanmar",country:"MM"},
+
+
+
+{value:"mandeville-jm",col: 75 ,name:"Mandeville",display:"Mandeville, Jamaica",country:"JM"},
+
+
+
+{value:"manga-bf",col: 55 ,name:"Manga",display:"Manga, Burkina Faso",country:"BF"},
+
+
+
 {value:"mangalore-ka",col: 95 ,name:"Mangalore",display:"Mangalore, India",country:"IN"},
+
+
+
+{value:"mangochi-mw",col: 68 ,name:"Mangochi",display:"Mangochi, Malawi",country:"MW"},
 
 
 
@@ -4846,6 +6498,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"mansakonko-gm",col: 62 ,name:"Mansakonko",display:"Mansakonko, Gambia",country:"GM"},
+
+
+
 {value:"mansoura-eg",col: 78 ,name:"Mansoura",display:"Mansoura, Egypt",country:"EG"},
 
 
@@ -4858,6 +6514,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"manzini-sz",col: 88 ,name:"Manzini",display:"Manzini, Eswatini",country:"SZ"},
+
+
+
+{value:"maputo-mz",col: 100 ,name:"Maputo",display:"Maputo, Mozambique",country:"MZ"},
+
+
+
 {value:"mar-del-plata-ba",col: 76 ,name:"Mar del Plata",display:"Mar del Plata, Argentina",country:"AR"},
 
 
@@ -4867,6 +6531,10 @@ var SALARY_CITIES = [
 
 
 {value:"maracay-ve",col: 95 ,name:"Maracay",display:"Maracay, Venezuela",country:"VE"},
+
+
+
+{value:"maradi-ne",col: 68 ,name:"Maradi",display:"Maradi, Niger",country:"NE"},
 
 
 
@@ -4890,6 +6558,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"maroua-cm",col: 65 ,name:"Maroua",display:"Maroua, Cameroon",country:"CM"},
+
+
+
 {value:"marrakech-ma",col: 88 ,name:"Marrakech",display:"Marrakech, Morocco",country:"MA"},
 
 
@@ -4902,7 +6574,31 @@ var SALARY_CITIES = [
 
 
 
+{value:"mary-tm",col: 72 ,name:"Mary",display:"Mary, Turkmenistan",country:"TM"},
+
+
+
+{value:"masaka-ug",col: 70 ,name:"Masaka",display:"Masaka, Uganda",country:"UG"},
+
+
+
 {value:"masaya-ni",col: 90 ,name:"Masaya",display:"Masaya, Nicaragua",country:"NI"},
+
+
+
+{value:"maseru-ls",col: 100 ,name:"Maseru",display:"Maseru, Lesotho",country:"LS"},
+
+
+
+{value:"mashhad-ir",col: 85 ,name:"Mashhad",display:"Mashhad, Iran",country:"IR"},
+
+
+
+{value:"massawa-er",col: 75 ,name:"Massawa",display:"Massawa, Eritrea",country:"ER"},
+
+
+
+{value:"masvingo-zw",col: 65 ,name:"Masvingo",display:"Masvingo, Zimbabwe",country:"ZW"},
 
 
 
@@ -4914,7 +6610,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"matara-lk",col: 70 ,name:"Matara",display:"Matara, Sri Lanka",country:"LK"},
+
+
+
 {value:"matera-bas",col: 78 ,name:"Matera",display:"Matera, Italia",country:"IT"},
+
+
+
+{value:"matola-mz",col: 88 ,name:"Matola",display:"Matola, Mozambique",country:"MZ"},
 
 
 
@@ -4934,7 +6638,39 @@ var SALARY_CITIES = [
 
 
 
+{value:"maun-bw",col: 78 ,name:"Maun",display:"Maun, Botswana",country:"BW"},
+
+
+
+{value:"mawlamyine-mm",col: 75 ,name:"Mawlamyine",display:"Mawlamyine, Myanmar",country:"MM"},
+
+
+
+{value:"mazabuka-zm",col: 65 ,name:"Mazabuka",display:"Mazabuka, Zambia",country:"ZM"},
+
+
+
+{value:"mazar-i-sharif-af",col: 82 ,name:"Mazar-i-Sharif",display:"Mazar-i-Sharif, Afghanistan",country:"AF"},
+
+
+
 {value:"mazatenango-gt",col: 85 ,name:"Mazatenango",display:"Mazatenango, Guatemala",country:"GT"},
+
+
+
+{value:"mbabane-sz",col: 100 ,name:"Mbabane",display:"Mbabane, Eswatini",country:"SZ"},
+
+
+
+{value:"mbale-ug",col: 72 ,name:"Mbale",display:"Mbale, Uganda",country:"UG"},
+
+
+
+{value:"mbarara-ug",col: 75 ,name:"Mbarara",display:"Mbarara, Uganda",country:"UG"},
+
+
+
+{value:"mbeya-tz",col: 75 ,name:"Mbeya",display:"Mbeya, Tanzania",country:"TZ"},
 
 
 
@@ -4958,7 +6694,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"medan-id",col: 38 ,name:"Medan",display:"Medan, ",country:"ID"},
+{value:"medan-idn",col: 38 ,name:"Medan",display:"Medan, Indonesia",country:"IDN"},
 
 
 
@@ -4971,6 +6707,10 @@ var SALARY_CITIES = [
 
 
 {value:"medina",col: 100 ,name:"Medina",display:"Medina, Saudi Arabia",country:"SA"},
+
+
+
+{value:"meiktila-mm",col: 70 ,name:"Meiktila",display:"Meiktila, Myanmar",country:"MM"},
 
 
 
@@ -5002,7 +6742,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"mendefera-er",col: 65 ,name:"Mendefera",display:"Mendefera, Eritrea",country:"ER"},
+
+
+
 {value:"mendoza-men",col: 80 ,name:"Mendoza",display:"Mendoza, Argentina",country:"AR"},
+
+
+
+{value:"menongue-ao",col: 62 ,name:"Menongue",display:"Menongue, Angola",country:"AO"},
+
+
+
+{value:"marka-so",col: 65 ,name:"Merca",display:"Merca, Somalia",country:"SO"},
 
 
 
@@ -5050,6 +6802,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"meymaneh-af",col: 65 ,name:"Meymaneh",display:"Meymaneh, Afghanistan",country:"AF"},
+
+
+
 {value:"miami-fl",col: 145.6 ,name:"Miami",display:"Miami, FL, US",country:"US"},
 
 
@@ -5070,11 +6826,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"mindelo-cv",col: 88 ,name:"Mindelo",display:"Mindelo, Cabo Verde",country:"CV"},
+
+
+
+{value:"mingachevir-az",col: 65 ,name:"Mingachevir",display:"Mingachevir, Azerbaijan",country:"AZ"},
+
+
+
 {value:"minneapolis-mn",col: 106.5 ,name:"Minneapolis",display:"Minneapolis, MN, US",country:"US"},
 
 
 
 {value:"minot-nd",col: 90 ,name:"Minot",display:"Minot, ND, US",country:"US"},
+
+
+
+{value:"minsk-by",col: 100 ,name:"Minsk",display:"Minsk, Belarus",country:"BY"},
 
 
 
@@ -5087,6 +6855,10 @@ var SALARY_CITIES = [
 
 
 {value:"miskolc-bz",col: 75 ,name:"Miskolc",display:"Miskolc, Hungría",country:"HU"},
+
+
+
+{value:"misrata-ly",col: 78 ,name:"Misrata",display:"Misrata, Libya",country:"LY"},
 
 
 
@@ -5110,6 +6882,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"mitsamiouli-km",col: 68 ,name:"Mitsamiouli",display:"Mitsamiouli, Comoros",country:"KM"},
+
+
+
+{value:"mityana-ug",col: 62 ,name:"Mityana",display:"Mityana, Uganda",country:"UG"},
+
+
+
 {value:"mixco-gt",col: 95 ,name:"Mixco",display:"Mixco, Guatemala",country:"GT"},
 
 
@@ -5126,6 +6906,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"mochudi-bw",col: 62 ,name:"Mochudi",display:"Mochudi, Botswana",country:"BW"},
+
+
+
 {value:"modena-emr",col: 100 ,name:"Modena",display:"Modena, Italia",country:"IT"},
 
 
@@ -5134,7 +6918,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"moengo-sr",col: 68 ,name:"Moengo",display:"Moengo, Suriname",country:"SR"},
+
+
+
+{value:"mogadishu-so",col: 100 ,name:"Mogadishu",display:"Mogadishu, Somalia",country:"SO"},
+
+
+
 {value:"mogidas-cruzes-sp",col: 95 ,name:"Mogi das Cruzes",display:"Mogi das Cruzes, Brasil",country:"BR"},
+
+
+
+{value:"mogilev-by",col: 72 ,name:"Mogilev",display:"Mogilev, Belarus",country:"BY"},
+
+
+
+{value:"mohales-hoek-ls",col: 65 ,name:"Mohale\u0027s Hoek",display:"Mohale\u0027s Hoek, Lesotho",country:"LS"},
 
 
 
@@ -5142,11 +6942,31 @@ var SALARY_CITIES = [
 
 
 
+{value:"molepolole-bw",col: 60 ,name:"Molepolole",display:"Molepolole, Botswana",country:"BW"},
+
+
+
 {value:"mombasa",col: 100 ,name:"Mombasa",display:"Mombasa, Kenya",country:"KE"},
 
 
 
+{value:"monaco-mc",col: 100 ,name:"Monaco",display:"Monaco, Monaco",country:"MC"},
+
+
+
+{value:"monastir-tn",col: 78 ,name:"Monastir",display:"Monastir, Tunisia",country:"TN"},
+
+
+
+{value:"mongomo-gq",col: 68 ,name:"Mongomo",display:"Mongomo, Equatorial Guinea",country:"GQ"},
+
+
+
 {value:"monroe-la",col: 85 ,name:"Monroe",display:"Monroe, LA, US",country:"US"},
+
+
+
+{value:"monrovia-lr",col: 100 ,name:"Monrovia",display:"Monrovia, Liberia",country:"LR"},
 
 
 
@@ -5155,6 +6975,10 @@ var SALARY_CITIES = [
 
 
 {value:"montana-m",col: 65 ,name:"Montana",display:"Montana, Bulgaria",country:"BG"},
+
+
+
+{value:"montego-bay-jm",col: 88 ,name:"Montego Bay",display:"Montego Bay, Jamaica",country:"JM"},
 
 
 
@@ -5190,6 +7014,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"monywa-mm",col: 68 ,name:"Monywa",display:"Monywa, Myanmar",country:"MM"},
+
+
+
+{value:"mopti-ml",col: 68 ,name:"Mopti",display:"Mopti, Mali",country:"ML"},
+
+
+
 {value:"morelia-mic",col: 69 ,name:"Morelia",display:"Morelia, México",country:"MX"},
 
 
@@ -5202,7 +7034,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"morogoro-tz",col: 72 ,name:"Morogoro",display:"Morogoro, Tanzania",country:"TZ"},
+
+
+
+{value:"morondava-mg",col: 65 ,name:"Morondava",display:"Morondava, Madagascar",country:"MG"},
+
+
+
+{value:"moroni-km",col: 100 ,name:"Moroni",display:"Moroni, Comoros",country:"KM"},
+
+
+
 {value:"moscow-mow",col: 125 ,name:"Moscow",display:"Moscow, Russia",country:"RU"},
+
+
+
+{value:"moshi-tz",col: 75 ,name:"Moshi",display:"Moshi, Tanzania",country:"TZ"},
 
 
 
@@ -5222,6 +7070,22 @@ var SALARY_CITIES = [
 
 
 
+{value:"mosul-iq",col: 82 ,name:"Mosul",display:"Mosul, Iraq",country:"IQ"},
+
+
+
+{value:"mouila-ga",col: 65 ,name:"Mouila",display:"Mouila, Gabon",country:"GA"},
+
+
+
+{value:"moundou-td",col: 72 ,name:"Moundou",display:"Moundou, Chad",country:"TD"},
+
+
+
+{value:"mount-hagen-pg",col: 75 ,name:"Mount Hagen",display:"Mount Hagen, Papua New Guinea",country:"PG"},
+
+
+
 {value:"mount-pleasant-sc",col: 115 ,name:"Mount Pleasant",display:"Mount Pleasant, SC, US",country:"US"},
 
 
@@ -5231,6 +7095,22 @@ var SALARY_CITIES = [
 
 
 {value:"mountain-view-ca",col: 200 ,name:"Mountain View",display:"Mountain View, CA, US",country:"US"},
+
+
+
+{value:"mtwara-tz",col: 68 ,name:"Mtwara",display:"Mtwara, Tanzania",country:"TZ"},
+
+
+
+{value:"mufulira-zm",col: 72 ,name:"Mufulira",display:"Mufulira, Zambia",country:"ZM"},
+
+
+
+{value:"muharraq-bh",col: 88 ,name:"Muharraq",display:"Muharraq, Bahrain",country:"BH"},
+
+
+
+{value:"mukalla-ye",col: 78 ,name:"Mukalla",display:"Mukalla, Yemen",country:"YE"},
 
 
 
@@ -5274,11 +7154,35 @@ var SALARY_CITIES = [
 
 
 
+{value:"murun-mn",col: 65 ,name:"Murun",display:"Murun, Mongolia",country:"MN"},
+
+
+
 {value:"muscat-om",col: 105 ,name:"Muscat",display:"Muscat, Oman",country:"OM"},
 
 
 
+{value:"mutare-zw",col: 72 ,name:"Mutare",display:"Mutare, Zimbabwe",country:"ZW"},
+
+
+
+{value:"mutsamudu-km",col: 78 ,name:"Mutsamudu",display:"Mutsamudu, Comoros",country:"KM"},
+
+
+
+{value:"muyinga-bi",col: 60 ,name:"Muyinga",display:"Muyinga, Burundi",country:"BI"},
+
+
+
 {value:"muzaffarabad-pk",col: 90 ,name:"Muzaffarabad",display:"Muzaffarabad, Pakistan",country:"PK"},
+
+
+
+{value:"mwanza-tz",col: 82 ,name:"Mwanza",display:"Mwanza, Tanzania",country:"TZ"},
+
+
+
+{value:"myitkyina-mm",col: 72 ,name:"Myitkyina",display:"Myitkyina, Myanmar",country:"MM"},
 
 
 
@@ -5295,6 +7199,34 @@ var SALARY_CITIES = [
 
 
 {value:"mysore-ka",col: 90 ,name:"Mysore",display:"Mysore, India",country:"IN"},
+
+
+
+{value:"mzuzu-mw",col: 75 ,name:"Mzuzu",display:"Mzuzu, Malawi",country:"MW"},
+
+
+
+{value:"n-dalatando-ao",col: 65 ,name:"N\u0027dalatando",display:"N\u0027dalatando, Angola",country:"AO"},
+
+
+
+{value:"ndjamena-td",col: 100 ,name:"N\u0027Djamena",display:"N\u0027Djamena, Chad",country:"TD"},
+
+
+
+{value:"n-guigmi-ne",col: 55 ,name:"N\u0027Guigmi",display:"N\u0027Guigmi, Niger",country:"NE"},
+
+
+
+{value:"nabatieh-lb",col: 65 ,name:"Nabatieh",display:"Nabatieh, Lebanon",country:"LB"},
+
+
+
+{value:"nacala-mz",col: 72 ,name:"Nacala",display:"Nacala, Mozambique",country:"MZ"},
+
+
+
+{value:"nadi-fj",col: 88 ,name:"Nadi",display:"Nadi, Fiji",country:"FJ"},
 
 
 
@@ -5326,11 +7258,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"naifaru-mv",col: 70 ,name:"Naifaru",display:"Naifaru, Maldives",country:"MV"},
+
+
+
 {value:"nairobi",col: 110 ,name:"Nairobi",display:"Nairobi, Kenya",country:"KE"},
 
 
 
+{value:"najaf-iq",col: 80 ,name:"Najaf",display:"Najaf, Iraq",country:"IQ"},
+
+
+
 {value:"najran",col: 85 ,name:"Najran",display:"Najran, Saudi Arabia",country:"SA"},
+
+
+
+{value:"nakhchivan-az",col: 68 ,name:"Nakhchivan",display:"Nakhchivan, Azerbaijan",country:"AZ"},
 
 
 
@@ -5346,7 +7290,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"namangan-uz",col: 72 ,name:"Namangan",display:"Namangan, Uzbekistan",country:"UZ"},
+
+
+
+{value:"namibe-ao",col: 75 ,name:"Namibe",display:"Namibe, Angola",country:"AO"},
+
+
+
 {value:"nampa-id",col: 100 ,name:"Nampa",display:"Nampa, ID, US",country:"US"},
+
+
+
+{value:"nampula-mz",col: 75 ,name:"Nampula",display:"Nampula, Mozambique",country:"MZ"},
 
 
 
@@ -5414,6 +7370,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"naryn-kg",col: 60 ,name:"Naryn",display:"Naryn, Kyrgyzstan",country:"KG"},
+
+
+
 {value:"nashik-mh",col: 88 ,name:"Nashik",display:"Nashik, India",country:"IN"},
 
 
@@ -5426,6 +7386,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"nasiriyah-iq",col: 75 ,name:"Nasiriyah",display:"Nasiriyah, Iraq",country:"IQ"},
+
+
+
+{value:"nassau-bs",col: 100 ,name:"Nassau",display:"Nassau, Bahamas",country:"BS"},
+
+
+
 {value:"natal-rn",col: 91 ,name:"Natal",display:"Natal, Brasil",country:"BR"},
 
 
@@ -5434,7 +7402,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"navoi-uz",col: 70 ,name:"Navoi",display:"Navoi, Uzbekistan",country:"UZ"},
+
+
+
+{value:"naypyidaw-mm",col: 90 ,name:"Naypyidaw",display:"Naypyidaw, Myanmar",country:"MM"},
+
+
+
+{value:"ndola-zm",col: 80 ,name:"Ndola",display:"Ndola, Zambia",country:"ZM"},
+
+
+
 {value:"necochea-ba",col: 64 ,name:"Necochea",display:"Necochea, Argentina",country:"AR"},
+
+
+
+{value:"negombo-lk",col: 78 ,name:"Negombo",display:"Negombo, Sri Lanka",country:"LK"},
+
+
+
+{value:"negril-jm",col: 85 ,name:"Negril",display:"Negril, Jamaica",country:"JM"},
 
 
 
@@ -5454,6 +7442,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"nepalgunj-np",col: 68 ,name:"Nepalgunj",display:"Nepalgunj, Nepal",country:"NP"},
+
+
+
 {value:"netanya-il",col: 110 ,name:"Netanya",display:"Netanya, Israel",country:"IL"},
 
 
@@ -5463,6 +7455,10 @@ var SALARY_CITIES = [
 
 
 {value:"neuquen-nqn",col: 78 ,name:"Neuquén",display:"Neuquén, Argentina",country:"AR"},
+
+
+
+{value:"new-amsterdam-gy",col: 68 ,name:"New Amsterdam",display:"New Amsterdam, Guyana",country:"GY"},
 
 
 
@@ -5502,11 +7498,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"ngerulmud-pw",col: 100 ,name:"Ngerulmud",display:"Ngerulmud, Palau",country:"PW"},
+
+
+
+{value:"ngozi-bi",col: 62 ,name:"Ngozi",display:"Ngozi, Burundi",country:"BI"},
+
+
+
 {value:"nha-trang-vn",col: 34 ,name:"Nha Trang",display:"Nha Trang, Vietnam",country:"VN"},
 
 
 
+{value:"nhlangano-sz",col: 65 ,name:"Nhlangano",display:"Nhlangano, Eswatini",country:"SZ"},
+
+
+
 {value:"niagara-falls-ca",col: 108 ,name:"Niagara Falls",display:"Niagara Falls, Canadá",country:"CA"},
+
+
+
+{value:"niamey-ne",col: 100 ,name:"Niamey",display:"Niamey, Niger",country:"NE"},
 
 
 
@@ -5515,6 +7527,10 @@ var SALARY_CITIES = [
 
 
 {value:"nicoya-cr",col: 85 ,name:"Nicoya",display:"Nicoya, Costa Rica",country:"CR"},
+
+
+
+{value:"nieuw-nickerie-sr",col: 72 ,name:"Nieuw Nickerie",display:"Nieuw Nickerie, Suriname",country:"SR"},
 
 
 
@@ -5554,11 +7570,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"nkayi-cg",col: 65 ,name:"Nkayi",display:"Nkayi, Congo",country:"CG"},
+
+
+
+{value:"nkhotakota-mw",col: 60 ,name:"Nkhotakota",display:"Nkhotakota, Malawi",country:"MW"},
+
+
+
+{value:"nkongsamba-cm",col: 68 ,name:"Nkongsamba",display:"Nkongsamba, Cameroon",country:"CM"},
+
+
+
 {value:"noakhali-bd",col: 75 ,name:"Noakhali",display:"Noakhali, Bangladesh",country:"BD"},
 
 
 
 {value:"noida-up",col: 115 ,name:"Noida",display:"Noida, India",country:"IN"},
+
+
+
+{value:"nola-cf",col: 55 ,name:"Nola",display:"Nola, Central African Republic",country:"CF"},
 
 
 
@@ -5594,6 +7626,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"nouadhibou-mr",col: 82 ,name:"Nouadhibou",display:"Nouadhibou, Mauritania",country:"MR"},
+
+
+
+{value:"nouakchott-mr",col: 100 ,name:"Nouakchott",display:"Nouakchott, Mauritania",country:"MR"},
+
+
+
 {value:"nova-iguacu-rj",col: 90 ,name:"Nova Iguaçu",display:"Nova Iguaçu, Brasil",country:"BR"},
 
 
@@ -5622,7 +7662,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"ntcheu-mw",col: 58 ,name:"Ntcheu",display:"Ntcheu, Malawi",country:"MW"},
+
+
+
 {value:"nyc",col: 187.2 ,name:"Nueva York",display:"Nueva York, NY, US",country:"US",selected:true},
+
+
+
+{value:"nukualofa-to",col: 100 ,name:"Nuku\u0027alofa",display:"Nuku\u0027alofa, Tonga",country:"TO"},
+
+
+
+{value:"nukus-uz",col: 68 ,name:"Nukus",display:"Nukus, Uzbekistan",country:"UZ"},
 
 
 
@@ -5630,7 +7682,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"nyagatare-rw",col: 62 ,name:"Nyagatare",display:"Nyagatare, Rwanda",country:"RW"},
+
+
+
+{value:"nyala-sd",col: 70 ,name:"Nyala",display:"Nyala, Sudan",country:"SD"},
+
+
+
 {value:"nyiregyhaza-sz",col: 72 ,name:"Nyíregyháza",display:"Nyíregyháza, Hungría",country:"HU"},
+
+
+
+{value:"nzerekore-gn",col: 65 ,name:"Nzerekore",display:"Nzerekore, Guinea",country:"GN"},
 
 
 
@@ -5646,7 +7710,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"obock-dj",col: 65 ,name:"Obock",display:"Obock, Djibouti",country:"DJ"},
+
+
+
 {value:"obuasi-gh",col: 85 ,name:"Obuasi",display:"Obuasi, Ghana",country:"GH"},
+
+
+
+{value:"ocho-rios-jm",col: 82 ,name:"Ocho Rios",display:"Ocho Rios, Jamaica",country:"JM"},
 
 
 
@@ -5659,6 +7731,10 @@ var SALARY_CITIES = [
 
 
 {value:"odessa-tx",col: 95 ,name:"Odessa",display:"Odessa, TX, US",country:"US"},
+
+
+
+{value:"odienne-ci",col: 58 ,name:"Odienné",display:"Odienné, Côte d\u0027Ivoire",country:"CI"},
 
 
 
@@ -5710,6 +7786,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"omdurman-sd",col: 88 ,name:"Omdurman",display:"Omdurman, Sudan",country:"SD"},
+
+
+
 {value:"ondo-ondo",col: 76 ,name:"Ondo City",display:"Ondo City, Nigeria",country:"NG"},
 
 
@@ -5730,11 +7810,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"oran-dz",col: 88 ,name:"Oran",display:"Oran, Algeria",country:"DZ"},
+
+
+
 {value:"orebro-se",col: 98 ,name:"Örebro",display:"Örebro, Sweden",country:"SE"},
 
 
 
 {value:"orenburg-ore",col: 80 ,name:"Orenburg",display:"Orenburg, Russia",country:"RU"},
+
+
+
+{value:"orhei-md",col: 62 ,name:"Orhei",display:"Orhei, Moldova",country:"MD"},
 
 
 
@@ -5755,6 +7843,10 @@ var SALARY_CITIES = [
 
 
 {value:"osasco-sp",col: 97 ,name:"Osasco",display:"Osasco, Brasil",country:"BR"},
+
+
+
+{value:"osh-kg",col: 78 ,name:"Osh",display:"Osh, Kyrgyzstan",country:"KG"},
 
 
 
@@ -5782,11 +7874,31 @@ var SALARY_CITIES = [
 
 
 
+{value:"otjiwarongo-na",col: 68 ,name:"Otjiwarongo",display:"Otjiwarongo, Namibia",country:"NA"},
+
+
+
 {value:"otsu-sig",col: 92 ,name:"Otsu",display:"Otsu, Japón",country:"JP"},
 
 
 
 {value:"ottawa-ca",col: 101.2 ,name:"Ottawa",display:"Ottawa, Canadá",country:"CA"},
+
+
+
+{value:"ouagadougou-bf",col: 100 ,name:"Ouagadougou",display:"Ouagadougou, Burkina Faso",country:"BF"},
+
+
+
+{value:"ouahigouya-bf",col: 62 ,name:"Ouahigouya",display:"Ouahigouya, Burkina Faso",country:"BF"},
+
+
+
+{value:"ouargla-dz",col: 65 ,name:"Ouargla",display:"Ouargla, Algeria",country:"DZ"},
+
+
+
+{value:"ouesso-cg",col: 65 ,name:"Ouesso",display:"Ouesso, Congo",country:"CG"},
 
 
 
@@ -5822,11 +7934,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"oyem-ga",col: 68 ,name:"Oyem",display:"Oyem, Gabon",country:"GA"},
+
+
+
 {value:"pabna-bd",col: 76 ,name:"Pabna",display:"Pabna, Bangladesh",country:"BD"},
 
 
 
-{value:"padang-id",col: 46 ,name:"Padang",display:"Padang, ",country:"ID"},
+{value:"padang-idn",col: 46 ,name:"Padang",display:"Padang, Indonesia",country:"IDN"},
 
 
 
@@ -5834,15 +7950,39 @@ var SALARY_CITIES = [
 
 
 
+{value:"krong-pailin-kh",col: 62 ,name:"Pailin",display:"Pailin, Cambodia",country:"KH"},
+
+
+
+{value:"pakokku-mm",col: 65 ,name:"Pakokku",display:"Pakokku, Myanmar",country:"MM"},
+
+
+
+{value:"pakse-la",col: 72 ,name:"Pakse",display:"Pakse, Laos",country:"LA"},
+
+
+
+{value:"pala-td",col: 58 ,name:"Pala",display:"Pala, Chad",country:"TD"},
+
+
+
 {value:"palanga-pl",col: 90 ,name:"Palanga",display:"Palanga, Lituania",country:"LT"},
 
 
 
-{value:"palembang-id",col: 36 ,name:"Palembang",display:"Palembang, ",country:"ID"},
+{value:"pale-gq",col: 65 ,name:"Pale",display:"Pale, Equatorial Guinea",country:"GQ"},
+
+
+
+{value:"palembang-idn",col: 36 ,name:"Palembang",display:"Palembang, Indonesia",country:"IDN"},
 
 
 
 {value:"palermo-sic",col: 80 ,name:"Palermo",display:"Palermo, Italia",country:"IT"},
+
+
+
+{value:"palikir-fm",col: 100 ,name:"Palikir",display:"Palikir, Micronesia",country:"FM"},
 
 
 
@@ -5886,11 +8026,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"pante-makassar-tl",col: 65 ,name:"Pante Makassar",display:"Pante Makassar, Timor-Leste",country:"TL"},
+
+
+
 {value:"paphos-cy",col: 92 ,name:"Paphos",display:"Paphos, Chipre",country:"CY"},
 
 
 
 {value:"paphos-pa",col: 95 ,name:"Paphos",display:"Paphos, Chipre",country:"CY"},
+
+
+
+{value:"paramaribo-sr",col: 100 ,name:"Paramaribo",display:"Paramaribo, Suriname",country:"SR"},
 
 
 
@@ -5922,6 +8070,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"paro-bt",col: 78 ,name:"Paro",display:"Paro, Bhutan",country:"BT"},
+
+
+
 {value:"pasadena-ca",col: 160 ,name:"Pasadena",display:"Pasadena, CA, US",country:"US"},
 
 
@@ -5931,6 +8083,10 @@ var SALARY_CITIES = [
 
 
 {value:"paterson-nj",col: 105 ,name:"Paterson",display:"Paterson, NJ, US",country:"US"},
+
+
+
+{value:"pathein-mm",col: 70 ,name:"Pathein",display:"Pathein, Myanmar",country:"MM"},
 
 
 
@@ -5970,11 +8126,15 @@ var SALARY_CITIES = [
 
 
 
-{value:"pekanbaru-id",col: 47 ,name:"Pekanbaru",display:"Pekanbaru, ",country:"ID"},
+{value:"pekanbaru-idn",col: 47 ,name:"Pekanbaru",display:"Pekanbaru, Indonesia",country:"IDN"},
 
 
 
 {value:"pelotas-rs",col: 90 ,name:"Pelotas",display:"Pelotas, Brasil",country:"BR"},
+
+
+
+{value:"pemba-mz",col: 72 ,name:"Pemba",display:"Pemba, Mozambique",country:"MZ"},
 
 
 
@@ -6058,11 +8218,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"phnom-penh-kh",col: 100 ,name:"Phnom Penh",display:"Phnom Penh, Cambodia",country:"KH"},
+
+
+
 {value:"phoenix-az",col: 108.2 ,name:"Phoenix",display:"Phoenix, AZ, US",country:"US"},
 
 
 
+{value:"phongsali-la",col: 58 ,name:"Phongsali",display:"Phongsali, Laos",country:"LA"},
+
+
+
 {value:"phuket-th",col: 50 ,name:"Phuket",display:"Phuket, Thailand",country:"TH"},
+
+
+
+{value:"phuntsholing-bt",col: 82 ,name:"Phuntsholing",display:"Phuntsholing, Bhutan",country:"BT"},
 
 
 
@@ -6134,6 +8306,18 @@ var SALARY_CITIES = [
 
 
 
+{value:"point-fortin-tt",col: 72 ,name:"Point Fortin",display:"Point Fortin, Trinidad and Tobago",country:"TT"},
+
+
+
+{value:"pointe-noire-cg",col: 88 ,name:"Pointe-Noire",display:"Pointe-Noire, Congo",country:"CG"},
+
+
+
+{value:"pokhara-np",col: 82 ,name:"Pokhara",display:"Pokhara, Nepal",country:"NP"},
+
+
+
 {value:"polokwane-za",col: 82 ,name:"Polokwane",display:"Polokwane, South Africa",country:"ZA"},
 
 
@@ -6150,7 +8334,7 @@ var SALARY_CITIES = [
 
 
 
-{value:"pontianak-id",col: 44 ,name:"Pontianak",display:"Pontianak, ",country:"ID"},
+{value:"pontianak-idn",col: 44 ,name:"Pontianak",display:"Pontianak, Indonesia",country:"IDN"},
 
 
 
@@ -6174,11 +8358,47 @@ var SALARY_CITIES = [
 
 
 
+{value:"port-loko-sl",col: 60 ,name:"Port Loko",display:"Port Loko, Sierra Leone",country:"SL"},
+
+
+
+{value:"port-louis-mu",col: 100 ,name:"Port Louis",display:"Port Louis, Mauritius",country:"MU"},
+
+
+
+{value:"port-moresby-pg",col: 100 ,name:"Port Moresby",display:"Port Moresby, Papua New Guinea",country:"PG"},
+
+
+
+{value:"port-of-spain-tt",col: 100 ,name:"Port of Spain",display:"Port of Spain, Trinidad and Tobago",country:"TT"},
+
+
+
 {value:"port-said-eg",col: 85 ,name:"Port Said",display:"Port Said, Egypt",country:"EG"},
 
 
 
 {value:"port-st-lucie-fl",col: 100 ,name:"Port St. Lucie",display:"Port St. Lucie, FL, US",country:"US"},
+
+
+
+{value:"port-sudan-sd",col: 85 ,name:"Port Sudan",display:"Port Sudan, Sudan",country:"SD"},
+
+
+
+{value:"port-vila-vu",col: 100 ,name:"Port Vila",display:"Port Vila, Vanuatu",country:"VU"},
+
+
+
+{value:"port-au-prince-ht",col: 100 ,name:"Port-au-Prince",display:"Port-au-Prince, Haiti",country:"HT"},
+
+
+
+{value:"port-de-paix-ht",col: 65 ,name:"Port-de-Paix",display:"Port-de-Paix, Haiti",country:"HT"},
+
+
+
+{value:"port-gentil-ga",col: 88 ,name:"Port-Gentil",display:"Port-Gentil, Gabon",country:"GA"},
 
 
 
@@ -6195,6 +8415,10 @@ var SALARY_CITIES = [
 
 
 {value:"portland-or",col: 118.2 ,name:"Portland",display:"Portland, OR, US",country:"US"},
+
+
+
+{value:"portmore-jm",col: 78 ,name:"Portmore",display:"Portmore, Jamaica",country:"JM"},
 
 
 
@@ -6230,6 +8454,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"poti-ge",col: 68 ,name:"Poti",display:"Poti, Georgia",country:"GE"},
+
+
+
 {value:"potosi-bo",col: 82 ,name:"Potosi",display:"Potosi, Bolivia",country:"BO"},
 
 
@@ -6247,6 +8475,10 @@ var SALARY_CITIES = [
 
 
 {value:"prague-cz",col: 115 ,name:"Prague",display:"Prague, República Checa",country:"CZ"},
+
+
+
+{value:"praia-cv",col: 100 ,name:"Praia",display:"Praia, Cabo Verde",country:"CV"},
 
 
 
@@ -6330,6 +8562,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"punakha-bt",col: 68 ,name:"Punakha",display:"Punakha, Bhutan",country:"BT"},
+
+
+
 {value:"pune-mh",col: 110 ,name:"Pune",display:"Pune, India",country:"IN"},
 
 
@@ -6346,6 +8582,18 @@ var SALARY_CITIES = [
 
 
 
+{value:"pyay-mm",col: 68 ,name:"Pyay",display:"Pyay, Myanmar",country:"MM"},
+
+
+
+{value:"qachas-nek-ls",col: 58 ,name:"Qacha\u0027s Nek",display:"Qacha\u0027s Nek, Lesotho",country:"LS"},
+
+
+
+{value:"qamishli-sy",col: 62 ,name:"Qamishli",display:"Qamishli, Syria",country:"SY"},
+
+
+
 {value:"qena-eg",col: 70 ,name:"Qena",display:"Qena, Egypt",country:"EG"},
 
 
@@ -6354,11 +8602,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"qom-ir",col: 75 ,name:"Qom",display:"Qom, Iran",country:"IR"},
+
+
+
+{value:"quatre-bornes-mu",col: 85 ,name:"Quatre Bornes",display:"Quatre Bornes, Mauritius",country:"MU"},
+
+
+
 {value:"quebec-city-ca",col: 87.2 ,name:"Quebec City",display:"Quebec City, Canadá",country:"CA"},
 
 
 
 {value:"queenstown-nz",col: 115 ,name:"Queenstown",display:"Queenstown, Nueva Zelanda",country:"NZ"},
+
+
+
+{value:"quelimane-mz",col: 68 ,name:"Quelimane",display:"Quelimane, Mozambique",country:"MZ"},
 
 
 
@@ -6395,6 +8655,10 @@ var SALARY_CITIES = [
 
 
 {value:"quito-ec",col: 108 ,name:"Quito",display:"Quito, Ecuador",country:"EC"},
+
+
+
+{value:"quthing-ls",col: 60 ,name:"Quthing",display:"Quthing, Lesotho",country:"LS"},
 
 
 
@@ -6442,6 +8706,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"ramadi-iq",col: 72 ,name:"Ramadi",display:"Ramadi, Iraq",country:"IQ"},
+
+
+
 {value:"rancagua-cl",col: 95 ,name:"Rancagua",display:"Rancagua, Chile",country:"CL"},
 
 
@@ -6462,7 +8730,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"raqqa-sy",col: 68 ,name:"Raqqa",display:"Raqqa, Syria",country:"SY"},
+
+
+
 {value:"ras-al-khaimah-ae",col: 52 ,name:"Ras Al Khaimah",display:"Ras Al Khaimah, United Arab Emirates",country:"AE"},
+
+
+
+{value:"rasht-ir",col: 75 ,name:"Rasht",display:"Rasht, Iran",country:"IR"},
+
+
+
+{value:"ratnapura-lk",col: 65 ,name:"Ratnapura",display:"Ratnapura, Sri Lanka",country:"LK"},
 
 
 
@@ -6471,6 +8751,10 @@ var SALARY_CITIES = [
 
 
 {value:"rawson-pz",col: 60 ,name:"Rawson",display:"Rawson, Argentina",country:"AR"},
+
+
+
+{value:"rayan-ye",col: 70 ,name:"Rayan",display:"Rayan, Yemen",country:"YE"},
 
 
 
@@ -6539,6 +8823,10 @@ var SALARY_CITIES = [
 
 
 {value:"richmond-va",col: 98.5 ,name:"Richmond",display:"Richmond, VA, US",country:"US"},
+
+
+
+{value:"rifaa-bh",col: 85 ,name:"Riffa",display:"Riffa, Bahrain",country:"BH"},
 
 
 
@@ -6658,7 +8946,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"roseau-dm",col: 100 ,name:"Roseau",display:"Roseau, Dominica",country:"DM"},
+
+
+
 {value:"roskilde-dk",col: 105 ,name:"Roskilde",display:"Roskilde, Denmark",country:"DK"},
+
+
+
+{value:"rosso-mr",col: 60 ,name:"Rosso",display:"Rosso, Mauritania",country:"MR"},
 
 
 
@@ -6682,6 +8978,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"ruhengeri-rw",col: 68 ,name:"Ruhengeri",display:"Ruhengeri, Rwanda",country:"RW"},
+
+
+
 {value:"ruiru",col: 86 ,name:"Ruiru",display:"Ruiru, Kenya",country:"KE"},
 
 
@@ -6690,11 +8990,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"rumonge-bi",col: 65 ,name:"Rumonge",display:"Rumonge, Burundi",country:"BI"},
+
+
+
+{value:"rumphi-mw",col: 58 ,name:"Rumphi",display:"Rumphi, Malawi",country:"MW"},
+
+
+
+{value:"rundu-na",col: 72 ,name:"Rundu",display:"Rundu, Namibia",country:"NA"},
+
+
+
 {value:"ruse-r",col: 78 ,name:"Ruse",display:"Ruse, Bulgaria",country:"BG"},
 
 
 
 {value:"rustaq-om",col: 98 ,name:"Rustaq",display:"Rustaq, Oman",country:"OM"},
+
+
+
+{value:"rustavi-ge",col: 68 ,name:"Rustavi",display:"Rustavi, Georgia",country:"GE"},
 
 
 
@@ -6711,6 +9027,10 @@ var SALARY_CITIES = [
 
 
 {value:"rzeszow-pk",col: 78 ,name:"Rzeszów",display:"Rzeszów, Polonia",country:"PL"},
+
+
+
+{value:"sadah-ye",col: 65 ,name:"Sa\u0027dah",display:"Sa\u0027dah, Yemen",country:"YE"},
 
 
 
@@ -6738,6 +9058,18 @@ var SALARY_CITIES = [
 
 
 
+{value:"sainshand-mn",col: 60 ,name:"Sainshand",display:"Sainshand, Mongolia",country:"MN"},
+
+
+
+{value:"saint-georges-gd",col: 100 ,name:"Saint George\u0027s",display:"Saint George\u0027s, Grenada",country:"GD"},
+
+
+
+{value:"saint-johns-ag",col: 100 ,name:"Saint John\u0027s",display:"Saint John\u0027s, Antigua and Barbuda",country:"AG"},
+
+
+
 {value:"saint-paul-mn",col: 104.2 ,name:"Saint Paul",display:"Saint Paul, MN, US",country:"US"},
 
 
@@ -6750,11 +9082,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"saint-louis-sn",col: 72 ,name:"Saint-Louis",display:"Saint-Louis, Senegal",country:"SN"},
+
+
+
 {value:"saitama-sai",col: 95 ,name:"Saitama",display:"Saitama, Japón",country:"JP"},
 
 
 
 {value:"sakai-osk",col: 100 ,name:"Sakai",display:"Sakai, Japón",country:"JP"},
+
+
+
+{value:"sal-rei-cv",col: 78 ,name:"Sal Rei",display:"Sal Rei, Cabo Verde",country:"CV"},
 
 
 
@@ -6778,6 +9118,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"salima-mw",col: 65 ,name:"Salima",display:"Salima, Malawi",country:"MW"},
+
+
+
 {value:"salmiya-kw",col: 108 ,name:"Salmiya",display:"Salmiya, Kuwait",country:"KW"},
 
 
@@ -6787,6 +9131,10 @@ var SALARY_CITIES = [
 
 
 {value:"salt-lake-city-ut",col: 108.5 ,name:"Salt Lake City",display:"Salt Lake City, UT, US",country:"US"},
+
+
+
+{value:"salt-jo",col: 72 ,name:"Salt",display:"Salt, Jordan",country:"JO"},
 
 
 
@@ -6811,6 +9159,18 @@ var SALARY_CITIES = [
 
 
 {value:"samara-sam",col: 90 ,name:"Samara",display:"Samara, Russia",country:"RU"},
+
+
+
+{value:"samarkand-uz",col: 82 ,name:"Samarkand",display:"Samarkand, Uzbekistan",country:"UZ"},
+
+
+
+{value:"samawah-iq",col: 70 ,name:"Samawah",display:"Samawah, Iraq",country:"IQ"},
+
+
+
+{value:"same-tl",col: 65 ,name:"Same",display:"Same, Timor-Leste",country:"TL"},
 
 
 
@@ -6847,6 +9207,10 @@ var SALARY_CITIES = [
 
 
 {value:"catamarca-ct",col: 62 ,name:"San Fernando del Valle de Catamarca",display:"San Fernando del Valle de Catamarca, Argentina",country:"AR"},
+
+
+
+{value:"san-fernando-tt",col: 88 ,name:"San Fernando",display:"San Fernando, Trinidad and Tobago",country:"TT"},
 
 
 
@@ -6890,6 +9254,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"san-marino-sm",col: 100 ,name:"San Marino",display:"San Marino, San Marino",country:"SM"},
+
+
+
 {value:"san-miguel-de-allende-gua",col: 82 ,name:"San Miguel de Allende",display:"San Miguel de Allende, México",country:"MX"},
 
 
@@ -6927,6 +9295,22 @@ var SALARY_CITIES = [
 
 
 {value:"san-sebastián-pv",col: 110 ,name:"San Sebastián",display:"San Sebastián, España",country:"ES"},
+
+
+
+{value:"san-pedro-ci",col: 72 ,name:"San-Pédro",display:"San-Pédro, Côte d\u0027Ivoire",country:"CI"},
+
+
+
+{value:"san-ml",col: 58 ,name:"San",display:"San, Mali",country:"ML"},
+
+
+
+{value:"sanaa-ye",col: 100 ,name:"Sanaa",display:"Sanaa, Yemen",country:"YE"},
+
+
+
+{value:"sanandaj-ir",col: 68 ,name:"Sanandaj",display:"Sanandaj, Iran",country:"IR"},
 
 
 
@@ -6979,6 +9363,10 @@ var SALARY_CITIES = [
 
 
 {value:"santa-fe-sf",col: 74 ,name:"Santa Fe",display:"Santa Fe, Argentina",country:"AR"},
+
+
+
+{value:"santa-maria-cv",col: 85 ,name:"Santa Maria",display:"Santa Maria, Cabo Verde",country:"CV"},
 
 
 
@@ -7054,6 +9442,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"sao-filipe-cv",col: 72 ,name:"Sao Filipe",display:"Sao Filipe, Cabo Verde",country:"CV"},
+
+
+
 {value:"sao-goncalo-rj",col: 88 ,name:"São Gonçalo",display:"São Gonçalo, Brasil",country:"BR"},
 
 
@@ -7071,6 +9463,10 @@ var SALARY_CITIES = [
 
 
 {value:"sao-paulo-sp",col: 120 ,name:"São Paulo",display:"São Paulo, Brasil",country:"BR"},
+
+
+
+{value:"sao-tome-st",col: 100 ,name:"Sao Tome",display:"Sao Tome, Sao Tome and Principe",country:"ST"},
 
 
 
@@ -7094,6 +9490,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"sahr-td",col: 68 ,name:"Sarh",display:"Sarh, Chad",country:"TD"},
+
+
+
+{value:"sari-ir",col: 72 ,name:"Sari",display:"Sari, Iran",country:"IR"},
+
+
+
 {value:"saskatoon-ca",col: 102 ,name:"Saskatoon",display:"Saskatoon, Canadá",country:"CA"},
 
 
@@ -7102,7 +9506,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"saurimo-ao",col: 65 ,name:"Saurimo",display:"Saurimo, Angola",country:"AO"},
+
+
+
+{value:"savanna-la-mar-jm",col: 65 ,name:"Savanna-la-Mar",display:"Savanna-la-Mar, Jamaica",country:"JM"},
+
+
+
 {value:"savannah-ga",col: 96.5 ,name:"Savannah",display:"Savannah, GA, US",country:"US"},
+
+
+
+{value:"savannakhet-la",col: 70 ,name:"Savannakhet",display:"Savannakhet, Laos",country:"LA"},
+
+
+
+{value:"tobago-tt",col: 78 ,name:"Scarborough",display:"Scarborough, Trinidad and Tobago",country:"TT"},
 
 
 
@@ -7126,7 +9546,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"sebha-ly",col: 68 ,name:"Sebha",display:"Sebha, Libya",country:"LY"},
+
+
+
 {value:"seeb-om",col: 100 ,name:"Seeb",display:"Seeb, Oman",country:"OM"},
+
+
+
+{value:"segou-ml",col: 65 ,name:"Ségou",display:"Ségou, Mali",country:"ML"},
 
 
 
@@ -7138,11 +9566,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"selebi-phikwe-bw",col: 68 ,name:"Selebi-Phikwe",display:"Selebi-Phikwe, Botswana",country:"BW"},
+
+
+
 {value:"selfoss-is",col: 82 ,name:"Selfoss",display:"Selfoss, Iceland",country:"IS"},
 
 
 
-{value:"semarang-id",col: 38 ,name:"Semarang",display:"Semarang, ",country:"ID"},
+{value:"selibaby-mr",col: 58 ,name:"Selibaby",display:"Selibaby, Mauritania",country:"MR"},
+
+
+
+{value:"semarang-idn",col: 38 ,name:"Semarang",display:"Semarang, Indonesia",country:"IDN"},
 
 
 
@@ -7158,6 +9594,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"sennar-sd",col: 65 ,name:"Sennar",display:"Sennar, Sudan",country:"SD"},
+
+
+
 {value:"seongnam-kr",col: 80 ,name:"Seongnam",display:"Seongnam, Corea del Sur",country:"KR"},
 
 
@@ -7170,7 +9610,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"serowe-bw",col: 65 ,name:"Serowe",display:"Serowe, Botswana",country:"BW"},
+
+
+
+{value:"serrekunda-gm",col: 88 ,name:"Serrekunda",display:"Serrekunda, Gambia",country:"GM"},
+
+
+
 {value:"serres-cm",col: 78 ,name:"Serres",display:"Serres, Grecia",country:"GR"},
+
+
+
+{value:"setif-dz",col: 75 ,name:"Sétif",display:"Sétif, Algeria",country:"DZ"},
 
 
 
@@ -7186,7 +9638,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"sfax-tn",col: 82 ,name:"Sfax",display:"Sfax, Tunisia",country:"TN"},
+
+
+
 {value:"shah-alam-my",col: 41 ,name:"Shah Alam",display:"Shah Alam, Malaysia",country:"MY"},
+
+
+
+{value:"shaki-az",col: 65 ,name:"Shaki",display:"Shaki, Azerbaijan",country:"AZ"},
 
 
 
@@ -7226,6 +9686,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"shiberghan-af",col: 65 ,name:"Shiberghan",display:"Shiberghan, Afghanistan",country:"AF"},
+
+
+
 {value:"shijiazhuang-he",col: 98 ,name:"Shijiazhuang",display:"Shijiazhuang, China",country:"CN"},
 
 
@@ -7235,6 +9699,14 @@ var SALARY_CITIES = [
 
 
 {value:"shimla-hp",col: 100 ,name:"Shimla",display:"Shimla, India",country:"IN"},
+
+
+
+{value:"shiraz-ir",col: 82 ,name:"Shiraz",display:"Shiraz, Iran",country:"IR"},
+
+
+
+{value:"shirvan-az",col: 62 ,name:"Shirvan",display:"Shirvan, Azerbaijan",country:"AZ"},
 
 
 
@@ -7270,11 +9742,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"sibiti-cg",col: 58 ,name:"Sibiti",display:"Sibiti, Congo",country:"CG"},
+
+
+
 {value:"sibiu-sb",col: 85 ,name:"Sibiu",display:"Sibiu, Rumania",country:"RO"},
 
 
 
+{value:"sidi-bel-abbes-dz",col: 68 ,name:"Sidi Bel Abbès",display:"Sidi Bel Abbès, Algeria",country:"DZ"},
+
+
+
 {value:"sydney-nsw",col: 100 ,name:"Sídney",display:"Sídney, Australia",country:"AU"},
+
+
+
+{value:"sidon-lb",col: 75 ,name:"Sidon",display:"Sidon, Lebanon",country:"LB"},
+
+
+
+{value:"siem-reap-kh",col: 82 ,name:"Siem Reap",display:"Siem Reap, Cambodia",country:"KH"},
 
 
 
@@ -7286,11 +9774,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"sigatoka-fj",col: 78 ,name:"Sigatoka",display:"Sigatoka, Fiji",country:"FJ"},
+
+
+
 {value:"sighisoara-ms",col: 80 ,name:"Sighișoara",display:"Sighișoara, Rumania",country:"RO"},
 
 
 
 {value:"siguatepeque-hn",col: 85 ,name:"Siguatepeque",display:"Siguatepeque, Honduras",country:"HN"},
+
+
+
+{value:"siguiri-gn",col: 62 ,name:"Siguiri",display:"Siguiri, Guinea",country:"GN"},
+
+
+
+{value:"sihanoukville-kh",col: 85 ,name:"Sihanoukville",display:"Sihanoukville, Cambodia",country:"KH"},
+
+
+
+{value:"sikasso-ml",col: 72 ,name:"Sikasso",display:"Sikasso, Mali",country:"ML"},
 
 
 
@@ -7339,6 +9843,18 @@ var SALARY_CITIES = [
 
 
 {value:"sioux-falls-sd",col: 90.5 ,name:"Sioux Falls",display:"Sioux Falls, SD, US",country:"US"},
+
+
+
+{value:"siteki-sz",col: 65 ,name:"Siteki",display:"Siteki, Eswatini",country:"SZ"},
+
+
+
+{value:"sitrah-bh",col: 78 ,name:"Sitrah",display:"Sitrah, Bahrain",country:"BH"},
+
+
+
+{value:"sittwe-mm",col: 68 ,name:"Sittwe",display:"Sittwe, Myanmar",country:"MM"},
 
 
 
@@ -7394,6 +9910,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"sokode-tg",col: 65 ,name:"Sokode",display:"Sokode, Togo",country:"TG"},
+
+
+
 {value:"sokoto-sk",col: 72 ,name:"Sokoto",display:"Sokoto, Nigeria",country:"NG"},
 
 
@@ -7406,7 +9926,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"solwezi-zm",col: 72 ,name:"Solwezi",display:"Solwezi, Zambia",country:"ZM"},
+
+
+
 {value:"sombor-rs",col: 63 ,name:"Sombor",display:"Sombor, Serbia",country:"RS"},
+
+
+
+{value:"songea-tz",col: 65 ,name:"Songea",display:"Songea, Tanzania",country:"TZ"},
 
 
 
@@ -7418,11 +9946,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"soroca-md",col: 60 ,name:"Soroca",display:"Soroca, Moldova",country:"MD"},
+
+
+
 {value:"sorocaba-sp",col: 96 ,name:"Sorocaba",display:"Sorocaba, Brasil",country:"BR"},
 
 
 
+{value:"soroti-ug",col: 65 ,name:"Soroti",display:"Soroti, Uganda",country:"UG"},
+
+
+
 {value:"sosua-do",col: 98 ,name:"Sosúa",display:"Sosúa, Dominican Republic",country:"DO"},
+
+
+
+{value:"sousse-tn",col: 85 ,name:"Sousse",display:"Sousse, Tunisia",country:"TN"},
 
 
 
@@ -7447,6 +9987,14 @@ var SALARY_CITIES = [
 
 
 {value:"soyapango-sv",col: 88 ,name:"Soyapango",display:"Soyapango, El Salvador",country:"SV"},
+
+
+
+{value:"soyo-ao",col: 70 ,name:"Soyo",display:"Soyo, Angola",country:"AO"},
+
+
+
+{value:"spanish-town-jm",col: 78 ,name:"Spanish Town",display:"Spanish Town, Jamaica",country:"JM"},
 
 
 
@@ -7602,11 +10150,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"sulaymaniyah-iq",col: 85 ,name:"Sulaymaniyah",display:"Sulaymaniyah, Iraq",country:"IQ"},
+
+
+
 {value:"sullana-pe",col: 85 ,name:"Sullana",display:"Sullana, Peru",country:"PE"},
 
 
 
 {value:"summerville-sc",col: 95 ,name:"Summerville",display:"Summerville, SC, US",country:"US"},
+
+
+
+{value:"sumqayit-az",col: 70 ,name:"Sumqayit",display:"Sumqayit, Azerbaijan",country:"AZ"},
 
 
 
@@ -7634,11 +10190,11 @@ var SALARY_CITIES = [
 
 
 
-{value:"surabaya-id",col: 42 ,name:"Surabaya",display:"Surabaya, ",country:"ID"},
+{value:"surabaya-idn",col: 42 ,name:"Surabaya",display:"Surabaya, Indonesia",country:"IDN"},
 
 
 
-{value:"solo-id",col: 44 ,name:"Surakarta",display:"Surakarta, ",country:"ID"},
+{value:"solo-idn",col: 44 ,name:"Surakarta",display:"Surakarta, Indonesia",country:"IDN"},
 
 
 
@@ -7647,6 +10203,10 @@ var SALARY_CITIES = [
 
 
 {value:"surat-gj",col: 95 ,name:"Surat",display:"Surat, India",country:"IN"},
+
+
+
+{value:"suva-fj",col: 100 ,name:"Suva",display:"Suva, Fiji",country:"FJ"},
 
 
 
@@ -7659,6 +10219,10 @@ var SALARY_CITIES = [
 
 
 {value:"svendborg-dk",col: 98 ,name:"Svendborg",display:"Svendborg, Denmark",country:"DK"},
+
+
+
+{value:"swakopmund-na",col: 85 ,name:"Swakopmund",display:"Swakopmund, Namibia",country:"NA"},
 
 
 
@@ -7690,6 +10254,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"tabora-tz",col: 65 ,name:"Tabora",display:"Tabora, Tanzania",country:"TZ"},
+
+
+
+{value:"tabriz-ir",col: 78 ,name:"Tabriz",display:"Tabriz, Iran",country:"IR"},
+
+
+
 {value:"tabuk",col: 92 ,name:"Tabuk",display:"Tabuk, Saudi Arabia",country:"SA"},
 
 
@@ -7707,6 +10279,14 @@ var SALARY_CITIES = [
 
 
 {value:"tacuarembo-uy",col: 85 ,name:"Tacuarembó",display:"Tacuarembó, Uruguay",country:"UY"},
+
+
+
+{value:"tadjourah-dj",col: 68 ,name:"Tadjourah",display:"Tadjourah, Djibouti",country:"DJ"},
+
+
+
+{value:"tahoua-ne",col: 62 ,name:"Tahoua",display:"Tahoua, Niger",country:"NE"},
 
 
 
@@ -7730,11 +10310,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"taiz-ye",col: 78 ,name:"Taiz",display:"Taiz, Yemen",country:"YE"},
+
+
+
 {value:"takamatsu-kgw",col: 90 ,name:"Takamatsu",display:"Takamatsu, Japón",country:"JP"},
 
 
 
 {value:"takasaki-gum",col: 86 ,name:"Takasaki",display:"Takasaki, Japón",country:"JP"},
+
+
+
+{value:"talas-kg",col: 58 ,name:"Talas",display:"Talas, Kyrgyzstan",country:"KG"},
 
 
 
@@ -7754,6 +10342,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"taloqan-af",col: 65 ,name:"Taloqan",display:"Taloqan, Afghanistan",country:"AF"},
+
+
+
 {value:"tamale-gh",col: 82 ,name:"Tamale",display:"Tamale, Ghana",country:"GH"},
 
 
@@ -7767,6 +10359,10 @@ var SALARY_CITIES = [
 
 
 {value:"tandil-ba",col: 68 ,name:"Tandil",display:"Tandil, Argentina",country:"AR"},
+
+
+
+{value:"tanga-tz",col: 72 ,name:"Tanga",display:"Tanga, Tanzania",country:"TZ"},
 
 
 
@@ -7790,6 +10386,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"tarawa-ki",col: 100 ,name:"Tarawa",display:"Tarawa, Kiribati",country:"KI"},
+
+
+
 {value:"taraz-kz",col: 80 ,name:"Taraz",display:"Taraz, Kazakhstan",country:"KZ"},
 
 
@@ -7810,6 +10410,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"taro-sb",col: 65 ,name:"Taro",display:"Taro, Solomon Islands",country:"SB"},
+
+
+
 {value:"tarragona-cat",col: 88 ,name:"Tarragona",display:"Tarragona, España",country:"ES"},
 
 
@@ -7818,11 +10422,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"tartus-sy",col: 72 ,name:"Tartus",display:"Tartus, Syria",country:"SY"},
+
+
+
+{value:"tashkent-uz",col: 100 ,name:"Tashkent",display:"Tashkent, Uzbekistan",country:"UZ"},
+
+
+
 {value:"tatabanya-ke",col: 75 ,name:"Tatabánya",display:"Tatabánya, Hungría",country:"HU"},
 
 
 
 {value:"taubate-sp",col: 94 ,name:"Taubaté",display:"Taubaté, Brasil",country:"BR"},
+
+
+
+{value:"taunggyi-mm",col: 70 ,name:"Taunggyi",display:"Taunggyi, Myanmar",country:"MM"},
 
 
 
@@ -7838,11 +10454,35 @@ var SALARY_CITIES = [
 
 
 
+{value:"tbilisi-ge",col: 100 ,name:"Tbilisi",display:"Tbilisi, Georgia",country:"GE"},
+
+
+
+{value:"tchibanga-ga",col: 62 ,name:"Tchibanga",display:"Tchibanga, Gabon",country:"GA"},
+
+
+
+{value:"tebessa-dz",col: 65 ,name:"Tébessa",display:"Tébessa, Algeria",country:"DZ"},
+
+
+
 {value:"tegucigalpa-hn",col: 105 ,name:"Tegucigalpa",display:"Tegucigalpa, Honduras",country:"HN"},
 
 
 
+{value:"tehran-ir",col: 100 ,name:"Tehran",display:"Tehran, Iran",country:"IR"},
+
+
+
+{value:"tejen-tm",col: 62 ,name:"Tejen",display:"Tejen, Turkmenistan",country:"TM"},
+
+
+
 {value:"tel-aviv-il",col: 135 ,name:"Tel Aviv",display:"Tel Aviv, Israel",country:"IL"},
+
+
+
+{value:"telavi-ge",col: 62 ,name:"Telavi",display:"Telavi, Georgia",country:"GE"},
 
 
 
@@ -7858,11 +10498,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"tenkodogo-bf",col: 58 ,name:"Tenkodogo",display:"Tenkodogo, Burkina Faso",country:"BF"},
+
+
+
 {value:"tepic-nay",col: 63.5 ,name:"Tepic",display:"Tepic, México",country:"MX"},
 
 
 
 {value:"teresina-pi",col: 87 ,name:"Teresina",display:"Teresina, Brasil",country:"BR"},
+
+
+
+{value:"termez-uz",col: 65 ,name:"Termez",display:"Termez, Uzbekistan",country:"UZ"},
 
 
 
@@ -7874,6 +10522,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"tessenei-er",col: 60 ,name:"Tessenei",display:"Tessenei, Eritrea",country:"ER"},
+
+
+
+{value:"tete-mz",col: 72 ,name:"Tete",display:"Tete, Mozambique",country:"MZ"},
+
+
+
 {value:"tetouan-ma",col: 78 ,name:"Tetouan",display:"Tetouan, Morocco",country:"MA"},
 
 
@@ -7882,11 +10538,31 @@ var SALARY_CITIES = [
 
 
 
+{value:"teyateyaneng-ls",col: 72 ,name:"Teyateyaneng",display:"Teyateyaneng, Lesotho",country:"LS"},
+
+
+
+{value:"thakhek-la",col: 65 ,name:"Thakhek",display:"Thakhek, Laos",country:"LA"},
+
+
+
 {value:"thane-mh",col: 105 ,name:"Thane",display:"Thane, India",country:"IN"},
 
 
 
+{value:"thies-sn",col: 75 ,name:"Thies",display:"Thies, Senegal",country:"SN"},
+
+
+
 {value:"thika",col: 85 ,name:"Thika",display:"Thika, Kenya",country:"KE"},
+
+
+
+{value:"thimphu-bt",col: 100 ,name:"Thimphu",display:"Thimphu, Bhutan",country:"BT"},
+
+
+
+{value:"thinadhoo-mv",col: 70 ,name:"Thinadhoo",display:"Thinadhoo, Maldives",country:"MV"},
 
 
 
@@ -7914,11 +10590,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"tillaberi-ne",col: 60 ,name:"Tillabéri",display:"Tillabéri, Niger",country:"NE"},
+
+
+
+{value:"timbuktu-ml",col: 60 ,name:"Timbuktu",display:"Timbuktu, Mali",country:"ML"},
+
+
+
 {value:"timisoara-tm",col: 90 ,name:"Timișoara",display:"Timișoara, Rumania",country:"RO"},
 
 
 
 {value:"tirana-al",col: 55 ,name:"Tirana",display:"Tirana, Albania",country:"AL"},
+
+
+
+{value:"tiraspol-md",col: 68 ,name:"Tiraspol",display:"Tiraspol, Moldova",country:"MD"},
 
 
 
@@ -7930,7 +10618,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"tizi-ouzou-dz",col: 70 ,name:"Tizi Ouzou",display:"Tizi Ouzou, Algeria",country:"DZ"},
+
+
+
+{value:"tlemcen-dz",col: 72 ,name:"Tlemcen",display:"Tlemcen, Algeria",country:"DZ"},
+
+
+
+{value:"toamasina-mg",col: 78 ,name:"Toamasina",display:"Toamasina, Madagascar",country:"MG"},
+
+
+
+{value:"tobruk-ly",col: 70 ,name:"Tobruk",display:"Tobruk, Libya",country:"LY"},
+
+
+
 {value:"tokyo-tky",col: 130 ,name:"Tokio",display:"Tokio, Japón",country:"JP"},
+
+
+
+{value:"tokmok-kg",col: 62 ,name:"Tokmok",display:"Tokmok, Kyrgyzstan",country:"KG"},
 
 
 
@@ -7943,6 +10651,10 @@ var SALARY_CITIES = [
 
 
 {value:"toledo-oh",col: 88.5 ,name:"Toledo",display:"Toledo, OH, US",country:"US"},
+
+
+
+{value:"toliara-mg",col: 68 ,name:"Toliara",display:"Toliara, Madagascar",country:"MG"},
 
 
 
@@ -7970,7 +10682,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"torit-ss",col: 62 ,name:"Torit",display:"Torit, South Sudan",country:"SS"},
+
+
+
 {value:"toronto-ca",col: 128.4 ,name:"Toronto",display:"Toronto, Canadá",country:"CA"},
+
+
+
+{value:"tororo-ug",col: 65 ,name:"Tororo",display:"Tororo, Uganda",country:"UG"},
 
 
 
@@ -7987,6 +10707,10 @@ var SALARY_CITIES = [
 
 
 {value:"tottori-ttr",col: 84 ,name:"Tottori",display:"Tottori, Japón",country:"JP"},
+
+
+
+{value:"touba-sn",col: 65 ,name:"Touba",display:"Touba, Senegal",country:"SN"},
 
 
 
@@ -8030,6 +10754,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"trashigang-bt",col: 62 ,name:"Trashigang",display:"Trashigang, Bhutan",country:"BT"},
+
+
+
 {value:"traun-ooe",col: 85 ,name:"Traun",display:"Traun, Austria",country:"AT"},
 
 
@@ -8070,7 +10798,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"trincomalee-lk",col: 70 ,name:"Trincomalee",display:"Trincomalee, Sri Lanka",country:"LK"},
+
+
+
 {value:"trinidad-bo",col: 88 ,name:"Trinidad",display:"Trinidad, Bolivia",country:"BO"},
+
+
+
+{value:"tripoli-lb",col: 78 ,name:"Tripoli",display:"Tripoli, Lebanon",country:"LB"},
+
+
+
+{value:"tripoli-ly",col: 100 ,name:"Tripoli",display:"Tripoli, Libya",country:"LY"},
 
 
 
@@ -8090,7 +10830,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"tsovie-tg",col: 62 ,name:"Tsovie",display:"Tsovie, Togo",country:"TG"},
+
+
+
 {value:"tsu-mie",col: 87 ,name:"Tsu",display:"Tsu, Japón",country:"JP"},
+
+
+
+{value:"tsumeb-na",col: 68 ,name:"Tsumeb",display:"Tsumeb, Namibia",country:"NA"},
 
 
 
@@ -8106,6 +10854,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"tulsipur-np",col: 65 ,name:"Tulsipur",display:"Tulsipur, Nepal",country:"NP"},
+
+
+
+{value:"tunis-tn",col: 100 ,name:"Tunis",display:"Tunis, Tunisia",country:"TN"},
+
+
+
 {value:"tunja-co",col: 82 ,name:"Tunja",display:"Tunja, Colombia",country:"CO"},
 
 
@@ -8115,6 +10871,14 @@ var SALARY_CITIES = [
 
 
 {value:"turkistan-kz",col: 80 ,name:"Turkistan",display:"Turkistan, Kazakhstan",country:"KZ"},
+
+
+
+{value:"turkmenabat-tm",col: 75 ,name:"Turkmenabat",display:"Turkmenabat, Turkmenistan",country:"TM"},
+
+
+
+{value:"turkmenbashi-tm",col: 70 ,name:"Turkmenbashi",display:"Turkmenbashi, Turkmenistan",country:"TM"},
 
 
 
@@ -8142,6 +10906,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"tyre-lb",col: 72 ,name:"Tyre",display:"Tyre, Lebanon",country:"LB"},
+
+
+
 {value:"tyumen-tyu",col: 95 ,name:"Tyumen",display:"Tyumen, Russia",country:"RU"},
 
 
@@ -8166,7 +10934,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"ulaanbaatar-mn",col: 100 ,name:"Ulaanbaatar",display:"Ulaanbaatar, Mongolia",country:"MN"},
+
+
+
 {value:"ulcinj-me",col: 66 ,name:"Ulcinj",display:"Ulcinj, Montenegro",country:"ME"},
+
+
+
+{value:"ulgii-mn",col: 62 ,name:"Ulgii",display:"Ulgii, Mongolia",country:"MN"},
 
 
 
@@ -8186,11 +10962,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"ungheni-md",col: 62 ,name:"Ungheni",display:"Ungheni, Moldova",country:"MD"},
+
+
+
 {value:"upington-za",col: 78 ,name:"Upington",display:"Upington, South Africa",country:"ZA"},
 
 
 
 {value:"uppsala-se",col: 108 ,name:"Uppsala",display:"Uppsala, Sweden",country:"SE"},
+
+
+
+{value:"urgench-uz",col: 70 ,name:"Urgench",display:"Urgench, Uzbekistan",country:"UZ"},
+
+
+
+{value:"urmia-ir",col: 70 ,name:"Urmia",display:"Urmia, Iran",country:"IR"},
 
 
 
@@ -8238,7 +11026,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"vacoas-mu",col: 82 ,name:"Vacoas-Phoenix",display:"Vacoas-Phoenix, Mauritius",country:"MU"},
+
+
+
 {value:"vadodara-gj",col: 92 ,name:"Vadodara",display:"Vadodara, India",country:"IN"},
+
+
+
+{value:"vaduz-li",col: 100 ,name:"Vaduz",display:"Vaduz, Liechtenstein",country:"LI"},
+
+
+
+{value:"vagharshapat-am",col: 65 ,name:"Vagharshapat",display:"Vagharshapat, Armenia",country:"AM"},
 
 
 
@@ -8286,11 +11086,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"vanadzor-am",col: 68 ,name:"Vanadzor",display:"Vanadzor, Armenia",country:"AM"},
+
+
+
 {value:"vancouver-ca",col: 142.6 ,name:"Vancouver",display:"Vancouver, Canadá",country:"CA"},
 
 
 
 {value:"vancouver-wa",col: 108 ,name:"Vancouver",display:"Vancouver, WA, US",country:"US"},
+
+
+
+{value:"vanimo-pg",col: 68 ,name:"Vanimo",display:"Vanimo, Papua New Guinea",country:"PG"},
 
 
 
@@ -8374,7 +11182,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"victoria-falls-zw",col: 78 ,name:"Victoria Falls",display:"Victoria Falls, Zimbabwe",country:"ZW"},
+
+
+
 {value:"victoria-ca",col: 112.4 ,name:"Victoria",display:"Victoria, Canadá",country:"CA"},
+
+
+
+{value:"victoria-sc",col: 100 ,name:"Victoria",display:"Victoria, Seychelles",country:"SC"},
 
 
 
@@ -8387,6 +11203,10 @@ var SALARY_CITIES = [
 
 
 {value:"vienna-wi",col: 120 ,name:"Vienna",display:"Vienna, Austria",country:"AT"},
+
+
+
+{value:"vientiane-la",col: 100 ,name:"Vientiane",display:"Vientiane, Laos",country:"LA"},
 
 
 
@@ -8450,6 +11270,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"vitebsk-by",col: 72 ,name:"Vitebsk",display:"Vitebsk, Belarus",country:"BY"},
+
+
+
 {value:"vitoria-es",col: 102 ,name:"Vitória",display:"Vitória, Brasil",country:"BR"},
 
 
@@ -8459,6 +11283,10 @@ var SALARY_CITIES = [
 
 
 {value:"vlore-al",col: 53 ,name:"Vlorë",display:"Vlorë, Albania",country:"AL"},
+
+
+
+{value:"voinjama-lr",col: 55 ,name:"Voinjama",display:"Voinjama, Liberia",country:"LR"},
 
 
 
@@ -8506,11 +11334,23 @@ var SALARY_CITIES = [
 
 
 
+{value:"wad-madani-sd",col: 75 ,name:"Wad Madani",display:"Wad Madani, Sudan",country:"SD"},
+
+
+
 {value:"wakayama-wky",col: 88 ,name:"Wakayama",display:"Wakayama, Japón",country:"JP"},
 
 
 
 {value:"walbrzych-ds",col: 72 ,name:"Wałbrzych",display:"Wałbrzych, Polonia",country:"PL"},
+
+
+
+{value:"walvis-bay-na",col: 88 ,name:"Walvis Bay",display:"Walvis Bay, Namibia",country:"NA"},
+
+
+
+{value:"wangdue-phodrang-bt",col: 65 ,name:"Wangdue Phodrang",display:"Wangdue Phodrang, Bhutan",country:"BT"},
 
 
 
@@ -8547,6 +11387,10 @@ var SALARY_CITIES = [
 
 
 {value:"waterloo-wbr",col: 100 ,name:"Waterloo",display:"Waterloo, Bélgica",country:"BE"},
+
+
+
+{value:"wau-ss",col: 70 ,name:"Wau",display:"Wau, South Sudan",country:"SS"},
 
 
 
@@ -8610,6 +11454,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"windhoek-na",col: 100 ,name:"Windhoek",display:"Windhoek, Namibia",country:"NA"},
+
+
+
 {value:"windsor-ca",col: 100 ,name:"Windsor",display:"Windsor, Canadá",country:"CA"},
 
 
@@ -8658,6 +11506,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"xai-xai-mz",col: 70 ,name:"Xai-Xai",display:"Xai-Xai, Mozambique",country:"MZ"},
+
+
+
+{value:"xam-neua-la",col: 60 ,name:"Xam Neua",display:"Xam Neua, Laos",country:"LA"},
+
+
+
 {value:"xian-sn",col: 105 ,name:"Xi\u0027an",display:"Xi\u0027an, China",country:"CN"},
 
 
@@ -8686,7 +11542,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"yambio-ss",col: 65 ,name:"Yambio",display:"Yambio, South Sudan",country:"SS"},
+
+
+
+{value:"yamoussoukro-ci",col: 78 ,name:"Yamoussoukro",display:"Yamoussoukro, Côte d\u0027Ivoire",country:"CI"},
+
+
+
 {value:"yanbu",col: 95 ,name:"Yanbu",display:"Yanbu, Saudi Arabia",country:"SA"},
+
+
+
+{value:"yangon-mm",col: 100 ,name:"Yangon",display:"Yangon, Myanmar",country:"MM"},
 
 
 
@@ -8694,7 +11562,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"yaounde-cm",col: 95 ,name:"Yaoundé",display:"Yaoundé, Cameroon",country:"CM"},
+
+
+
+{value:"yaren-nr",col: 100 ,name:"Yaren",display:"Yaren, Nauru",country:"NR"},
+
+
+
 {value:"yaroslavl-yar",col: 88 ,name:"Yaroslavl",display:"Yaroslavl, Russia",country:"RU"},
+
+
+
+{value:"yazd-ir",col: 78 ,name:"Yazd",display:"Yazd, Iran",country:"IR"},
 
 
 
@@ -8702,11 +11582,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"yerevan-am",col: 100 ,name:"Yerevan",display:"Yerevan, Armenia",country:"AM"},
+
+
+
 {value:"yinchuan-nx",col: 90 ,name:"Yinchuan",display:"Yinchuan, China",country:"CN"},
 
 
 
-{value:"yogyakarta-id",col: 35 ,name:"Yogyakarta",display:"Yogyakarta, ",country:"ID"},
+{value:"yogyakarta-idn",col: 35 ,name:"Yogyakarta",display:"Yogyakarta, Indonesia",country:"IDN"},
 
 
 
@@ -8762,11 +11646,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"zahedan-ir",col: 68 ,name:"Zahedan",display:"Zahedan, Iran",country:"IR"},
+
+
+
+{value:"zahlah-lb",col: 70 ,name:"Zahlah",display:"Zahlah, Lebanon",country:"LB"},
+
+
+
 {value:"zalaegerszeg-za",col: 72 ,name:"Zalaegerszeg",display:"Zalaegerszeg, Hungría",country:"HU"},
 
 
 
 {value:"zamboanga-ph",col: 34 ,name:"Zamboanga",display:"Zamboanga, Philippines",country:"PH"},
+
+
+
+{value:"zanjibar-ye",col: 65 ,name:"Zanjibar",display:"Zanjibar, Yemen",country:"YE"},
+
+
+
+{value:"zanzibar-city-tz",col: 90 ,name:"Zanzibar City",display:"Zanzibar City, Tanzania",country:"TZ"},
 
 
 
@@ -8779,6 +11679,14 @@ var SALARY_CITIES = [
 
 
 {value:"zaria-kd",col: 75 ,name:"Zaria",display:"Zaria, Nigeria",country:"NG"},
+
+
+
+{value:"zarqa-jo",col: 78 ,name:"Zarqa",display:"Zarqa, Jordan",country:"JO"},
+
+
+
+{value:"zawiya-ly",col: 70 ,name:"Zawiya",display:"Zawiya, Libya",country:"LY"},
 
 
 
@@ -8806,11 +11714,27 @@ var SALARY_CITIES = [
 
 
 
+{value:"ziguinchor-sn",col: 70 ,name:"Ziguinchor",display:"Ziguinchor, Senegal",country:"SN"},
+
+
+
 {value:"zilina-zi",col: 80 ,name:"Žilina",display:"Žilina, Eslovaquia",country:"SK"},
 
 
 
+{value:"zinder-ne",col: 72 ,name:"Zinder",display:"Zinder, Niger",country:"NE"},
+
+
+
 {value:"zlin-cz",col: 85 ,name:"Zlín",display:"Zlín, República Checa",country:"CZ"},
+
+
+
+{value:"zomba-mw",col: 72 ,name:"Zomba",display:"Zomba, Malawi",country:"MW"},
+
+
+
+{value:"zouerate-mr",col: 72 ,name:"Zouerate",display:"Zouerate, Mauritania",country:"MR"},
 
 
 
@@ -8822,7 +11746,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"zugdidi-ge",col: 65 ,name:"Zugdidi",display:"Zugdidi, Georgia",country:"GE"},
+
+
+
 {value:"zurich-zh",col: 130 ,name:"Zurich",display:"Zurich, Suiza",country:"CH"},
+
+
+
+{value:"zwedru-lr",col: 55 ,name:"Zwedru",display:"Zwedru, Liberia",country:"LR"},
 
 ];
 
