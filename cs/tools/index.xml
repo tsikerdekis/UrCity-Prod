@@ -186,6 +186,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"adamstown-pn",col: 100 ,name:"Adamstown",display:"Adamstown, Pitcairn Islands",country:"PN"},
+
+
+
 {value:"adana-tr",col: 88 ,name:"Adana",display:"Adana, Turkey",country:"TR"},
 
 
@@ -383,6 +387,10 @@ var SALARY_CITIES = [
 
 
 {value:"almaty-kz",col: 100 ,name:"Almaty",display:"Almaty, Kazakhstan",country:"KZ"},
+
+
+
+{value:"alofi-nu",col: 100 ,name:"Alofi",display:"Alofi, Niue",country:"NU"},
 
 
 
@@ -754,6 +762,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"avarua-ck",col: 110 ,name:"Avarua",display:"Avarua, Cook Islands",country:"CK"},
+
+
+
 {value:"aveiro-pt",col: 83 ,name:"Aveiro",display:"Aveiro, Portugalsko",country:"PT"},
 
 
@@ -1019,6 +1031,10 @@ var SALARY_CITIES = [
 
 
 {value:"basse-santa-su-gm",col: 58 ,name:"Basse Santa Su",display:"Basse Santa Su, Gambia",country:"GM"},
+
+
+
+{value:"basse-terre-gp",col: 90 ,name:"Basse-Terre",display:"Basse-Terre, Guadeloupe",country:"GP"},
 
 
 
@@ -1510,6 +1526,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"brades-ms",col: 100 ,name:"Brades",display:"Brades, Montserrat",country:"MS"},
+
+
+
 {value:"braga-pt",col: 82 ,name:"Braga",display:"Braga, Portugalsko",country:"PT"},
 
 
@@ -1922,6 +1942,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"cayenne-gf",col: 95 ,name:"Cayenne",display:"Cayenne, French Guiana",country:"GF"},
+
+
+
 {value:"cebu-ph",col: 38 ,name:"Cebu City",display:"Cebu City, Philippines",country:"PH"},
 
 
@@ -2003,6 +2027,10 @@ var SALARY_CITIES = [
 
 
 {value:"cobija-bo",col: 95 ,name:"Cobija",display:"Cobija, Bolivia",country:"BO"},
+
+
+
+{value:"cockburn-town-tc",col: 140 ,name:"Cockburn Town",display:"Cockburn Town, Turks and Caicos Islands",country:"TC"},
 
 
 
@@ -2154,6 +2182,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"cotonou-bj",col: 38 ,name:"Cotonou",display:"Cotonou, Benin",country:"BJ"},
+
+
+
 {value:"coventry-gb",col: 100 ,name:"Coventry",display:"Coventry, Spojené království",country:"GB"},
 
 
@@ -2259,6 +2291,10 @@ var SALARY_CITIES = [
 
 
 {value:"dakar-sn",col: 100 ,name:"Dakar",display:"Dakar, Senegal",country:"SN"},
+
+
+
+{value:"dakhla-eh",col: 52 ,name:"Dakhla",display:"Dakhla, Western Sahara",country:"EH"},
 
 
 
@@ -2470,6 +2506,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"diego-garcia-io",col: 150 ,name:"Diego Garcia",display:"Diego Garcia, British Indian Ocean Territory",country:"IO"},
+
+
+
 {value:"diekirch-di",col: 103 ,name:"Diekirch",display:"Diekirch, Lucembursko",country:"LU"},
 
 
@@ -2579,6 +2619,10 @@ var SALARY_CITIES = [
 
 
 {value:"douala-cm",col: 100 ,name:"Douala",display:"Douala, Cameroon",country:"CM"},
+
+
+
+{value:"douglas-im",col: 125 ,name:"Douglas",display:"Douglas, Isle of Man",country:"IM"},
 
 
 
@@ -2910,6 +2954,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"fakaofo-tk",col: 90 ,name:"Fakaofo",display:"Fakaofo, Tokelau",country:"TK"},
+
+
+
 {value:"famausta-cy",col: 88 ,name:"Famagusta",display:"Famagusta, Kypr",country:"CY"},
 
 
@@ -3014,6 +3062,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"flying-fish-cove-cx",col: 100 ,name:"Flying Fish Cove",display:"Flying Fish Cove, Christmas Island",country:"CX"},
+
+
+
 {value:"focsani-vn",col: 68 ,name:"Focșani",display:"Focșani, Rumunsko",country:"RO"},
 
 
@@ -3047,6 +3099,10 @@ var SALARY_CITIES = [
 
 
 {value:"fort-worth-tx",col: 98.5 ,name:"Fort Worth",display:"Fort Worth, TX, US",country:"US"},
+
+
+
+{value:"fort-de-france-mq",col: 95 ,name:"Fort-de-France",display:"Fort-de-France, Martinique",country:"MQ"},
 
 
 
@@ -3250,6 +3306,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"gaza-ps",col: 55 ,name:"Gaza City",display:"Gaza City, Palestine",country:"PS"},
+
+
+
 {value:"gaziantep-tr",col: 85 ,name:"Gaziantep",display:"Gaziantep, Turkey",country:"TR"},
 
 
@@ -3290,6 +3350,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"george-town-ky",col: 160 ,name:"George Town",display:"George Town, Cayman Islands",country:"KY"},
+
+
+
 {value:"penang-my",col: 45 ,name:"George Town",display:"George Town, Malaysia",country:"MY"},
 
 
@@ -3315,6 +3379,10 @@ var SALARY_CITIES = [
 
 
 {value:"ghent-vov",col: 100 ,name:"Ghent",display:"Ghent, Belgie",country:"BE"},
+
+
+
+{value:"gibraltar-gi",col: 130 ,name:"Gibraltar",display:"Gibraltar, Gibraltar",country:"GI"},
 
 
 
@@ -3387,6 +3455,10 @@ var SALARY_CITIES = [
 
 
 {value:"gold-coast-qld",col: 86 ,name:"Gold Coast",display:"Gold Coast, Austrálie",country:"AU"},
+
+
+
+{value:"goma-cd",col: 48 ,name:"Goma",display:"Goma, DR Congo",country:"CD"},
 
 
 
@@ -3582,6 +3654,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"gustavia-bl",col: 180 ,name:"Gustavia",display:"Gustavia, Saint Barthélemy",country:"BL"},
+
+
+
 {value:"guwahati-as",col: 90 ,name:"Guwahati",display:"Guwahati, India",country:"IN"},
 
 
@@ -3611,6 +3687,10 @@ var SALARY_CITIES = [
 
 
 {value:"haapsalu-la",col: 80 ,name:"Haapsalu",display:"Haapsalu, Estonsko",country:"EE"},
+
+
+
+{value:"hagatna-gu",col: 110 ,name:"Hagåtña",display:"Hagåtña, Guam",country:"GU"},
 
 
 
@@ -3682,11 +3762,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"hamhung-kp",col: 33 ,name:"Hamhung",display:"Hamhung, North Korea",country:"KP"},
+
+
+
 {value:"hamilton-oh",col: 88 ,name:"Hamilton",display:"Hamilton, OH, US",country:"US"},
 
 
 
 {value:"hamilton-ca",col: 110 ,name:"Hamilton",display:"Hamilton, Kanada",country:"CA"},
+
+
+
+{value:"hamilton-bm",col: 180 ,name:"Hamilton",display:"Hamilton, Bermuda",country:"BM"},
 
 
 
@@ -3775,6 +3863,10 @@ var SALARY_CITIES = [
 
 
 {value:"hawassa-et",col: 85 ,name:"Hawassa",display:"Hawassa, Ethiopia",country:"ET"},
+
+
+
+{value:"hebron-ps",col: 60 ,name:"Hebron",display:"Hebron, Palestine",country:"PS"},
 
 
 
@@ -4070,6 +4162,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"charlotte-amalie-vi",col: 130 ,name:"Charlotte Amalie",display:"Charlotte Amalie, US Virgin Islands",country:"VI"},
+
+
+
 {value:"charlotte-nc",col: 98.2 ,name:"Charlotte",display:"Charlotte, NC, US",country:"US"},
 
 
@@ -4222,6 +4318,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"chongjin-kp",col: 32 ,name:"Chongjin",display:"Chongjin, North Korea",country:"KP"},
+
+
+
 {value:"chongqing-cq",col: 105 ,name:"Chongqing",display:"Chongqing, Čína",country:"CN"},
 
 
@@ -4287,6 +4387,10 @@ var SALARY_CITIES = [
 
 
 {value:"ilorin-kw",col: 78 ,name:"Ilorin",display:"Ilorin, Nigeria",country:"NG"},
+
+
+
+{value:"ilulissat-gl",col: 152 ,name:"Ilulissat",display:"Ilulissat, ",country:"GL"},
 
 
 
@@ -4479,6 +4583,10 @@ var SALARY_CITIES = [
 
 
 {value:"jalapa-gt",col: 82 ,name:"Jalapa",display:"Jalapa, Guatemala",country:"GT"},
+
+
+
+{value:"jamestown-sh",col: 110 ,name:"Jamestown",display:"Jamestown, Saint Helena",country:"SH"},
 
 
 
@@ -5110,11 +5218,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"kingston-nf",col: 120 ,name:"Kingston",display:"Kingston, Norfolk Island",country:"NF"},
+
+
+
 {value:"kingston-ca",col: 110 ,name:"Kingston",display:"Kingston, Kanada",country:"CA"},
 
 
 
 {value:"kingstown-vc",col: 100 ,name:"Kingstown",display:"Kingstown, Saint Vincent and the Grenadines",country:"VC"},
+
+
+
+{value:"kinshasa-cd",col: 45 ,name:"Kinshasa",display:"Kinshasa, DR Congo",country:"CD"},
 
 
 
@@ -5159,6 +5275,10 @@ var SALARY_CITIES = [
 
 
 {value:"klaipeda-kl",col: 85 ,name:"Klaipėda",display:"Klaipėda, Litva",country:"LT"},
+
+
+
+{value:"klaksvik-fo",col: 135 ,name:"Klaksvík",display:"Klaksvík, Faroe Islands",country:"FO"},
 
 
 
@@ -5358,6 +5478,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"kralendijk-bq",col: 120 ,name:"Kralendijk",display:"Kralendijk, Bonaire, Sint Eustatius and Saba",country:"BQ"},
+
+
+
 {value:"kraljevo-rs",col: 66 ,name:"Kraljevo",display:"Kraljevo, Srbsko",country:"RS"},
 
 
@@ -5547,6 +5671,10 @@ var SALARY_CITIES = [
 
 
 {value:"la-vega-do",col: 88 ,name:"La Vega",display:"La Vega, Dominican Republic",country:"DO"},
+
+
+
+{value:"laayoune-eh",col: 55 ,name:"Laayoune",display:"Laayoune, Western Sahara",country:"EH"},
 
 
 
@@ -5954,6 +6082,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"longyearbyen-sj",col: 160 ,name:"Longyearbyen",display:"Longyearbyen, Svalbard and Jan Mayen",country:"SJ"},
+
+
+
 {value:"lorain-oh",col: 85 ,name:"Lorain",display:"Lorain, OH, US",country:"US"},
 
 
@@ -6023,6 +6155,10 @@ var SALARY_CITIES = [
 
 
 {value:"lublin-lu",col: 80 ,name:"Lublin",display:"Lublin, Polsko",country:"PL"},
+
+
+
+{value:"lubumbashi-cd",col: 42 ,name:"Lubumbashi",display:"Lubumbashi, DR Congo",country:"CD"},
 
 
 
@@ -6103,6 +6239,10 @@ var SALARY_CITIES = [
 
 
 {value:"macapa-ap",col: 88 ,name:"Macapá",display:"Macapá, Brazílie",country:"BR"},
+
+
+
+{value:"macau-mo",col: 120 ,name:"Macau",display:"Macau, Macau",country:"MO"},
 
 
 
@@ -6262,6 +6402,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"mamoudzou-yt",col: 80 ,name:"Mamoudzou",display:"Mamoudzou, Mayotte",country:"YT"},
+
+
+
 {value:"man-ci",col: 65 ,name:"Man",display:"Man, Côte d\u0027Ivoire",country:"CI"},
 
 
@@ -6382,6 +6526,14 @@ var SALARY_CITIES = [
 
 
 
+{value:"mariehamn-ax",col: 115 ,name:"Mariehamn",display:"Mariehamn, Åland Islands",country:"AX"},
+
+
+
+{value:"marigot-mf",col: 125 ,name:"Marigot",display:"Marigot, Saint Martin",country:"MF"},
+
+
+
 {value:"marijampole-mr",col: 68 ,name:"Marijampolė",display:"Marijampolė, Litva",country:"LT"},
 
 
@@ -6438,6 +6590,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"mata-utu-wf",col: 100 ,name:"Mata-Utu",display:"Mata-Utu, Wallis and Futuna",country:"WF"},
+
+
+
 {value:"matagalpa-ni",col: 88 ,name:"Matagalpa",display:"Matagalpa, Nicaragua",country:"NI"},
 
 
@@ -6482,6 +6638,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"mayaguez-pr",col: 85 ,name:"Mayagüez",display:"Mayagüez, Puerto Rico",country:"PR"},
+
+
+
 {value:"mazabuka-zm",col: 65 ,name:"Mazabuka",display:"Mazabuka, Zambia",country:"ZM"},
 
 
@@ -6511,6 +6671,10 @@ var SALARY_CITIES = [
 
 
 {value:"mbombela-za",col: 88 ,name:"Mbombela",display:"Mbombela, South Africa",country:"ZA"},
+
+
+
+{value:"mbuji-mayi-cd",col: 40 ,name:"Mbuji-Mayi",display:"Mbuji-Mayi, DR Congo",country:"CD"},
 
 
 
@@ -7478,6 +7642,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"noumea-nc",col: 125 ,name:"Nouméa",display:"Nouméa, New Caledonia",country:"NC"},
+
+
+
 {value:"nova-iguacu-rj",col: 90 ,name:"Nova Iguaçu",display:"Nova Iguaçu, Brazílie",country:"BR"},
 
 
@@ -7515,6 +7683,10 @@ var SALARY_CITIES = [
 
 
 {value:"nukus-uz",col: 68 ,name:"Nukus",display:"Nukus, Uzbekistan",country:"UZ"},
+
+
+
+{value:"nuuk-gl",col: 155 ,name:"Nuuk",display:"Nuuk, ",country:"GL"},
 
 
 
@@ -7647,6 +7819,10 @@ var SALARY_CITIES = [
 
 
 {value:"oran-dz",col: 88 ,name:"Oran",display:"Oran, Algeria",country:"DZ"},
+
+
+
+{value:"oranjestad-aw",col: 120 ,name:"Oranjestad",display:"Oranjestad, Aruba",country:"AW"},
 
 
 
@@ -7786,6 +7962,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"pago-pago-as",col: 105 ,name:"Pago Pago",display:"Pago Pago, American Samoa",country:"AS"},
+
+
+
 {value:"krong-pailin-kh",col: 62 ,name:"Pailin",display:"Pailin, Cambodia",country:"KH"},
 
 
@@ -7866,11 +8046,19 @@ var SALARY_CITIES = [
 
 
 
+{value:"papeete-pf",col: 130 ,name:"Papeete",display:"Papeete, French Polynesia",country:"PF"},
+
+
+
 {value:"paphos-cy",col: 92 ,name:"Paphos",display:"Paphos, Kypr",country:"CY"},
 
 
 
 {value:"paphos-pa",col: 95 ,name:"Paphos",display:"Paphos, Kypr",country:"CY"},
+
+
+
+{value:"parakou-bj",col: 34 ,name:"Parakou",display:"Parakou, Benin",country:"BJ"},
 
 
 
@@ -8050,6 +8238,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"philipsburg-sx",col: 130 ,name:"Philipsburg",display:"Philipsburg, Sint Maarten",country:"SX"},
+
+
+
 {value:"phitsanulok-th",col: 35 ,name:"Phitsanulok",display:"Phitsanulok, Thailand",country:"TH"},
 
 
@@ -8130,6 +8322,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"plymouth-ms",col: 100 ,name:"Plymouth",display:"Plymouth, Montserrat",country:"MS"},
+
+
+
 {value:"plzen-cz",col: 95 ,name:"Plzeň",display:"Plzeň, Česká republika",country:"CZ"},
 
 
@@ -8146,6 +8342,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"pointe-a-pitre-gp",col: 92 ,name:"Pointe-à-Pitre",display:"Pointe-à-Pitre, Guadeloupe",country:"GP"},
+
+
+
 {value:"pointe-noire-cg",col: 88 ,name:"Pointe-Noire",display:"Pointe-Noire, Congo",country:"CG"},
 
 
@@ -8159,6 +8359,10 @@ var SALARY_CITIES = [
 
 
 {value:"poltava-ua",col: 82 ,name:"Poltava",display:"Poltava, Ukraine",country:"UA"},
+
+
+
+{value:"ponce-pr",col: 88 ,name:"Ponce",display:"Ponce, Puerto Rico",country:"PR"},
 
 
 
@@ -8267,6 +8471,10 @@ var SALARY_CITIES = [
 
 
 {value:"porto-velho-ro",col: 90 ,name:"Porto Velho",display:"Porto Velho, Brazílie",country:"BR"},
+
+
+
+{value:"porto-novo-bj",col: 36 ,name:"Porto-Novo",display:"Porto-Novo, Benin",country:"BJ"},
 
 
 
@@ -8422,6 +8630,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"pyongyang-kp",col: 35 ,name:"Pyongyang",display:"Pyongyang, North Korea",country:"KP"},
+
+
+
 {value:"qachas-nek-ls",col: 58 ,name:"Qacha\u0027s Nek",display:"Qacha\u0027s Nek, Lesotho",country:"LS"},
 
 
@@ -8543,6 +8755,10 @@ var SALARY_CITIES = [
 
 
 {value:"ramadi-iq",col: 72 ,name:"Ramadi",display:"Ramadi, Iraq",country:"IQ"},
+
+
+
+{value:"ramallah-ps",col: 70 ,name:"Ramallah",display:"Ramallah, Palestine",country:"PS"},
 
 
 
@@ -8726,6 +8942,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"road-town-vg",col: 150 ,name:"Road Town",display:"Road Town, British Virgin Islands",country:"VG"},
+
+
+
 {value:"roanoke-va",col: 90 ,name:"Roanoke",display:"Roanoke, VA, US",country:"US"},
 
 
@@ -8898,6 +9118,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"saint-helier-je",col: 140 ,name:"Saint Helier",display:"Saint Helier, Jersey",country:"JE"},
+
+
+
 {value:"saint-johns-ag",col: 100 ,name:"Saint John\u0027s",display:"Saint John\u0027s, Antigua and Barbuda",country:"AG"},
 
 
@@ -8906,7 +9130,15 @@ var SALARY_CITIES = [
 
 
 
+{value:"saint-peter-port-gg",col: 135 ,name:"Saint Peter Port",display:"Saint Peter Port, Guernsey",country:"GG"},
+
+
+
 {value:"saint-petersburg-spe",col: 115 ,name:"Saint Petersburg",display:"Saint Petersburg, Russia",country:"RU"},
+
+
+
+{value:"saint-denis-re",col: 90 ,name:"Saint-Denis",display:"Saint-Denis, Réunion",country:"RE"},
 
 
 
@@ -8915,6 +9147,18 @@ var SALARY_CITIES = [
 
 
 {value:"saint-louis-sn",col: 72 ,name:"Saint-Louis",display:"Saint-Louis, Senegal",country:"SN"},
+
+
+
+{value:"saint-paul-re",col: 85 ,name:"Saint-Paul",display:"Saint-Paul, Réunion",country:"RE"},
+
+
+
+{value:"saint-pierre-pm",col: 130 ,name:"Saint-Pierre",display:"Saint-Pierre, Saint Pierre and Miquelon",country:"PM"},
+
+
+
+{value:"saipan-mp",col: 110 ,name:"Saipan",display:"Saipan, Northern Mariana Islands",country:"MP"},
 
 
 
@@ -9059,6 +9303,10 @@ var SALARY_CITIES = [
 
 
 {value:"san-jose-cr",col: 110 ,name:"San José",display:"San José, Costa Rica",country:"CR"},
+
+
+
+{value:"san-juan-pr",col: 95 ,name:"San Juan",display:"San Juan, Puerto Rico",country:"PR"},
 
 
 
@@ -9658,6 +9906,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"sisimiut-gl",col: 150 ,name:"Sisimiut",display:"Sisimiut, ",country:"GL"},
+
+
+
 {value:"siteki-sz",col: 65 ,name:"Siteki",display:"Siteki, Eswatini",country:"SZ"},
 
 
@@ -9891,6 +10143,10 @@ var SALARY_CITIES = [
 
 
 {value:"stamford-ct",col: 135 ,name:"Stamford",display:"Stamford, CT, US",country:"US"},
+
+
+
+{value:"stanley-fk",col: 140 ,name:"Stanley",display:"Stanley, Falkland Islands",country:"FK"},
 
 
 
@@ -10394,6 +10650,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"the-valley-ai",col: 145 ,name:"The Valley",display:"The Valley, Anguilla",country:"AI"},
+
+
+
 {value:"thies-sn",col: 75 ,name:"Thies",display:"Thies, Senegal",country:"SN"},
 
 
@@ -10547,6 +10807,10 @@ var SALARY_CITIES = [
 
 
 {value:"torreon-coa",col: 67.8 ,name:"Torreón",display:"Torreón, Mexiko",country:"MX"},
+
+
+
+{value:"torshavn-fo",col: 140 ,name:"Tórshavn",display:"Tórshavn, Faroe Islands",country:"FO"},
 
 
 
@@ -10970,6 +11234,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"vatican-city-va",col: 200 ,name:"Vatican City",display:"Vatican City, Vatican City",country:"VA"},
+
+
+
 {value:"vejle-dk",col: 102 ,name:"Vejle",display:"Vejle, Denmark",country:"DK"},
 
 
@@ -11262,6 +11530,10 @@ var SALARY_CITIES = [
 
 
 
+{value:"west-island-cc",col: 100 ,name:"West Island",display:"West Island, Cocos (Keeling) Islands",country:"CC"},
+
+
+
 {value:"west-valley-city-ut",col: 100 ,name:"West Valley City",display:"West Valley City, UT, US",country:"US"},
 
 
@@ -11283,6 +11555,10 @@ var SALARY_CITIES = [
 
 
 {value:"wichita-ks",col: 86.8 ,name:"Wichita",display:"Wichita, KS, US",country:"US"},
+
+
+
+{value:"willemstad-cw",col: 115 ,name:"Willemstad",display:"Willemstad, Curaçao",country:"CW"},
 
 
 
