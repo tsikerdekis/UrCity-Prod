@@ -1460,10 +1460,6 @@ var SALARY_CITIES = [
 
 
 
-{value:"aurora-co",col: 108.5 ,name:"Aurora",display:"Aurora, CO, US",country:"US"},
-
-
-
 {value:"aurora-il",col: 100 ,name:"Aurora",display:"Aurora, IL, US",country:"US"},
 
 
@@ -1821,10 +1817,6 @@ var SALARY_CITIES = [
 
 
 {value:"bekescsaba-be",col: 70 ,name:"Békéscsaba",display:"Békéscsaba, Ουγγαρία",country:"HU"},
-
-
-
-{value:"belem-pa",col: 92 ,name:"Belém",display:"Belém, Βραζιλία",country:"BR"},
 
 
 
@@ -2221,10 +2213,6 @@ var SALARY_CITIES = [
 
 
 {value:"bratislava-bl",col: 100 ,name:"Bratislava",display:"Bratislava, Σλοβακία",country:"SK"},
-
-
-
-{value:"braunschweig-ni",col: 88 ,name:"Braunschweig",display:"Braunschweig, Γερμανία",country:"DE"},
 
 
 
@@ -2869,10 +2857,6 @@ var SALARY_CITIES = [
 
 
 {value:"clermont-ferrand-ara",col: 86 ,name:"Clermont-Ferrand",display:"Clermont-Ferrand, Γαλλία",country:"FR"},
-
-
-
-{value:"clervaux-cl",col: 98 ,name:"Clervaux",display:"Clervaux, Λουξεμβούργο",country:"LU"},
 
 
 
@@ -3541,10 +3525,6 @@ var SALARY_CITIES = [
 
 
 {value:"ebebiyin-gq",col: 72 ,name:"Ebebiyin",display:"Ebebiyin, Equatorial Guinea",country:"GQ"},
-
-
-
-{value:"echternach-ec",col: 102 ,name:"Echternach",display:"Echternach, Λουξεμβούργο",country:"LU"},
 
 
 
@@ -4557,10 +4537,6 @@ var SALARY_CITIES = [
 
 
 {value:"hangzhou-zj",col: 120 ,name:"Hangzhou",display:"Hangzhou, Κίνα",country:"CN"},
-
-
-
-{value:"hannover-ni",col: 92 ,name:"Hannover",display:"Hannover, Γερμανία",country:"DE"},
 
 
 
@@ -8100,10 +8076,6 @@ var SALARY_CITIES = [
 
 
 
-{value:"olinda-pe",col: 90 ,name:"Olinda",display:"Olinda, Βραζιλία",country:"BR"},
-
-
-
 {value:"olomouc-cz",col: 90 ,name:"Olomouc",display:"Olomouc, Τσεχία",country:"CZ"},
 
 
@@ -9084,10 +9056,6 @@ var SALARY_CITIES = [
 
 
 
-{value:"recife-pe",col: 96 ,name:"Recife",display:"Recife, Βραζιλία",country:"BR"},
-
-
-
 {value:"redmond-wa",col: 175 ,name:"Redmond",display:"Redmond, WA, US",country:"US"},
 
 
@@ -9681,10 +9649,6 @@ var SALARY_CITIES = [
 
 
 {value:"santarem-pt",col: 76 ,name:"Santarém",display:"Santarém, Πορτογαλία",country:"PT"},
-
-
-
-{value:"santarem-pa",col: 85 ,name:"Santarém",display:"Santarém, Βραζιλία",country:"BR"},
 
 
 
@@ -12084,10 +12048,6 @@ var SALARY_CITIES = [
 
 
 
-{value:"heraklion-cr",col: 96 ,name:"Ηράκλειο",display:"Ηράκλειο, Ελλάδα",country:"GR"},
-
-
-
 {value:"thessaloniki-cm",col: 92 ,name:"Θεσσαλονίκη",display:"Θεσσαλονίκη, Ελλάδα",country:"GR"},
 
 
@@ -12105,10 +12065,6 @@ var SALARY_CITIES = [
 
 
 {value:"cádiz-and",col: 85 ,name:"Κάδιθ",display:"Κάδιθ, Ισπανία",country:"ES"},
-
-
-
-{value:"kalamata-pe",col: 88 ,name:"Καλαμάτα",display:"Καλαμάτα, Ελλάδα",country:"GR"},
 
 
 
@@ -12332,10 +12288,6 @@ var SALARY_CITIES = [
 
 
 
-{value:"nafplio-pe",col: 92 ,name:"Ναύπλιο",display:"Ναύπλιο, Ελλάδα",country:"GR"},
-
-
-
 {value:"new-orleans-la",col: 98.5 ,name:"Νέα Ορλεάνη",display:"Νέα Ορλεάνη, LA, US",country:"US"},
 
 
@@ -12361,10 +12313,6 @@ var SALARY_CITIES = [
 
 
 {value:"delft-nl",col: 75 ,name:"Ντελφτ",display:"Ντελφτ, Ολλανδία",country:"NL"},
-
-
-
-{value:"denver-co",col: 128.5 ,name:"Ντένβερ",display:"Ντένβερ, CO, US",country:"US"},
 
 
 
@@ -12536,10 +12484,6 @@ var SALARY_CITIES = [
 
 
 
-{value:"sparta-pe",col: 80 ,name:"Σπάρτη",display:"Σπάρτη, Ελλάδα",country:"GR"},
-
-
-
 {value:"strasbourg-ges",col: 98 ,name:"Στρασβούργο",display:"Στρασβούργο, Γαλλία",country:"FR"},
 
 
@@ -12593,10 +12537,6 @@ var SALARY_CITIES = [
 
 
 {value:"chalcis-cp",col: 90 ,name:"Χαλκίδα",display:"Χαλκίδα, Ελλάδα",country:"GR"},
-
-
-
-{value:"chania-cr",col: 94 ,name:"Χανιά",display:"Χανιά, Ελλάδα",country:"GR"},
 
 
 

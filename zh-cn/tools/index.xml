@@ -1627,10 +1627,6 @@ var SALARY_CITIES = [
 
 
 
-{value:"aurora-co",col: 108.5 ,name:"Aurora",display:"Aurora, CO, US",country:"US"},
-
-
-
 {value:"aurora-il",col: 100 ,name:"Aurora",display:"Aurora, IL, US",country:"US"},
 
 
@@ -2000,10 +1996,6 @@ var SALARY_CITIES = [
 
 
 {value:"bekescsaba-be",col: 70 ,name:"Békéscsaba",display:"Békéscsaba, 匈牙利",country:"HU"},
-
-
-
-{value:"belem-pa",col: 92 ,name:"Belém",display:"Belém, 巴西",country:"BR"},
 
 
 
@@ -2420,10 +2412,6 @@ var SALARY_CITIES = [
 
 
 {value:"bratislava-bl",col: 100 ,name:"Bratislava",display:"Bratislava, 斯洛伐克",country:"SK"},
-
-
-
-{value:"braunschweig-ni",col: 88 ,name:"Braunschweig",display:"Braunschweig, 德国",country:"DE"},
 
 
 
@@ -2899,10 +2887,6 @@ var SALARY_CITIES = [
 
 
 
-{value:"chania-cr",col: 94 ,name:"Chania",display:"Chania, 希腊",country:"GR"},
-
-
-
 {value:"charleroi-wht",col: 78 ,name:"Charleroi",display:"Charleroi, 比利时",country:"BE"},
 
 
@@ -3128,10 +3112,6 @@ var SALARY_CITIES = [
 
 
 {value:"clermont-ferrand-ara",col: 86 ,name:"Clermont-Ferrand",display:"Clermont-Ferrand, 法国",country:"FR"},
-
-
-
-{value:"clervaux-cl",col: 98 ,name:"Clervaux",display:"Clervaux, 卢森堡",country:"LU"},
 
 
 
@@ -3579,10 +3559,6 @@ var SALARY_CITIES = [
 
 
 
-{value:"denver-co",col: 128.5 ,name:"Denver",display:"Denver, CO, US",country:"US"},
-
-
-
 {value:"dera-ghazi-khan-pk",col: 80 ,name:"Dera Ghazi Khan",display:"Dera Ghazi Khan, Pakistan",country:"PK"},
 
 
@@ -3840,10 +3816,6 @@ var SALARY_CITIES = [
 
 
 {value:"ebebiyin-gq",col: 72 ,name:"Ebebiyin",display:"Ebebiyin, Equatorial Guinea",country:"GQ"},
-
-
-
-{value:"echternach-ec",col: 102 ,name:"Echternach",display:"Echternach, 卢森堡",country:"LU"},
 
 
 
@@ -4903,10 +4875,6 @@ var SALARY_CITIES = [
 
 
 
-{value:"hannover-ni",col: 92 ,name:"Hannover",display:"Hannover, 德国",country:"DE"},
-
-
-
 {value:"hanoi-vn",col: 40 ,name:"Hanoi",display:"Hanoi, Vietnam",country:"VN"},
 
 
@@ -5000,10 +4968,6 @@ var SALARY_CITIES = [
 
 
 {value:"henderson-nv",col: 108.5 ,name:"Henderson",display:"Henderson, NV, US",country:"US"},
-
-
-
-{value:"heraklion-cr",col: 96 ,name:"Heraklion",display:"Heraklion, 希腊",country:"GR"},
 
 
 
@@ -5668,10 +5632,6 @@ var SALARY_CITIES = [
 
 
 {value:"kakata-lr",col: 60 ,name:"Kakata",display:"Kakata, Liberia",country:"LR"},
-
-
-
-{value:"kalamata-pe",col: 88 ,name:"Kalamata",display:"Kalamata, 希腊",country:"GR"},
 
 
 
@@ -8111,10 +8071,6 @@ var SALARY_CITIES = [
 
 
 
-{value:"nafplio-pe",col: 92 ,name:"Nafplio",display:"Nafplio, 希腊",country:"GR"},
-
-
-
 {value:"nagano-ngn",col: 90 ,name:"Nagano",display:"Nagano, 日本",country:"JP"},
 
 
@@ -8640,10 +8596,6 @@ var SALARY_CITIES = [
 
 
 {value:"olathe-ks",col: 100 ,name:"Olathe",display:"Olathe, KS, US",country:"US"},
-
-
-
-{value:"olinda-pe",col: 90 ,name:"Olinda",display:"Olinda, 巴西",country:"BR"},
 
 
 
@@ -9691,10 +9643,6 @@ var SALARY_CITIES = [
 
 
 
-{value:"recife-pe",col: 96 ,name:"Recife",display:"Recife, 巴西",country:"BR"},
-
-
-
 {value:"redmond-wa",col: 175 ,name:"Redmond",display:"Redmond, WA, US",country:"US"},
 
 
@@ -10339,10 +10287,6 @@ var SALARY_CITIES = [
 
 
 
-{value:"santarem-pa",col: 85 ,name:"Santarém",display:"Santarém, 巴西",country:"BR"},
-
-
-
 {value:"santarem-pt",col: 76 ,name:"Santarém",display:"Santarém, 葡萄牙",country:"PT"},
 
 
@@ -10952,10 +10896,6 @@ var SALARY_CITIES = [
 
 
 {value:"sparks-nv",col: 105 ,name:"Sparks",display:"Sparks, NV, US",country:"US"},
-
-
-
-{value:"sparta-pe",col: 80 ,name:"Sparta",display:"Sparta, 希腊",country:"GR"},
 
 
 
