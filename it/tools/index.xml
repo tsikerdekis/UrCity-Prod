@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Strumenti Gratuiti per il Trasloco on URCity — Trova la tua città. Conosci il costo reale</title><link>https://urcity.com/it/tools/</link><description>Recent content in Strumenti Gratuiti per il Trasloco on URCity — Trova la tua città. Conosci il costo reale</description><generator>Hugo</generator><language>it-IT</language><atom:link href="https://urcity.com/it/tools/index.xml" rel="self" type="application/rss+xml"/><item><title>Calcolatore del Costo della Vita</title><link>https://urcity.com/it/tools/cost-of-living-calculator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://urcity.com/it/tools/cost-of-living-calculator/</guid><description>&lt;h2 id="calcolatore-del-costo-della-vita"&gt;Calcolatore del Costo della Vita&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Strumenti Gratuiti per il Trasloco on URCity — Trova la tua città. Conosci il costo reale</title><link>https://urcity.com/it/tools/</link><description>Recent content in Strumenti Gratuiti per il Trasloco on URCity — Trova la tua città. Conosci il costo reale</description><generator>Hugo</generator><language>it-IT</language><lastBuildDate>Wed, 12 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://urcity.com/it/tools/index.xml" rel="self" type="application/rss+xml"/><item><title>Quiz Trova la tua città — Consigli personalizzati</title><link>https://urcity.com/it/tools/find-your-city/</link><pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate><guid>https://urcity.com/it/tools/find-your-city/</guid><description>&lt;h2 id="quiz-trova-la-tua-città"&gt;Quiz Trova la tua città&lt;/h2&gt;
+&lt;p&gt;Non sai dove trasferirti? Rispondi ad alcune domande rapide su budget, preferenze climatiche, modalità di lavoro e stile di vita — e ti consiglieremo le migliori città dal nostro database di &lt;strong&gt;2.126 città in 91 paesi&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;div class="quiz-widget" id="find-your-city-quiz" data-quiz&gt;
+ &lt;div class="quiz-progress" role="progressbar" aria-valuemin="1" aria-valuemax="7" aria-valuenow="1" aria-label="Avanzamento del quiz"&gt;
+ &lt;div class="quiz-progress-track"&gt;
+ &lt;div class="quiz-progress-fill" id="quiz-progress-fill"&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;span class="quiz-progress-text" id="quiz-progress-text"&gt;1 / 7&lt;/span&gt;
+ &lt;/div&gt;
+
+ &lt;div class="quiz-body" id="quiz-body"&gt;
+ 
+ &lt;/div&gt;
+
+ &lt;div class="quiz-results" id="quiz-results" style="display:none;"&gt;
+ &lt;h3 class="quiz-results-title"&gt;Le tue migliori città&lt;/h3&gt;
+ &lt;p class="quiz-results-subtitle"&gt;In base alle tue risposte, queste sono le città che meglio si adattano al tuo stile di vita e al tuo budget.&lt;/p&gt;</description></item><item><title>Calcolatore del Costo della Vita</title><link>https://urcity.com/it/tools/cost-of-living-calculator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://urcity.com/it/tools/cost-of-living-calculator/</guid><description>&lt;h2 id="calcolatore-del-costo-della-vita"&gt;Calcolatore del Costo della Vita&lt;/h2&gt;
 &lt;p&gt;Confronta il costo della vita tra due città per vedere quanto risparmierai o spenderai.&lt;/p&gt;
 
 &lt;div class="calculator-widget" id="col-calc"&gt;

@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Δωρεάν Εργαλεία Μετεγκατάστασης on URCity — Βρείτε την Πόλη σας. Μάθετε το Πραγματικό Κόστος</title><link>https://urcity.com/el/tools/</link><description>Recent content in Δωρεάν Εργαλεία Μετεγκατάστασης on URCity — Βρείτε την Πόλη σας. Μάθετε το Πραγματικό Κόστος</description><generator>Hugo</generator><language>el-GR</language><atom:link href="https://urcity.com/el/tools/index.xml" rel="self" type="application/rss+xml"/><item><title>Υπολογιστής Ιδιοκατοίκησης</title><link>https://urcity.com/el/tools/home-ownership-calculator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://urcity.com/el/tools/home-ownership-calculator/</guid><description>&lt;h2 id="υπολογιστής-ιδιοκατοίκησης"&gt;Υπολογιστής Ιδιοκατοίκησης&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Δωρεάν Εργαλεία Μετεγκατάστασης on URCity — Βρείτε την Πόλη σας. Μάθετε το Πραγματικό Κόστος</title><link>https://urcity.com/el/tools/</link><description>Recent content in Δωρεάν Εργαλεία Μετεγκατάστασης on URCity — Βρείτε την Πόλη σας. Μάθετε το Πραγματικό Κόστος</description><generator>Hugo</generator><language>el-GR</language><lastBuildDate>Wed, 12 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://urcity.com/el/tools/index.xml" rel="self" type="application/rss+xml"/><item><title>Κουίζ Βρες την Πόλη σου — Εξατομικευμένες Προτάσεις Πόλεων</title><link>https://urcity.com/el/tools/find-your-city/</link><pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate><guid>https://urcity.com/el/tools/find-your-city/</guid><description>&lt;h2 id="κουίζ-βρες-την-πόλη-σου"&gt;Κουίζ Βρες την Πόλη σου&lt;/h2&gt;
+&lt;p&gt;Δεν ξέρετε πού να μετακομίσετε; Απαντήστε σε μερικές γρήγορες ερωτήσεις σχετικά με τον προϋπολογισμό, τις κλιματικές προτιμήσεις, τον τρόπο εργασίας και τον τρόπο ζωής σας — και θα σας προτείνουμε τις καλύτερες πόλεις από τη βάση δεδομένων μας με &lt;strong&gt;2.126 πόλεις σε 91 χώρες&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;div class="quiz-widget" id="find-your-city-quiz" data-quiz&gt;
+ &lt;div class="quiz-progress" role="progressbar" aria-valuemin="1" aria-valuemax="7" aria-valuenow="1" aria-label="Πρόοδος κουίζ"&gt;
+ &lt;div class="quiz-progress-track"&gt;
+ &lt;div class="quiz-progress-fill" id="quiz-progress-fill"&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;span class="quiz-progress-text" id="quiz-progress-text"&gt;1 / 7&lt;/span&gt;
+ &lt;/div&gt;
+
+ &lt;div class="quiz-body" id="quiz-body"&gt;
+ 
+ &lt;/div&gt;
+
+ &lt;div class="quiz-results" id="quiz-results" style="display:none;"&gt;
+ &lt;h3 class="quiz-results-title"&gt;Οι Κορυφαίες Πόλεις σας&lt;/h3&gt;
+ &lt;p class="quiz-results-subtitle"&gt;Με βάση τις απαντήσεις σας, αυτές είναι οι πόλεις που ταιριάζουν καλύτερα στον τρόπο ζωής και τον προϋπολογισμό σας.&lt;/p&gt;</description></item><item><title>Υπολογιστής Ιδιοκατοίκησης</title><link>https://urcity.com/el/tools/home-ownership-calculator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://urcity.com/el/tools/home-ownership-calculator/</guid><description>&lt;h2 id="υπολογιστής-ιδιοκατοίκησης"&gt;Υπολογιστής Ιδιοκατοίκησης&lt;/h2&gt;
 &lt;p&gt;Η αγορά σπιτιού είναι κάτι περισσότερο από τη μηνιαία δόση του στεγαστικού δανείου. Δείτε την πλήρη εικόνα με την αριθμομηχανή Πραγματικού Κόστους Ιδιοκατοίκησης.&lt;/p&gt;
 &lt;div class="calculator-widget" id="home-calc"&gt;
  &lt;div class="calc-header"&gt;
